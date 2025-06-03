@@ -30,15 +30,14 @@ const Leadership: React.FC = () => {
                     className="w-48 h-48 rounded-full object-cover ring-4 ring-gray-100 shadow-lg"
                   />
                   <div className="absolute -bottom-2 -right-2 bg-luChronicles-black text-white text-xs font-bold px-3 py-1 rounded-full shadow-md">
-                    Founder & Editor-in-Chief
+                    Editor in Chief
                   </div>
                 </div>
                 
                 {/* Profile Content */}
                 <div className="flex-1 text-center md:text-left">
                   <h2 className="font-serif text-3xl font-bold text-gray-900">Shumaila Khan</h2>
-                  <p className="text-luChronicles-black font-medium text-lg mt-2">Founder & Editor-in-Chief</p>
-                  <p className="text-gray-600 mt-1">B.A. 4th semester</p>
+                  <p className="text-luChronicles-black font-medium text-lg mt-2">Editor in Chief</p>
                   
                   {/* Expertise Tags */}
                   <div className="mt-4 flex flex-wrap gap-2 justify-center md:justify-start">

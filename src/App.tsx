@@ -1,4 +1,3 @@
-
 import { Toaster } from "@/components/ui/toaster";
 import { Toaster as Sonner } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
@@ -22,6 +21,7 @@ import AuthorProfile from "@/pages/AuthorProfile";
 import AdminLogin from "@/pages/AdminLogin";
 import AdminDashboard from "@/pages/AdminDashboard";
 import Donate from "@/pages/Donate";
+import FacultyContribution from '@/pages/FacultyContribution';
 
 const queryClient = new QueryClient();
 
@@ -48,6 +48,7 @@ const App = () => {
                 <Route path="/category/:slug" element={<Category />} />
                 <Route path="/team" element={<Team />} />
                 <Route path="/category/faculty" element={<Faculty />} />
+                <Route path="/faculty-contribution" element={<FacultyContribution />} />
                 <Route path="/author/:username" element={<AuthorProfile />} />
                 <Route path="/admin" element={<AdminLogin />} />
                 <Route path="/admin/dashboard" element={<AdminDashboard />} />

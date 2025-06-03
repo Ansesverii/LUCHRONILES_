@@ -13,6 +13,11 @@ export interface Author {
   articlesCount?: number;
   isFounder?: boolean;
   isFaculty?: boolean;
+  socialMedia?: {
+    linkedin?: string;
+    twitter?: string;
+    instagram?: string;
+  };
 }
 
 export interface Category {

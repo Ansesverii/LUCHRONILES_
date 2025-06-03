@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { ScrollArea } from '@/components/ui/scroll-area';
@@ -11,6 +10,7 @@ interface CategoryLink {
 const categories: CategoryLink[] = [
   { name: 'Home', path: '/' },
   { name: 'Faculty', path: '/category/faculty' },
+  { name: 'Faculty Contributions', path: '/faculty-contribution' },
   { name: 'Editorial', path: '/category/editorial' },
   { name: 'Our Team', path: '/team' },
   { name: 'International', path: '/category/international' },
