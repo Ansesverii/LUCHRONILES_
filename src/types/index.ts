@@ -44,6 +44,7 @@ export interface Article {
   date: string;
   views?: number;
   featured?: boolean;
+  hero?: boolean;
 }
 
 export interface AdminUser {

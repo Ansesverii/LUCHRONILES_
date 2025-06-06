@@ -196,57 +196,11 @@ export const authors: Author[] = [
 // Sample Articles
 export const articles: Article[] = [
   {
-    id: "0",
-    title: "Introducing LU Chronicles: India's First University News Daily",
-    slug: "introducing-lu-chronicles",
-    excerpt: "Every institution needs a voice. This is ours. Today marks a historic moment for Lucknow University as we proudly announce the launch of LU Chronicles — India's first university news daily.",
-    content: `<p>Every institution needs a voice. This is ours.</p>
-    <p>Today marks a historic moment for Lucknow University as we proudly announce the launch of LU Chronicles — India's first university news daily and the official student publication of our esteemed institution. This groundbreaking initiative represents more than just another campus newsletter; it embodies the spirit of student journalism and academic excellence that Lucknow University has championed for decades.</p>
-    <h2>A New Era of Student Journalism</h2>
-    <p>LU Chronicles stands as a testament to the power of student-driven media in the digital age. Built by students, run by students, and written for the times we live in, this daily publication fills a crucial gap in university media landscape across India. While universities worldwide have embraced student journalism as an integral part of campus life, LU Chronicles pioneers this movement in the Indian higher education system.</p>
-    <p>Our mission extends beyond traditional campus reporting. We aim to create a comprehensive platform that captures the pulse of university life, academic achievements, research breakthroughs, cultural events, and the diverse voices that make Lucknow University a vibrant center of learning.</p>
-    <h2>What Makes LU Chronicles Special</h2>
-    <ul>
-      <li><strong>Student-Centric Approach:</strong> Every article, every headline, and every editorial decision stems from the student perspective. Our editorial team comprises dedicated students from various faculties who understand the unique challenges, aspirations, and interests of their peers.</li>
-      <li><strong>Daily Publication:</strong> Unlike weekly or monthly university publications, LU Chronicles operates on a daily schedule, ensuring that news remains fresh, relevant, and timely. This frequency allows us to cover breaking news, urgent announcements, and time-sensitive campus events as they unfold.</li>
-      <li><strong>Comprehensive Coverage:</strong> From academic updates and research highlights to sports achievements and cultural celebrations, LU Chronicles serves as a one-stop destination for all university-related news and information.</li>
-      <li><strong>Professional Standards:</strong> While student-run, LU Chronicles maintains the highest journalistic standards, including fact-checking, ethical reporting, and balanced coverage of campus issues.</li>
-    </ul>
-    <h2>Our Content Philosophy</h2>
-    <p>LU Chronicles operates on the principle that university life encompasses far more than academics alone. Our coverage includes:</p>
-    <ul>
-      <li><strong>Academic Excellence:</strong> Highlighting research publications, faculty achievements, and scholarly milestones</li>
-      <li><strong>Student Life:</strong> Covering clubs, societies, events, and the rich tapestry of campus experiences</li>
-      <li><strong>Innovation Hub:</strong> Showcasing technological advancements, startup initiatives, and entrepreneurial ventures</li>
-      <li><strong>Cultural Canvas:</strong> Celebrating the diverse cultural heritage and artistic expressions within our university community</li>
-      <li><strong>Sports Arena:</strong> Following our teams, individual achievements, and sporting events</li>
-      <li><strong>Alumni Spotlight:</strong> Connecting current students with successful graduates and their inspiring journeys</li>
-    </ul>
-    <h2>The Team Behind the Vision</h2>
-    <p>LU Chronicles is published by the News Division of LU LitCore, bringing together passionate students from journalism, literature, communications, and various other disciplines. This collaborative approach ensures diverse perspectives and comprehensive coverage of university life.</p>
-    <p>Our editorial team undergoes rigorous training in digital journalism, media ethics, and content creation, preparing them not just for university reporting but for careers in media and communications. This practical experience serves as an invaluable supplement to traditional classroom learning.</p>
-    <h2>Launch Details and Future Vision</h2>
-    <p><strong>First Issue Release:</strong> June 7, 2025</p>
-    <p>Our inaugural issue will feature exclusive interviews with university leadership, coverage of recent academic achievements, upcoming events, and special features that introduce readers to the LU Chronicles editorial philosophy.</p>
-    <p>As we embark on this journey, LU Chronicles aims to become more than just a news source. We envision building a community platform where students can engage with important issues, share their stories, and contribute to meaningful campus discourse.</p>
-    <h2>Join the Chronicle Community</h2>
-    <p>LU Chronicles thrives on community participation. We encourage students, faculty, and staff to:</p>
-    <ul>
-      <li>Submit story ideas and tips</li>
-      <li>Contribute articles and opinion pieces</li>
-      <li>Share photos and multimedia content</li>
-      <li>Participate in campus discussions through our platform</li>
-    </ul>
-    <p>This publication belongs to the entire Lucknow University community, and we are committed to representing all voices fairly and accurately.</p>
-    <h2>A Historic Milestone</h2>
-    <p>The launch of LU Chronicles represents a significant milestone not just for Lucknow University but for the Indian higher education landscape. As India's first university news daily, we set a precedent that we hope will inspire similar initiatives across universities nationwide.</p>
-    <p>Our commitment extends beyond daily news delivery. LU Chronicles serves as a training ground for future journalists, a platform for student expression, and a historical record of our university's ongoing evolution.</p>
-    <h2>Looking Forward</h2>
-    <p>As we prepare for our first issue on June 7, the entire LU Chronicles team feels the weight of responsibility and the excitement of possibility. We are not just launching a publication; we are establishing a new tradition of student journalism excellence at Lucknow University.</p>
-    <p>Every institution needs a voice that authentically represents its community, celebrates its achievements, and thoughtfully examines its challenges. LU Chronicles is that voice for Lucknow University — honest, energetic, and deeply committed to serving our campus community.</p>
-    <p>The future of university journalism in India begins here, with LU Chronicles leading the way. We invite you to be part of this historic journey as we write the first chapter of what promises to be an extraordinary story of student media excellence.</p>
-    <p>Stay connected with LU Chronicles for daily updates, breaking news, and the stories that matter to our university community.</p>
-    <p><em>LU Chronicles is the official college daily of Lucknow University, published by the News Division of LU LitCore. For submissions, story tips, or general inquiries, contact our editorial team through the official university channels.</em></p>`,
+    id: "coming-soon-1",
+    title: "Coming Soon",
+    slug: "coming-soon-1",
+    excerpt: "Stay tuned for our upcoming articles. We're working on bringing you the best content from Lucknow University.",
+    content: `<p>Coming Soon</p>`,
     image: "/LULOGO.jpeg",
     category: "Editorial",
     author: {
@@ -258,52 +212,15 @@ export const articles: Article[] = [
     date: "June 7, 2025",
     views: 0,
     featured: true,
+    hero: true
   },
   {
-    id: "indus-water-treaty-2025",
-    title: "Indus Water Treaty: To Be or Not to Be?",
-    slug: "indus-water-treaty-to-be-or-not-to-be",
-    excerpt: "With India signalling its intent to rethink the Indus Water Treaty, we explore why it was signed, what it solved, and whether it should exist in today's world of changing power dynamics and water conflicts.",
-    content: `<p>"To be or not to be, that is the question" - It's been nearly 400 years, and yet Hamlet's dilemma still holds water—especially in a world that witnesses Power Dynamics change quicker than iodine dissolving starch or our politicians switching their stances.</p>
-
-    <p>With India signalling its intent to rethink the Indus Water Treaty, it becomes a necessity for us to explore—Why was it signed in the first place? What was at stake? What fires did it manage to put out? And, the main question in light in today's world, should it have ever existed?</p>
-
-    <p>Ismail Serageldin is not wrong when he states that "The next world war will be over water". From China's plan to build a dam on Brahmaputra, or the Black Sea Treaty protecting the Black Sea waters for maintaining trade and essential services in Ukraine, water is one thing that is involved directly or indirectly in almost every kinetic and non-kinetic conflict in the world today.</p>
-
-    <h2>The Treaty: What led to its formulation?</h2>
-
-    <p>When talking about the Indus Water Treaty, we talk of treaty between two freshly divorced nations, simple, right? What has intrigued me is that it was signed in 1960, 13 years after the partition happened! Did Pakistan not need the 'Western Rivers' till 1960? What were the diplomatic tensions that led to the partition of the Indus' waters?</p>
-
-    <p>A plain and straight answer, diplomatically, shall be that it takes time to set everything in sight in a newly built nation and 1960 comes in that time frame. Geographically, Indus and the rivers do have a track that is not in one country, which may have led to tensions in the future over the waters' lordship (as if it didn't lead to one).</p>
-
-    <p>Historically, during the partition of British India in 1947 and the formation of the two states, border lines were drawn following what was defined as the "Indus watershed" (Gardner, 2019). The position of the lines meant that India gained control of upstream barrages, which regulated water flow into Pakistan (TBL, 2014). As the boundary between India and Pakistan cut across many of the river's tributaries, an upstream-downstream power structure emerged, which has been the source of tensions between the two countries, particularly in response to dam projects in Indian-administered territory.</p>
-
-    <p>To sort out water-related disputes between the neighbors, the IWT came into light as a landmark treaty dividing water between two countries, defining the usages, limiting over-consumption and demarcating limits not explored earlier. India had in its bag, the Eastern Rivers (Ravi, Beas and Satluj), while Pakistan bagged the Western Rivers (Indus, Jhelum and Chenab) as defined in Article 1, clauses 5 and 6.</p>
-
-    <h2>What did the Treaty solve?</h2>
-
-    <p>Now, brace yourself for some geography—because, Pakistan is a country that depends almost exclusively on Indus and its tributaries for its irrigation and drinking needs.</p>
-
-    <p>According to CSIS, over three-quarters of the country's annually available renewable water resources come from outside its borders, almost entirely from the Indus. Nine in every ten Pakistanis live within the Indus Basin. Major cities such as Karachi and Lahore rely upon the river—or on groundwater aquifers that the Indus helps replenish—for their drinking water. Agriculture claims 94 percent of water withdrawals in Pakistan. The sector constitutes the backbone of the economy, representing 22.9 percent of GDP, accounting for 24.4 percent of exports, providing livelihoods for two-thirds of the rural population, and employing 37.4 percent of the total labor force. The Indus system waters more than 90 percent of the nation's crops. Similarly, Pakistan generates one-fifth of its electricity from hydropower. Every one of the country's 21 hydroelectric plants is located in the Indus Basin.</p>
-
-    <p>Thanks to the treaty, Pakistan's literal lifeline didn't flat-out as could have happened if the waters were not regulated, considering the fact that India did have sovereign control over the upstream areas of the rivers and could easily block the flow of the water into Pakistan, or could use it up, dam it, or divert the water into canals, leading to a literal drought and scarcity of water in the neighbor's farms.</p>
-
-    <h2>Can India block Indus waters?</h2>
-
-    <p>The treaty isn't just ceremonial, and does prevent both the sides from constructing and setting up such features that obstruct the flow and amount of water going into the other territory. Practically speaking, India, at the moment does not possess adequate infrastructure to block the Indus water completely, and it would require years' time to do so as the sources suggest. From where I think, on a personal note, India is at a point where it's getting Chinese-equivalent business opportunities, hence, would not engage in any such stunts which would harm the business as well as lead to diplomatic isolation.</p>
-
-    <p>With the treaty being in abeyance, the final verdict still stays heavily fogged, as to what can happen and what will happen.</p>
-
-    <h2>The Ultimate Question: Should the treaty exist at all?</h2>
-
-    <p>With complete control over the origins and upstreams of the rivers, India could have shut off the taps and left Pakistan parched—its fields cracked, its cities dry, its diplomacy desperate. And yet, it didn't. Not in 1960, and not even now—despite decades of provocations, violations, and the kind of diplomatic needlework that makes even seasoned politicians wince. When one side funds cross-border terrorism more enthusiastically than some governments fund education (pun very much intended), the impulse to retaliate by damming the flow is understandable. But India, for all its justified grievances, does not confuse citizens with regimes, or vengeance with justice. Diplomacy, dialogue, and the dignity of human life have always been part of the Indian playbook—whether or not the other side plays fair.</p>
-
-    <p>Yes, the Treaty feels outdated. Yes, it was born in a world that no longer exists. But scrapping it altogether? That's not policy—it's performance. And in a world where water is fast becoming the currency of control, diplomacy is still the stronger current.</p>
-
-    <p>But, should it exist at all? Maybe not in its original shape, maybe in a form, that is deemed fitter to the world now, maybe in a structure that fits the relations between the two nations and with provisions that it stays fair no matter what.</p>
-
-    <p>The answer still stays fogged and brings us to our original question—<em>"To be or not to be?"</em>. The answer may never be clear to us, the question may always stand like the treaty, with all its cracks and crevices. The fact that the question is still in its place, in a world of retaliatory responses, is probably what makes the Indus Water Treaty a tragedy, a triumph—or simply, but not so simply, the lifeline of two nations.</p>`,
-    image: "/image/indus-water-treaty.jpg",
+    id: "coming-soon-2",
+    title: "Coming Soon",
+    slug: "coming-soon-2",
+    excerpt: "Stay tuned for our upcoming articles. We're working on bringing you the best content from Lucknow University.",
+    content: `<p>Coming Soon</p>`,
+    image: "/LULOGO.jpeg",
     category: "International",
     author: {
       id: "5",
@@ -316,66 +233,12 @@ export const articles: Article[] = [
     featured: true
   },
   {
-    id: "trp-over-truth-2025",
-    title: "TRP Over Truth: Fall of Indian Journalism in Times of Crisis",
-    slug: "trp-over-truth-fall-of-indian-journalism",
-    excerpt: "The 2020 TRP fraud revealed a scary reality: just Rs 400 a month could determine the fate of thousands of crores in advertising revenue. An examination of how rating-driven journalism undermines public interest during critical moments.",
-    content: `<p>The 2020 TRP fraud made a scary reality known: all Rs 400 a month was required to determine the fate of budgetary distribution of thousands of crores of rupees, and only 10 families' bribe money was necessary for cheaters to tamper with English news channel ratings. The tampering not only skewed advertisement revenue—it actually changed fundamentally what Indians perceived as valid news.</p>
-   
-    <h2>The Crisis Coverage Issue</h2>
-   
-    <p>Current crises reveal how TRP-based journalism disappoints public interest. In the May 2023 violence in Manipur that claimed more than 250 lives and displaced many thousands, national media reporting tended to simplify multifaceted ethnic tensions into melodramas for late-night debates. Likewise, the 2024 NEET paper leak that involved 2.3 million students had plenty of studio talk but sparse investigative journalism into systemic exam failure.</p>
-   
-    <p>Nonetheless, audience preference data indicates complexity. According to a 2023 Reuters Institute survey, although 69% of Indians are concerned about misinformation, news consumption habits still gravitate towards sensational content, resulting in a demand-supply paradox that media houses are unable to disentangle.</p>
-   
-    <h2>The Economic Reality</h2>
-   
-    <p>They contend that TRP-governed content is an expression of authentic audience tastes, rather than media manipulation. Republic TV's Arnab Goswami, for example, holds high-decibel journalism up as defending democracy by keeping elites accountable. Such a view implies elite disconnection from popular news forms and mass preferences.</p>
-   
-    <p>The financial pressures are real. Media organizations are under strict financial constraints with research wings either unable to hold on to trained staff because of higher offers in corporate houses. Six years were needed to build a research wing at the Hindustan Times, the executive editor said, and the staff of key personnel continuously walked out to take better-paying jobs.</p>
-   
-    <p>India's open government portal contains close to 10,000 resources and 240 visualizations but is mostly overlooked by the mainstream media. Rather than using these resources for evidence-based journalism, newsrooms opt for opinionated content that involves little investment but creates maximum reach.</p>
-   
-    <p>The irony is stark: as global media outlets increasingly turn to data visualization for sophisticated storytelling, Indian media is still stuck in debate-programming mode. It is a lost opportunity, especially considering India's advanced infrastructure for data collection it has inherited from colonial administration systems as well as post-independence planning efforts.</p>
-   
-    <h2>The State's Dual Role</h2>
-   
-    <p>Government advertising, an important source of revenue, produces editorial dependencies that undermine independence. When good coverage is attached to financial survival, public-interest journalism becomes economically unsustainable. This generates what economists refer to as a "scarcity economy" in which ethical journalism does not have sufficient resources to compete with sensationalized material.</p>
-   
-    <p>But the state also offers unparalleled access to data through Right to Information laws and e-governance projects. The problem is newsrooms without the technical wherewithal to make best use of the same.</p>
-   
-    <h2>Digital Disruption: Promise and Peril</h2>
-   
-    <p>Online platforms provide solutions with subscription models and targeted audience capture. Titles such as The Ken and The Wire show that good journalism has alternative revenue streams available to it beyond standard advertising. In the same way, data journalism ventures such as IndiaSpend also show that evidence-based reporting has captive audiences.</p>
-   
-    <p>But digital platforms also exacerbate the TRP problem with algorithmic content promotion that is driven by engagement rather than accuracy. Social media metrics now drive editorial decisions as much as television ratings used to.</p>
-   
-    <h2>Toward Sustainable Solutions</h2>
-   
-    <p>The way ahead will demand systemic changes instead of piece-by-piece reforms:</p>
-   
-    <p><strong>Revenue Diversification:</strong> News organizations need to build subscription models, educational collaborations, and reader-funded journalism to lower the reliance on advertising.</p>
-   
-    <p><strong>Training:</strong> Newsrooms require specialized data journalism and digital verification training. As the Asian College of Journalism shows, young reporters can be trained in both technical and analytical abilities required for contemporary reporting.</p>
-   
-    <p><strong>Regulatory Balance:</strong> Unrestricted government advertisement allotment with no editorial riders, along with enhanced penalties for intentional misinformation in times of crisis.</p>
-   
-    <p><strong>Joint Models:</strong> Joint research facilities between media establishments to render investigative journalism financially feasible.</p>
-   
-    <p>The crisis in journalism reflects broader democratic challenges. Citizens need accurate information during crises, but market forces often prioritize entertainment over education. This tension isn't unique to India—global media faces similar pressures as attention economies reshape information consumption.</p>
-   
-    <p>Quality journalism continues in spite of these limitations. The Hindu's analysis of election data, Scroll's investigative journalism, and local media holding strong to ethical standards show that alternative models are still possible. These offer the hope that the decision between commercial success and editorial integrity is not zero-sum.</p>
-   
-    <p>The debate is not whether sensational journalism can or should exist—market forces guarantee it will. Instead, the challenge lies in making room for other journalism models catering to other democratic roles. Some can excel at entertainment-oriented news for the mass audience, while others try out deep analysis for serious citizens.</p>
-   
-    <h2>Conclusion</h2>
-   
-    <p>The TRP-led evolution of Indian journalism is also representative of broader market forces versus democratic demands. Sensational material gets short-term attention, but real democracy demands institutions that value accuracy over audience, context over controversy.</p>
-   
-    <p>The answer is not to eradicate commercial journalism but to promote ecosystem diversity where various models can coexist. This needs deliberate decisions by media owners, regulatory encouragement of editorial autonomy, and citizen investment in high-quality journalism through subscriptions and participation.</p>
-   
-    <p>The collapse of crisis journalism is not inevitable—it is a decision that can still be undone through institutional reform and collective action.</p>`,
-    image: "/image/trp-journalism.jpg",
+    id: "coming-soon-3",
+    title: "Coming Soon",
+    slug: "coming-soon-3",
+    excerpt: "Stay tuned for our upcoming articles. We're working on bringing you the best content from Lucknow University.",
+    content: `<p>Coming Soon</p>`,
+    image: "/LULOGO.jpeg",
     category: "Op-ed",
     author: {
       id: "7",
@@ -386,7 +249,7 @@ export const articles: Article[] = [
     date: "June 4, 2025",
     views: 0,
     featured: true
-   }
+  }
 ];
 
 // Admin users
@@ -449,4 +312,8 @@ export const getTopArticles = (limit: number = 4): Article[] => {
 // Helper function to get best author
 export const getBestAuthor = (): Author => {
   return authors[0]; // For demo, return founder as best author
+};
+
+export const getHeroArticle = (): Article | undefined => {
+  return articles.find(article => article.hero === true);
 };
