@@ -196,12 +196,57 @@ export const authors: Author[] = [
 // Sample Articles
 export const articles: Article[] = [
   {
-    id: "coming-soon-1",
-    title: "Coming Soon",
-    slug: "coming-soon-1",
-    excerpt: "Stay tuned for our upcoming articles. We're working on bringing you the best content from Lucknow University.",
-    content: `<p>Coming Soon</p>`,
-    image: "/LULOGO.jpeg",
+    id: "voice-for-lu",
+    title: "A Voice for LU",
+    slug: "a-voice-for-lu",
+    excerpt: "From the Editor's desk: A letter to our readers about the launch of LU Chronicles and our commitment to principled journalism.",
+    content: `<p>From the Editor's desk</p>
+
+<p>Dear readers,</p>
+
+<p>The innovation with which we publish this first issue today, 7 June 2025, is justified not by ambition alone, but by a set of increasingly urgent realities: the dullness of the moment, the thinning of discourse, and the rising appetite for something more substantive among the student body. Something that doesn't insult the intelligence.</p>
+
+<p>Ever since much of the country's media has traded substance for spectacle, the time seems ripe, even overdue, for an unpretentious sheet, one that contains the latest news and short, succinct articles of interest, delivering relevant coverage and clear, concise commentary with neither affectation nor apology.</p>
+
+<p>It is our purpose to establish such a sheet, ideally a daily, and we hope to welcome the cooperation so necessary for its success. Our columns are open to discussion on all subjects deemed, to borrow a phrase, "consistent with decorum and morality," though what falls within those lines is, we believe, something to be negotiated rather than assumed. We welcome contributions from students, faculty, and staff alike, and we encourage a diversity of voices, not for the sake of plurality alone, but because good journalism demands the challenge of competing ideas, and strong writing is born in dialogue, not consensus.</p>
+
+<p>With this first edition, we set forth not merely a publication but a proposition: that there is still value : civic, intellectual and cultural in student journalism. That within the walls of the University of Lucknow , as within any institution of learning, there persists a need for reportage that is timely, critique that is constructive, and writing that holds both individuals and systems to account. In doing so, we step into a rare role- that of giving shape to a new chapter in student journalism across the country.</p>
+
+<p>We begin in earnest, not to flatter, nor to rebel without cause, but to capture what it means to be young, informed, and present at this university at this moment.</p>
+
+<p>We recognize that Lucknow University does not exist in isolation. The events within its classrooms, common rooms, and courtrooms are shaped by and reflect the broader cultural and political forces outside its gates. If education today exists at the crossroads of aspiration and anxiety, then student journalism must be willing to walk that line as well. It is not enough to report campus events. We must examine how those events connect to the larger social landscape: how national policy shapes campus life, how generational change influences classroom debate, how students think and feel in a world increasingly defined by complexity and uncertainty.</p>
+
+<p>Let the pages ahead be filled not with idle chatter, but with the voices of those who dare to think and to question. We shall cover lectures and laws, sports and science, personalities and politics. We will be both critics and celebrants of university life.</p>
+
+<p>We do not promise perfection. We promise participation.</p>
+
+<p>To publish is to participate. To speak is to shape. Let this paper be shaped by the hands of those who believe that education is not passive, but passionate.</p>
+
+<p>Ours is not a paper of posture or pretense, but of principled participation. And with that participation comes a responsibility: to our readers, our sources, our subjects, and one another.</p>
+
+<p>To that end, we affirm the following commitments:</p>
+
+<ul>
+  <li>We shall report truthfully, without sensationalism or embellishment.</li>
+  <li>We shall reveal what we can-including names-unless doing so endangers the safety, dignity, or trust of our sources.</li>
+  <li>When we err, we shall correct our mistakes promptly and prominently, with neither delay nor deflection.</li>
+  <li>We shall reflect the diversity of our university in our newsroom and in our pages-not as a token gesture, but as a journalistic necessity.</li>
+  <li>We shall distinguish reporting from opinion, and clearly mark the difference.</li>
+  <li>When our editors, writers, or institution themselves become newsworthy, we shall not look away.</li>
+  <li>We shall scrutinize our sources and investigate the institutions that shape campus life-especially those that wield power without transparency.</li>
+  <li>We recognize that the appearance of a conflict of interest may be as corrosive as the reality-and will act accordingly.</li>
+  <li>We shall state not only what we know, but also what we do not-and why.</li>
+  <li>We shall honour our word-not only through promises made, but through promises kept.</li>
+    </ul>
+
+<p>These principles are not exhaustive, nor are they static. Like journalism itself, they will evolve with time, dialogue, and reflection. They are our starting point-and we share them publicly because journalism, like democracy, demands accountability.</p>
+
+<p>And if, along the way, we ruffle a few feathers, let it be not out of arrogance, but in service of the most basic journalistic principle: to speak the truth as clearly as we can, while we still can.</p>
+
+<p>May LU.Chronicles serve not only the University of Lucknow, but the very idea of a university-as a living, breathing republic of letters and dialogue.</p>
+
+<p>Let the dialogues begin.</p>`,
+    image: "/IMG_0417.JPEG",
     category: "Editorial",
     author: {
       id: "1",
