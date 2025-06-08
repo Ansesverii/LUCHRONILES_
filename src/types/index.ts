@@ -42,9 +42,14 @@ export interface Article {
     image: string;
   };
   date: string;
+  readTime?: string;
   views?: number;
+  likes?: number;
+  comments?: any[];
+  tags?: string[];
   featured?: boolean;
   hero?: boolean;
+  isPublished?: boolean;
 }
 
 export interface AdminUser {

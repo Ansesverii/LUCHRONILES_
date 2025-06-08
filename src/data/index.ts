@@ -72,7 +72,12 @@ export const authors: Author[] = [
     name: "Atulit Pandey",
     username: "atulit-pandey",
     image: "/Atlut.jpeg",
-    bio: "Hi! I'm Atulit Pandey, a first year Geology major and a hardcore enthusiast of Geopolitics, debates, brainstorming and rocks, of course.",
+    bio: `Hi, I'm Atulit, B.Sc. undergraduate and a geology major.
+I'm a goal oriented person and love to learn new things as they cross my path. Learning, for me, is an experience and not just an obligation, and spreading my learnings, thoughts, experiences and expressions is what I'm most passionate about (after rocks, obviously).
+My hobbies can't be counted on fingers, so the top ones include debating (can't live without yapping), reading, writing (poems and prose sometimes, poems for the win though) and playing tabla. Also, I possess an inherent keenness towards geopolitics (to find agendas for debating, to be honest, and to give my "expert opinions" on matters that don't concern me even at a light year's distance)
+Here at Chronocore, I'm the vice head of the branch and at LU.Chronicles, I head the design and layout section.
+Hope to do great work with the team here at Chronocore and LU.Chronicles.
+Peace.`,
     email: "atulitpandey11@gmail.com",
     designation: "Vice Head",
     course: "B.Sc.",
@@ -87,7 +92,17 @@ export const authors: Author[] = [
     name: "Prerna Srivastava",
     username: "prerna-srivastava",
     image: "/Perna.jpeg",
-    bio: "I'm Prerna Srivastava — a first-year B.Sc student, an unapologetic question-asker, a passionate debater, and a story collector in Lu.LitCore.",
+    bio: `I'm Prerna Srivastava —  B.Sc Bio student, an unapologetic question-asker, a passionate debater, and a story collector in Lu.LitCore.
+Driven by curiosity, I'm always asking why— whether it's exploring geopolitical events, questioning societal norms, or delving into feminist ideas. I thrive in conversations that dig deeper, seeking connection and learning from the world around me.
+
+I don't just enjoy stories; I collect them. From hostel corridors to chance encounters, I believe everyone has a narrative worth hearing. These meaningful exchanges broaden my perspective and deepen my understanding of the world.
+
+Debating excites me—not for the sake of disagreement, but for the depth it brings. I enjoy expressing my thoughts and hearing others do the same. While I have strong opinions, I value openness, empathy, and respectful conversation.
+
+I bring a lightness to life—laughing easily, enjoying the little moments, and balancing seriousness with a warm, happy-go-lucky spirit. 
+LU Chronicles, to me, is more than a platform; it's a bridge between campus and the world, where stories, opinions, and reflections on everything from college life to global issues can find a home. I'm here to help shape that space—thoughtfully, honestly, and always with curiosity.
+
+I'll be here, ready to ask the next why and learn from every conversation.`,
     email: "prernaluchronicles@gmail.com",
     designation: "Research Head",
     course: "B.Sc NEP",
@@ -133,7 +148,7 @@ export const authors: Author[] = [
     bio: "I'm Aliya Imam — a dedicated journalist and storyteller with a passion for uncovering and sharing meaningful narratives.",
     email: "aliyaimam06@gmail.com",
     designation: "PR Head",
-    course: "B.A.",
+    course: "B.Sc Bio",
     categories: ["International", "National", "City", "University", "Business"],
     articlesCount: 12,
     socialMedia: {
@@ -195,6 +210,106 @@ export const authors: Author[] = [
 
 // Sample Articles
 export const articles: Article[] = [
+  {
+    id: "indus-water-treaty",
+    title: "INDUS WATER TREATY: TO BE OR NOT TO BE?",
+    slug: "indus-water-treaty-to-be-or-not-to-be",
+    excerpt: "An in-depth analysis of the Indus Water Treaty, exploring its historical significance, current relevance, and the complex geopolitical implications of water sharing between India and Pakistan.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          "To be or not to be, that is the question", - It's been nearly 400 years, and yet Hamlet's dilemma still holds water- especially in a world that witnesses Power Dynamics change quicker than iodine dissolving starch or our politicians switching their stances.
+        </p>
+
+        <p>
+          With India signalling its intent to rethink the Indus Water Treaty, it becomes a necessity for us to explore-Why was it signed in the first place? What was at stake? What fires did it manage to put out? And, the main question in light in today's world, should it have ever existed?
+        </p>
+
+        <p>
+          Ismail Serageldin is not wrong when he states that "The next world war will be over water", From China's plan to build a dam on Brahmaputra, or the Black Sea Treaty protecting the Black Sea waters for maintaining trade and essential services in Ukraine, water is one thing that is involved directly or indirectly in almost every kinetic and non-kinetic conflict in the world today.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Treaty: What led to its formulation?</h2>
+          
+          <p>
+            When talking about the Indus Water Treaty, we talk of treaty between two freshly divorced nations, simple, right? What has intrigued me is that it was signed in 1960, 13 years after the partition happened! Did Pakistan not need the 'Western Rivers' till 1960? What were the diplomatic tensions that led to the partition of the Indus' waters?
+          </p>
+          
+          <p>
+            A plain and straight answer, diplomatically, shall be that it takes time to set everything in sight in a newly built nation and 1960 comes in that time frame. Geographically, Indus and the rivers do have a track that is not in one country, which may have led to tensions in the future over the waters' lordship (as if it didn't lead to one).
+          </p>
+
+          <p>
+            Historically, during the partition of British India in 1947 and the formation of the two states, border lines were drawn following what was defined as the "Indus watershed" (Gardner, 2019). The position of the lines meant that India gained control of upstream barrages, which regulated water flow into Pakistan (TBL, 2014). As the boundary between India and Pakistan cut across many of the river's tributaries, an upstream-downstream power structure emerged, which has been the source of tensions between the two countries, particularly in response to dam projects in Indian-administered territory.
+          </p>
+
+          <p>
+            To sort out water-related disputes between the neighbors, the IWT came into light as a landmark treaty dividing water between two countries, defining the usages, limiting over-consumption and demarcating limits not explored earlier. India had in its bag, the Eastern Rivers (Ravi, Beas and Satluj), while Pakistan bagged the Western Rivers (Indus, Jhelum and Chenab) as defined in Article 1, clauses 5 and 6.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">What did the Treaty solve?</h2>
+          
+          <p>
+            Now, brace yourself for some geography - because, Pakistan is a country that depends almost exclusively on Indus and its tributaries for its irrigation and drinking needs.
+          </p>
+
+          <p>
+            According to CSIS, over three-quarters of the country's annually available renewable water resources come from outside its borders, almost entirely from the Indus. Nine in every ten Pakistanis live within the Indus Basin. Major cities such as Karachi and Lahore rely upon the river—or on groundwater aquifers that the Indus helps replenish—for their drinking water. Agriculture claims 94 percent of water withdrawals in Pakistan. The sector constitutes the backbone of the economy, representing 22.9 percent of GDP, accounting for 24.4 percent of exports, providing livelihoods for two-thirds of the rural population, and employing 37.4 percent of the total labor force. The Indus system waters more than 90 percent of the nation's crops. Similarly, Pakistan generates one-fifth of its electricity from hydropower. Every one of the country's 21 hydroelectric plants is located in the Indus Basin.
+          </p>
+
+          <p>
+            Thanks to the treaty, Pakistan's literal lifeline didn't flat-out as could have happened if the waters were not regulated, considering the fact that India did have sovereign control over the upstream areas of the rivers and could easily block the flow of the water into Pakistan, or could use it up, dam it, or divert the water into canals, leading to a literal drought and scarcity of water in the neighbor's farms.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Can India block Indus waters?</h2>
+          
+          <p>
+            The treaty isn't just ceremonial, and does prevent both the sides from constructing and setting up such features that obstruct the flow and amount of water going into the other territory. Practically speaking, India, at the moment does not possess adequate infrastructure to block the Indus water completely, and it would require years' time to do so as the sources suggest. From where I think, on a personal note, India is at a point where it's getting Chinese-equivalent business opportunities, hence, would not engage in any such stunts which would harm the business as well as lead to diplomatic isolation.
+          </p>
+
+          <p>
+            With the treaty being in abeyance, the final verdict still stays heavily fogged, as to what can happen and what will happen.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Ultimate Question: Should the treaty exist at all?</h2>
+          
+          <p>
+            With complete control over the origins and upstreams of the rivers, India could have shut off the taps and left Pakistan parched—its fields cracked, its cities dry, its diplomacy desperate. And yet, it didn't. Not in 1960, and not even now—despite decades of provocations, violations, and the kind of diplomatic needlework that makes even seasoned politicians wince. When one side funds cross-border terrorism more enthusiastically than some governments fund education (pun very much intended), the impulse to retaliate by damming the flow is understandable. But India, for all its justified grievances, does not confuse citizens with regimes, or vengeance with justice. Diplomacy, dialogue, and the dignity of human life have always been part of the Indian playbook—whether or not the other side plays fair.
+          </p>
+
+          <p>
+            Yes, the Treaty feels outdated. Yes, it was born in a world that no longer exists. But scrapping it altogether? That's not policy—it's performance. And in a world where water is fast becoming the currency of control, diplomacy is still the stronger current.
+          </p>
+
+          <p>
+            But, should it exist at all? Maybe not in its original shape, maybe in a form, that is deemed fitter to the world now, maybe in a structure that fits the relations between the two nations and with provisions that it stays fair no matter what
+          </p>
+
+          <p class="conclusion">
+            The answer still stays fogged and brings us to our original question- "To be or not to be?". The answer may never be clear to us, the question may always stand like the treaty, with all its cracks and crevices. The fact that the question is still in its place, in a world of retaliatory responses, is probably what makes the Indus Water Treaty a tragedy, a triumph – or simply, but not so simply, the lifeline of two nations.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/Induswater.jpeg",
+    author: authors.find(a => a.username === "atulit-pandey")!,
+    category: "international",
+    date: "2025-06-08",
+    readTime: "10 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["International Relations", "Water Treaty", "India-Pakistan", "Geopolitics", "Diplomacy"],
+    featured: true,
+    isPublished: true,
+  },
   {
     id: "voice-for-lu",
     title: "A Voice for LU",
@@ -260,6 +375,161 @@ export const articles: Article[] = [
     hero: true
   },
   {
+    id: "trp-over-truth",
+    title: "TRP Over Truth: Fall of Indian Journalism in Times of Crisis",
+    slug: "trp-over-truth-fall-of-indian-journalism",
+    excerpt: "An in-depth analysis of how TRP-driven journalism has compromised crisis reporting in India, exploring the economic pressures, regulatory challenges, and potential solutions for sustainable journalism in the digital age.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          The 2020 TRP fraud made a scary reality known: all Rs 400 a month was required to determine the fate of budgetary distribution of thousands of crores of rupees, and only 10 families' bribe money was necessary for cheaters to tamper with English news channel ratings. The tampering not only skewed advertisement revenue—it actually changed fundamentally what Indians perceived as valid news.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Crisis Coverage Issue</h2>
+          
+          <p>
+            Current crises reveal how TRP-based journalism disappoints public interest. In the May 2023 violence in Manipur that claimed more than 250 lives and displaced many thousands, national media reporting tended to simplify multifaceted ethnic tensions into melodramas for late-night debates. Likewise, the 2024 NEET paper leak that involved 2.3 million students had plenty of studio talk but sparse investigative journalism into systemic exam failure.
+          </p>
+          
+          <p>
+            Nonetheless, audience preference data indicates complexity. According to a 2023 Reuters Institute survey, although 69% of Indians are concerned about misinformation, news consumption habits still gravitate towards sensational content, resulting in a demand-supply paradox that media houses are unable to disentangle.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Economic Reality</h2>
+          
+          <h3 class="sub-heading">Market Forces vs. Editorial Independence</h3>
+          <p>
+            They contend that TRP-governed content is an expression of authentic audience tastes, rather than media manipulation. Republic TV's Arnab Goswami, for example, holds high-decibel journalism up as defending democracy by keeping elites accountable. Such a view implies elite disconnection from popular news forms and mass preferences.
+          </p>
+          
+          <h3 class="sub-heading">Financial Constraints and Brain Drain</h3>
+          <p>
+            The financial pressures are real. Media organizations are under strict financial constraints with research wings either unable to hold on to trained staff because of higher offers in corporate houses. Six years were needed to build a research wing at the Hindustan Times, the executive editor said, and the staff of key personnel continuously walked out to take better-paying jobs.
+          </p>
+          
+          <h3 class="sub-heading">Missed Opportunities in Data Journalism</h3>
+          <p>
+            India's open government portal contains close to 10,000 resources and 240 visualizations but is mostly overlooked by the mainstream media. Rather than using these resources for evidence-based journalism, newsrooms opted for opinionated content that involved little investment but created maximum reach.
+          </p>
+          
+          <p>
+            The irony is stark: as global media outlets increasingly turned to data visualization for sophisticated storytelling, Indian media was still stuck in debate-programming mode. It was a lost opportunity, especially considering India's advanced infrastructure for data collection it had inherited from colonial administration systems as well as post-independence planning efforts.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">The State's Dual Role</h2>
+          
+          <h3 class="sub-heading">Revenue Dependencies and Editorial Compromise</h3>
+          <p>
+            Government advertising, an important source of revenue, produced editorial dependencies that undermined independence. When good coverage was attached to financial survival, public-interest journalism became economically unsustainable. This generated what economists referred to as a "scarcity economy" in which ethical journalism did not have sufficient resources to compete with sensationalized material.
+          </p>
+          
+          <h3 class="sub-heading">Underutilized Government Data Resources</h3>
+          <p>
+            But the state also offered unparalleled access to data through Right to Information laws and e-governance projects. The problem was newsrooms without the technical wherewithal to make best use of the same.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Digital Disruption: Promise and Peril</h2>
+          
+          <h3 class="sub-heading">Alternative Revenue Models</h3>
+          <p>
+            Online platforms provided solutions with subscription models and targeted audience capture. Titles such as The Ken and The Wire showed that good journalism had alternative revenue streams available to it beyond standard advertising. In the same way, data journalism ventures such as IndiaSpend also demonstrated that evidence-based reporting had captive audiences.
+          </p>
+          
+          <h3 class="sub-heading">Algorithmic Amplification of Problems</h3>
+          <p>
+            But digital platforms also exacerbated the TRP problem with algorithmic content promotion that was driven by engagement rather than accuracy. Social media metrics now dictated editorial decisions as much as television ratings used to.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Toward Sustainable Solutions</h2>
+          
+          <p class="solutions-intro">
+            The way ahead would demand systemic changes instead of piece-by-piece reforms:
+          </p>
+          
+          <div class="solutions-grid">
+            <div class="solution-item">
+              <h3 class="solution-heading">Revenue Diversification</h3>
+              <p>
+                News organizations needed to build subscription models, educational collaborations, and reader-funded journalism to lower the reliance on advertising.
+              </p>
+            </div>
+            
+            <div class="solution-item">
+              <h3 class="solution-heading">Training and Capacity Building</h3>
+              <p>
+                Newsrooms required specialized data journalism and digital verification training. As the Asian College of Journalism showed, young reporters could be trained in both technical and analytical abilities required for contemporary reporting.
+              </p>
+            </div>
+            
+            <div class="solution-item">
+              <h3 class="solution-heading">Regulatory Balance</h3>
+              <p>
+                Unrestricted government advertisement allotment with no editorial riders, along with enhanced penalties for intentional misinformation in times of crisis.
+              </p>
+            </div>
+            
+            <div class="solution-item">
+              <h3 class="solution-heading">Collaborative Models</h3>
+              <p>
+                Joint research facilities between media establishments to render investigative journalism financially feasible.
+              </p>
+            </div>
+          </div>
+          
+          <h3 class="sub-heading">The Broader Democratic Context</h3>
+          <p>
+            The crisis in journalism reflected broader democratic challenges. Citizens needed accurate information during crises, but market forces often prioritized entertainment over education. This tension wasn't unique to India—global media faced similar pressures as attention economies reshaped information consumption.
+          </p>
+          
+          <h3 class="sub-heading">Signs of Hope</h3>
+          <p>
+            Quality journalism continued in spite of these limitations. The Hindu's analysis of election data, Scroll's investigative journalism, and local media holding strong to ethical standards showed that alternative models were still possible. These offered the hope that the decision between commercial success and editorial integrity wasn't zero-sum.
+          </p>
+          
+          <p>
+            The debate wasn't whether sensational journalism could or should exist—market forces guaranteed it would. Instead, the challenge lay in making room for other journalism models catering to other democratic roles. Some could excel at entertainment-oriented news for the mass audience, while others tried out deep analysis for serious citizens.
+          </p>
+        </section>
+
+        <section class="article-section conclusion">
+          <h2 class="section-heading">Conclusion</h2>
+          
+          <p>
+            The TRP-led evolution of Indian journalism was also representative of broader market forces versus democratic demands. Sensational material got short-term attention, but real democracy demanded institutions that valued accuracy over audience, context over controversy.
+          </p>
+          
+          <p>
+            The answer wasn't to eradicate commercial journalism but to promote ecosystem diversity where various models could coexist. This required deliberate decisions by media owners, regulatory encouragement of editorial autonomy, and citizen investment in high-quality journalism through subscriptions and participation.
+          </p>
+          
+          <p class="final-thought">
+            The collapse of crisis journalism wasn't inevitable—it was a decision that could still be undone through institutional reform and collective action.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/Trpovertruth.jpeg",
+    author: authors.find(a => a.username === "abhinav-upadhyay")!,
+    category: "op-ed",
+    date: "2025-06-08",
+    readTime: "15 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Journalism", "Media", "TRP", "India", "Crisis Reporting"],
+    featured: true,
+    isPublished: true,
+  },
+  {
     id: "coming-soon-2",
     title: "Coming Soon",
     slug: "coming-soon-2",
@@ -294,7 +564,7 @@ export const articles: Article[] = [
     date: "June 4, 2025",
     views: 0,
     featured: true
-  }
+  },
 ];
 
 // Admin users
