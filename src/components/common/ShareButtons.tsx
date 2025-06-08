@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaLinkedin, FaInstagram, FaLink } from 'react-icons/fa';
+import { FaLinkedin, FaInstagram, FaWhatsapp, FaLink } from 'react-icons/fa';
 
 interface ShareButtonsProps {
   url: string;
@@ -11,8 +11,9 @@ const ShareButtons: React.FC<ShareButtonsProps> = ({ url, title }) => {
   const encodedTitle = encodeURIComponent(title);
 
   const shareLinks = {
-    linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`,
-    instagram: `https://www.instagram.com/create/story?url=${encodedUrl}`,
+    linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}&title=${encodedTitle}`,
+    whatsapp: `https://api.whatsapp.com/send?text=${encodedTitle}%20${encodedUrl}`,
+    instagram: `https://www.instagram.com/create/story?url=${encodedUrl}&title=${encodedTitle}`,
   };
 
   const copyToClipboard = async () => {
@@ -37,6 +38,17 @@ const ShareButtons: React.FC<ShareButtonsProps> = ({ url, title }) => {
         title="Share on LinkedIn"
       >
         <FaLinkedin className="w-5 h-5" />
+      </a>
+
+      {/* WhatsApp Share */}
+      <a
+        href={shareLinks.whatsapp}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-[#25D366] hover:text-[#128C7E] transition-colors"
+        title="Share on WhatsApp"
+      >
+        <FaWhatsapp className="w-5 h-5" />
       </a>
 
       {/* Instagram Share */}

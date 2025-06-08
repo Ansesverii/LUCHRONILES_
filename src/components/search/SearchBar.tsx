@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { 
@@ -23,7 +22,7 @@ const SearchBar: React.FC<SearchBarProps> = ({ isOpen, onOpenChange }) => {
   const [articleResults, setArticleResults] = useState<Article[]>([]);
   const [authorResults, setAuthorResults] = useState<Author[]>([]);
   const [categoryResults, setcategoryResults] = useState<Category[]>([]);
-  
+
   // When search query changes, update results
   useEffect(() => {
     if (searchQuery.length < 2) {
@@ -38,7 +37,6 @@ const SearchBar: React.FC<SearchBarProps> = ({ isOpen, onOpenChange }) => {
     // Search articles
     const matchedArticles = articles.filter(article => 
       article.title.toLowerCase().includes(query) || 
-      article.content.toLowerCase().includes(query) ||
       article.excerpt.toLowerCase().includes(query) ||
       article.category.toLowerCase().includes(query)
     ).slice(0, 5);
@@ -47,21 +45,18 @@ const SearchBar: React.FC<SearchBarProps> = ({ isOpen, onOpenChange }) => {
     // Search authors
     const matchedAuthors = authors.filter(author => 
       author.name.toLowerCase().includes(query) ||
-      author.bio?.toLowerCase().includes(query) ||
-      author.designation?.toLowerCase().includes(query) ||
-      author.course?.toLowerCase().includes(query)
+      author.designation?.toLowerCase().includes(query)
     ).slice(0, 3);
     setAuthorResults(matchedAuthors);
     
     // Search categories
     const matchedCategories = categories.filter(category =>
-      category.name.toLowerCase().includes(query) ||
-      category.description?.toLowerCase().includes(query)
+      category.name.toLowerCase().includes(query)
     ).slice(0, 3);
     setcategoryResults(matchedCategories);
     
   }, [searchQuery]);
-  
+
   // Highlight matched text in search results
   const highlightMatch = (text: string, query: string) => {
     if (!query || query.length < 2) return text;
@@ -73,7 +68,7 @@ const SearchBar: React.FC<SearchBarProps> = ({ isOpen, onOpenChange }) => {
         : part
     );
   };
-  
+
   return (
     <Dialog open={isOpen} onOpenChange={onOpenChange}>
       <DialogContent className="sm:max-w-[600px] p-0">

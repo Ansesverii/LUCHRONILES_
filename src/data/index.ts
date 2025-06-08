@@ -565,6 +565,130 @@ export const articles: Article[] = [
     views: 0,
     featured: true
   },
+  {
+    id: "vikram-misri-controversy",
+    title: "Foreign Policy and Domestic Response: Unpacking The Vikram Misri Controversy",
+    slug: "foreign-policy-domestic-response-vikram-misri",
+    excerpt: "An in-depth analysis of the public backlash against Foreign Secretary Vikram Misri following the ceasefire agreement, exploring the intersection of diplomacy, public sentiment, and online discourse in modern India.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          "Deshdrohi," "Gaddar," "traitor," — these are just a few of the labels hurled at India's Foreign Secretary, Vikram Misri, after the announcement of a ceasefire agreement. The online backlash was swift and intense, targeting not just Misri's stance, but his decades of diplomatic proficiency.
+        </p>
+
+        <p>
+          This incident doesn't just focus on one diplomat—it reflects broader public attitudes and highlights the urgent need to reconsider how we engage, both online and offline. This piece looks at what led to the controversy, the nature of the criticism, and the broader question it raises: how does India respond to voices that advocate for dialogue over confrontation?
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">Navigating Diplomacy: Who is Vikram Misri?</h2>
+          
+          <p>
+            Vikram Misri is an IFS from the batch of 1989. Misri was appointed as the 35th foreign secretary to India on July 15, 2024. Over the course of his distinguished diplomatic career, Misri was Private Secretary to three Indian Prime Ministers.
+          </p>
+          
+          <p>
+            Vikram Misri is recognized for his deep knowledge of China. He is also regarded as the "China Expert". Appointed as India's Ambassador to China in 2018, he played a significant role during the 2020 Galwan Valley clashes between Indian and Chinese troops in Ladakh and in multiple rounds of de-escalation talks.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Vikram Misri and the Operation Sindoor</h2>
+          
+          <p>
+            As tensions flared between India and Pakistan, Foreign Secretary Vikram Misri became a steady and trusted voice for the country. In the days that followed Operation Sindoor, he stepped into the spotlight, taking on his shoulders the heavy weight of explaining the government's stance to both Indians and the world. Calmly and with crystalline clarity, he shared updates on military actions, ceasefire talks, and India's measured responses to provocations from our neighbours. In a time filled with uncertainty and fear, his role was crucial—not just in keeping people informed, but also in helping the nation hold onto hope and trust during a time of distress.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">What caused the Backlash?</h2>
+          
+          <p>
+            On May 10, Misri publicly announced that India and Pakistan had agreed to a mutual ceasefire, following four days of escalating drone and missile exchanges that had pushed the region dangerously close to broader conflict. He stated that the agreement came after a direct conversation between the Director Generals of Military Operations (DGMOs) from both nations, with the ceasefire set to take immediate effect.
+          </p>
+
+          <p>
+            After the ceasefire announcement, those who had been openly demanding a strong retaliation against Pakistan after the Pahalgam terror attack, were disappointed over the ceasefire agreement and aimed their anger at him.
+          </p>
+
+          <p>
+            Vikram Misri faced severe online backlash, with many branding him a "traitor" and "deshdrohi." The harassment didn't stop with him—his family, especially his daughter, became targets of relentless trolling and abuse. One cannot help but feel scared and discouraged while imagining to be serving as the Foreign Secretary of their country, dedicating their life to its service, only to see one's own family and loved ones being dragged into the line of fire but this went far beyond trolling. Some individuals circulated Vikram Misri's past social media posts, disclosed private contact information belonging to his family, and made abusive remarks targeting his daughter. This relentless abuse and invasion of privacy forced the Foreign Secretary to lock his profile to protect himself and his family from further trolling and doxxing. Amid the storm of online harassment, India's Foreign Secretary stayed silent and chose not to respond publicly. He restricted access to his account on platform X, which now reads: "These posts are protected."
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Support From All Quarters</h2>
+          
+          <p>
+            Even though the backlash was harsh and uncalled for, the support Vikram Misri received reflected the trust he had earned through his years of service. Former diplomats, politicians, government bodies, they all stood firmly in his support.
+          </p>
+
+          <p>
+            The Former Foreign Secretary Nirupama Menon called the trolling of the senior diplomat "utterly shameful" and said it "crosses every line of decency".
+          </p>
+
+          <p>
+            The IAS Association expressed solidarity with Vikram Misri and his family on X, calling the personal attacks regrettable and reaffirming their support for the dignity of public service.
+          </p>
+
+          <p>
+            The IFS Association described the trolling as "despicable" and stood in solidarity with Misri.
+          </p>
+
+          <p>
+            Government bodies like the National Commission for Women (NCW) have reacted strongly to online trolling of Misri and his family, including his daughters.
+          </p>
+
+          <p>
+            Condemning the attack on Misri's daughter, NCW chief Vijaya Rahatkar stated that sharing the contact details of the young woman on social media platforms and subjecting her to online abuse is a "grossly irresponsible act" and a "serious breach of privacy".
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Strength To Pause</h2>
+          
+          <p>
+            When the country was raw with grief and the urge to strike back was overwhelming, Vikram Misri chose something far harder than aggression—he chose restraint. Out of the knowledge that wars aren't won on television panels or Twitter threads, and that the real cost of conflict is paid not in headlines, but in human lives.
+          </p>
+
+          <p>
+            He wasn't acting alone. As Foreign Secretary, he was delivering a decision shaped by India's top leadership. His job wasn't to match public anger, it was to stay steady when it mattered most.
+          </p>
+
+          <p>
+            The ceasefire wasn't a weakness. It was a deliberate choice. A way to show that real power isn't in reacting loudest, it's in knowing when to pause, and why.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Seeing/Peeking beyond the trolls</h2>
+          
+          <p>
+            The vicious trolling of Vikram Misri has forced us to confront a troubling question: How does India treat those who dedicate their lives to diplomacy and national service? For warmongers, war is the only solution—but for seasoned diplomats like Misri, dialogue and discussion are the real keys to resolution.
+          </p>
+
+          <p>
+            The anonymous mobs behind the keyboard need to rethink the entire situation. Doxxing, abuse, and name-calling are nothing short of criminal.
+          </p>
+
+          <p class="conclusion">
+            The question, then, isn't whether Vikram Misri was right. The question is: are we ready to be a country that honors its peacemakers, not just its warriors?
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/Vikrammishri.jpeg",
+    author: authors.find(a => a.username === "prerna-srivastava")!,
+    category: "national",
+    date: "2025-06-08",
+    readTime: "12 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Diplomacy", "Foreign Policy", "India", "Social Media", "Public Discourse"],
+    featured: true,
+    isPublished: true,
+  },
 ];
 
 // Admin users

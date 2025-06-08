@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Article } from '@/types';
@@ -54,7 +53,6 @@ const NewsCard: React.FC<NewsCardProps> = ({ article, variant = 'medium' }) => {
         <h2 className="font-serif font-bold text-2xl mt-2 hover:underline">
           <Link to={`/article/${slug}`}>{title}</Link>
         </h2>
-        <p className="text-gray-700 mt-2">{excerpt}</p>
         <div className="mt-3 text-sm text-gray-600">
           By <Link to={`/author/${author.username}`} className="author-link">{author.name}</Link> • {date}
         </div>
@@ -80,7 +78,6 @@ const NewsCard: React.FC<NewsCardProps> = ({ article, variant = 'medium' }) => {
       <h3 className="font-serif font-bold text-lg mt-2 group-hover:underline">
         <Link to={`/article/${slug}`}>{title}</Link>
       </h3>
-      <p className="text-gray-700 mt-1 text-sm line-clamp-2">{excerpt}</p>
       <div className="mt-2 text-xs text-gray-600">
         By <Link to={`/author/${author.username}`} className="author-link">{author.name}</Link> • {date}
       </div>
