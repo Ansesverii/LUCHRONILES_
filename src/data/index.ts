@@ -72,14 +72,11 @@ export const authors: Author[] = [
     name: "Atulit Pandey",
     username: "atulit-pandey",
     image: "/Atlut.jpeg",
-    bio: `Hi! I'm Atulit Pandey, a first year Geology major and a hardcore enthusiast of Geopolitics, debates, brainstorming and rocks, of course.
-
-I bring, along with me, a mindset that is open to new thoughts, new ideas, while remaining unbiased and always stationed at a neutral ground, which gives me my clarity of thought and ideation.
-
-In my free time, I can be found debating any and every motion that is introduced, playing tabla, writing a poem or two, reading a book or more often than not, reading my newspaper. Debating gives a lot of space to me to think in a way which is not haphazard and spiraled, hence, crystal clear. I'm a seeker of not just argumentation, but also the multi dimensional thought that tags along and the facts the are part and parcel of the argument. My constant thirst for knowledge and unshakable want for truth bestows upon me the straight forward and unorthodox approach to circumstances that I come across.
-
-For me, knowledge is a journey, and not just an obligation that needs to be fulfilled. Also, I'm a keen learner of the what happens in our country and the world and analyze the changing power dynamics of our world. Here, at LU.Chronicles, we aim to express our thought, not as impositions but as reasons always available for scrutiny as we, ourselves, are seekers of truth and learners of life, presenting our thoughts with unwavering courage and unshakable beliefs, from our pens to your hearts, with attempts to embody our motto- "Lucem sequimir".
-
+    bio: `Hi, I'm Atulit, B.Sc. undergraduate and a geology major.
+I'm a goal oriented person and love to learn new things as they cross my path. Learning, for me, is an experience and not just an obligation, and spreading my learnings, thoughts, experiences and expressions is what I'm most passionate about (after rocks, obviously).
+My hobbies can't be counted on fingers, so the top ones include debating (can't live without yapping), reading, writing (poems and prose sometimes, poems for the win though) and playing tabla. Also, I possess an inherent keenness towards geopolitics (to find agendas for debating, to be honest, and to give my "expert opinions" on matters that don't concern me even at a light year's distance)
+Here at Chronocore, I'm the vice head of the branch and at LU.Chronicles, I head the design and layout section.
+Hope to do great work with the team here at Chronocore and LU.Chronicles.
 Peace.`,
     email: "atulitpandey11@gmail.com",
     designation: "Vice Head",
@@ -953,6 +950,133 @@ export const articles: Article[] = [
     featured: true,
     views: 980,
     likes: 67,
+    comments: [],
+  },
+  {
+    id: "running-dry-india-water-crisis",
+    title: "Running Dry: India's Escalating Water Crisis Under Climate Change",
+    slug: "running-dry-india-water-crisis",
+    excerpt: "With just 4% of the world's freshwater and 18% of its population, India's water math no longer adds up. This mismatch places India among the most water-stressed nations in the world.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          With just 4% of the world's freshwater and 18% of its population, India's water math no longer adds up. This mismatch places India among the most water-stressed nations in the world. Dropping groundwater supplies, unpredictable rainfall, and poor methods of water use all come together to form a complex and serious water shortage problem.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">Worsening Water Supplies</h2>
+          
+          <p>
+            Water availability per person in India has been dropping over the years. It went from 1,816 cubic meters in 2001 to 1,545 cubic meters in 2011. The Central Water Commission predicts this will fall further to 1,219 cubic meters by 2050. This puts India in the "water-stressed" group. A report published in 2024 by the DCM Shriram Foundation and Sattva Knowledge Institute states that almost half of India's districts could face serious water shortages by the middle of the century. Factors behind this include a growing population overuse of water in farming, pollution in water sources, and changes in climate.
+          </p>
+
+          <p>
+            In many states, people are dealing with rising shallow groundwater contamination. Bihar and West Bengal face arsenic in the water. Rajasthan and Telangana struggle with fluoride pollution. Parts of Punjab even show traces of uranium. These issues worsen problems with public health and access to safe water.
+          </p>
+
+          <p>
+            Climate change plays a big role in India's growing water crisis. It speeds up the problems and makes them worse. Rainfall patterns are becoming unpredictable. Monsoons are not shorter but also heavier in areas like the Western Ghats. In regions such as Bihar, floods and droughts now overlap instead of arriving in separate seasons.
+          </p>
+
+          <p>
+            Warmer temperatures are making surface water evaporate faster and causing aquifers to run dry. Glaciers in the Himalayas, which act as India's water source, are melting quicker than before. This puts the future of rivers like the Ganges and Brahmaputra at risk. Research warns that India might see groundwater depletion rise up to three times by 2050 if global climate action doesn't happen.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Broader Social and Economic Effects</h2>
+          
+          <p>
+            Water scarcity's effects can now be seen in many areas. Agriculture, which uses about 84% of India's freshwater, faces serious risks. Farmers growing water-heavy crops like rice and sugarcane—in dry states like Punjab and Maharashtra—are making the problem worse.
+          </p>
+
+          <p>
+            Water shortages are causing crop failures, which lower farm incomes and increase problems in rural communities. This often forces people to migrate to cities during specific seasons. Cities however, deal with their own water issues. These problems push the growth of slums that lack proper water and sanitation systems.
+          </p>
+
+          <p>
+            Industries such as textiles, thermal power plants, and pharmaceuticals face delays because water supply is limited. Public health also takes a hit, as waterborne diseases are becoming more common. A 2024 NITI Aayog report states that over 200,000 people die every year because they cannot access safe drinking water. Conflicts over water between states are also becoming more serious. Arguments over rivers like the Cauvery and Yamuna are getting worse.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Government and Community Interventions</h2>
+          
+          <p>
+            The government has introduced many programs to tackle the water crisis. Jal Shakti Abhiyan focuses on saving water and collecting rainwater. The Atal Bhujal Yojana, backed by the World Bank, works to manage groundwater by involving communities in water planning and budgeting.
+          </p>
+
+          <p>
+            Communities have also made a difference through their efforts. Rural women in Bundelkhand known as the Jal Sahelis, have brought old water bodies back to life improving water access and helping the environment recover. In Gujarat, Jal Sanchay Jan Bhagidari helps local governing groups set up rainwater harvesting systems and encourages community involvement in managing water resources.
+          </p>
+
+          <p>
+            Challenges remain as electricity subsidies encourage excessive groundwater use through borewells. Policy enforcement and the coordination of efforts between rural and urban areas also face setbacks.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Using Technology to Solve Water Problems</h2>
+          
+          <p>
+            Technology now plays a big role in dealing with water shortages. Farmers in Punjab use soil sensors with IoT technology to lower the need for irrigation. In the Jhabua district of Madhya Pradesh, drones drop seed balls to boost reforestation and improve groundwater levels.
+          </p>
+
+          <p>
+            Cities like Bengaluru and Hyderabad use systems to recycle and reuse wastewater, which lowers their need for freshwater. Tools using AI combined with real-time dashboards for tracking, are helping make water management better. They also assist with planning ahead for floods or droughts.
+          </p>
+
+          <p>
+            Technology needs to reach more people and come with proper training. This is important in villages and remote areas.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">A Multi-Faceted Way Ahead</h2>
+          
+          <p>
+            India can tackle its water crisis with a combined and steady effort.
+          </p>
+
+          <ul>
+            <li><strong>Policy Changes:</strong> India should tighten rules on using groundwater, redo subsidies that lead to waste, and promote switching to crops that use less water.</li>
+            <li><strong>Building Infrastructure:</strong> The country must enhance rainwater collection, recycle used water, and set up local water storage systems.</li>
+            <li><strong>Fair Distribution:</strong> Water must be shared between cities and villages. Efforts must also focus on reducing inequalities related to caste and gender in accessing water.</li>
+            <li><strong>Raising Awareness:</strong> People must learn how to use water and understand the long-term effects of climate change.</li>
+            <li><strong>Using science and technology more</strong> means including data-based tools in local water management systems and planning processes.</li>
+          </ul>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Conclusion</h2>
+          
+          <p>
+            India's water crisis is no longer a future concern—it's happening now, and growing more urgent by the day. Rising temperatures, a booming population, and poor water management are stretching the country's limited resources to a breaking point. If left unaddressed, the consequences will ripple across agriculture, public health, and economic development.
+          </p>
+
+          <p>
+            But India also has what it takes to turn the tide. From citizen-led conservation efforts to innovations in water tech, there is no shortage of solutions—only the need for stronger political will and coordinated action. Clear policies, better education, and community-driven planning can bring real change.
+          </p>
+
+          <p>
+            As water activist Rajendra Singh once said, "The future of water is the future of humanity." In securing one, India safeguards the other. Let's make the choice now.
+          </p>
+        </section>
+      </div>
+    `,
+    author: {
+      id: "2",
+      name: "Hetal Kothari",
+      username: "hetal-kothari",
+      image: "/Hetal.jpeg"
+    },
+    category: "National",
+    date: "2025-06-09",
+    readTime: "12 min read",
+    image: "/water.jpeg",
+    featured: true,
+    views: 1100,
+    likes: 75,
     comments: [],
   },
 ];
