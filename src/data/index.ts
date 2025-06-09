@@ -72,11 +72,14 @@ export const authors: Author[] = [
     name: "Atulit Pandey",
     username: "atulit-pandey",
     image: "/Atlut.jpeg",
-    bio: `Hi, I'm Atulit, B.Sc. undergraduate and a geology major.
-I'm a goal oriented person and love to learn new things as they cross my path. Learning, for me, is an experience and not just an obligation, and spreading my learnings, thoughts, experiences and expressions is what I'm most passionate about (after rocks, obviously).
-My hobbies can't be counted on fingers, so the top ones include debating (can't live without yapping), reading, writing (poems and prose sometimes, poems for the win though) and playing tabla. Also, I possess an inherent keenness towards geopolitics (to find agendas for debating, to be honest, and to give my "expert opinions" on matters that don't concern me even at a light year's distance)
-Here at Chronocore, I'm the vice head of the branch and at LU.Chronicles, I head the design and layout section.
-Hope to do great work with the team here at Chronocore and LU.Chronicles.
+    bio: `Hi! I'm Atulit Pandey, a first year Geology major and a hardcore enthusiast of Geopolitics, debates, brainstorming and rocks, of course.
+
+I bring, along with me, a mindset that is open to new thoughts, new ideas, while remaining unbiased and always stationed at a neutral ground, which gives me my clarity of thought and ideation.
+
+In my free time, I can be found debating any and every motion that is introduced, playing tabla, writing a poem or two, reading a book or more often than not, reading my newspaper. Debating gives a lot of space to me to think in a way which is not haphazard and spiraled, hence, crystal clear. I'm a seeker of not just argumentation, but also the multi dimensional thought that tags along and the facts the are part and parcel of the argument. My constant thirst for knowledge and unshakable want for truth bestows upon me the straight forward and unorthodox approach to circumstances that I come across.
+
+For me, knowledge is a journey, and not just an obligation that needs to be fulfilled. Also, I'm a keen learner of the what happens in our country and the world and analyze the changing power dynamics of our world. Here, at LU.Chronicles, we aim to express our thought, not as impositions but as reasons always available for scrutiny as we, ourselves, are seekers of truth and learners of life, presenting our thoughts with unwavering courage and unshakable beliefs, from our pens to your hearts, with attempts to embody our motto- "Lucem sequimir".
+
 Peace.`,
     email: "atulitpandey11@gmail.com",
     designation: "Vice Head",
@@ -689,6 +692,269 @@ export const articles: Article[] = [
     featured: true,
     isPublished: true,
   },
+  {
+    id: "geopolitical-rise-nuclear-rivals",
+    title: "From Partition to Power Play: The Geopolitical Rise of Two Nuclear Rivals",
+    slug: "geopolitical-rise-nuclear-rivals",
+    excerpt: "From non-alignment to multi-alignment, from Cold War pawns to global power brokers—how did two nations born from the same partition in 1947 end up on opposite sides of the world's new great game?",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          From non-alignment to multi-alignment, from Cold War pawns to global power brokers—how did two nations born from the same partition in 1947 end up on opposite sides of the world's new great game? The answer lies not in their similarities, but in the choices that pulled them apart.
+        </p>
+
+        <p>
+          In May 2025, we all saw how two nuclear nations came to the threshold of full-fledged war. While the world was too focused on Military power, we forgot to recognize the power that not only makes countries stand in global politics but also shapes world dynamics.
+        </p>
+
+        <p>
+          The power this article will explain is the geopolitics of TWO NUCLEAR NATIONS which are indeed INDIA AND PAKISTAN.
+        </p>
+
+        <p>
+          This article will not only go through the current geopolitics but also answer some crucial questions like: How today's geopolitics of both nations is rooted in its past and how domestic politics influenced it. Not only that we will get to know why countries like the US which had good relations with Pakistan now see INDIA as its alternative in the South Asian continent, where do INDIA AND PAKISTAN stand in world politics today?
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">INDIA's BACKGROUND: From 1947's NAM to 2025's Multi-alignment</h2>
+          
+          <p>
+            First, to understand this, we need to understand the past of India's foreign policies and how it has evolved.
+          </p>
+          
+          <p>
+            While countries had to choose sides in Cold War politics, India decided to take a path that felt like a gambling game. This was risky for a country that had just been partitioned, faced a large refugee problem, wasn't fully integrated as a nation, and inherited a stagnant economy marked by backward industries from British rule.
+          </p>
+
+          <p>
+            Well, well, every nation has to choose a side—otherwise how will it ask for help?
+          </p>
+
+          <h3>1947 TO 1970s:</h3>
+          <p>
+            Though INDIA decided to choose a path of NON-ALIGNMENT which later turned out to be NAM policy under our first Prime Minister and also our longest-serving External Affairs Minister throughout his 17-year premiership, Jawaharlal Nehru. NAM [Non-Aligned Movement] meant that India would not choose any sides, neither the USSR nor the US, but would have its own autonomy and independence. Countries that chose this path were called third world and many others misunderstood what this meant. While some understood it as isolation in world politics, in reality it was like taking benefit from both while not involving one side of politics. This made INDIA lead in third-world politics.
+          </p>
+
+          <p>
+            Though INDIA was in support of peace Pakistan took a step to have war in Kashmir where the 1947-48 war took place which started India's relation with Pakistan as bitter as could be! Though India and Pakistan took their respective paths, the clashes continued, as we see in current politics today.
+          </p>
+
+          <p>
+            However, the same thing was not with China!
+          </p>
+
+          <p>
+            During this era, many new nations were emerging and the decolonization era was going on. China was one of the emerging nations. During this time India chose a path of friendship with China as India was the first noncommunist nation that recognized China's existence. India and China had a Pancheel agreement and while India thought it would neighbor with the peaceful agreement, China had other plans. There was a slogan, "HINDI-CHINI BHAI BHAI," which showed the friendship between these two nations at the time. However, during this period China invaded Tibet which made it suspicious for INDIA. India gave asylum to DALAI LAMA which further strained both country's relations. Both countries started to have distrust and China attacked INDIA in 1962, leading to the Sino-Indian war of that time. This resulted in the Distrust between two nations. After 1962, India realized that just following a peaceful foreign policy wasn't enough - the country also needed to build strong defense capabilities and be ready to face any threats or challenges from other nations.
+          </p>
+
+          <h3>1970s TO 1990s:</h3>
+          <p>
+            Through this time, Nehru's policies were replaced by a new shift toward more pragmatic policies. During the decades of the 1970s to 1990s, India emerged as not only a leader in peace but also an emerging power with a strong position in geopolitics. It made it emerge as powerful in every dynamic whether it is military or nuclear power.
+          </p>
+
+          <h3>1990s TO 2000s:</h3>
+          <p>
+            However, changes are something that can't be stopped leading INDIA to change its geopolitical dynamics from the 1990s when a massive change took place in Moscow. While INDIA had its NAM policy the USSR's fall forced it to have better relations with us. In addition, India's liberation policies showed it as a country with new doors. There was not only this shift but also the shift we see the US taking. While the US had close relations with Pakistan, as we will see in further sections. Pakistan made decisions that made the US have better alternatives in the Asian continent. In addition, the shift of Pakistan to becoming close to China makes it more suspicious for the US. This resulted in a closer relationship between INDIA and the US in the decade of 2000s. This era was marked following the historic India-US nuclear deal, unveiled through a groundbreaking joint statement by President George W. Bush and Prime Minister Manmohan Singh on July 18, 2005, represented a seismic shift in global nuclear diplomacy by welcoming India into the international nuclear framework while acknowledging its responsible civilian nuclear capabilities.
+          </p>
+
+          <h3>INSTABILITY-STABILITY PARADOX:</h3>
+          <p>
+            The nuclear power emergence of India, as well as Pakistan in a later period, created a situation of instability stability paradox where the instability-stability paradox between India and Pakistan suggests that while nuclear weapons deter full-scale war (stability), they embolden lower-level conflicts like proxy wars and skirmishes (instability). This dynamic has enabled Pakistan to pursue asymmetric strategies, assuming India will avoid escalation due to the threat of nuclear retaliation.
+          </p>
+
+          <h3>LOOK EAST:</h3>
+          <p>
+            This era also showed INDIA having policies of looking east where India understood the power of ASEAN [Association of Southeast Asian Nations], and took influential participation in regional affairs, adapting to the changing geopolitical landscape of the Indo-Pacific.
+          </p>
+
+          <h3>TRANSFORMATION TO MULTI-ALIGNMENT:</h3>
+          <p>
+            In an era of NDA government, India shifted its focus from NAM to a multi-alignment policy where it does not only focus on autonomy in its policy but emphasizes multilateralism and regional cooperation in various forums (e.g., BRICS, G20), and defense collaborations. This made INDIA emerge into a nation that not only sits in the major talks but also shapes it.
+          </p>
+
+          <p>
+            This evolution of its policy came with challenges as we see INDIA CAME CLOSE TO THE US AND WEST WHILE BALANCING WITH OLD ALLIES, Pakistan too made the strategic path to balance in world politics.
+          </p>
+
+          <p>
+            To understand this we need to understand the geopolitics of Pakistan.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">PAKISTAN'S BACKGROUND: FROM US ALLY TO CHINA'S FRIEND</h2>
+          
+          <p>
+            During PAKISTAN'S era of independence, Jinnah envisioned a secular Pakistan that would "stand by the United Nations Charter" and seek friendship worldwide. In Pakistan, domestic instability—including military coups, economic crises, and political protests—has fueled an assertive foreign stance aimed at "bleeding India with a thousand cuts" and driven large investments in missile and nuclear forces. Pakistan's instability in its democracy, where it is said Pakistan's PM could not even stay for 5 years, makes it clear how its policies are chosen by military leaders, not by the public.
+          </p>
+
+          <h3>JINNAH'S VISION'S SHIFT TO MILITARY-DOMINATED FOREIGN POLICY:</h3>
+          <p>
+            Due to this, in Pakistan, Jinnah's liberal vision quickly gave way to military rule and Islamization, especially under General Zia-ul-Haq in the 1980s. The army and its intelligence services effectively ran foreign policy, often sidelining professional diplomats, and militants increasingly became tools of statecraft.
+          </p>
+
+          <p>
+            This ideological shift shaped both countries' diplomatic approaches. Pakistan's support for jihadist groups, first against Soviet forces in Afghanistan, then against India in Kashmir—was rationalized as fighting India through "hundreds of little wars." This strategy initially brought U.S. arms during the 1980s Afghan resistance against Soviet occupation but later damaged Pakistan's international reputation when some militants turned against Pakistan itself or launched attacks on India.
+          </p>
+
+          <p>
+            The Trump and Biden presidencies brought a harsh reality check to Islamabad: America is no longer a reliable ally. After the U.S. withdrawal from Afghanistan in 2021, U.S.-Pakistan relations deteriorated significantly (with mutual blame over the Taliban's return to power), leaving Pakistan scrambling for alternatives.
+          </p>
+
+          <h3>PAKISTAN'S DIVERSIFICATION:</h3>
+          <p>
+            Pakistan's answer? Diversify dramatically.
+          </p>
+
+          <p>
+            It's hardly a coincidence that China is Islamabad's closest ally. Beijing and Islamabad have long worked together to "balance India," as Indian analyst Srikanth Kondapalli bluntly puts it: "By backing Pakistan— with arms and aid—[China] has tried to balance India and regional power equations." In other words, China supports Pakistan largely to counterbalance its own rivalry with India. Scholar Abraham M. Denmark explains China's thinking: a strong Pakistani ally "can help China prevent the emergence of a continental-sized rival" on its border.
+          </p>
+
+          <p>
+            What does this look like in practice? Massive Chinese investment in Pakistan's military and infrastructure, including the China-Pakistan Economic Corridor (CPEC), naval bases, and ballistic missiles—all of which India watches with growing concern. For example, the $46 billion CPEC project—linking China's far western province of Xinjiang to the Pakistani port of Gwadar—is explicitly designed to give China a shorter route to the Arabian Sea. This simultaneously increases Beijing's influence in the region while effectively surrounding India.
+          </p>
+
+          <p>
+            According to The Moscow Times, 2023 saw Pakistan-Russia trade reach a record $1 billion, and even Moscow's deputy premier publicly supported Pakistan's bid to join BRICS (an economic group including Brazil, Russia, India, China, and South Africa). Energy cooperation has become central to this relationship, with Islamabad signing an agreement for a 1,100 km Russia-Pakistan gas pipeline and expressing interest in acquiring Russian S-400 missile defense systems.
+          </p>
+
+          <p>
+            In short, Pakistan has pivoted toward a China-Russia-Gulf axis as American support has faded. Unlike the post-9/11 decade when Islamabad largely followed Washington's lead, today Pakistan is what analyst Siddiqui calls a "wobblier" partner—seeking any ally willing to keep its economy afloat while downplaying its formerly close relationship with the United States.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">SO WHERE DO INDIA AND PAKISTAN STAND?</h2>
+          
+          <p>
+            In summary, India today enjoys support from a broad coalition of major powers (including the U.S., Russia, Western Europe, Japan, Australia, the UAE, and Israel), while Pakistan depends primarily on China and a handful of Islamic allies.
+          </p>
+
+          <p>
+            Foreign Affairs magazine has reported that India's leadership now considers global alignment "the surest foundation" for national security. The bottom line: India rarely stands alone. During the May 2025 crisis, the United States, United Kingdom, France, Germany, the United Arab Emirates, Saudi Arabia, and others all urged restraint while tacitly supporting India's right to self-defense. This stands in stark contrast to Pakistan, whose few remaining allies worked quietly through diplomatic channels with limited public support.
+          </p>
+        </section>
+      </div>
+    `,
+    author: {
+      id: "8",
+      name: "Ansesveri Laxmi",
+      username: "ansesveri-laxmi",
+      image: "/Ansesveri Laxmi.jpeg"
+    },
+    category: "International",
+    date: "2025-06-09",
+    readTime: "15 min read",
+    image: "/geopolitics.jpeg",
+    featured: true,
+    views: 1250,
+    likes: 89,
+    comments: [],
+  },
+  {
+    id: "economic-war-china-us",
+    title: "Economic War: China vs US fight",
+    slug: "economic-war-china-us",
+    excerpt: "After Trump ascended in power for the second time as new president of the United States the ongoing conflict between US and China has escalated to a high level bringing a lot of challenges between both countries and the rest of the world.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          After Trump ascended in power for the second time as new president of the United States the ongoing conflict between US and China has escalated to a high level bringing a lot of challenges between both countries and the rest of the world. The trade dispute between the US and China was motivated by several factors, such as changes in the global economic landscape where the fast rise of China's economic power has been seen as a threat by the US.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">Background-When everything started</h2>
+          
+          <p>
+            The trade war between the United States of America and China started in 2018, in the first Donald Trump term as a president of America and started imposing tariffs on Chinese products because the Trump Administration believed that China had some unfair trade practices, intellectual property theft and market access. As a response China retaliated by imposing tariffs on American products, starting like this a cycle of successive increases in both sides.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Conflict Escalation</h2>
+          
+          <p>
+            In January 2018, the Trump administration applied tariffs on $8.5 billion worth of Chinese products, including aircraft parts and machinery. China in response with tariffs on $3.4 billion worth of American products.
+          </p>
+
+          <p>
+            In 2019, the trade war intensified, and the US started applying additional tariffs on $200 billion worth of Chinese products. China also retaliated with tariffs on $60 billion worth of American products.
+          </p>
+
+          <p>
+            In January 2020, the US and China signed the "Phase 1" trade deal, with the US agreeing to reduce tariffs and China committing to buy $200 billion worth of American products over the next two years.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Current situation</h2>
+          
+          <p>
+            In April 2025, Trump proposed a 60% tariff on all Chinese products, and later on it increased to 145%, in response China retaliated by applying a 125% tariff on American products.
+          </p>
+
+          <p>
+            On May 12, 2025 was announced the US-China trade truce, specifically 90-day pause in trade war. This agreement was proposed during talks in Geneva between US and Chinese officials, in order to ease tensions and open space for negotiations. This is a temporary pause and some key factors are:
+          </p>
+
+          <ul>
+            <li>The Us lowered tariffs on Chinese goods from as high as 145% to 30%.</li>
+            <li>China reduced its tariffs on Us goods from 125% to 30%.</li>
+            <li>Both sides agreed to create a new dialogue mechanism for the ongoing trade issues.</li>
+          </ul>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Global Consequences</h2>
+          
+          <p>
+            US and China are two powerful economies and this trade war brings huge consequences in the global context, this both countries together account 43% of share of the global economy, according to International Monetary Fund (IMF) such consequences include:
+          </p>
+
+          <h3>Global GDP Reduction:</h3>
+          <p>
+            The present conflict can lead to a decline in global trade and economic growth. This uncertainty and tariffs led to slower global GDP growth. The IMF and World Bank both have revised growth forecasts downward during the trade war.
+          </p>
+
+          <h3>Higher Prices for the consumers:</h3>
+          <p>
+            The tariff costs applied on goods passed to consumers, the US and Chinese consumers faced higher prices on goods subject to tariffs. For example, US prices rose on electronics, clothing and food items.
+          </p>
+
+          <h3>Realignment of Global Trade:</h3>
+          <p>
+            Many companies have shifted manufacturing out of China to avoid US tariffs, moving to countries like India, Vietnam, Malaysia, Mexico and Thailand. China reduced import of soybean from US and started importing from Argentina and Brazil. Oil and gas flows were adjusted, with China turning it to Russia and the Middle East for energy supplies.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Conclusion</h2>
+          
+          <p>
+            The current trade war between the US and China is rising uncertainty in the present economic global scenario, it is a rooted manifestation of economic, technological and geopolitical tensions between the largest economies of the world. This war is disrupting global supply chains, slowing the global economic growth and realigning trade relations across continents.
+          </p>
+
+          <p>
+            Looking at this scenario, the US-China economic war has laid the foundation for a more fragmented and multipolar global order.
+          </p>
+        </section>
+      </div>
+    `,
+    author: {
+      id: "3",
+      name: "Dorcas Tembo Sambo",
+      username: "dorcas-tembo",
+      image: "/Dorcas Tembo Sambo.jpg"
+    },
+    category: "International",
+    date: "2025-06-09",
+    readTime: "10 min read",
+    image: "/USCHINA.jpeg",
+    featured: true,
+    views: 980,
+    likes: 67,
+    comments: [],
+  },
 ];
 
 // Admin users
@@ -756,3 +1022,4 @@ export const getBestAuthor = (): Author => {
 export const getHeroArticle = (): Article | undefined => {
   return articles.find(article => article.hero === true);
 };
+
