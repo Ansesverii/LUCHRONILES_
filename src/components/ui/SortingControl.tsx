@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { ToggleGroup, ToggleGroupItem } from '@/components/ui/toggle-group';
 import { ArrowUp, ArrowDown, Filter } from 'lucide-react';
@@ -18,36 +17,36 @@ const SortingControl: React.FC<SortingControlProps> = ({ activeSort, onChange })
   };
 
   return (
-    <div className="flex justify-end mb-6">
+    <div className="flex flex-col sm:flex-row justify-end mb-6">
       <ToggleGroup 
         type="single" 
         value={activeSort}
         onValueChange={handleValueChange}
-        className="border rounded-md overflow-hidden"
+        className="flex flex-col sm:flex-row border rounded-md overflow-hidden"
       >
         <ToggleGroupItem 
           value="latest" 
-          className="flex items-center gap-1 px-3 py-1 text-sm"
+          className="flex items-center gap-1 px-3 py-2 text-sm border-b sm:border-b-0 sm:border-r"
           aria-label="Sort by latest"
         >
           <ArrowDown className="h-3.5 w-3.5" />
-          <span className="hidden sm:inline">Latest</span>
+          <span>Latest</span>
         </ToggleGroupItem>
         <ToggleGroupItem 
           value="oldest" 
-          className="flex items-center gap-1 px-3 py-1 text-sm"
+          className="flex items-center gap-1 px-3 py-2 text-sm border-b sm:border-b-0 sm:border-r"
           aria-label="Sort by oldest"
         >
           <ArrowUp className="h-3.5 w-3.5" />
-          <span className="hidden sm:inline">Oldest</span>
+          <span>Oldest</span>
         </ToggleGroupItem>
         <ToggleGroupItem 
           value="popular" 
-          className="flex items-center gap-1 px-3 py-1 text-sm"
+          className="flex items-center gap-1 px-3 py-2 text-sm"
           aria-label="Sort by popularity"
         >
           <Filter className="h-3.5 w-3.5" />
-          <span className="hidden sm:inline">Popular</span>
+          <span>Popular</span>
         </ToggleGroupItem>
       </ToggleGroup>
     </div>

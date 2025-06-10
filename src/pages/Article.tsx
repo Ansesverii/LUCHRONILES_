@@ -74,7 +74,9 @@ const Article = () => {
         <div className="max-w-3xl mx-auto">
           <div 
             className="article-content prose prose-lg max-w-none"
-            dangerouslySetInnerHTML={{ __html: article.content }}
+            dangerouslySetInnerHTML={{ 
+              __html: article.content.replace(/<h1[^>]*>.*?<\/h1>/g, '') 
+            }}
           />
           
           {/* Social Sharing */}

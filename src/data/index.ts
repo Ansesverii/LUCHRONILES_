@@ -48,7 +48,7 @@ export const authors: Author[] = [
     bio: "I'm Hetal Kothari — a passionate writer and researcher with a keen interest in exploring diverse perspectives and uncovering compelling stories. As a dedicated member of LU.Chronicles, I bring my analytical mindset and creative approach to every piece I write.\n\nMy journey in journalism began with a deep curiosity about the world around us and a desire to give voice to important narratives. I believe in the power of storytelling to inform, inspire, and create meaningful connections.\n\nWith a background in research and writing, I specialize in crafting engaging content that resonates with our readers while maintaining the highest standards of journalistic integrity. I'm particularly interested in exploring topics related to culture, society, and current affairs.\n\nAt LU.Chronicles, I'm committed to contributing thoughtful, well-researched articles that add value to our readers' understanding of the world. I believe in the importance of balanced reporting and presenting multiple perspectives on complex issues.\n\nWhen I'm not writing, you can find me exploring new books, engaging in meaningful discussions, or seeking out new stories to tell. I'm always eager to learn and grow as a writer and journalist.",
     email: "hetal@luchronicles.edu",
     designation: "Head",
-    course: "B.A.",
+    course: "Bsc zoology and chemistry",
     categories: ["International", "City", "Arts & Culture", "Blogs", "Podcasts"],
     articlesCount: 15,
   },
@@ -220,8 +220,8 @@ I'll be here, ready to ask the next why and learn from every conversation.`,
   },
   {
     id: "15",
-    name: "Anonymous",
-    username: "anonymous",
+    name: "Captain Jack Sparrow",
+    username: "captain-jack-sparrow",
     image: "/Shantam.jpeg",
     bio: "Crazy people don't know they're crazy. I know I'm crazy, therefore I'm not crazy, isn't that crazy?",
     email: "anonymous@luchronicles.edu",
@@ -230,7 +230,7 @@ I'll be here, ready to ask the next why and learn from every conversation.`,
     articlesCount: 3
   },
   {
-    id: "14",
+    id: "16",
     name: "Anonymous",
     username: "anonymous",
     image: "/Shantam.jpeg",
@@ -241,7 +241,7 @@ I'll be here, ready to ask the next why and learn from every conversation.`,
     articlesCount: 1
   },
   {
-    id: "15",
+    id: "17",
     name: "Trishla",
     username: "trishla",
     image: "/Trishla.jpeg",
@@ -1130,17 +1130,6 @@ export const articles: Article[] = [
     slug: "whose-campus-is-it-anyway",
     content: `
       <div class="article-content">
-        <div class="article-header">
-          <h1 class="text-4xl font-serif font-bold mb-6">Whose Campus Is It Anyway? Gender and Everyday Life at Lucknow University</h1>
-          <div class="flex items-center space-x-4 mb-8">
-            <img src="/Shantam.jpeg" alt="Anonymous" class="w-12 h-12 rounded-full" />
-            <div>
-              <p class="font-medium">Anonymous</p>
-              <p class="text-gray-600">June 10, 2025</p>
-            </div>
-          </div>
-        </div>
-
         <div class="prose prose-lg max-w-none">
           <p class="mb-6 leading-relaxed">
             It's late afternoon at Lucknow University, and the lawns are full. Groups of students sit under the trees, share snacks, prepare for exams, or simply pass the time. It's a familiar scene—easy to romanticize. But sit long enough, and certain patterns begin to emerge. Boys take the center, speak louder, move more freely. Girls sit closer to the edges, in smaller groups, often glancing at the time. By 7:45 PM, many will begin to leave—not because their work is done, but because they must be back in the hostel by 8.
@@ -1210,12 +1199,12 @@ export const articles: Article[] = [
     excerpt: "An exploration of gender dynamics and everyday experiences at Lucknow University, examining how spatial arrangements, academic interactions, and institutional policies shape campus life.",
     image: "/Campus.jpeg",
     author: {
-      id: "14",
-      name: "Anonymous",
-      username: "anonymous",
+      id: "15",
+      name: "Captain Jack Sparrow",
+      username: "captain-jack-sparrow",
       image: "/Shantam.jpeg"
     },
-    category: "campus-life",
+    category: "university",
     date: "2025-06-10T00:00:00Z",
     readTime: "8",
     views: 0,
@@ -1229,17 +1218,6 @@ export const articles: Article[] = [
     slug: "neutrality-in-time-of-war",
     content: `
       <div class="article-content">
-        <div class="article-header">
-          <h1 class="text-4xl font-serif font-bold mb-6">Every word has consequences. Every silence too.- Neutrality in the time of war.</h1>
-          <div class="flex items-center space-x-4 mb-8">
-            <img src="/Trishla.jpeg" alt="Trishla" class="w-12 h-12 rounded-full" />
-            <div>
-              <p class="font-medium">Trishla</p>
-              <p class="text-gray-600">June 10, 2025</p>
-            </div>
-          </div>
-        </div>
-
         <div class="prose prose-lg max-w-none">
           <p class="mb-6 leading-relaxed">
             When the League of Nations on June 30, 1936, Ethiopian Emperor Haile Selassie delivered the powerful words, "It is us today, tomorrow it will be you." This statement was a warning to the world about the consequences of failing to stand up against aggression, genocide, and oppression because it was not their problem. Privilege is when you think something is not a problem when it's not a problem to you personally.
@@ -1307,19 +1285,7 @@ export const articles: Article[] = [
     slug: "united-nations-flawed-guardian",
     content: `
       <div class="article-content">
-        <div class="article-header">
-          <h1 class="text-4xl font-serif font-bold mb-6">The United Nations: A Flawed Guardian for Peace</h1>
-          <div class="flex items-center space-x-4 mb-8">
-            <img src="/Aliya.jpeg" alt="Aliya Imam" class="w-12 h-12 rounded-full" />
-            <div>
-              <p class="font-medium">Aliya Imam</p>
-              <p class="text-gray-600">June 10, 2025</p>
-            </div>
-          </div>
-        </div>
-
         <div class="prose prose-lg max-w-none">
-          <h1>The United Nations: A Flawed Guardian for Peace</h1>
           <h2>The Promise of Peace: Origins and Ideals of the United Nations</h2>
           <p>The United Nations is an 80-year-old institution, formed to preserve peace and harmony at the global level. Founded in 1945, in the aftermath of World War II, it brought together 51 nations committed to building a better world.</p>
           <p>Unlike previous forms of world government, the UN was proposed by key leaders as varied as Franklin D. Roosevelt to Winston Churchill and Albert Einstein to Latin American powers.</p>

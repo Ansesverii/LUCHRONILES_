@@ -12,7 +12,10 @@ const Team = () => {
       !author.isFounder && 
       !author.isFaculty && 
       author.id !== "11" && // Mani Soni's ID
-      author.id !== "12"    // Atharv Manshar's ID
+      author.id !== "12" &&    // Atharv Manshar's ID
+      author.id !== "14" && // Exclude Trishla Chaudhary from 'Other Members'
+      author.id !== "15" && // Exclude Anonymous (Jack Sparrow) from 'Other Members'
+      author.id !== "16" // Exclude Anonymous (gender studies) from 'Other Members'
     )
     .sort((a, b) => (b.articlesCount || 0) - (a.articlesCount || 0)); // Sort by article count
 
@@ -33,12 +36,32 @@ const Team = () => {
         </p>
       </header>
 
-      <Tabs defaultValue="editor" className="mb-8" onValueChange={(value) => setCurrentView(value as 'editor' | 'members' | 'other-members' | 'anonymous')}>
-        <TabsList className="grid grid-cols-4 w-full">
-          <TabsTrigger value="editor">Editor</TabsTrigger>
-          <TabsTrigger value="members">MEMBERS</TabsTrigger>
-          <TabsTrigger value="other-members">OUR MEMBERS</TabsTrigger>
-          <TabsTrigger value="anonymous">ANONYMOUS</TabsTrigger>
+      <Tabs defaultValue="editor" className="mb-6" onValueChange={(value) => setCurrentView(value as 'editor' | 'members' | 'other-members' | 'anonymous')}>
+        <TabsList className="flex flex-row overflow-x-auto whitespace-nowrap gap-4 w-full p-4 md:flex-row md:gap-6 md:max-w-4xl md:mx-auto">
+          <TabsTrigger 
+            value="editor" 
+            className="min-w-[120px] px-4 py-3 text-base rounded-md shadow-sm hover:shadow-md transition-all"
+          >
+            Editor
+          </TabsTrigger>
+          <TabsTrigger 
+            value="members" 
+            className="min-w-[120px] px-4 py-3 text-base rounded-md shadow-sm hover:shadow-md transition-all"
+          >
+            MEMBERS
+          </TabsTrigger>
+          <TabsTrigger 
+            value="other-members" 
+            className="min-w-[120px] px-4 py-3 text-base rounded-md shadow-sm hover:shadow-md transition-all"
+          >
+            OUR HEADS
+          </TabsTrigger>
+          <TabsTrigger 
+            value="anonymous" 
+            className="min-w-[120px] px-4 py-3 text-base rounded-md shadow-sm hover:shadow-md transition-all"
+          >
+            ANONYMOUS
+          </TabsTrigger>
         </TabsList>
       </Tabs>
 
@@ -155,31 +178,38 @@ const Team = () => {
       {/* Anonymous Section */}
       {currentView === 'anonymous' && (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <div className="bg-white shadow-xl border border-gray-200 rounded-xl overflow-hidden transform hover:scale-[1.02] transition-all duration-300 hover:shadow-2xl">
-            <div className="p-8">
-              <div className="flex flex-col items-center text-center">
-                <div className="relative mb-6">
-                  <img 
-                    src="/Shantam.jpeg" 
-                    alt="Anonymous" 
-                    className="w-32 h-32 rounded-full object-cover ring-4 ring-gray-100 shadow-lg"
-                  />
+          {authors.filter(author => author.id === "15").map(anonymousAuthor => (
+            <div 
+              key={anonymousAuthor.id} 
+              className="bg-white shadow-xl border border-gray-200 rounded-xl overflow-hidden transform hover:scale-[1.02] transition-all duration-300 hover:shadow-2xl"
+            >
+              <div className="p-8">
+                <div className="flex flex-col items-center text-center">
+                  <div className="relative mb-6">
+                    <img 
+                      src={anonymousAuthor.image} 
+                      alt={anonymousAuthor.name} 
+                      className="w-32 h-32 rounded-full object-cover ring-4 ring-gray-100 shadow-lg"
+                    />
+                  </div>
+                  <h3 className="font-serif text-xl font-bold text-gray-900">
+                    <Link to={`/author/${anonymousAuthor.username}`} className="hover:text-luChronicles-black transition-colors">
+                      {anonymousAuthor.name}
+                    </Link>
+                  </h3>
+                  <Link 
+                    to={`/author/${anonymousAuthor.username}`}
+                    className="inline-flex items-center mt-4 text-sm font-medium text-luChronicles-black hover:text-luChronicles-black/80 transition-colors"
+                  >
+                    View Full Profile
+                    <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                    </svg>
+                  </Link>
                 </div>
-                <h3 className="font-serif text-xl font-bold text-gray-900">
-                  Anonymous
-                </h3>
-                <Link 
-                  to="/author/anonymous"
-                  className="inline-flex items-center mt-4 text-sm font-medium text-luChronicles-black hover:text-luChronicles-black/80 transition-colors"
-                >
-                  View Full Profile
-                  <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                  </svg>
-                </Link>
               </div>
             </div>
-          </div>
+          ))}
         </div>
       )}
     </div>
