@@ -161,15 +161,15 @@ const Team = () => {
                 <div className="relative mb-6">
                   <img 
                     src="/Shantam.jpeg" 
-                    alt="Shantam" 
+                    alt="Anonymous" 
                     className="w-32 h-32 rounded-full object-cover ring-4 ring-gray-100 shadow-lg"
                   />
                 </div>
                 <h3 className="font-serif text-xl font-bold text-gray-900">
-                  Shantam
+                  Anonymous
                 </h3>
                 <Link 
-                  to="/author/shantham"
+                  to="/author/anonymous"
                   className="inline-flex items-center mt-4 text-sm font-medium text-luChronicles-black hover:text-luChronicles-black/80 transition-colors"
                 >
                   View Full Profile

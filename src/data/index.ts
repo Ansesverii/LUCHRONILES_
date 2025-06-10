@@ -220,22 +220,22 @@ I'll be here, ready to ask the next why and learn from every conversation.`,
   },
   {
     id: "15",
-    name: "Shantam",
-    username: "shantham",
+    name: "Anonymous",
+    username: "anonymous",
     image: "/Shantam.jpeg",
     bio: "Crazy people don't know they're crazy. I know I'm crazy, therefore I'm not crazy, isn't that crazy?",
-    email: "shantham@luchronicles.edu",
+    email: "anonymous@luchronicles.edu",
     designation: "Anonymous Writer",
     categories: ["Blogs", "Op-ed"],
     articlesCount: 3
   },
   {
     id: "14",
-    name: "Shantam",
-    username: "shantam",
+    name: "Anonymous",
+    username: "anonymous",
     image: "/Shantam.jpeg",
-    bio: "Shantam is a writer and researcher focused on gender studies and campus life.",
-    email: "shantam@luchronicles.edu",
+    bio: "Anonymous is a writer and researcher focused on gender studies and campus life.",
+    email: "anonymous@luchronicles.edu",
     designation: "Writer",
     categories: ["University", "Features"],
     articlesCount: 1
@@ -1133,9 +1133,9 @@ export const articles: Article[] = [
         <div class="article-header">
           <h1 class="text-4xl font-serif font-bold mb-6">Whose Campus Is It Anyway? Gender and Everyday Life at Lucknow University</h1>
           <div class="flex items-center space-x-4 mb-8">
-            <img src="/Shantam.jpeg" alt="Shantam" class="w-12 h-12 rounded-full" />
+            <img src="/Shantam.jpeg" alt="Anonymous" class="w-12 h-12 rounded-full" />
             <div>
-              <p class="font-medium">Shantam</p>
+              <p class="font-medium">Anonymous</p>
               <p class="text-gray-600">June 10, 2025</p>
             </div>
           </div>
@@ -1211,8 +1211,8 @@ export const articles: Article[] = [
     image: "/Campus.jpeg",
     author: {
       id: "14",
-      name: "Shantam",
-      username: "shantam",
+      name: "Anonymous",
+      username: "anonymous",
       image: "/Shantam.jpeg"
     },
     category: "campus-life",
@@ -1319,47 +1319,23 @@ export const articles: Article[] = [
         </div>
 
         <div class="prose prose-lg max-w-none">
-          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">The Promise of Peace: Origins and Ideals of the United Nations</h2>
-          <p class="mb-6 leading-relaxed">
-            The United Nations is an 80-year-old institution, formed to preserve peace and harmony at the global level. Founded in 1945, in the aftermath of World War II, it brought together 51 nations committed to building a better world. Unlike previous forms of world government, the UN was proposed by key leaders as varied as Franklin D. Roosevelt to Winston Churchill and Albert Einstein to Latin American powers.
-          </p>
-
-          <p class="mb-6 leading-relaxed">
-            However, ever since the formation, we have witnessed disputes escalating into wars and, consequently, the loss of innocent lives. This raises a fundamental question — Why does the UN fail in its core mission of maintaining international peace and security?
-          </p>
-
-          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">The Reality of Power: Failures, Corruption, and Global Injustice</h2>
-          <p class="mb-6 leading-relaxed">
-            Across the globe, nations engage in wars—defensive, territorial, or simply rooted in power politics. Viewed through a moral lens, these wars yield only destruction: innocent civilians killed, frontliners buried, while the people who orchestrate these wars remain safe behind their high walls of privilege & power.
-          </p>
-
-          <p class="mb-6 leading-relaxed">
-            The United Nations has witnessed and, in many cases, contributed to many dramatic failures — the recent ranging from structural power imbalance in the Israel–Palestine conflict, where the UN system has been unable to stop the ongoing genocide against the Gazans, to the failing of United Nations Security Council in creating the framework conditions to facilitate the mediation in the Russia–Ukraine crisis.
-          </p>
-
-          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">The Veto Power Problem</h2>
-          <p class="mb-6 leading-relaxed">
-            A significant problem of the United Nations lies in the systematic restriction on which it operates. The power which is granted in — "Article 27 (3) of the Charter establishes that all substantive decisions of the Council must be made with "the concurring votes of the permanent members (P5)." The veto power granted to the permanent members hinders the UN Security Council's (UNSC) ability to act, as these nations use veto to block any intervention based on alliances, military deals, or geopolitics.
-          </p>
-
-          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">Corruption and Accountability</h2>
-          <p class="mb-6 leading-relaxed">
-            Beyond structural issues like the misuse of veto power, the UN has also problems with internal accountability and ethical governance, particularly in cases of corruption that have severely sullied its reputation. Like any institution, the UN is not "immune." In 1996, under strict sanctions following the First Gulf War, the UN Security Council started the Oil-for-Food program, which allowed Iraq to pay for food and other necessities for its people, with oil.
-          </p>
-
-          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">The Urgent Need for Change</h2>
-          <p class="mb-6 leading-relaxed">
-            Maybe in its early years, the United Nations functioned. But today, in this age of modernity, it is just a group of suits sitting around discussing sensitive issues, like war and hunger, from air-conditioned offices. Nothing gets resolved on the ground. Kids die of hunger, not due to the lack of resources, but due to the lack of empathy and sense of urgency.
-          </p>
-
-          <p class="mb-6 leading-relaxed">
-            The UN is not proactive but instead reactive. It lacks enforceable powers and is often paralyzed by political stalemate. It may have supranational powers, but it is not very effective when there are great powers involved. When their interests clash, the UN's ability to prevent or resolve a crisis is at best symbolic, defeating the very purpose of its existence.
-          </p>
-
-          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">Conclusion</h2>
-          <p class="mb-6 leading-relaxed">
-            Therefore, if the question is: Do we still need the UN? The answer is no — not unless it is radically changed. The UN must be less arrogant about its shortcomings, and more willing to change itself into an institution which can respond to the needs of the world today.
-          </p>
+          <h1>The United Nations: A Flawed Guardian for Peace</h1>
+          <h2>The Promise of Peace: Origins and Ideals of the United Nations</h2>
+          <p>The United Nations is an 80-year-old institution, formed to preserve peace and harmony at the global level. Founded in 1945, in the aftermath of World War II, it brought together 51 nations committed to building a better world.</p>
+          <p>Unlike previous forms of world government, the UN was proposed by key leaders as varied as Franklin D. Roosevelt to Winston Churchill and Albert Einstein to Latin American powers.</p>
+          <p>However, ever since the formation, we have witnessed disputes escalating into wars and, consequently, the loss of innocent lives. This raises a fundamental question — Why does the UN fail in its core mission of maintaining international peace and security?</p>
+          <h2>The Reality of Power: Failures, Corruption, and Global Injustice</h2>
+          <p>Across the globe, nations engage in wars—defensive, territorial, or simply rooted in power politics. Viewed through a moral lens, these wars yield only destruction: innocent civilians killed, frontliners buried, while the people who orchestrate these wars remain safe behind their high walls of privilege & power.</p>
+          <p>The United Nations has witnessed and, in many cases, contributed to many dramatic failures — the recent ranging from structural power imbalance in the Israel–Palestine conflict, where the UN system has been unable to stop the ongoing genocide against the Gazans, to the failing of United Nations Security Council in creating the framework conditions to facilitate the mediation in the Russia–Ukraine crisis.</p>
+          <p>A significant problem of the United Nations lies in the systematic restriction on which it operates. The power which is granted in — "Article 27 (3) of the Charter establishes that all substantive decisions of the Council must be made with "the concurring votes of the permanent members (P5)." The veto power granted to the permanent members hinders the UN Security Council's (UNSC) ability to act, as these nations use veto to block any intervention based on alliances, military deals, or geopolitics.</p>
+          <p>This power imbalance is evident in the aforementioned recent issues, with the US vetoing the ceasefire in Gaza and Russia vetoing humanitarian/military aid in Ukraine. The P5 dominance limits developing countries and cripples the UN's ability to work fairly and effectively, making it appear flawed and weak. Beyond structural issues like the misuse of veto power, the UN has also problems with internal accountability and ethical governance, particularly in cases of corruption that have severely sullied its reputation.</p>
+          <p>Like any institution, the UN is not "immune." In 1996, under strict sanctions following the First Gulf War, the UN Security Council started the Oil-for-Food program, which allowed Iraq to pay for food and other necessities for its people, with oil. But Saddam Hussein exploited the program, earning some $10.9 billion through illegal oil smuggling and $1.7 billion through kickbacks and surcharges, according to a 2004 CIA investigation. Not only does this highlight the corruption in the structure, but also how the UN can be manipulated to serve ulterior motives. Through the program, the West retained a clean and morally superior perception by providing aid in an issue they created, and at the same time being paid with the oil they desperately wanted.</p>
+          <p>According to the UN Independent Inquiry Committee, it was put forward that the wide scale of mismanagement and unethical conduct, done by some UN employees, tainted the program. These failures hurt the vulnerable population, also eroding the "image" of the UN.</p>
+          <h2>The Urgent Need for Change</h2>
+          <p>Maybe in its early years, the United Nations functioned. But today, in this age of modernity, it is just a group of suits sitting around discussing sensitive issues, like war and hunger, from air-conditioned offices. Nothing gets resolved on the ground. Kids die of hunger, not due to the lack of resources, but due to the lack of empathy and sense of urgency.</p>
+          <p>The UN is not proactive but instead reactive. It lacks enforceable powers and is often paralyzed by political stalemate. It may have supranational powers, but it is not very effective when there are great powers involved. When their interests clash, the UN's ability to prevent or resolve a crisis is at best symbolic, defeating the very purpose of its existence.</p>
+          <p>To be fair, there have been instances where the UN was instrumental in de-escalating the situation, like in Yemen, Sudan, or in civil wars between regional powers. Its peacekeeping missions in East Timor and Liberia are often cited as successful examples of coordinated international intervention. On a broader scale, UN agencies have made undeniable contributions— like the World Health Organization's role in eradicating smallpox. However, these successes are not enough to overshadow its greatest failure: maintaining peace where intervention was most needed. In regions torn apart by preventable violence, it left mothers weeping over their children, and children orphaned by conflicts that could have been avoided. The cost of inaction, in these cases, has been far too human.</p>
+          <p>Therefore, if the question is: Do we still need the UN? The answer is no — not unless it is radically changed. The UN must be less arrogant about its shortcomings, and more willing to change itself into an institution which can respond to the needs of the world today.</p>
         </div>
       </div>
     `,
