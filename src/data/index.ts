@@ -1143,42 +1143,72 @@ export const articles: Article[] = [
 
         <div class="prose prose-lg max-w-none">
           <p class="mb-6 leading-relaxed">
-            The University of Lucknow, established in 1921, stands as a testament to the rich educational heritage of India. However, beyond its academic excellence, the university's campus life reveals a complex tapestry of gender dynamics that shape the everyday experiences of its students.
-          </p>
-
-          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">The Gendered Landscape</h2>
-          <p class="mb-6 leading-relaxed">
-            Walking through the university's main campus, one immediately notices the spatial segregation that exists. The library, often considered the heart of academic life, sees a clear division in seating patterns. Female students tend to cluster in specific areas, while male students dominate others. This unspoken arrangement isn't enforced by rules but has become an unwritten norm that students follow.
-          </p>
-
-          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">Academic Spaces and Gender</h2>
-          <p class="mb-6 leading-relaxed">
-            In classrooms, the dynamics are equally complex. While female students are increasingly visible in traditionally male-dominated fields like science and technology, they often face subtle forms of discrimination. During group discussions, their voices are sometimes overshadowed, and their contributions may be attributed to male group members.
-          </p>
-
-          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">The Hostel Experience</h2>
-          <p class="mb-6 leading-relaxed">
-            The university's hostel system further highlights these gender disparities. Female hostels have stricter curfew times and more rigid rules compared to their male counterparts. While these rules are often justified as measures for safety, they reinforce traditional gender roles and limit the freedom of female students.
-          </p>
-
-          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">Extracurricular Activities</h2>
-          <p class="mb-6 leading-relaxed">
-            Sports and cultural activities present another layer of gender dynamics. While the university has made efforts to promote women's participation in sports, the infrastructure and support systems often fall short. Cultural events, though more inclusive, still see certain activities being gender-coded, with dance and fine arts being predominantly female domains.
-          </p>
-
-          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">Moving Forward</h2>
-          <p class="mb-6 leading-relaxed">
-            The University of Lucknow, like many educational institutions in India, stands at a crossroads. While it has made significant progress in terms of gender inclusion, there's still much work to be done. Creating truly inclusive spaces requires not just policy changes but a fundamental shift in how we understand and practice gender equality in educational settings.
+            It's late afternoon at Lucknow University, and the lawns are full. Groups of students sit under the trees, share snacks, prepare for exams, or simply pass the time. It's a familiar scene—easy to romanticize. But sit long enough, and certain patterns begin to emerge. Boys take the center, speak louder, move more freely. Girls sit closer to the edges, in smaller groups, often glancing at the time. By 7:45 PM, many will begin to leave—not because their work is done, but because they must be back in the hostel by 8.
           </p>
 
           <p class="mb-6 leading-relaxed">
-            As we move forward, it's crucial to engage in open dialogues about these issues, involve all stakeholders in decision-making processes, and work towards creating a campus environment that truly belongs to everyone, regardless of gender.
+            That single moment—when girls begin packing up while boys linger—says more about gender on campus than any official document ever could.
+          </p>
+
+          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">Visible Progress, Invisible Barriers</h2>
+          <p class="mb-6 leading-relaxed">
+            The University of Lucknow has made visible efforts in the past decade to improve safety, representation, and gender sensitivity. The Gender Sensitization Cell organises events, workshops, and dialogues. There is an Internal Complaints Committee. Women students now outnumber men in many courses. All these are real gains. And yet, when you walk through the campus—or try staying late, try sitting at a dhaba near the hostel, or try participating in student politics—you quickly realise that public space, here as elsewhere, is not neutral. It is negotiated, regulated, and at times, denied.
+          </p>
+
+          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">The Curfew Rule</h2>
+          <p class="mb-6 leading-relaxed">
+            Take the curfew rule. In December 2022, after a scuffle near the midnight canteen, the university administration issued a notice: girls' hostels would now close at 8 PM, boys' at 10. The rationale was security. But what many students heard instead was a familiar message—when something goes wrong, restrict the women. Conversations began almost immediately. Why two sets of rules? Why not improve campus security instead? Some protested formally; others simply adapted in silence, as they always have.
+          </p>
+
+          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">Hostel Conditions and Voice Suppression</h2>
+          <p class="mb-6 leading-relaxed">
+            Or take the hostels themselves. In one women's hostel, students had raised concerns about food quality, lack of medical care, and repeated intimidation. Instead of being heard, six of them received show-cause notices. In another instance, the hostel provost allegedly told residents not to post about hostel conditions online—threatening suspension if they did. These are not isolated stories. They reflect an everyday atmosphere where rules are not always gender-neutral, and where speaking up can be as difficult as staying silent.
+          </p>
+
+          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">Informal Segregation</h2>
+          <p class="mb-6 leading-relaxed">
+            Even in classrooms and libraries, informal segregation persists. Students often self-segregate by gender during lectures. In canteens, it is rare to see mixed groups in equal proportion. In the absence of overt hostility, there is still a quiet sense of who belongs where, and when. A female student once said, half-joking, "We can walk the whole campus. We just have to keep checking the time and who's around." It wasn't a complaint. It was a description of how one learns to move.
+          </p>
+
+          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">Student Politics and Violence</h2>
+          <p class="mb-6 leading-relaxed">
+            Student politics, too, remains complicated. In the 1990s and early 2000s, LU was known for highly aggressive student politics—bricks were thrown, bombs reportedly used, and many parents pulled their daughters out altogether. Today, those levels of violence have subsided, and a new generation of student organisations is raising important questions about equality, representation, and safety. But elections have been suspended for almost two decades. For women, particularly, this has meant fewer platforms to formally voice their concerns. When they do speak—in protests, meetings, or simply on social media—the response is not always welcoming.
+          </p>
+
+          <p class="mb-6 leading-relaxed">
+            Just this April, the campus saw a series of violent clashes between student groups that left nearly twenty injured, once again raising questions about accountability, safety, and the culture of impunity that some students seem to enjoy. It is in this context that earlier remarks by the Vice Chancellor, made on International Women's Day—where he equated feminism with casteism and declared that "all isms are bad"—land not as harmless abstractions, but as part of a larger pattern of resistance to gender-conscious reform.
+          </p>
+
+          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">Signs of Change</h2>
+          <p class="mb-6 leading-relaxed">
+            That said, the picture is not entirely bleak. Many students, both women and men, have begun to push back—not always through confrontation, but through consistent engagement. Cultural groups, gender collectives, and informal peer networks have created spaces for dialogue. Events like "Spaces," organised by the Gender Sensitization Cell, have tried to bring these conversations out of classrooms and into lawns, canteens, and common areas. The university's decision to initiate policies toward transgender inclusion is also a step, though early.
+          </p>
+
+          <p class="mb-6 leading-relaxed">
+            Still, inclusion cannot be declared. It must be practiced. A student may attend a gender sensitization workshop, and still hesitate to walk across the boys' hostel lawn at night. Another may know the procedure to file a complaint, and still choose not to, fearing retaliation. Progress does not erase contradiction. It brings it into view.
+          </p>
+
+          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">Redefining Space</h2>
+          <p class="mb-6 leading-relaxed">
+            So, is public space at Lucknow University gendered? Of course it is. But not in a singular way. It is gendered through rules, routines, assumptions, silences. It is gendered when women leave early because they must, or when queer students avoid being seen together in certain corners. It is gendered when safety becomes a reason to curtail rather than enable freedom.
+          </p>
+
+          <p class="mb-6 leading-relaxed">
+            But it is also being redefined—by students who stay a little longer, speak a little louder, or ask better questions.
+          </p>
+
+          <p class="mb-6 leading-relaxed">
+            Because the question is not just: "Is this space ours?"
+          </p>
+
+          <p class="mb-6 leading-relaxed">
+            The question is: "On what terms?"
           </p>
         </div>
       </div>
     `,
     excerpt: "An exploration of gender dynamics and everyday experiences at Lucknow University, examining how spatial arrangements, academic interactions, and institutional policies shape campus life.",
-    image: "/Shantam.jpeg",
+    image: "/Campus.jpeg",
     author: {
       id: "14",
       name: "Shantam",
