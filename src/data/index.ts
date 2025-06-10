@@ -206,6 +206,51 @@ I'll be here, ready to ask the next why and learn from every conversation.`,
     categories: ["Public Administration", "Rural Development", "Research Methodology", "Governance", "Policy Analysis"],
     isFaculty: true,
   },
+  {
+    id: "14",
+    name: "Trishla Chaudhary",
+    username: "trishla-chaudhary",
+    image: "/Trishla.jpeg",
+    bio: "I'm Trishla Chaudhary, semi-responsible and chaos personified and a collection of paradoxes. I'm a second-year majoring in Ancient Indian History and Political Science with a passion for literature that extends beyond the pages. I have a keen interest in international relations and a love for learning new languages. In my free time, I read about anything and everything, and try to convince people that Dostoevsky is a genre in itself. LU.Chronicles gives me space to explore new literary horizons and evolve as a thinker.",
+    email: "trishla@luchronicles.edu",
+    designation: "Member",
+    course: "B.A.",
+    categories: ["Arts & Culture", "International", "Blogs"],
+    articlesCount: 5
+  },
+  {
+    id: "15",
+    name: "Shantam",
+    username: "shantham",
+    image: "/Shantam.jpeg",
+    bio: "Crazy people don't know they're crazy. I know I'm crazy, therefore I'm not crazy, isn't that crazy?",
+    email: "shantham@luchronicles.edu",
+    designation: "Anonymous Writer",
+    categories: ["Blogs", "Op-ed"],
+    articlesCount: 3
+  },
+  {
+    id: "14",
+    name: "Shantam",
+    username: "shantam",
+    image: "/Shantam.jpeg",
+    bio: "Shantam is a writer and researcher focused on gender studies and campus life.",
+    email: "shantam@luchronicles.edu",
+    designation: "Writer",
+    categories: ["University", "Features"],
+    articlesCount: 1
+  },
+  {
+    id: "15",
+    name: "Trishla",
+    username: "trishla",
+    image: "/Trishla.jpeg",
+    bio: "Trishla is a writer and activist focused on international relations and human rights.",
+    email: "trishla@luchronicles.edu",
+    designation: "Writer",
+    categories: ["International", "Op-ed"],
+    articlesCount: 1
+  }
 ];
 
 // Sample Articles
@@ -1078,6 +1123,231 @@ export const articles: Article[] = [
     views: 1100,
     likes: 75,
     comments: [],
+  },
+  {
+    id: "article-1",
+    title: "Whose Campus Is It Anyway? Gender and Everyday Life at Lucknow University",
+    slug: "whose-campus-is-it-anyway",
+    content: `
+      <div class="article-content">
+        <div class="article-header">
+          <h1 class="text-4xl font-serif font-bold mb-6">Whose Campus Is It Anyway? Gender and Everyday Life at Lucknow University</h1>
+          <div class="flex items-center space-x-4 mb-8">
+            <img src="/Shantam.jpeg" alt="Shantam" class="w-12 h-12 rounded-full" />
+            <div>
+              <p class="font-medium">Shantam</p>
+              <p class="text-gray-600">June 10, 2025</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="prose prose-lg max-w-none">
+          <p class="mb-6 leading-relaxed">
+            The University of Lucknow, established in 1921, stands as a testament to the rich educational heritage of India. However, beyond its academic excellence, the university's campus life reveals a complex tapestry of gender dynamics that shape the everyday experiences of its students.
+          </p>
+
+          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">The Gendered Landscape</h2>
+          <p class="mb-6 leading-relaxed">
+            Walking through the university's main campus, one immediately notices the spatial segregation that exists. The library, often considered the heart of academic life, sees a clear division in seating patterns. Female students tend to cluster in specific areas, while male students dominate others. This unspoken arrangement isn't enforced by rules but has become an unwritten norm that students follow.
+          </p>
+
+          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">Academic Spaces and Gender</h2>
+          <p class="mb-6 leading-relaxed">
+            In classrooms, the dynamics are equally complex. While female students are increasingly visible in traditionally male-dominated fields like science and technology, they often face subtle forms of discrimination. During group discussions, their voices are sometimes overshadowed, and their contributions may be attributed to male group members.
+          </p>
+
+          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">The Hostel Experience</h2>
+          <p class="mb-6 leading-relaxed">
+            The university's hostel system further highlights these gender disparities. Female hostels have stricter curfew times and more rigid rules compared to their male counterparts. While these rules are often justified as measures for safety, they reinforce traditional gender roles and limit the freedom of female students.
+          </p>
+
+          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">Extracurricular Activities</h2>
+          <p class="mb-6 leading-relaxed">
+            Sports and cultural activities present another layer of gender dynamics. While the university has made efforts to promote women's participation in sports, the infrastructure and support systems often fall short. Cultural events, though more inclusive, still see certain activities being gender-coded, with dance and fine arts being predominantly female domains.
+          </p>
+
+          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">Moving Forward</h2>
+          <p class="mb-6 leading-relaxed">
+            The University of Lucknow, like many educational institutions in India, stands at a crossroads. While it has made significant progress in terms of gender inclusion, there's still much work to be done. Creating truly inclusive spaces requires not just policy changes but a fundamental shift in how we understand and practice gender equality in educational settings.
+          </p>
+
+          <p class="mb-6 leading-relaxed">
+            As we move forward, it's crucial to engage in open dialogues about these issues, involve all stakeholders in decision-making processes, and work towards creating a campus environment that truly belongs to everyone, regardless of gender.
+          </p>
+        </div>
+      </div>
+    `,
+    excerpt: "An exploration of gender dynamics and everyday experiences at Lucknow University, examining how spatial arrangements, academic interactions, and institutional policies shape campus life.",
+    image: "/Shantam.jpeg",
+    author: {
+      id: "14",
+      name: "Shantam",
+      username: "shantam",
+      image: "/Shantam.jpeg"
+    },
+    category: "campus-life",
+    date: "2025-06-10T00:00:00Z",
+    readTime: "8",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["gender", "campus life", "education", "social issues"]
+  },
+  {
+    id: "article-2",
+    title: "Every word has consequences. Every silence too.- Neutrality in the time of war.",
+    slug: "neutrality-in-time-of-war",
+    content: `
+      <div class="article-content">
+        <div class="article-header">
+          <h1 class="text-4xl font-serif font-bold mb-6">Every word has consequences. Every silence too.- Neutrality in the time of war.</h1>
+          <div class="flex items-center space-x-4 mb-8">
+            <img src="/Trishla.jpeg" alt="Trishla" class="w-12 h-12 rounded-full" />
+            <div>
+              <p class="font-medium">Trishla</p>
+              <p class="text-gray-600">June 10, 2025</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="prose prose-lg max-w-none">
+          <p class="mb-6 leading-relaxed">
+            When the League of Nations on June 30, 1936, Ethiopian Emperor Haile Selassie delivered the powerful words, "It is us today, tomorrow it will be you." This statement was a warning to the world about the consequences of failing to stand up against aggression, genocide, and oppression because it was not their problem. Privilege is when you think something is not a problem when it's not a problem to you personally.
+          </p>
+
+          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">The Lesson of History</h2>
+          <p class="mb-6 leading-relaxed">
+            The lesson of history is that no one learns from it. The holocaust, the Rwandan Genocide (1994), The Bosnian Genocide (1992-1995) ongoing armed conflicts like the Syrian Civil War (since 2011), the Sudanese Civil War (2023), the Russia-Ukraine war, the Israel-Hamas war tell us Silence—whether out of fear, complicity, indifference, or helplessness—can lead to a range of ethical, political, and humanitarian outcomes.
+          </p>
+
+          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">Complicity or Participation</h2>
+          <p class="mb-6 leading-relaxed">
+            Silence frequently means implicit consent. Individuals or nations are complicit in wartime if they keep silent in the face of atrocities like war crimes, genocide, or oppression. Aggressors encounter fewer challenges and gather steam when dissent is reduced or nonexistent. In conflicts fueled by propaganda, silence can validate the aggressor's story.
+          </p>
+
+          <p class="mb-6 leading-relaxed">
+            One of the first things to be lost during a war is frequently the truth. False narratives can take center stage when there is silence. If no one reports abuses or speaks out, war criminals may go unpunished.
+          </p>
+
+          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">Deliberately Silenced or Preferably Unheard</h2>
+          <p class="mb-6 leading-relaxed">
+            Companies and universities in many countries cracked down on pro-victim activism. They were silenced and punished. Our silence manifests in several ways:
+          </p>
+
+          <ul class="list-disc pl-6 mb-6">
+            <li class="mb-2">Lack of strong diplomatic condemnation or pressure</li>
+            <li class="mb-2">Failure to impose meaningful sanctions or consequences on aggressors</li>
+            <li class="mb-2">Outright failure of global institutions that were built to stop such conflicts</li>
+          </ul>
+
+          <p class="mb-6 leading-relaxed">
+            The current conflicts all around the world reflect a failure of the United Nations to prevent and punish war crimes, crimes against humanity, and genocide.
+          </p>
+
+          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">Conclusion</h2>
+          <p class="mb-6 leading-relaxed">
+            Silence in the face of war or injustice is often not neutral—it can be a form of complicity. Are we willing to face the judgment of future generations who'd look back and question our silence? Neutrality helps the oppressor, never the oppressed. The history of appeasement and silence shows us: that the bill comes due eventually with interest attached.
+          </p>
+
+          <p class="mb-6 leading-relaxed">
+            Silence during war isn't neutral—it is a choice that carries weight. The cost of silence is often measured in human suffering.
+          </p>
+        </div>
+      </div>
+    `,
+    excerpt: "An exploration of the moral implications of silence and neutrality during times of war and conflict, examining historical precedents and contemporary challenges.",
+    image: "/Nut.jpeg",
+    author: {
+      id: "15",
+      name: "Trishla",
+      username: "trishla",
+      image: "/Trishla.jpeg"
+    },
+    category: "op-ed",
+    date: "2025-06-10T00:00:00Z",
+    readTime: "10",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["war", "neutrality", "human rights", "international relations"]
+  },
+  {
+    id: "article-3",
+    title: "The United Nations: A Flawed Guardian for Peace",
+    slug: "united-nations-flawed-guardian",
+    content: `
+      <div class="article-content">
+        <div class="article-header">
+          <h1 class="text-4xl font-serif font-bold mb-6">The United Nations: A Flawed Guardian for Peace</h1>
+          <div class="flex items-center space-x-4 mb-8">
+            <img src="/Aliya.jpeg" alt="Aliya Imam" class="w-12 h-12 rounded-full" />
+            <div>
+              <p class="font-medium">Aliya Imam</p>
+              <p class="text-gray-600">June 10, 2025</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="prose prose-lg max-w-none">
+          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">The Promise of Peace: Origins and Ideals of the United Nations</h2>
+          <p class="mb-6 leading-relaxed">
+            The United Nations is an 80-year-old institution, formed to preserve peace and harmony at the global level. Founded in 1945, in the aftermath of World War II, it brought together 51 nations committed to building a better world. Unlike previous forms of world government, the UN was proposed by key leaders as varied as Franklin D. Roosevelt to Winston Churchill and Albert Einstein to Latin American powers.
+          </p>
+
+          <p class="mb-6 leading-relaxed">
+            However, ever since the formation, we have witnessed disputes escalating into wars and, consequently, the loss of innocent lives. This raises a fundamental question — Why does the UN fail in its core mission of maintaining international peace and security?
+          </p>
+
+          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">The Reality of Power: Failures, Corruption, and Global Injustice</h2>
+          <p class="mb-6 leading-relaxed">
+            Across the globe, nations engage in wars—defensive, territorial, or simply rooted in power politics. Viewed through a moral lens, these wars yield only destruction: innocent civilians killed, frontliners buried, while the people who orchestrate these wars remain safe behind their high walls of privilege & power.
+          </p>
+
+          <p class="mb-6 leading-relaxed">
+            The United Nations has witnessed and, in many cases, contributed to many dramatic failures — the recent ranging from structural power imbalance in the Israel–Palestine conflict, where the UN system has been unable to stop the ongoing genocide against the Gazans, to the failing of United Nations Security Council in creating the framework conditions to facilitate the mediation in the Russia–Ukraine crisis.
+          </p>
+
+          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">The Veto Power Problem</h2>
+          <p class="mb-6 leading-relaxed">
+            A significant problem of the United Nations lies in the systematic restriction on which it operates. The power which is granted in — "Article 27 (3) of the Charter establishes that all substantive decisions of the Council must be made with "the concurring votes of the permanent members (P5)." The veto power granted to the permanent members hinders the UN Security Council's (UNSC) ability to act, as these nations use veto to block any intervention based on alliances, military deals, or geopolitics.
+          </p>
+
+          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">Corruption and Accountability</h2>
+          <p class="mb-6 leading-relaxed">
+            Beyond structural issues like the misuse of veto power, the UN has also problems with internal accountability and ethical governance, particularly in cases of corruption that have severely sullied its reputation. Like any institution, the UN is not "immune." In 1996, under strict sanctions following the First Gulf War, the UN Security Council started the Oil-for-Food program, which allowed Iraq to pay for food and other necessities for its people, with oil.
+          </p>
+
+          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">The Urgent Need for Change</h2>
+          <p class="mb-6 leading-relaxed">
+            Maybe in its early years, the United Nations functioned. But today, in this age of modernity, it is just a group of suits sitting around discussing sensitive issues, like war and hunger, from air-conditioned offices. Nothing gets resolved on the ground. Kids die of hunger, not due to the lack of resources, but due to the lack of empathy and sense of urgency.
+          </p>
+
+          <p class="mb-6 leading-relaxed">
+            The UN is not proactive but instead reactive. It lacks enforceable powers and is often paralyzed by political stalemate. It may have supranational powers, but it is not very effective when there are great powers involved. When their interests clash, the UN's ability to prevent or resolve a crisis is at best symbolic, defeating the very purpose of its existence.
+          </p>
+
+          <h2 class="text-2xl font-serif font-bold mt-8 mb-4">Conclusion</h2>
+          <p class="mb-6 leading-relaxed">
+            Therefore, if the question is: Do we still need the UN? The answer is no — not unless it is radically changed. The UN must be less arrogant about its shortcomings, and more willing to change itself into an institution which can respond to the needs of the world today.
+          </p>
+        </div>
+      </div>
+    `,
+    excerpt: "A critical analysis of the United Nations' effectiveness in maintaining global peace and security, examining its structural limitations and recent failures.",
+    image: "/UN.jpeg",
+    author: {
+      id: "9",
+      name: "Aliya Imam",
+      username: "aliya-imam",
+      image: "/Aliya.jpeg"
+    },
+    category: "op-ed",
+    date: "2025-06-10T00:00:00Z",
+    readTime: "12",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["United Nations", "international relations", "peace", "global governance"]
   },
 ];
 
