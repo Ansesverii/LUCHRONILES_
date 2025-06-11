@@ -15,7 +15,9 @@ const Team = () => {
       author.id !== "12" &&    // Atharv Manshar's ID
       author.id !== "14" && // Exclude Trishla Chaudhary from 'Other Members'
       author.id !== "15" && // Exclude Anonymous (Jack Sparrow) from 'Other Members'
-      author.id !== "16" // Exclude Anonymous (gender studies) from 'Other Members'
+      author.id !== "16" && // Exclude Anonymous (gender studies) from 'Other Members'
+      author.username !== "trishla-chaudhary" && // Exclude Trishla from OUR HEADS
+      author.username !== "trishla" // Exclude any other Trishla profiles
     )
     .sort((a, b) => (b.articlesCount || 0) - (a.articlesCount || 0)); // Sort by article count
 

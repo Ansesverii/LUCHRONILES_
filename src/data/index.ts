@@ -1000,8 +1000,8 @@ export const articles: Article[] = [
   {
     id: "running-dry-india-water-crisis",
     title: "Running Dry: India's Escalating Water Crisis Under Climate Change",
-    slug: "running-dry-india-water-crisis",
-    excerpt: "With just 4% of the world's freshwater and 18% of its population, India's water math no longer adds up. This mismatch places India among the most water-stressed nations in the world.",
+    slug: "running-dry-indias-escalating-water-crisis-under-climate-change",
+    excerpt: "A comprehensive analysis of India's water crisis and its implications under climate change.",
     content: `
       <div class="article-content">
         <p class="intro-paragraph">
@@ -1116,7 +1116,7 @@ export const articles: Article[] = [
       image: "/Hetal.jpeg"
     },
     category: "National",
-    date: "2025-06-09",
+    date: "2025-06-10",
     readTime: "12 min read",
     image: "/water.jpeg",
     featured: true,
@@ -1321,6 +1321,171 @@ export const articles: Article[] = [
     comments: [],
     tags: ["United Nations", "international relations", "peace", "global governance"]
   },
+  {
+    id: "100",
+    title: "Unpacking the PSLV malfunction: Impacts and the road ahead for ISRO",
+    slug: "unpacking-the-pslv-malfunction-impacts-and-the-road-ahead-for-isro",
+    excerpt: "A detailed analysis of the PSLV-C61 mission failure and its implications for India's space program.",
+    content: `
+      <h2>What is PSLV?</h2>
+      <p>The Polar Satellite Launch Vehicle or the PSLV is the third generation launch vehicle of India. It is the first Indian launch vehicle to be equipped with liquid stages. It has been employed to carry satellites to orbit in a lot of missions, including the famous Chandrayaan-1 in 2008 and the Mars orbiter spacecraft in 2013, which are just a few of the many feathers in its cap.</p>
+      
+      <p>Through its consistent use in missions of the ISRO, the PSLV has earned the title of the 'Workhorse of the ISRO' through delivery of various satellites into low earth orbits. It is famous for its unmatched reliability, and has been used to launch satellites into the Geosynchronous and Geostationary orbits.</p>
+      
+      <p>The long string of consecutive successes and multi-satellite launch capability has reinforced the status of PSLV as a reliable, versatile and affordable launcher in the global market.</p>
+
+      <h2>What caused the malfunction?</h2>
+      <p>The Indian space research organization (ISRO) had launched the Polar Satellite Launch Vehicle (PSLV) at 5.59 am from Sriharikota Satish Dhawan Space Center, but during the critical third stage, the rock lost its trajectory midway.</p>
+      
+      <p>To understand the reason behind the anomaly in the third stage – we need to look at how PSLV executes its launch. PSLV is a four staged launcher with four successive propulsion phases. They are:</p>
+      
+      <p><strong>Stage 1: Solid Reaction Booster – ps1</strong>, its purpose is to provide the initial thrust to lift the rocket from the ground, in XL configuration vehicles, there are larger boosters for the greater thrust.</p>
+      
+      <p><strong>Stage 2: Liquid Engine-ps2</strong>, this stage continues to accelerate the vehicle after the stage 1 separation.</p>
+      
+      <p><strong>Stage 3: Solid Rocket Motor</strong>, it offers additional propulsion in the thinner atmosphere, just before orbital injection. It is allocated as the High performance stage 3(HPS3)</p>
+      
+      <p><strong>Stage 4: Liquid Engine (ps4)</strong>, it is tasked with precise orbital injection of the satellite payloads.</p>
+      
+      <p>The 44.5 meter-tall rocket's solid fueled ps1 and liquid fueled ps2 stage operated according to the plan. The issue occurred at 203 seconds into the flight during the ps3 motor phase, when the telemetry indicated a sudden drop in the chamber pressure. This impacted the performance of the fourth stage and subsequently led to failure of the mission.</p>
+      
+      <p>ISRO has constituted, High Level Failure Analysis Committee to review the ps3's manufacturing and the test protocols. Meanwhile the engineers are analysing flight data to determine whether the issue stemmed from propellant flow irregularities, nozzle anomalies, or structural failures. It is suspected that malfunction happened in the flex nozzle control, a critical component that directs precise thrust by adjusting the rocket nozzle's orientation without the use of complex hydraulic actuators. However, nothing is yet confirmed.</p>
+
+      <h2>The way ahead</h2>
+      <p>While the PSLV-C61 mission did not achieve its intended outcome, it highlights the complexities and inherent risks of space exploration. Over the decades, the PSLV has proven to be a cornerstone of India's space program, delivering major successes such as Chandrayaan-1 and Mangalyaan, and cementing ISRO's reputation as a dependable and cost-effective launch provider.</p>
+      
+      <p>This rare failure does not diminish the launch vehicle's legacy but rather serves as a critical opportunity for reflection and advancement. ISRO's swift formation of a High-Level Failure Analysis Committee and the detailed examination of telemetry data underscore its commitment to transparency, learning, and progress.</p>
+      
+      <p>Such setbacks, while unfortunate, are part and parcel of scientific evolution. Each anomaly brings valuable insights that drive improvements in engineering, safety, and performance. Strengthening the PSLV system through these lessons will only bolster India's capability in the global space arena, ensuring that it remains resilient, innovative, and ever forward-looking.</p>
+    `,
+    image: "/Pslv failure.jpeg",
+    category: "Sci-tech",
+    author: [
+      {
+        id: "2",
+        name: "Hetal Kothari",
+        username: "hetal-kothari",
+        image: "/Hetal.jpeg"
+      },
+      {
+        id: "5",
+        name: "Atulit Pandey",
+        username: "atulit-pandey",
+        image: "/Atlut.jpeg"
+      },
+      {
+        id: "6",
+        name: "Prerna Srivastava",
+        username: "prerna-srivastava",
+        image: "/Perna.jpeg"
+      },
+      {
+        id: "9",
+        name: "Aliya Imam",
+        username: "aliya-imam",
+        image: "/Aliya.jpeg"
+      }
+    ],
+    date: "June 11, 2025",
+    readTime: "8 min read",
+    views: 1500,
+    likes: 120,
+    tags: ["ISRO", "PSLV", "Space Technology", "Science"],
+    featured: true
+  },
+  {
+    id: "101",
+    title: "GUKESH'S WIN AT NORWAY CHESS '25: NAVIGATING INDIA'S CHESS RENAISSANCE",
+    slug: "gukesh-win-at-norway-chess-25-navigating-indias-chess-renaissance",
+    excerpt: "India's chess prodigy Dommaraju Gukesh makes history by defeating World Champion Magnus Carlsen at Norway Chess 2025.",
+    content: `
+      <h2>Gukesh's Triumph</h2>
+      <p>The Norway Chess is a flagship closed annual event in the world of chess. When looking at Gukesh's run at the tournament, it is rather a hiccup in the beginning with Gukesh losing against Carlsen in the first game. The turning point came with Gukesh keeping a winning streak, beating Nakamura, Carlsen, Caruana and Erigaisi. He is set to meet Wei Yi in the 9th round (as of 6th June, 2025).</p>
+      
+      <p>Dommaraju Gukesh has been a highly commended chess prodigy becoming the second youngest GrandMaster at the age of 12. Gukesh has clenched wins at competitions like Tata Chess, Norway Chess and the highly coveted Candidates. He beat the then defending world champion Ding Liren in Candidates to become the World Champion at just 18 years of age. Being under Vishy's guidance, Gukesh carries India's flag ahead in chess.</p>
+
+      <h2>Indians in Chess</h2>
+      <p>A little history first, modern chess in India began officially with the formation of All India Chess Federation in 1951 but History wasn't created yet, just the first page was opened and the first heading written "INDIA". Chess, although finding its presence even in the 6th century BCE during the reigns of Guptas, staggered to find its place in a newly founded nation that had millions of mouths to feed and a billion problems to fight before it could focus completely on playing. But, when history did start to be written, it left the world awestruck.</p>
+      
+      <p>This history that I am talking about is none but beloved Vishy Anand! Becoming India's Grand Master in 1988 at the age of 19, Anand set the ball rolling for generations of players that was to come. His career was nothing short of legendary, a story that would be narrated alongside that of Sachin Tendulkar, Leander Paes or Sunil Chhetri. This man single handedly taught India to watch and understand chess.</p>
+      
+      <p>Indian chess, which might be perceived by some as a male dominated sport, defies all barriers and proves myths wrong, women walk shoulder-to-shoulder and take the lead in a trajectory similar to that of men. Subbaraman Vijayalaksmi became the country's first Woman International Master and then a Grand Master. India's first Chess Olympiad medal was a bronze in 2014 and the streak of wins has not stopped since.</p>
+      
+      <p>This article can never find itself completed without mentioning our present-day wonder women of chess, Vaishali Rameshbabu, Diya Deshmukh, Tania Sachdeva inter alia, who carried the Indian flag high at a myriad of tournaments. These are the players that carry the Indian flag high, with unwavering confidence and a hunger, of not just winning but dominating, they are the writers of the India chapter in the contemporary world.</p>
+      
+      <p>The combined efforts of authorities and players have strengthened India's position in World Chess, in words of Hikaru Nakamura,</p>
+      
+      <p>"India is basically the new Soviet Union as far as chess goes"</p>
+      
+      <p>This basically signifies the Indian prowess in chess that can be compared to what the Soviets held at a time when they dominated the discipline. As of December 2024, India boasts 85 chess grandmasters, with 13 ranked among the world's top 100 players. The country has over 30,000 rated players actively participating in officially sanctioned tournaments nationwide. This robust participation has solidified India's status as a chess superpower, with its top 10 players achieving an average Elo rating of 2721, ranking second globally.</p>
+      
+      <p>As of May 2025, FIDE rankings include 4 Indians in the top 10 players of the game in the world, which is nothing short of being proud of.</p>
+      
+      <p>The renaissance continues, each tournament writes a new story, like poetry in making. Each tournament brings a fresh set of challenges, but it is us, Indians, we are built for challenges, conditioned to dominate and taught to bow in respect. With the spotlight shifting and chess gaining attention among the masses, so much so that schools have started teaching the game and coaching academies are sprouting rapidly, it is not very far in future that India will be chess-smart, and many more Praggs and Gukesh will be among us, history is being written, and we, readers, are the eyewitnesses of it.</p>
+    `,
+    image: "/Chess.jpeg",
+    category: "Sports",
+    author: {
+      id: "5",
+      name: "Atulit Pandey",
+      username: "atulit-pandey",
+      image: "/Atlut.jpeg"
+    },
+    date: "June 11, 2025",
+    readTime: "10 min read",
+    views: 2000,
+    likes: 180,
+    tags: ["Chess", "Gukesh", "Norway Chess", "Sports"],
+    featured: true
+  },
+  {
+    id: "102",
+    title: "GCC Boom in Pune: A Quiet Revolution Changing the Office Economy in India",
+    slug: "gcc-boom-in-pune-a-quiet-revolution-changing-the-office-economy-in-india",
+    excerpt: "How Pune is transforming into a major hub for Global Capability Centres, reshaping India's office economy.",
+    content: `
+      <h2>From Education Hub to Global Operations Nerve Center</h2>
+      <p>More than 350 GCCs call Pune home as of 2025, and between them, they employ close to 270,000 professionals. With this rate of growth, the city is now on par with established IT giants like Hyderabad and Bengaluru. Furthermore, unlike these other hubs which are constantly saturated, Pune has a unique combination of high-quality talent, low operational costs, and best in class living standards which is hard to come by, especially for multinational companies looking to invest for the long-term.</p>
+      
+      <p>What makes Pune's surging development so remarkable is that it does not negatively impact the quality of talent, and instead focuses on scaling efficiently. The preeminence of world-class academic institutions, an emerging startup ecosystem, and a high level of technical skill in the region drives interest in the city for business functions including finance, engineering, analytics, and even digital innovation.</p>
+
+      <h2>Flexibility at the Forefront</h2>
+      <p>Pune's growing prominence is best exemplified by the city's shifting real estate market. During the first quarter of 2025 alone, GCCs leased more than 1.1 million square feet of office space, which represents a nearly fourfold increase relative to the last year's same period. Co-working and flexible spaces made up almost 43% of this leasing activity, which is a staggering figure.</p>
+      
+      <p>This is yet another sign of a drastic shift in the workspace design strategy undertaken by global firms. The new approach prioritizes flexibility and hybrid work models that can quickly scale up or down, something that Pune's commercial real estate operators have been eager to serve. Such arrangements provide organizations a frictionless way to grow or retreat from physical spaces they occupy in a world that is post-pandemic sensitive to change.</p>
+
+      <h2>The Mid-Market Engine</h2>
+      <p>The major players in business expansion operations now take a back seat to the emerging mid-sized companies and debutants. The past five years saw the establishment of more than 110 mid-market GCCs in Pune which were primarily funded by private equity and specialized in advanced sectors including AI, machine learning, data science, and cybersecurity.</p>
+      
+      <p>The business centers function with minimal organizational layers which enables them to execute projects quickly while staying adaptable to market requirements. Employees at these organizations experience rapid advancement to leadership positions at a significantly higher rate when compared to their peers at larger GCCs. The city of Pune stands out as a fast lane for emerging professionals who aim to engage with state-of-the-art technologies.</p>
+
+      <h2>Institutional Momentum</h2>
+      <p>The establishment of Pune as a GCC hub results from both active institutional support and corporate investments. TransUnion stands as a prime example because they transformed their India capability center in Pune from a small pilot project with 10 employees to a major operation with 1,200 staff in just two years. Success stories in Pune demonstrate the city's ability to foster both quick expansion and sustainable development.</p>
+      
+      <p>The city hosted the ET GCC Growth Summit 2025 as a platform that united global thought leaders with policymakers and innovators to explore the direction of worldwide business operations. The strategic role of Pune in India's global services narrative gains strength through the confidence shown by these platforms.</p>
+
+      <h2>A Look Ahead</h2>
+      <p>The GCC sector of India is predicted to reach $105 billion by 2030 after starting at $64.6 billion in FY24. The number of GCCs will surge past 2,100 facilities while employment will count 2.8 million personnel which positions Pune to acquire a significant portion of this growth.</p>
+      
+      <p>Pune's transformation mirrors the wider change in India's office economy which now prioritizes talent concentration instead of traditional location advantages and strategic operational freedom instead of established facilities. When companies want to discover what lies beyond the expected pathway, Pune emerges as a prime choice through its unassuming power and operational capacity.</p>
+      
+      <p>During the upcoming decade Pune will lead the development of what future GCCs will look like.</p>
+    `,
+    image: "/Pcc.jpeg",
+    category: "National",
+    author: {
+      id: "7",
+      name: "Abhinav Kumar Upadhyay",
+      username: "abhinav-upadhyay",
+      image: "/Abhinav Kumar Upadhyay .jpeg"
+    },
+    date: "June 11, 2025",
+    readTime: "12 min read",
+    views: 1800,
+    likes: 150,
+    tags: ["Business", "GCC", "Pune", "Economy"],
+    featured: true
+  }
 ];
 
 // Admin users

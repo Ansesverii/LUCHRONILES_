@@ -57,14 +57,30 @@ const Article = () => {
         <div className="flex items-center space-x-4 mb-6">
           <div className="flex items-center">
             <img 
-              src={article.author.image} 
-              alt={article.author.name} 
+              src={Array.isArray(article.author) ? article.author[0]?.image : article.author?.image} 
+              alt={Array.isArray(article.author) ? article.author[0]?.name : article.author?.name} 
               className="w-10 h-10 rounded-full mr-3"
             />
             <div>
-              <Link to={`/author/${article.author.username}`} className="author-link block">
-                {article.author.name}
-              </Link>
+              {Array.isArray(article.author) ? (
+                <div className="flex flex-wrap gap-2">
+                  {article.author.map((author, idx) => (
+                    <Link
+                      key={author.username}
+                      to={`/author/${author.username}`}
+                      className="author-link block font-medium text-luChronicles-black hover:underline"
+                    >
+                      {author.name}{Array.isArray(article.author) && idx < article.author.length - 1 ? ',' : ''}
+                    </Link>
+                  ))}
+                </div>
+              ) : (
+                article.author && (
+                  <Link to={`/author/${article.author.username}`} className="author-link block">
+                    {article.author.name}
+                  </Link>
+                )
+              )}
               <span className="text-sm text-gray-500">{article.date}</span>
             </div>
           </div>
@@ -88,23 +104,41 @@ const Article = () => {
           <div className="bg-gray-50 p-6 rounded-lg my-8">
             <div className="flex flex-col sm:flex-row items-center sm:items-start space-y-4 sm:space-y-0 sm:space-x-4">
               <img 
-                src={article.author.image} 
-                alt={article.author.name} 
+                src={Array.isArray(article.author) ? article.author[0]?.image : article.author?.image} 
+                alt={Array.isArray(article.author) ? article.author[0]?.name : article.author?.name} 
                 className="w-24 h-24 rounded-full"
               />
               <div className="text-center sm:text-left">
-                <Link to={`/author/${article.author.username}`} className="font-serif text-xl font-bold hover:underline">
-                  {article.author.name}
-                </Link>
+                {Array.isArray(article.author) ? (
+                  <div className="flex flex-wrap gap-2 justify-center sm:justify-start">
+                    {article.author.map((author, idx) => (
+                      <Link
+                        key={author.username}
+                        to={`/author/${author.username}`}
+                        className="font-serif text-xl font-bold hover:underline"
+                      >
+                        {author.name}{Array.isArray(article.author) && idx < article.author.length - 1 ? ',' : ''}
+                      </Link>
+                    ))}
+                  </div>
+                ) : (
+                  article.author && (
+                    <Link to={`/author/${article.author.username}`} className="font-serif text-xl font-bold hover:underline">
+                      {article.author.name}
+                    </Link>
+                  )
+                )}
                 <p className="text-gray-700 mt-2">
                   Author at LU Chronicles
                 </p>
-                <Link 
-                  to={`/author/${article.author.username}`}
-                  className="inline-block mt-2 text-sm font-medium text-luChronicles-black hover:underline"
-                >
-                  View Profile and Articles
-                </Link>
+                {!Array.isArray(article.author) && article.author && (
+                  <Link 
+                    to={`/author/${article.author.username}`}
+                    className="inline-block mt-2 text-sm font-medium text-luChronicles-black hover:underline"
+                  >
+                    View Profile and Articles
+                  </Link>
+                )}
               </div>
             </div>
           </div>

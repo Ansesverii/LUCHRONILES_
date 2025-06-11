@@ -35,12 +35,7 @@ export interface Article {
   content: string;
   image: string;
   category: string;
-  author: {
-    id: string;
-    name: string;
-    username: string;
-    image: string;
-  };
+  author: { id: string; name: string; username: string; image: string } | { id: string; name: string; username: string; image: string }[];
   date: string;
   readTime?: string;
   views?: number;
