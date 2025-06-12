@@ -1015,7 +1015,7 @@ export const articles: Article[] = [
     featured: true,
     views: 1250,
     likes: 89,
-    comments: [],
+    comments: []
   },
   {
     id: "economic-war-china-us",
@@ -1119,7 +1119,7 @@ export const articles: Article[] = [
     featured: true,
     views: 980,
     likes: 67,
-    comments: [],
+    comments: []
   },
   {
     id: "running-dry-india-water-crisis",
@@ -1246,7 +1246,7 @@ export const articles: Article[] = [
     featured: true,
     views: 1100,
     likes: 75,
-    comments: [],
+    comments: []
   },
   {
     id: "article-1",
@@ -1728,6 +1728,219 @@ export const articles: Article[] = [
     likes: 150,
     tags: ["Business", "GCC", "Pune", "Economy"],
     featured: true
+  },
+  {
+    id: "covid-19-rise-and-reigns",
+    title: "The Rise and Reigns of COVID-19",
+    slug: "covid-19-rise-and-reigns",
+    category: "International",
+    date: "12 JUNE 2025",
+    image: "/Covid.jpeg",
+    author: authors.find(a => a.username === "hetal-kothari"),
+    excerpt: "The rise and reigns of COVID-19 represent one of the most significant global challenges of the 21st century, disrupting societies, economies, and public health systems across the world.",
+    content: `
+      <h1>The Rise and Reigns of COVID-19</h1>
+      
+      <p>The rise and reigns of COVID-19 represent one of the most significant global challenges of the 21st century, disrupting societies, economies, and public health systems across the world. Emerging quietly in late 2019, the novel coronavirus, officially named SARS-CoV-2, was first identified in Wuhan, China. Initially, it was linked to a seafood and animal market, where a cluster of pneumonia-like cases baffled health authorities. Within weeks, the virus proved to be highly transmissible and with modern air travel and dense urban populations, it rapidly spread beyond China's borders.</p>
+
+      <h2>New covid-19 variant detected: What we know so far</h2>
+      
+      <p>The JN.1 variant is a new form of the Omicron variant of COVID-19. Like Omicron, it spreads easily, but the JN.1 variant has an extra mutation in its spike protein. This change might affect how the virus spreads or how it reacts to the immune system. Because of this mutation, scientists are watching JN.1 closely to understand if it spreads more easily or causes different symptoms compared to earlier variants like Omicron.</p>
+
+      <p>JN.1 is a subvariant of the Omicron, evolving from the BA.2.86 variant, also known as Pirola. It was first identified in Luxembourg in 2023 and since has gradually spread to other parts of the world, and now India. JN.1 is said to be more transmissible than previous variants due to specific mutations in its spike protein, which helps it bind to humans easily. JN.1 has more than 35 mutations in its spike protein, including several in the receptor-binding domain which directly interacts with the ACE2 receptors on human cells. However, as of now, there is no data to prove that it causes any serious illness.</p>
+
+      <p>The current strain of the COVID-19 virus as reported by INSACOG data, are protein mutations of the JN.1 virus. Till date, 58 genome sequences of NB.1.8.1 have been submitted to the global COVID-19 database, originating from 22 different countries. The NF.7 variant was observed largely in southern parts of India and both NB.1.8.1 and NF.7 have been reported largely from urban metro cities. JN.1 spreads more easily than earlier Omicron sub lineages such as XBB.1.5. JN.1 can partially escape immunity induced by previous infections and vaccines, although not completely.</p>
+
+      <p>Subvariants LF.7 and NB.1.5, seen to be behind recent surges in Covid infections, are descendants of JN.1, meaning they share its core mutational backbone but have acquired additional changes. The current seasonal surge is caused by further sub-variants of JN.1</p>
+
+      <h2>Unusual Symptoms? They could be linked to the NB.1.8.1 strain.</h2>
+
+      <p>Individuals infected with the NB.1.8.1 variant have reported a range of symptoms, some of which differ from those associated with earlier strains of the virus Common early symptoms include:</p>
+
+      <ul>
+        <li>Persistent low-grade hyperthermia: Rather than a high fever, many individuals experience a persistent low-grade increase in body temperature (between 37.6°C and 38.1°C) without the typical sweating or rapid breathing associated with fever. This condition, known as hyperthermia, may indicate an issue with the body's thermoregulation mechanisms.</li>
+        <li>Upper respiratory symptoms</li>
+        <li>Gastrointestinal distress</li>
+        <li>Neurological symptoms</li>
+        <li>Fatigue</li>
+        <li>Sleep disturbances and anxiety</li>
+      </ul>
+
+      <h2>Conclusive insights from latest scientific research</h2>
+
+      <p>Dr. T. Jacob John, a virologist previously associated with Christian Medical College Vellore, has told TOI that there is no cause for concern yet. He, however, emphasized that preventive measures still hold the key in controlling the spread of the virus.</p>
+
+      <p>However, Dr. Rajiv Bahl, Director General of the Indian Council of Medical Research (ICMR), said there was no cause for concern. "As of now, the severity is generally low. There's nothing to worry about. We should be vigilant, and we should always be prepared," the ICMR DG asserted. Dr. Bahl noted an increase in cases—initially in the south, then the west, and now northern India.</p>
+
+      <p>All cases are being monitored through the Integrated Disease Surveillance Program (IDSP), he added. The ICMR DG said that when cases increase, three factors are considered. "It depends on how transmissible the virus is—how quickly cases rise. Previously, we saw cases double in two days, but currently, the rise is slower. "Secondly, we assess whether new variants are evading prior immunity—whether natural or vaccine-induced and the third factor is the percentage of severe cases among all COVID instances. But there's nothing to worry about at this moment" Dr. Bahl said.</p>
+    `,
+    featured: true,
+    views: 1250,
+    likes: 89,
+    comments: []
+  },
+  {
+    id: "beti-bachao-khandwa-rape-case",
+    title: "Beti Bachao, But From Whom: Exploring the Khandwa Rape Case",
+    slug: "beti-bachao-khandwa-rape-case",
+    category: "National",
+    date: "12 JUNE 2025",
+    image: "/Beti.jpeg",
+    author: authors.find(a => a.username === "aliya-imam"),
+    excerpt: "A chilling reminder of the brutal reality women face in India, as we examine the Khandwa rape case and the systemic failures that continue to endanger women's lives.",
+    content: `
+      <h1>Beti Bachao, But From Whom: Exploring the Khandwa Rape Case</h1>
+
+      <h2>A Woman's Right to Live: Another Brutal Reminder</h2>
+
+      <p>As we struggle for equal pay and argue about the need for feminism in today's time, somewhere in India, a woman is struggling for something much more fundamental — the right to live.</p>
+
+      <p>In Madhya Pradesh's Khandwa, a 45-year-old mother of two was gang-raped by two men she knew, with such brutality that her intestines were forced out of her body. This chilling incident took place on May 23, when the victim went to the house of the accused after attending a wedding. They were later joined by another accused.</p>
+
+      <p>The next morning, the accused's mother discovered the victim in a severely injured state. The victim later told her family that she had been sexually assaulted. According to an exclusive report by India Today TV (May 26, 2025), the postmortem revealed that the woman was brutally assaulted and died due to excessive bleeding.</p>
+
+      <p>Dr. Seema Sutay, head of the postmortem investigation and a forensic expert, confirmed it was a case of evisceration, a medical term for the forceful removal of internal organs. The woman's 176 centimetres of intestine had come out of her body. Such extensive medical trauma led to hypovolemic shock, a condition involving extreme loss of blood or fluids, ultimately resulting in her tragic death.</p>
+
+      <p>Both accused have been booked on charges of gang rape and murder under Sections 103(1), 66, and 70(1) of the Bharatiya Nyaya Sanhita.</p>
+
+      <p>This offense is reminiscent of the 2012 Nirbhaya gang rape that shook the nation to its very foundations. Just like Nirbhaya, and just like the RG Kar Medical College doctor, this woman's story is representative of a sad truth and all the victims who failed to make headlines because their offense was not "gruesome enough" or simply got lost under lack of concern.</p>
+
+      <p>Whenever something horrible occurs, we protest. We grieve. We make the hashtags trend. But nothing ever actually changes.</p>
+
+      <p>Instead of building a safer world, we instruct women to narrow their worlds. Don't go out alone. Return home early. Be alert. The responsibility is transferred from the predator to the victim.</p>
+
+      <p>We remember Nirbhaya. Her death shook the country. Laws were promised, reforms were debated. But what happened?</p>
+
+      <p>The question must be asked to the state and central governments: Why are effective prevention measures still lacking? For how long will we remain behind slogans like "Beti Bachao, Beti Padhao" when our mothers, sisters, and daughters are unsafe?</p>
+
+      <p>We worship goddesses but do not rescue living women. Ironic, no?There is no respect for law in the hearts of these predators. Until justice is swift and sure and society stops blaming victims, this cycle will continue.</p>
+
+      <h2>Whose Stories Get Told?</h2>
+
+      <p>Journalism ought to be the beacon of truth, the advocate for the voiceless. But it has become the right arm of the politicians and the powerful instead.</p>
+
+      <p>So many cases never reach daylight just because the victim is from a far-off village, or there is some political link that cannot be touched. When the media decides what to project based on influence, money, or TRPs, justice is the first to suffer.</p>
+
+      <p>Like doctors, journalists should also uphold ethical standards, to deliver news with honesty, integrity, and moral responsibility. Sadly, these values seem to be missing in many journalists today. There should be a sense of accountability, that the news they report should serve the people, especially the vulnerable and the voiceless.</p>
+
+      <p>Take the recent Khandwa case, which occurred on a Saturday. Very few mainstream news channels covered it. Why? Because the victim was a tribal woman? Who decides which cases are "worthy" of coverage and which aren't?</p>
+
+      <h2>Rape Culture: A Failure We All Share</h2>
+
+      <p>As journalism sinks to new lows, our judicial system remains stagnant or worse, regresses with each passing year.</p>
+
+      <p>Take the R.G. Kar Medical College case, where the court ruled the incident as "not rarest of rare." What defines a rape case as "rarest of rare"? Is it only when the victim dies? Or when her internal organs are forced out of her body? Since when have we started measuring the scale of brutality to define justice?</p>
+
+      <p>Rape is a crime that can never be justified, not by clothes, time of day, or presence. These are rationalizations, not explanations, born out of a sick mind. Rape isn't about desire; it's about power, control, and deep-rooted contempt for women. It is a by-product of patriarchy, a culture that teaches young boys that a woman should be controlled, owned, silenced.</p>
+
+      <p>The guilt isn't just the rapist's. It lies in all of us. Families avoiding "awkward talk" with their teenage kids, schools ignoring sex education, societies treating the female body as taboo or alien. We teach boys dominance, not respect. Girls, silence instead of strength. Until families stop shaming these conversations and society stops blaming victims, the cycle will continue.</p>
+
+      <p>Rape isn't an isolated crime. It reflects a collective failure. Only by acknowledging our role and sharing responsibility can true change begin.</p>
+    `,
+    featured: true,
+    views: 980,
+    likes: 76,
+    comments: []
+  },
+  {
+    id: "motherhoods-hidden-struggle",
+    title: "Motherhood's Hidden Struggle: The Emotional Load Women Carry",
+    slug: "motherhoods-hidden-struggle",
+    category: "Features",
+    date: "12 JUNE 2025",
+    image: "/Motherhood.jpeg",
+    author: authors.find(a => a.username === "prerna-srivastava"),
+    excerpt: "Beyond the Instagram filters and smiling portraits lies the complex reality of motherhood - a journey marked by invisible labor, emotional strain, and societal expectations.",
+    content: `
+      <h1>Motherhood's Hidden Struggle: The Emotional Load Women Carry</h1>
+
+      <p>Society has long romanticized motherhood—draping it in soft filters, poetic captions, and smiling Instagram portraits.</p>
+
+      <p>But behind those curated moments lies a far more complex reality. Motherhood isn't always about joy and gentle hugs; it often comes with exhaustion, emotional strain, and invisible labor. These struggles, though deeply human, are frequently overlooked or dismissed.</p>
+
+      <p>Becoming a mother is a huge, complicated life transition that can rock every fiber of a person's being. The process even has its own name: "Matrescence".This article aims to move beyond the idealized image of motherhood and confront the truths we often ignore—because acknowledging the reality is the first step toward meaningful support and change.</p>
+
+      <h2>What Is Emotional Load?</h2>
+
+      <p>Ever notice how it's usually the mother who knows where the socks are, what time the math homework is due, or that it's time to feed the cat?</p>
+
+      <p>That's the emotional load—the unseen, unpaid, and often unthanked labor of remembering, planning, worrying, managing, and caring.</p>
+
+      <p>It's the thought work that goes unnoticed: remembering your child likes their sandwich without the crust, sensing your partner's stress before they say it. It's being the family's unofficial therapist, coordinator, and crisis manager all at once.</p>
+
+      <p>It's not just about doing things. It's about thinking about them all the time. And in most households, it quietly falls on women.</p>
+
+      <p>Because even today, somewhere deep in our cultural wiring, there's a default setting: "Mom will handle it"</p>
+
+      <h2>Statistics Revealing The Maternal Challenges</h2>
+
+      <p>A survey by Mylo of 2,000 Indian mothers found that:</p>
+      <ul>
+        <li>32% struggled to balance work and home</li>
+        <li>19% were sleep-deprived</li>
+        <li>12% said they never got a real break</li>
+      </ul>
+
+      <p>A study in the Indian Journal of Psychological Science found that Indian mothers often experience emotional exhaustion due to feeling they're falling short of unrealistic expectations.</p>
+
+      <p>According to the World Health Organization, 22% of new mothers in India suffer from postpartum depression.</p>
+
+      <p>And in another study, 63% of working mothers reported moderate to severe stress—much of it caused by shift duties, lack of support, and difficulty breastfeeding exclusively.</p>
+
+      <p>These are not just numbers, these are the stories of real women. Smiling through pain. Holding families together with shaky hands.</p>
+
+      <h2>How Did We Get Here?</h2>
+
+      <p>Much of it goes back to conditioning. From girlhood, we're taught that to be a woman is to give, to nurture, to sacrifice. That being a good mother means being tireless, cheerful, and endlessly available.</p>
+
+      <p>So, when a woman feels overwhelmed or tired—or even resentful—she doesn't blame the system. She blames herself.</p>
+
+      <p>And the world doesn't help.</p>
+
+      <p>Media and cultural narratives further cement this idealization. Movies and TV shows glorify the mother who "does it all" without once pausing to ask at what cost?</p>
+
+      <p>We idolize the mother who puts everyone first, but forget to ask who puts her first.</p>
+
+      <p>And then there's the guilt—especially for working mothers. Guilt for leaving your child home for work. Guilt for answering emails during playtime. Guilt for enjoying time away.</p>
+
+      <p>This guilt isn't natural—it's manufactured. It's passed down in whispers, loaded glances, and unspoken expectations.</p>
+
+      <p>All of this is rooted in patriarchy, where parenting is seen as a mother's job, and a father's role is often reduced to earning and "babysitting." But children don't just need money—they need presence, love, patience.</p>
+
+      <p>Parenting shouldn't be a solo act. It should be a duet.</p>
+
+      <h2>Why It's Hard To Talk About?</h2>
+
+      <p>It's the fear of judgment.</p>
+
+      <p>Say you're exhausted and someone might call you ungrateful. Admit you're overwhelmed and someone might say you're not trying hard enough.</p>
+
+      <p>Even other women, raised on the same scripts, might offer sympathy laced with judgement.</p>
+
+      <p>There's the quiet weight of guilt, too—the kind passed down through generations. Women have been taught to chase the "Supermom" ideal: always smiling, never stumbling. So when motherhood feels heavy (as it often does), they don't question the pressure—they question themselves. They see their struggle not as a sign of how hard the role is, but as a personal failing. And that hurts, deeply.</p>
+
+      <p>But the truth is, this silence isn't a sign of strength—it's a survival mechanism shaped by a culture that romanticizes motherhood while offering little real support. Until we begin to normalize these conversations, mothers will continue to suffer quietly, believing that they are alone in a burden that is, in fact, collective.</p>
+
+      <h2>So, How Do We Begin to Shift Things?</h2>
+
+      <p>Start with awareness. Name the invisible work. Say it out loud, from remembering everyone's favourite dishes to trying to keep everyone's emotional world afloat is work and it deserves our acknowledgment.</p>
+
+      <p>Rethink participation. When fathers step in, it's often called "helping." But it's not helping—it's parenting. Let's stop calling basic responsibilities "help".</p>
+
+      <p>Make space for honesty. Let mothers speak freely—without judgment. Let them say, bluntly and without apology, that they're burnt out, exhausted, or simply in need of a break. Vulnerability isn't weakness—it's human.</p>
+
+      <p>Reframe the narrative. Let's tell stories that show real motherhood—magical, brave and messy and exhausting. Lets normalize equal parenting, mental health break, and mothers who say "I need some me time now".</p>
+
+      <p>Our mothers are the epitome of unseen strength and silent resilience. The next time you see her juggling a thousand responsibilities, perhaps offer her a helping hand—without waiting to be asked. And when she forgets to add salt to your pasta, instead of showing disappointment, maybe just smile and ask her to pass the salt.</p>
+
+      <p>It's in these small moments of empathy that we begin to repay a fraction of the love she gives us every day.</p>
+
+      <p>Let's stop measuring our mothers by perfection and start recognizing them with compassion.</p>
+    `,
+    featured: true,
+    views: 1560,
+    likes: 120,
+    comments: []
   }
 ];
 
