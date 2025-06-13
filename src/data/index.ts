@@ -1391,8 +1391,8 @@ export const articles: Article[] = [
     image: "/Nut.jpeg",
     author: {
       id: "15",
-      name: "Trishla",
-      username: "trishla",
+      name: "Trishla Chaudhary",
+      username: "trishla-chaudhary",
       image: "/Trishla.jpeg"
     },
     category: "op-ed",
@@ -1941,6 +1941,214 @@ export const articles: Article[] = [
     views: 1560,
     likes: 120,
     comments: []
+  },
+  {
+    id: "100",
+    title: "Why Is it that Rape Cases Often Remain Cold in India?",
+    slug: "why-is-it-that-rape-cases-often-remain-cold-in-india",
+    category: "National",
+    date: "13 JUNE, 2025",
+    image: "/Rape.jpeg",
+    excerpt: "A deep dive into the systemic issues that cause rape cases to remain unsolved in India, from delayed reporting to institutional challenges.",
+    author: {
+      id: "2",
+      name: "Hetal Kothari",
+      username: "hetal-kothari",
+      image: "/Hetal.jpeg"
+    },
+    content: `
+      <h1>Why Is it that Rape Cases Often Remain Cold in India?</h1>
+      
+      <p>Woman in India usually think that coming forth with their story of rape will lead to fairness and justice. Unfortunately, for a lot of people, it starts a difficult journey that ends without success. Years after her death, her case isn't solved, the evidence is gone, and the case goes cold without a word. No closure. No punishment. The number of stories without conclusions keeps increasing.</p>
+
+      <h2>Should this time-related issue be avoided?</h2>
+
+      <h3>1. The Concern to Speak About Problems</h3>
+      <p>Imagine a young girl in a small town has suffered an assault and is then urged by her family or nearby people to stay quiet, thinking about her reputation, and that nobody will believe her. Today, many survivors in India are coping with the same problem. Since many people are afraid of being shamed, blamed, or facing other consequences, very few rape cases see the light of day. Very often, the victims step forward after important evidence has been lost. Even though the lag is explainable, it complicates solving the crime from the beginning.</p>
+
+      <h3>2. Problems with the Police System</h3>
+      <p>People who report it will find that the next challenge is facing interrogation at the police station. There are too many times when victims' claims are refused or blatantly ignored. There are instances where officers at rural or understaffed stations persuade victims not to report the case. In some cases, people report error-filled statements or miss their medical checkups and visits to the crime scene.</p>
+      <p>Mistakes in such cases cost heavily, not only in due diligence, but also in the results they yield. They can affect the decision and also the fact that whether the case will receive deserved justice or stay open ended, never to see closure.</p>
+      <p>Even more, there are not enough police officers in India to provide proper services. Many of them deal with too much responsibility, without proper compensation and proper training. When investigators do not have enough sensitivity and resources, it is very rare for them to carry out fully trauma-informed investigations.</p>
+
+      <h3>3. Stories that are Sealed</h3>
+      <p>It is vital to have preserved evidence collected as soon as possible in cases of rape. The country has difficulty providing enough forensic laboratories and forensic specialists. A lot of time, existing rape kits are not collected, or they become contaminated. It usually takes months or even years to process samples of DNA.</p>
+      <p>While they are waiting, many survivors choose to give up. Every day that goes by, people forget more, and it becomes tough to find eyewitnesses for a case.</p>
+
+      <h3>4. Justice That May Take A Long Time (Or May Not Happen at all)</h3>
+      <p>The process of waiting for a case to be resolved in court can be too much for anyone. There is too much work for India's legal system. From the time they start, trials can last several years before they finish. During this period, victims are commonly required to describe their terrible experiences to people they don't know, sometimes even to their attacker.</p>
+      <p>There are cases that people withdraw. It can be easier for those accused, particularly if they are rich, influential, or know powerful people, to reach an agreement "outside the court". In some villages and small towns, leaders move to resolve issues by suggesting families keep them private to not inflict harm to the community's reputation.</p>
+
+      <h3>5. Little Help Received by Survivors</h3>
+      <p>It must not go unnoticed that dealing with a court case in India is still a big challenge, even when you have someone to support you. It is almost impossible for those who have suffered rape and come from underprivileged and marginalized areas.</p>
+      <p>The quality of legal aid varies from one area to another. Usually, couples only go to counseling if there are serious problems. There is hardly any security from threats. Many who go through sexual assault are made to feel guilty by their families and are threatened by the person who assaulted them. They feel lonely and apart from everybody when they are left without the support of someone standing next to them.</p>
+      <p>Often, when the system does not support them, they become tired and eventually stop trying, but only because they have no other choice.</p>
+
+      <h3>6. Government actions that make laws and policies sound good.</h3>
+      <p>India has declared its intentions to make important changes. Once the Nirbhaya case happened in 2012, extra laws were put in place and fast-track courts and tougher sentences were created. Paper rules only work if the ones carrying them out have been properly trained and held responsible.</p>
+      <p>Fast-track courts do not get enough resources and are overcrowded. Law enforcement agencies have responded to change very slowly and carelessly. We do not only need tougher laws but also better ways to put them into action.</p>
+
+      <h3>7. The true Cost of Not Solving Cold Cases</h3>
+      <p>A case of rape being left unsolved in India is bigger than a figure in the record. It ends with someone who has no clues about the danger. The family is left bereaved in silence. Every time a case goes cold, it is because some chances were missed: a delayed report, missing evidence, and no attention to a request for help. Until there are reforms in police education, crime investigation systems, delays in courts, and help for survivors, similar situations will keep on taking the front stage. There are plenty of laws in India. The problem is that there is little empathy, sense of urgency, or political effort to assist the most vulnerable.</p>
+
+      <p>Justice delayed is not only justice denied - it is justice destroyed. When legal cases are permitted to remain unresolved, over months and even years, the inconvenience is much more than that. Important evidence gets degraded, memories of the witnesses become hazy, and the victims are forced to live in agonizing suspense, neither able to recover nor to forget. The more the system stalls the more credibility it loses. Justice does not start and stop with a verdict- it is a process that requires promptness, upright character, and execution. Each pause sends the message that certain lives, voices, or truths are less important. Justice should not be stored away, forgotten, or lost in bureaucratic lethargy, but Justice should be alive, on display, and resolute.</p>
+    `
+  },
+  {
+    id: "101",
+    title: "Emotional Intelligence",
+    slug: "emotional-intelligence",
+    category: "Features",
+    date: "13 JUNE, 2025",
+    image: "/Ei.jpeg",
+    excerpt: "An exploration of emotional intelligence, its components, and why it matters in our increasingly interconnected world.",
+    author: {
+      id: "14",
+      name: "Trishla Chaudhary",
+      username: "trishla-chaudhary",
+      image: "/Trishla.jpeg"
+    },
+    content: `
+      <h1>Emotional Intelligence</h1>
+
+      <p>Emotional intelligence (EI or EQ) refers to the ability to identify, comprehend, manage, and influence emotions—both your own and those of others. It plays an important role in interpersonal and intrapersonal relationships. This concept was popularized by Daniel Goleman through his book, Emotional Intelligence: Why It Can Matter More Than IQ which was published on 1995. It is influenced by Sophrosyne, which is a virtue concept in classical Greek philosophy and is an amalgamation of moderation, self-control, and temperance. This ancient virtue was seen as a guide to better psychological well-being.</p>
+
+      <h2>Core components (Daniel Goleman's Model)</h2>
+      <p>Daniel Goleman's popular framework identifies five key components:</p>
+
+      <h3>Self-awareness</h3>
+      <p>This is the basis of EI. It entails being aware of how your feelings, motives, values, strengths, and shortcomings affect your ideas and behavior.</p>
+
+      <h3>Self-Regulation (or Self-Management)</h3>
+      <p>This entails managing your emotions in a healthy way, controlling impulsive feelings and behaviors, and adapting to changing circumstances.</p>
+
+      <h3>Motivation</h3>
+      <p>Being motivated by internal forces rather than by outside incentives like fame or money. It all comes down to creating goals, being passionate about what you do, and persevering through difficulties.</p>
+
+      <h3>Empathy (or Social Awareness)</h3>
+      <p>This involves recognizing and interpreting nonverbal cues, respecting diverse viewpoints, and developing deeper connections with others.</p>
+
+      <h3>Social Skills (or Relationship Management)</h3>
+      <p>The skill to create and sustain positive relationships, convey messages clearly, address disagreements, work together, and motivate others.</p>
+
+      <h2>Why is it important</h2>
+      <p>High EQ individuals manage their emotions and stress more effectively and tend to experience greater satisfaction and well-being in their lives. It fosters resilience and empathy which builds trust, respect, and deeper interpersonal connections. They can express themselves clearly and understand others' emotions leading to better relationships and fewer misunderstandings. Leaders with high EI are better at motivating others, resolving conflicts, and creating positive work environments. It encourages a mindset poised for growth and continuous learning.</p>
+
+      <h2>Conclusion</h2>
+      <p>"It is only with the heart that one can see rightly; what is essential is invisible to the eye." As our world becomes increasingly intertwined and intricate, the capacity to comprehend and harness emotions becomes increasingly essential. In the end, developing emotional intelligence enables people to reach their full potential, live more satisfying lives, and make constructive contributions to their communities.</p>
+    `
+  },
+  {
+    id: "102",
+    title: "PRIDE & PREJUDICE",
+    slug: "pride-and-prejudice",
+    category: "Editorial",
+    date: "13 JUNE, 2025",
+    image: "/Pride.jpeg",
+    excerpt: "A powerful examination of Pride and prejudice in India, exploring the gap between legal progress and lived reality for LGBTQ+ communities.",
+    author: {
+      id: "1",
+      name: "Shumila Khan",
+      username: "shumaila-khan",
+      image: "/Shumilaprofile.jpeg"
+    },
+    content: `
+      <h1>PRIDE & PREJUDICE</h1>
+
+      <p>It is a truth universally acknowledged that in a heteronormative democracy, queerness will be tolerated—so long as it stays quiet, marketable, and non-threatening.</p>
+
+      <p>Every June, the world goes through a "phase" that erupts in rainbows.</p>
+      <p>Logos turn queer. Brands turn poetic. Influencers dig up last year's captions.</p>
+      <p>Pride becomes both a spectacle and a sales pitch, loud enough to trend and soft enough not to threaten.</p>
+
+      <p>This is where Pride meets its shadow: Prejudice.</p>
+      <p>And unlike the rainbow, prejudice doesn't fade after June—because discrimination doesn't take a month off.</p>
+      <p>It lingers—in appointment letters never issued, in hospital beds refused, in classrooms too scared to teach honestly.</p>
+
+      <p>India may have decriminalized queerness, but it has not de-institutionalized bigotry. The system doesn't need slurs to discriminate - it just needs silence.</p>
+
+      <h2>PRIDE</h2>
+      <h3>Six Things Pride Is - and Two Things It's Not</h3>
+      <p>(inspired by Kay Ulanday Barrett, Lesley University, 2021)</p>
+
+      <h3>1. Pride began as a riot.</h3>
+      <p>In June 1969, a police raid on the Stonewall Inn, New York City sparked six days of unrest. LGBTQ+ patrons and neighborhood residents pushed back against the regularized police harassment they faced. This unrest, now called the Stonewall Uprising, marks a historical catalyst.</p>
+
+      <h3>2. Stonewall wasn't the first time queer people fought back.</h3>
+      <p>Before Stonewall, queer and trans communities had already staged acts of resistance across the U.S.:</p>
+      <ul>
+        <li>1959: Cooper Donuts Riot, Los Angeles</li>
+        <li>1965: Dewey's Lunch Counter Sit-In, Philadelphia</li>
+        <li>1966: Compton's Cafeteria Riot, San Francisco</li>
+      </ul>
+      <p>These events are less known, not less important. The selective memory of history often favors what fits neatly into myth.</p>
+
+      <h3>3. Pride is intersectional.</h3>
+      <p>There's no version of queer liberation that isn't also about race, class, and gender.</p>
+      <p>Black, Indigenous, Latine, and Asian American Pacific Islander (AAPI) activists have shaped the LGBTQ+ movement from its earliest days. Their stories are frequently sidelined in mainstream retellings, which often center whiteness and respectability.</p>
+      <p>In 2017, Philadelphia added black and brown stripes to the rainbow flag to draw attention to racism within LGBTQ+ spaces. The fact that this was considered controversial says enough.</p>
+
+      <h3>4. Pride was first officially recognized in 1999.</h3>
+      <p>President Clinton issued Proclamation No. 7203, officially designating June as Gay and Lesbian Pride Month.</p>
+      <p>Bisexual and transgender individuals were not included in this.</p>
+      <p>Earlier, Clinton's Executive Order 13087 (1998) prohibited discrimination in federal employment based on sexual orientation—but not gender identity.</p>
+
+      <h3>5. The scope of Pride expanded in 2009.</h3>
+      <p>President Obama revised the proclamation to include bisexual and transgender communities. It was a rhetorical shift, not a structural one—but an important step toward recognition.</p>
+
+      <h3>6. Pride is not exclusive—but access depends on context.</h3>
+      <p>Straight and cisgender allies are welcome to celebrate, support, and advocate. But not every space during Pride is intended to be universal. Some events are created by and for LGBTQ+ people to gather without having to justify their presence or tone things down for comfort.</p>
+      <p>Boundaries are not exclusion. They are necessities.</p>
+
+      <h3>Two Things Pride Is Not</h3>
+      <h4>1. Pride is not a branding opportunity.</h4>
+      <p>Rainbow merchandise is not activism. Visibility without structural support is a marketing campaign—not alliance/allegiance.</p>
+
+      <h4>2. Pride is not a phase.</h4>
+      <p>It's not a fad, not a phase, and definitely not a trend. If anything is short-lived, it's the world's attention span. Queerness isn't what's temporary - tolerance often is.</p>
+
+      <h2>Prejudice</h2>
+      <p>When institutions stay silent, even the loudest protests become whispers.</p>
+      <p>Despite legal progress, including the reading down of Section 377, structural discrimination persists across Indian society.</p>
+      <p>Laws exist—but rarely translate into lived protection.</p>
+
+      <p>In education, over 60% of LGBTQ+ students report verbal abuse, while 15% face physical bullying (Humsafar Trust, 2020). In workplaces, 70% of queer employees report discrimination or social exclusion - a figure well above the global average (Deloitte, 2023). Travel too is marked by unease: 86% of transfeminine and 83% of transmasculine travellers report discrimination, with safety dictating their mobility (Booking.com).</p>
+
+      <p>These aren't numbers. They're indicators of structural exclusion.</p>
+
+      <p>In February 2025, two trans individuals collecting Holi donations in Lucknow were assaulted by hospital staff—verbally abused, robbed, and left without recourse until public outrage forced an FIR. A month later in Indore, transwomen residents of "Mera Kunba," a shelter meant to provide safety, were attacked and threatened with eviction. The violence was not random—it was institutional.</p>
+
+      <p>This pattern isn't new. In September 2022, two trans men were detained by police in Gurugram, verbally abused, and held without grounds. Not only was no FIR filed for weeks, but the legitimacy of their shelter was publicly questioned, as if the system needed a reason not to protect them. In Kozhikode, transwoman Deepa Rani approached the police for help after being harassed. Her request was met with silence. No action was taken and No protection granted.</p>
+
+      <p>These are not isolated incidents. They're snapshots of a system that writes protections into law but denies them in practice. The Transgender Persons (Protection of Rights) Act, 2019 promises dignity—but comes with caveats that disfigure that promise: the requirement of invasive medical screening to legally affirm gender identity, the routine delay or denial of FIRs, the glaring lack of sensitization among police and healthcare workers.</p>
+
+      <p>Worse still is the vacuum where accountability should be. India has no national anti-discrimination law explicitly protecting sexual orientation or gender identity. There are no dedicated commissions for queer and trans persons, no watchdogs with teeth. In the absence of enforcement, the law becomes performance.</p>
+
+      <h2>From Protest to Progress</h2>
+      <p>The reading down of Section 377 marked a milestone, not a finish line. Decriminalisation alone does not dismantle prejudice. Legal reform, while essential, cannot substitute the broader structural transformation required in policing, healthcare, education, and civil society.</p>
+
+      <h3>First</h3>
+      <p>Police sensitisation must go beyond workshops. Custodial abuse must result in consequences. Police training modules must move beyond tokenism, and institutional accountability must be enforceable.</p>
+
+      <h3>Second</h3>
+      <p>Anti-discrimination laws must be broad, intersectional, and enforceable across employment, education, and housing.</p>
+
+      <h3>Third</h3>
+      <p>Dedicated national commissions for queer and trans persons must be created. Providing state-funded shelters and social services must be taken care of.</p>
+
+      <h3>Fourth</h3>
+      <p>Reform curricula, invest in inclusive media, and confront narratives that pathologize differences.</p>
+
+      <p>If Pride is a protest, it is because the system has not yet earned the right to celebration. Pride is not a festival - it is a resistance that continues in classrooms, courtrooms, clinics, and streets. One side glints with rainbow visibility, hashtags, corporate sponsorships. The other remains dull with silence, erasure, and deferred justice.</p>
+
+      <p>Pride and prejudice are not opposites; they are coexistent forces—one pushing for recognition, the other resisting change.</p>
+
+      <p>The future depends not only on laws but on will—on whether institutions will evolve, or whether progress remains aesthetic.</p>
+
+      <p>If Pride Month is to mean something beyond performance, it must become a site of reflection and resolve. Pride is not about visibility alone. It is about safety, Dignity, Belonging.</p>
+
+      <p>And it begins when the state, the law, and the citizens stop pretending that equality is already here.</p>
+    `
   }
 ];
 
