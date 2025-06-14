@@ -603,7 +603,7 @@ export const articles: Article[] = [
           <p>
             While AI can automate many tasks, it cannot replace the human element in education. Teachers remain crucial for providing emotional support, fostering critical thinking, and building relationships with students.
           </p>
-          
+
           <p>
             The future of education lies in finding the right balance between AI assistance and human guidance.
           </p>
@@ -659,7 +659,7 @@ export const articles: Article[] = [
 
         <section class="article-section">
           <h2 class="section-heading">Cultural Activities</h2>
-          
+
           <p>
             Beyond academics, the campus hosts numerous cultural events, from music performances to literary festivals. These activities provide students with opportunities to showcase their talents and build lasting friendships.
           </p>
@@ -667,7 +667,7 @@ export const articles: Article[] = [
 
         <section class="article-section conclusion">
           <h2 class="section-heading">Evening Reflections</h2>
-          
+
           <p>
             As the day winds down, students gather in the common areas to relax and share stories. The campus takes on a peaceful atmosphere, with the setting sun casting long shadows across the historic buildings.
           </p>
@@ -699,10 +699,10 @@ export const articles: Article[] = [
 
         <section class="article-section">
           <h2 class="section-heading">Literary Legacy</h2>
-          
-          <p>
+
+        <p>
             The university's Department of English and Modern Indian Languages has produced numerous acclaimed authors and scholars. Their works reflect the diverse cultural heritage of Lucknow and India.
-          </p>
+        </p>
         </section>
 
         <section class="article-section">
@@ -743,9 +743,9 @@ export const articles: Article[] = [
       <div class="article-content">
         <p class="intro-paragraph">
           "Deshdrohi," "Gaddar," "traitor," — these are just a few of the labels hurled at India's Foreign Secretary, Vikram Misri, after the announcement of a ceasefire agreement. The online backlash was swift and intense, targeting not just Misri's stance, but his decades of diplomatic proficiency.
-        </p>
+          </p>
 
-        <p>
+          <p>
           This incident doesn't just focus on one diplomat—it reflects broader public attitudes and highlights the urgent need to reconsider how we engage, both online and offline. This piece looks at what led to the controversy, the nature of the criticism, and the broader question it raises: how does India respond to voices that advocate for dialogue over confrontation?
         </p>
 
@@ -1038,7 +1038,7 @@ export const articles: Article[] = [
 
         <section class="article-section">
           <h2 class="section-heading">Conflict Escalation</h2>
-          
+
           <p>
             In January 2018, the Trump administration applied tariffs on $8.5 billion worth of Chinese products, including aircraft parts and machinery. China in response with tariffs on $3.4 billion worth of American products.
           </p>
@@ -1213,7 +1213,7 @@ export const articles: Article[] = [
             <li><strong>Fair Distribution:</strong> Water must be shared between cities and villages. Efforts must also focus on reducing inequalities related to caste and gender in accessing water.</li>
             <li><strong>Raising Awareness:</strong> People must learn how to use water and understand the long-term effects of climate change.</li>
             <li><strong>Using science and technology more</strong> means including data-based tools in local water management systems and planning processes.</li>
-          </ul>
+    </ul>
         </section>
 
         <section class="article-section">
@@ -1497,7 +1497,7 @@ export const articles: Article[] = [
           <p>
             The 44.5 meter-tall rocket's solid fueled ps1 and liquid fueled ps2 stage operated according to the plan. The issue occurred at 203 seconds into the flight during the ps3 motor phase, when the telemetry indicated a sudden drop in the chamber pressure. This impacted the performance of the fourth stage and subsequently led to failure of the mission.
           </p>
-
+          
           <p>
             ISRO has constituted, High Level Failure Analysis Committee to review the ps3's manufacturing and the test protocols. Meanwhile the engineers are analysing flight data to determine whether the issue stemmed from propellant flow irregularities, nozzle anomalies, or structural failures. It is suspected that malfunction happened in the flex nozzle control, a critical component that directs precise thrust by adjusting the rocket nozzle's orientation without the use of complex hydraulic actuators. However, nothing is yet confirmed.
           </p>
@@ -1572,7 +1572,7 @@ export const articles: Article[] = [
           <p>
             The Norway Chess is a flagship closed annual event in the world of chess. When looking at Gukesh's run at the tournament, it is rather a hiccup in the beginning with Gukesh losing against Carlsen in the first game. The turning point came with Gukesh keeping a winning streak, beating Nakamura, Carlsen, Caruana and Erigaisi. He is set to meet Wei Yi in the 9th round(as of 6th June, 2025).
           </p>
-
+          
           <p>
             Dommaraju Gukesh has been a highly commended chess prodigy becoming the second youngest GrandMaster at the age of 12. Gukesh has clenched wins at competitions like Tata Chess, Norway Chess and the highly coveted Candidates. He beat the then defending world champion Ding Liren in Candidates to become the World Champion at just 18 years of age. Being under Vishy's guidance, Gukesh carries India's flag ahead in chess.
           </p>
@@ -1621,7 +1621,7 @@ export const articles: Article[] = [
             The renaissance continues, each tournament writes a new story, like poetry in making. Each tournament brings a fresh set of challenges, but it is us, Indians, we are built for challenges, conditioned to dominate and taught to bow in respect. With the spotlight shifting and chess gaining attention among the masses, so much so that schools have started teaching the game and coaching academies are sprouting rapidly, it is not very far in future that India will be chess-smart, and many more Praggs and Gukesh will be among us, history is being written, and we, readers, are the eyewitnesses of it.
           </p>
         </section>
-      </div>
+            </div>
     `,
     image: "/Chess.jpeg",
     category: "Sports",
@@ -1712,7 +1712,7 @@ export const articles: Article[] = [
             During the upcoming decade Pune will lead the development of what future GCCs will look like.
           </p>
         </section>
-      </div>
+            </div>
     `,
     image: "/Pcc.jpeg",
     category: "National",
@@ -2048,7 +2048,7 @@ export const articles: Article[] = [
     excerpt: "A powerful examination of Pride and prejudice in India, exploring the gap between legal progress and lived reality for LGBTQ+ communities.",
     author: {
       id: "1",
-      name: "Shumila Khan",
+      name: "Shumaila Khan",
       username: "shumaila-khan",
       image: "/Shumilaprofile.jpeg"
     },
@@ -2149,7 +2149,285 @@ export const articles: Article[] = [
 
       <p>And it begins when the state, the law, and the citizens stop pretending that equality is already here.</p>
     `
-  }
+  },
+  {
+    id: "middle-east-economic-shift",
+    title: "From Oil to Opportunity: The Middle East's Economic Shift",
+    slug: "from-oil-to-opportunity-middle-east-economic-shift",
+    excerpt: "An in-depth analysis of how Middle Eastern nations are transitioning from oil dependency to technology-driven economies, exploring their strategic investments in AI and green technology.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          For decades, the Middle East has long been dependent on fossil fuels and rare metals for their economic identity. Since the discovery of vast oil and natural gas deposits, the region has had drastic changes in their geopolitical atmospheres. Nations like Iran, Afghanistan and Kazakhstan, which struggled to industrialise quickly or develop stable governments, have been brutally exploited—caught in the turmoil of resource politics.
+        </p>
+
+        <p>
+          On the other hand, states like Saudi Arabia, Yemen, UAE etc. capitalised quickly on their newfound source of wealth and are now global economic powerhouses. The effect on our world as it is now? Their leaders accumulated immense, often opaque, reserves of wealth—making them some of the richest states on Earth. They hold the power, resources, and global influence to make any change or development they deem fit.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">Recognising the Limits of Oil and the Future</h2>
+          
+          <p>
+            Throughout time, it has always been new technology that brings about the turn in the global landscape. Those who bring about this turn emerge as the new dominant powers, be it from a military perspective- the shift from stone weapons to iron ones, or from cannons and guns to nuclear weapons; or be it an industrial perspective- the invention of the printing press and the industrial revolution.
+          </p>
+          
+          <p>
+            The Middle East recognises that a turn, military as well as industrial, is on the horizon- AI and green technology. They also recognise the finite nature of their natural resources, and how advancing technology has begun shifting focus from oil/coal-based fuels to abundant renewable resources that cannot be monopolised. As before, they now adapt to this changing landscape and pivot to Artificial Intelligence and other emerging technologies.
+          </p>
+
+          <p>
+            With their vast capital reserves, global networks, and strategic foresight, these nations are positioning themselves as key players in the next technological revolution. Today, power isn't just about oil or natural resources—it's also about who leads in technology. And the Middle East is making sure it isn't left behind. Countries like Saudi Arabia and the United Arab Emirates are investing heavily in new technologies. They're putting money into tech companies, building partnerships with some of the biggest firms in the world, and planning entire cities based around futuristic ideas.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Building the Cities of Tomorrow</h2>
+          
+          <p>
+            One of the most ambitious projects is NEOM, a city being built in Saudi Arabia that's designed to run on renewable energy and use the latest technology in everything from transport to healthcare. The UAE has also opened a university focused entirely on artificial intelligence, showing that they're serious about positioning themselves not just as consumers but as innovators. They want to be leaders in developing it.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Creating a Tech-Ready Ecosystem</h2>
+          
+          <p>
+            But it's not just about spending money. These countries are also trying to create the right environment for new industries to grow. That includes updating school curriculums, training local workers in tech skills, and building large data centres to handle the vast amount of digital information that modern technologies rely on. They're also setting up laws and systems to encourage international companies to bring their business to the region.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">A New Kind of Global Influence</h2>
+          
+          <p>
+            In doing all this, Middle Eastern nations are gaining a new kind of influence. They're no longer just selling oil—they're helping shape the future of how the world works. From smart cities to digital healthcare, they're laying the groundwork for what tomorrow might look like. This rapid scaling and attempt at dominance in what might be the most important aspect of the centuries to come raises many questions. Will the Middle East develop in the tech business as they did in oil? Will the difference in governance forms, monarchy vs democracy, play a crucial role? Who controls the data? How is the technology being used? Will it benefit everyone, or just a few?
+          </p>
+        </section>
+            </div>
+    `,
+    image: "/oil.jpeg",
+    author: authors.find(a => a.username === "aliya-imam")!,
+    category: "international",
+    date: "2025-06-14",
+    readTime: "8 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Middle East", "Technology", "Economic Development", "AI", "Green Technology"],
+    featured: true,
+    isPublished: true,
+  },
+  {
+    id: "kolkata-doctor-case",
+    title: "Why is the doctor rape and murder case in Kolkata being unnoticed?",
+    slug: "kolkata-doctor-rape-murder-case-unnoticed",
+    excerpt: "A critical examination of the Dr. Moumita Debnath case in Kolkata, exploring the factors behind the fading public attention and the broader implications for justice and media coverage.",
+    content: `
+      <div class="article-content">
+        <section class="article-section">
+          <h2 class="section-heading">Tragedy that Changed Many Lives</h2>
+          
+          <p>
+            9th August 2024, Dr. Moumita Debnath was reported dead at RG Kar Medical College due to exhaustion after a 36-hour stretch as a postgraduate trainee. Originally believed to have been a suicide, the truth was found in the autopsy – she had received numerous injuries and died by strangulation after being raped and tortured.
+          </p>
+          
+          <p>
+            Learning about her many serious injuries and sexual abuse, the whole nation was under serious shock. In Kolkata and other cities in India, people joined candle marches, protests and demonstrations as a part of the 'Reclaim the Night' event. Thousands of doctors stopped providing care and the Indian Medical Association also launched a nation-wide strike.
+          </p>
+          
+          <p>
+            However, people's interest started to fade quickly.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Timeline of the SC proceedings and verdict</h2>
+          
+          <p>
+            Between August 13, 2024 and March 2025, the Calcutta student doctor rape-murder case drew nationwide attention, triggering urgent response from the judiciary. The Calcutta HC transferred the case to the CBI on grounds of police mishandling the case. Amid escalating doctors' protests, the Supreme Court took suo motu cognizance, criticizing FIR delays, mishandled suicide claims, and lax hospital security. It ordered CISF/CRPF deployment at RG Kar Hospital and formed a task force on doctors' safety. By September, the SC enforced victim protection under the rape-shield law and directed the return of protesting doctors. The CBI filed a chargesheet in October; by January 2025, Sanjay Roy was convicted and sentenced to life imprisonment under Bharatiya Nyaya Sanhita Sections 64, 66, and 103(1), with ₹17 lakh compensation to the victim's family. The court ruled it is not a "rarest of rare" case. The SC later dismissed the family's plea for High Court oversight but permitted them to seek further remedies.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Why the Silence Became So Prevalent</h2>
+          
+          <p>
+            The level of detailed explanation about torture promoted disinterest. In the autopsy, it was mentioned that "there was 150 mg of semen, a break in the pelvis, and injuries and bleeding everywhere". Forum participants themselves admitted that these photos caused them to go to places they never imagined. At first, the subject was all over the news, but soon the media moved on from focusing on it because many people found it 'very hard to stay interested'.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Fools and fakers who want to mislead everyone</h2>
+          
+          <p>
+            The ruling TMC was accused by critics of hiding the truth: moreover, they are said to have covered up the evidence, created damage inside the crime scene, and were late in filing the FIR. But Mahua Moitra of Trinamool denied claims of trying to cover up anything, while members of the BJP wanted quick actions and resignations following this case. The Governor requested President to address an anti‑rape bill in response to rising protests.
+          </p>
+
+          <p>
+            Reports claiming that 151 grams of semen were found in the victim's body have been officially debunked. Autopsy experts clarified that "Wt – 151 gm" in the post-mortem report referred to the weight of the vaginal tissue collected for forensic analysis, not semen.
+          </p>
+
+          <p>
+            In autopsies, it's standard practice to note the weight of organs or tissues sent for viscera examination. This medical detail was misinterpreted and sensationalized, leading to widespread misinformation.
+          </p>
+
+          <p>
+            Even though political messages started to clash, the incident was more widely known as part of an election campaign, and this pulled more attention away from it.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">People get tired of the news and stories change rapidly</h2>
+          
+          <p>
+            Soon, articles, headlines, and news channels shifted their focus to other related matters: international fights, economic issues, and local elections. One outrage overwhelmed by another; Dr. Debnath's case, though a legal roller‑coaster (CBI chargesheets, fast‑track courts, Supreme Court scrutiny), lost its spotlight.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Factors of Politics and the Implications of the Structure</h2>
+          
+          <h3 class="sub-heading">Safety issues facing women used to win votes</h3>
+          <p>
+            Moved by what happened, The West Bengal Legislative Assembly has unanimously passed the 'Aparajita Woman and Child Bill (West Bengal Criminal Laws and Amendment) 2024. Aparajita bill that would use the death penalty for those who rape-and-kill people. Responsiveness may have been signalled, but some people say it only hid the main issues, such as weak hospital security, altering evidence, and bad police investigations. While the opposition made the case an example of what they claim to be Mamata Banerjee's negligence, the TMC responded by saying the BJP is simply exploiting it for its own benefit.
+          </p>
+
+          <h3 class="sub-heading">Accountability and oversight are shining in the legal field</h3>
+          <p>
+            Choosing to hand the probe to the CBI, the High Court pointed out certain issues related to the initial work of the police. CJI Chandrachud headed a three‑judge bench in the Supreme Court, which attacked the actions of local authorities and instructed a national task team to look after the safety of doctors. Legal analysis pointed out that people tend to react more quickly to emotional protest than to a court case.
+          </p>
+
+          <h3 class="sub-heading">Problems within the organization</h3>
+          <p>
+            Because of this outrage, the medical community showed how issues in hospitals existed: cameras or guards were missing, as well as secured areas where doctors could rest during their time on shift. The tragedy made it clear that gender violence sometimes happens in places where supervision is lacking. Reforming the system is a gradual process, and policies can be forgotten by people before they are implemented.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Where attention needs to lie</h2>
+          
+          <ol>
+            <li>Several officials are still being examined, including the hospital heads, the police, and the suspect, Sanjay Roy. However, there are still significant weaknesses in larger financial institutions that have not been settled yet.</li>
+            <li>Security: Most hospitals in India are still left vulnerable. The weak security, inadequate lighting, and the absence of visible police presence highlight the serious lapses in safety and surveillance measures in hospitals.</li>
+            <li>Policies must match results: The "Aparajita" bill should be implemented by using resources, setting up fast pathways, safeguarding whistleblowers, and spending on healthcare safety.</li>
+            <li>They need to be clear about where the blame lies and work together on open probes, spend more on repairing infrastructure, and introduce reforms for victims.</li>
+          </ol>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">The process from outrage to change</h2>
+          
+          <p>
+            Dr. Moumita Debnath's rape and murder shook India, giving rise to mass protests, legal activism, and legislative bans. But over time—a combination of horrific detail, political exploitation, media turnover, and slow reforms—has pushed it from daily consciousness.
+          </p>
+
+          <p>
+            To turn this tragedy into significant progress, India must reignite accountability—ensuring justice that is meaningful, structural protections that actually protect, and political framing that isn't self‑serving. The case demands sustained national memory—not fleeting outrage.
+          </p>
+
+          <p>
+            Only then can Dr. Debnath's death become a catalyst for enduring safety and justice—not just a reminder of its failure.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/r.jpeg",
+    author: authors.find(a => a.username === "hetal-kothari")!,
+    category: "national",
+    date: "2025-06-14",
+    readTime: "12 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Crime", "Justice", "Healthcare", "Women's Safety", "Legal System"],
+    featured: true,
+    isPublished: true,
+  },
+  {
+    id: "article-142-presidents-debate",
+    title: "ARTICLE 142: THE PRESIDENT'S DEBATE AND QUESTIONS THAT FOLLOW",
+    slug: "article-142-presidents-debate-questions",
+    excerpt: "An analysis of the Presidential reference to the Supreme Court regarding Article 142, exploring its implications for constitutional governance and the balance of power between branches of government.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          May 15th, 2025 witnessed the Hon'ble President of India asking some questions to the Supreme Court over use of powers, of the Supreme Court as well as the Governors and the President itself. The Presidential reference, however, asked questions general in nature, sparked ideas, questions and skepticism about the use of the famous Article 142 by the Supreme Court of India. The question is, is the article a Gauntlet of Thanos, bestowing it with illimited power to intervene in matters? Do the matters in which it was revoked really concern the Supreme Court? In this article, we explore similar waters. In disclaimer, we may or may not come out with absolute answers but will have more questions in mind after reading it, that is something I can assure the readers of.
+        </p>
+
+        <p>
+          The Presidential reference asked the Supreme Court whether it had power to intervene in the legality or illegality of Bills waiting for assent to become laws. This comes in reference to the Court invoking the article to comment on the legality of about 10 bills which were being held by the Governor of Tamil Nadu for assent. "Can the Constitutional powers of the President/Governors be substituted by a judicial order exercising Article 142? Is Article 142 limited to matters of procedural law or does it extend to issuing directions "contrary to or inconsistent with existing substantive or procedural provisions of the Constitution," it asked.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Article 142</h2>
+          
+          <p>
+            Before diving into precedents, it is a necessity for us to know what does the article exactly say, what does it convey?
+          </p>
+          
+          <p>
+            In its exact terminologies, the Article 142 of the Indian Constitution states that,
+          </p>
+
+          <p>
+            "The Supreme Court in the exercise of its jurisdiction may pass such decree or make such order as is necessary for doing complete justice in any cause or matter pending before it, and any decree so passed or order so made shall be enforceable throughout the territory of India in such manner as may be prescribed by or under any law made by Parliament and, until provision in that behalf is so made, in such manner as the President may by order prescribe."
+          </p>
+
+          <p>
+            "Subject to the provisions of any law made in this behalf by Parliament, the Supreme Court shall, as respects the whole of the territory of India, have all and every power to make any order for the purpose of securing the attendance of any person, the discovery or production of any documents, or the investigation or punishment of any contempt of itself."
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">What sparked the debate?</h2>
+          
+          <p>
+            The President, questioning the use of the powers of supreme court, inquired whether the Supreme Court can really replace or substitute a Governor or the President for that matter by invoking the article and hence, placing an article above the first citizen of the nation and those of the states. Reacting to this the Vice President, Shri Jagdeep Dhankar called the article "nuclear missile against democratic forces", The Hindu reports.
+          </p>
+          
+          <p>
+            In defence, Justice Pardiwala did mention later that the article was invoked thoughtfully and that it was used in the benefit of the citizens of Tamil Nadu.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Was the use of the Article justified?</h2>
+          
+          <p>
+            Now, this comes at a time, when a lot of legislation related debates are finding their place in the Court as well as on ground zero, and the Court overriding the legislature may or may not be welcomed by the legislators. The use of the article, though might or not be justified, can be done as the Supreme Court is the final interpreter of the Constitution and hence, holds the power to interpret the Article as and how it deems necessary and crucial, but questions also arise whether the top court gets a say in state bills, when they are not even laws yet?
+          </p>
+
+          <p>
+            Readers, we should have this understanding, as important is the article to keep a check on legislature's misuse of power, it is also necessary that the judiciary be impeded from barging into the territory of legislature, also, this debate sparks especially when the top court steps into the state bill's territory and declares the action of a Governor moot and illegal, raising questions, whether the governors or even the President for that matter, have any power in their hands or are they just nominal in purview as well?
+          </p>
+
+          <p>
+            According to a Research published by IIM-Ahmedabad in May 2024 suggests that of the 1579 Supreme Court cases where the terms "Article 142" or "complete justice" were used between 1950 and 2023, the Court "explicitly" used its power under the provision in only half the cases. The Court's deployment of Article 142 was "ambiguous/not used" in almost 40 percent of cases. It expressly rejected the use of the provision in about 10 percent of cases.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">The way ahead</h2>
+          
+          <p>
+            The matter is rather fresh as of now to build onto any conclusions, but the questions themselves spark thoughts and ideals. Are the foundations of the iron walls between the three pillars of democracy fumbling? Is the judiciary overpowered? Is it misusing the provision meant to ensure its independence? I, readers, leave it upon you to think, wonder rather and finally sought the answers to my questions, for when the President can ask, why can't you and I?
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/Ar.jpeg",
+    author: authors.find(a => a.username === "atulit-pandey")!,
+    category: "national",
+    date: "2025-06-14",
+    readTime: "10 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Constitution", "Supreme Court", "Article 142", "Governance", "Legal System"],
+    featured: true,
+    isPublished: true,
+  },
 ];
 
 // Admin users
