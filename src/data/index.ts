@@ -250,7 +250,31 @@ I'll be here, ready to ask the next why and learn from every conversation.`,
     designation: "Writer",
     categories: ["International", "Op-ed"],
     articlesCount: 1
-  }
+  },
+  {
+    id: "18",
+    name: "Manasvi Srivastava (B.sc)",
+    username: "manasvi-srivastava",
+    image: "/Manasvi.jpeg",
+    bio: "A Banarasi soul with a science brain and a literary heart, I'm Manasvi, currently majoring in Chemistry and Biology but secretly obsessed with books that make me cry, question society, or fall in love with fictional people (again).\n\nAs a member of Bibliocore, I bring my love for romance novels, feminism, Indian mythology, and South Asian stories into the mix — sometimes all in one conversation. I'm also slowly but surely falling headfirst into the world of literature (and loving the chaos of it).\n\nFueled by K-pop especially Seventeen, who I consider my personal motivational speakers—I believe in storytelling that is bold, inclusive, and dripping with heart. Also: equality and equity? Always. Boring writing? Never.",
+    email: "manasvi@luchronicles.edu",
+    designation: "Writer",
+    course: "B.Sc.",
+    categories: ["Arts & Culture", "Blogs"],
+    articlesCount: 0
+  },
+  {
+    id: "14",
+    name: "Manasvi Srivastava",
+    username: "manasvi-srivastava",
+    image: "/MS.jpeg",
+    bio: "Manasvi Srivastava is a passionate writer and researcher with a keen interest in exploring diverse perspectives and uncovering compelling stories. As a dedicated member of LU.Chronicles, I bring my analytical mindset and creative approach to every piece I write.",
+    email: "manasvi@luchronicles.edu",
+    designation: "Writer",
+    course: "B.A.",
+    categories: ["Arts & Culture", "Blogs"],
+    articlesCount: 1,
+  },
 ];
 
 // Sample Articles
@@ -2425,6 +2449,323 @@ export const articles: Article[] = [
     likes: 0,
     comments: [],
     tags: ["Constitution", "Supreme Court", "Article 142", "Governance", "Legal System"],
+    featured: true,
+    isPublished: true,
+  },
+  {
+    id: "absence-of-geoparks",
+    title: "ABSENCE OF GEOPARKS IN INDIA: WASHING AWAY GEOHERITAGE?",
+    slug: "absence-of-geoparks-in-india",
+    excerpt: "An exploration of India's rich geological heritage and the urgent need for UNESCO Global Geoparks to preserve and showcase our natural history.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          "India's landscape is a living record of the Earth's ancient history, from the towering Himalayan ranges to the volcanic Deccan Traps. This rich geological heritage, coupled with vibrant cultural traditions, makes India an ideal candidate for UNESCO Global Geoparks."
+          <br/>
+          - Tim Curtis, Director and Representative, UNESCO New Delhi Regional Office for South Asia
+        </p>
+
+        <p>
+          With the world progressing at pace towards preserving their heritage, cultural, ethnic and geological alike, Global Geoparks come in as the saviour of the geology of a certain region.
+        </p>
+
+        <p>
+          While Mr. Curtis appreciates India's potential for being the perfect candidate for having UNESCO Global Geoparks, India possesses, noteworthily, none. It is without a doubt, certain, that India possesses extraordinary potential for having geoparks, having undergone extraordinary geological changes, be it the duration of continental drift, the Himalayan orogeny, the Deccan trap formation, India has witnessed a myriad of textbook geological phenomenon and displays a spectrum of features, hardly witnessed anywhere else on Earth.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">What are Geoparks?</h2>
+          
+          <p>
+            Introduced in 2015 by UNESCO, the geoparks or UNESCO Global Geoparks is a landmark initiative focusing on the global geoheritage, giving the long-due attention to the geological features of the world, finally appreciating what nature has given us in the form of Earth features, and shifting focus to anthropocentric preservation to a more holistic approach.
+          </p>
+
+          <p>
+            UNESCO defines Geoparks as:
+            <br/>
+            "UNESCO Global Geoparks are single, unified geographical areas where sites and landscapes of international geological significance are managed with a holistic concept of protection, education and sustainable development."
+          </p>
+
+          <p>
+            A UNESCO Global Geopark uses its geological heritage, in connection with all other aspects of the area's natural and cultural heritage, to enhance awareness and understanding of key issues facing society, such as using our earth's resources sustainably, mitigating the effects of climate change and reducing natural hazard-related risks.
+          </p>
+
+          <p>
+            The British Geological Survey define UNESCO Geoparks as:
+            <br/>
+            "UNESCO's Global Geoparks are areas with internationally important rocks and landscapes, all of which are managed responsibly for conservation, education and sustainable development. Whilst geology may be their foundation, UNESCO Global Geoparks build upon it by bringing together other aspects of heritage such as archaeology, history, culture and biodiversity. All of this is achieved in collaboration with local people to make UNESCO Global Geoparks better places to work, live and visit."
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">India without a global geopark: what's at stake?</h2>
+          
+          <p>
+            The disadvantages of not having an UNESCO recognised Geopark are as follows:
+          </p>
+
+          <ul>
+            <li>Loss of international recognition: Without UNESCO status, the geoparks in India miss out on the global visibility that will impact global academic collaboration, may reduce grants or research interest from international conservation bodies</li>
+            <li>Effect on geotourism: UNESCO global geoparks attract geotourism which in turn generates revenue and employment, this lack of recognition limits such potential in India's rich geoheritage sites like Lonar Lake in Maharashtra</li>
+            <li>Poor protection of geological heritage: sites recognised by UNESCO receive legal or policy protection, decreasing the risk of destruction due to urbanisation, vandalism, and geosites such as St. Mary's Island and Eparchaean Unconformity have suffered irreversible damage due to lack of recognition</li>
+            <li>Limited public awareness and education: these sites are also learning territories without such recognition, the focus is less on public education regarding earth sciences for example the Majuli River in Assam world's largest river island with a complex geomorphology receives very little attention in earth science education</li>
+          </ul>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Conclusion</h2>
+          
+          <p>
+            UNESCO Global Geoparks play a crucial role in conserving geological heritage, promoting education, and supporting sustainable tourism. Despite India's rich geo-diversity, the absence of a recognised Geopark limits both global recognition and local development opportunities. These parks can empower communities, boost eco-tourism, and enhance scientific learning. To change this, India must identify eligible sites, improve infrastructure, involve local communities, and meet UNESCO guidelines. Greater collaboration between government, scientists, and educators is essential. By investing in geopark development, India can preserve its natural legacy while advancing sustainable development and becoming a stronger voice in global geoheritage conservation efforts.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/Geoparks.jpeg",
+    author: [
+      authors.find(a => a.username === "atulit-pandey")!,
+      authors.find(a => a.username === "prerna-srivastava")!
+    ],
+    category: "sci-tech",
+    date: "2025-06-15",
+    readTime: "8 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Geoparks", "UNESCO", "Geology", "Conservation", "India"],
+    featured: true,
+    isPublished: true,
+  },
+  {
+    id: "before-the-closet",
+    title: "Before the Closet: How different sexual Identities have always been a part of Indian History",
+    slug: "before-the-closet-sexual-identities-indian-history",
+    excerpt: "A journey through India's rich history of gender fluidity and sexual diversity, exploring how pre-colonial India embraced and celebrated diverse identities.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          We often hear phrases like coming out of the closet, but have you ever paused to ask, "what closet?"
+        </p>
+
+        <p>
+          Because, truth be told, for centuries, Indian culture didn't even have one when it comes to sexual identity. The idea that LGBTQ+ identities are new or "Western imports" is one of the biggest myths passed off as fact. The truth? Sexual identity existed in India long before the British came with their moral codes and closets.
+        </p>
+
+        <p>
+          This article is a journey back to a time when gender and sexuality were more fluid, visible, and accepted than we might imagine. It's about what existed before the closet, the laws, the shame, and the silence.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">Myths That Bend Gender and Norms</h2>
+          
+          <p>
+            Let's start with our epics: the Mahabharata and Ramayana. They aren't just tales of war and dharma, they're rich with queer-coded narratives.
+          </p>
+
+          <p>
+            In the Mahabharata, Shikhandi is born a girl but raised as a man and recognized as such. His gender identity is not questioned; he's respected as a warrior. Then there's Arjuna, who, during exile, lives as Brihannala, teaching dance and living in a feminine form. The story doesn't treat this transformation as shameful; it's just a part of the plot.
+          </p>
+
+          <p>
+            Even the divine gets a fluid makeover. Meet Ardhanarishvara, the iconic fusion of Lord Shiva and Goddess Parvati, depicted as one body split into half-male and half-female. This isn't just a metaphor; it's a sacred representation of gender fluidity, reminding us that the divine was never binary.
+          </p>
+
+          <p>
+            Bahuchara Mata, another important deity, is worshipped by many from the hijra community. Her mythology and worship show the deep-rooted spiritual roles that third-gender people have played in Indian society for centuries.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Temples, Texts, and the Third Gender</h2>
+          
+          <p>
+            Sexual identity in India wasn't just mythological, it was lived, documented, and even carved into stone.
+          </p>
+
+          <p>
+            The Kamasutra, written around the 3rd century CE by Vatsyayana, is more than just a sex manual. It openly discusses same-sex relationships, third genders, and people with diverse sexual desires. These were not labeled unnatural; they were treated as other normal aspects of human experience.
+          </p>
+
+          <p>
+            Take a stroll through temples like Khajuraho(Madhya Pradesh) or Konark(Odisha), and you'll find carvings of men with men, women with women, and non-binary representations. These temples didn't just allow queer imagery, they immortalized it.
+          </p>
+
+          <p>
+            Historical communities like the hijras(recognized as a third gender in Indian law today) and jogappas(devotees of Goddess Yellamma in Karnataka) held important social and religious roles. Their identities were recognized and never erased.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">When the British Built the Closet</h2>
+          
+          <p>
+            So, if all of this was normal in pre-colonial India, What changed?
+          </p>
+
+          <p>
+            In 1861, during British rule, Section 377 was introduced into the Indian Penal Code. This law criminalized carnal intercourse against the order of nature. In simpler words: queer people became criminals. The British brought with them Victorian morality, rigid, shame-driven code of conduct where anything outside heterosexual marriage was seen as sinful. Suddenly, sexual identity once a part of stories, temples, and tradition was branded as unnatural, illegal, and shameful. Families began hiding it. Society silenced it. This is how the closet arrived, built, not by Indian culture, but by colonial law and judgment.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Breaking the Closet, Reclaiming the Past</h2>
+          
+          <p>
+            Fast forward to September 6, 2018, a day now etched in queer Indian history. The Supreme Court of India finally struck down Section 377, decriminalizing consensual same-sex relationships. A huge legal win, yes, but that was only the beginning of something bigger: cultural reclamation.
+          </p>
+
+          <p>
+            Young Indians today are digging deep into history, myths, and art to reclaim what was buried. Social media, documentaries, poetry, and pop culture are all contributing to this revival. Films like Aligarh, Margarita with a Straw, and series like Made in Heaven are shining a spotlight on Indian sexual identity, making it visible again.
+          </p>
+
+          <p>
+            From queer history pages on Instagram to campus pride parades, today's youth is not importing LGBTQ+ identities, they're rediscovering what was always ours.
+          </p>
+
+          <p>
+            Before the closet, there were stories, carvings, gods, and people who lived outside the binary and beyond societal boxes. They existed without shame, without fear and with pride.
+          </p>
+
+          <p>
+            Pride in India didn't start in 2018. It started long ago in our scriptures, our sculptures, and our streets. We're not asking for space in Indian culture. We're simply reclaiming what was already there.
+          </p>
+
+          <p>
+            And with every step forward, we're not building something new, we're unlocking something ancient.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/MS.jpeg",
+    author: [
+      authors.find(a => a.username === "manasvi-srivastava")!
+    ],
+    category: "arts-culture",
+    date: "2025-06-15",
+    readTime: "10 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["LGBTQ+", "Indian History", "Culture", "Gender", "Identity"],
+    featured: true,
+    isPublished: true,
+  },
+  {
+    id: "ahmedabad-crash",
+    title: "Mayday, Mayday, Mayday - Moments before the Ahmedabad Crash",
+    slug: "mayday-moments-before-ahmedabad-crash",
+    excerpt: "A detailed investigation into the tragic Air India flight crash in Ahmedabad, exploring the events leading up to the disaster and its aftermath.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          The clock struck 1339 hours IST, the calendar showed the date to be 12th June 2025, a pretty ordinary Thursday morning, when suddenly, Ahmedabad shivered with cries, its veins thrilled by huge black clouds of smoke, and the incident? A Boeing 787 Dreamliner, bound for London Gatwick crash landed just a few minutes after taking off, and collided with a hostel building of the BJ Medical College. 242 lives claimed, all innocent, 242 families devastated, and the world, shook to its core.
+        </p>
+
+        <p>
+          As the world mourns the loss of every life, except one, onboard the aircraft, questions arise. Whose fault was it? What was the reason behind the crash? What happened in the final moments when 1,26,000 liters of fuel charred human bodies? What is the road ahead? What lessons do we take out from it?
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Crash</h2>
+          
+          <p>
+            Air India's flight numbered AI 171, serviced by a Boeing 787 Dreamliner registered as VT-ANB, plummeted in the skies at 475 feet per minute, less than a minute after taking off from the Sardar Vallabhbhai Patel International Airport, Ahmedabad. As reported by Times of India on 14th June 2025, at least 274 people were killed in the crash. This numbers includes 242 people onboard the flight - 230 passengers, two pilots and 10 crew members, and 32 people who were the residents of the medical hostel.
+          </p>
+
+          <p>
+            The flight took off from the airport at 1339 hours IST, scheduled to reach London Gatwick around 2300 hours IST or 1825 hours BST. In less than a minute of taking off, the plane crashed into BJ Medical College's hostel. The last recorded altitude of the aircraft through Flight Radar 24 stands at 625ft, and the descend is said to be at a rate of around 425ft/minute. The pilots gave the infamous MAYDAY call, but it was too late and no connection could be established. The Flight Data Recorder (FDR) or the Black Box has been recovered from the crash site by the AAIB, though the search for the other black box called the Cockpit Voice Recorder (CVR) is still on. Without the investigation of these recording instruments, it is rather impossible to say anything about the exact cause of the crash, though speculations exist.
+          </p>
+
+          <p>
+            Some experts are of the view that the flaps were not in optimum position, others say that the landing gears had not been retracted in time which increased the air drag and overpowered the generated thrust of the machine. Some other experts also consider bird strike to be a probable cause, as the airport witnesses a larger than average incidents of bird strikes. Also, this is to be noted that it is the first crash of the 787 since its inception in 2011.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Red flags that were ignored</h2>
+          
+          <p>
+            The causes are still under investigation, but the initial results indicate that not only systematic problems with Air India but also some general issues with Boeing 787-8 Dreamliner aircraft might have been neglected.
+          </p>
+
+          <ol>
+            <li>
+              <strong>The Whistleblower Boeing Warning Was Ignored.</strong>
+              <p>There had been concerns before by a former Boeing engineer over structural problems in the 787 model, namely that parts that were not correctly fastened could come loose after several flights. Despite these warnings, Boeing took them as not critical to flight safety. These issues are now under the scanner, thanks to the crash of Flight 171, the first-ever fatal accident involving a 787.</p>
+            </li>
+            
+            <li>
+              <strong>Facility and Technical Management</strong>
+              <p>It is reported that the air conditioning and communication systems of the plane had given problems to passengers of the previous flights. Despite these complaints Air India has not shown that it made rigorous maintenance checks and acted on these complaints satisfactorily. With effect from June 15, 2025, the Directorate General of Civil Aviation (DGCA) has directed increased safety checks on the complete fleet of Air India Boeing 787.</p>
+            </li>
+
+            <li>
+              <strong>Transparency and Accountability</strong>
+              <p>After the crash, the absence of transparency on the part of Air India and DGCA about the progress of the investigation and its results has been conspicuous. Such communication gap has stirred anger and resentment in the minds of the people regarding the effectiveness of the inquiry and the promise of accountability.</p>
+            </li>
+
+            <li>
+              <strong>International Investigation and Consequences</strong>
+              <p>The incident has raised concern across the globe especially in the United Kingdom where 53 British citizens were on board the plane. The UK has also sent air crash investigators to aid in the investigation which highlights the international consequences of the accident.</p>
+            </li>
+          </ol>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Air India Clarifies Position Amid Ongoing Crash Investigation</h2>
+          
+          <p>
+            After the catastrophic accident of Air India flight AI 171, which resulted in the death of 242 people, Air India's CEO Campbell Wilson said that is it "a difficult and painful day" and expressed profound sorrow, assuring that the airline is fully cooperating with authorities while focusing on supporting victims' families. Air India is actively working with India's Aircraft Accident Investigation Bureau (AAIB), and Boeing, GE Aerospace, as well as investigators from the US (NTSB) and UK, to determine what went wrong.
+          </p>
+
+          <p>
+            While it is still unclear what went wrong with flight AI 171, several aviation analysts think that an engine failure caused the crash, possibly due to insufficient thrust during take-off. Experts also pointed to boarder issues, stating that while the aviation industry is expanding rapidly, the safety culture is stagnant. Critical questions are also being raised – like why there was a 3-4 leveled building located so close to the airport runway.
+          </p>
+
+          <p>
+            People are questioning whether Air India is to blame, however nothing can be said yet, as a full in-dept investigation is underway. The Air India promises that they will cooperate with authorities and will see it through till the end.
+          </p>
+
+          <p>
+            No matter where the fault lies, the loss of lives of hundreds is an irreversible tragedy, which demands nothing but responsibility and accountability.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">The high cost of flight: Boeing's accident history uncovered</h2>
+          
+          <p>
+            This was by no means the first tragic accident. Although there have been many red flags in Boeing's past, the 737 MAX crashes made everyone take notice. Lion Air Flight 610 crashed into the ocean shortly after takeoff in October 2018. Ethiopian Airlines Flight 302 crashed under suspiciously similar circumstances five months later. 346 people died in all. The underlying reason? MCAS is a defective software program that is activated by inaccurate sensor data. The pilots weren't prepared to deal with it, which was the worst part. They had no idea what they were doing. But malfunctioning technology wasn't the only issue. It had to do with a dysfunctional culture.
+          </p>
+
+          <p>
+            In the past, Boeing was a company driven by engineers. However, following its merger with McDonnell Douglas. Things were different after the 1997 merger. Finance executives were in charge, not the engineers who previously headed Boeing. Profit was the priority. Safety features were cut or self-certified, airlines were rushed, and corners were cut. A couple of insiders did make attempts to resist. Former quality manager John Barnett expressed serious concerns but was reportedly pressured into silence. He was found dead in 2024, just before he was to have testified. The factory was "chaotic" according to Ed Pierson. He was also ignored. Once "an engineering company with a good business plan," Boeing is now merely "a business company that makes plans."
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Aftermath and Insights</h2>
+          
+          <p>
+            This incident leaves us with so many questions, the biggest question of all—safety. Is safety even the priority of such cost-cutting aviation companies? Because this wasn't just an isolated event but a part of a systemic issue. Should India rethink procurement deals with Boeing? This has put Air India under scrutiny too. The incident has also led to a trust deficiency among the passengers. The DGCA has mandated enhanced technical inspections on all Air India 787 Dreamliners with GEnx engines; well, that's a step in the right direction (but too late). The Ministry of Civil Aviation shouldn't wait for another incident to review its policies, training, and fleet safety. In addition to this, authorities must ensure the timely removal of physical obstacles around airports to maintain clear approach and departure paths. This is a call for accountability from the airlines, the manufacturers, and the government because in aviation there's no room for shortcuts—because every takeoff carries a world of lives and stories.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/Crash.jpeg",
+    author: [
+      authors.find(a => a.username === "hetal-kothari")!,
+      authors.find(a => a.username === "prerna-srivastava")!,
+      authors.find(a => a.username === "atulit-pandey")!,
+      authors.find(a => a.username === "aliya-imam")!
+    ],
+    category: "national",
+    date: "2025-06-15",
+    readTime: "12 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Aviation", "Air India", "Boeing", "Safety", "Investigation"],
     featured: true,
     isPublished: true,
   },

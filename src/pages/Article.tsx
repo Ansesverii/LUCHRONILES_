@@ -63,22 +63,28 @@ const Article = () => {
             />
             <div>
               {Array.isArray(article.author) ? (
-                <div className="flex flex-wrap gap-2">
+                <div className="flex flex-wrap gap-1">
+                  <span className="text-gray-600">By </span>
                   {article.author.map((author, idx) => (
-                    <Link
-                      key={author.username}
-                      to={`/author/${author.username}`}
-                      className="author-link block font-medium text-luChronicles-black hover:underline"
-                    >
-                      {author.name}{Array.isArray(article.author) && idx < article.author.length - 1 ? ',' : ''}
-                    </Link>
+                    <React.Fragment key={author.username}>
+                      <Link
+                        to={`/author/${author.username}`}
+                        className="author-link font-medium text-luChronicles-black hover:underline"
+                      >
+                        {author.name}
+                      </Link>
+                      {Array.isArray(article.author) && idx < article.author.length - 1 && <span className="text-gray-600">, </span>}
+                    </React.Fragment>
                   ))}
                 </div>
               ) : (
                 article.author && (
-                  <Link to={`/author/${article.author.username}`} className="author-link block">
-                    {article.author.name}
-                  </Link>
+                  <div className="flex items-center gap-1">
+                    <span className="text-gray-600">By </span>
+                    <Link to={`/author/${article.author.username}`} className="author-link font-medium text-luChronicles-black hover:underline">
+                      {article.author.name}
+                    </Link>
+                  </div>
                 )
               )}
               <span className="text-sm text-gray-500">{article.date}</span>
@@ -103,43 +109,56 @@ const Article = () => {
           {/* Author Info */}
           <div className="bg-gray-50 p-6 rounded-lg my-8">
             <div className="flex flex-col sm:flex-row items-center sm:items-start space-y-4 sm:space-y-0 sm:space-x-4">
-              <img 
-                src={Array.isArray(article.author) ? article.author[0]?.image : article.author?.image} 
-                alt={Array.isArray(article.author) ? article.author[0]?.name : article.author?.name} 
-                className="w-24 h-24 rounded-full"
-              />
-              <div className="text-center sm:text-left">
-                {Array.isArray(article.author) ? (
-                  <div className="flex flex-wrap gap-2 justify-center sm:justify-start">
-                    {article.author.map((author, idx) => (
+              {Array.isArray(article.author) ? (
+                <div className="flex flex-wrap gap-4 justify-center sm:justify-start">
+                  {article.author.map((author) => (
+                    <div key={author.username} className="flex flex-col items-center sm:items-start">
+                      <img 
+                        src={author.image} 
+                        alt={author.name} 
+                        className="w-24 h-24 rounded-full mb-2"
+                      />
                       <Link
-                        key={author.username}
                         to={`/author/${author.username}`}
-                        className="font-serif text-xl font-bold hover:underline"
+                        className="font-serif text-xl font-bold hover:underline text-center sm:text-left"
                       >
-                        {author.name}{Array.isArray(article.author) && idx < article.author.length - 1 ? ',' : ''}
+                        {author.name}
                       </Link>
-                    ))}
-                  </div>
-                ) : (
-                  article.author && (
-                    <Link to={`/author/${article.author.username}`} className="font-serif text-xl font-bold hover:underline">
-                      {article.author.name}
+                      <p className="text-gray-700 mt-1 text-center sm:text-left">
+                        Author at LU Chronicles
+                      </p>
+                      <Link 
+                        to={`/author/${author.username}`}
+                        className="inline-block mt-2 text-sm font-medium text-luChronicles-black hover:underline"
+                      >
+                        View Profile and Articles
+                      </Link>
+                    </div>
+                  ))}
+                </div>
+              ) : (
+                <>
+                  <img 
+                    src={article.author?.image} 
+                    alt={article.author?.name} 
+                    className="w-24 h-24 rounded-full"
+                  />
+                  <div className="text-center sm:text-left">
+                    <Link to={`/author/${article.author?.username}`} className="font-serif text-xl font-bold hover:underline">
+                      {article.author?.name}
                     </Link>
-                  )
-                )}
-                <p className="text-gray-700 mt-2">
-                  Author at LU Chronicles
-                </p>
-                {!Array.isArray(article.author) && article.author && (
-                  <Link 
-                    to={`/author/${article.author.username}`}
-                    className="inline-block mt-2 text-sm font-medium text-luChronicles-black hover:underline"
-                  >
-                    View Profile and Articles
-                  </Link>
-                )}
-              </div>
+                    <p className="text-gray-700 mt-2">
+                      Author at LU Chronicles
+                    </p>
+                    <Link 
+                      to={`/author/${article.author?.username}`}
+                      className="inline-block mt-2 text-sm font-medium text-luChronicles-black hover:underline"
+                    >
+                      View Profile and Articles
+                    </Link>
+                  </div>
+                </>
+              )}
             </div>
           </div>
         </div>

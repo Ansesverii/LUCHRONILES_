@@ -131,6 +131,32 @@ const Team = () => {
               </div>
             </div>
           </div>
+
+          <div className="bg-white shadow-xl border border-gray-200 rounded-xl overflow-hidden transform hover:scale-[1.02] transition-all duration-300 hover:shadow-2xl">
+            <div className="p-8">
+              <div className="flex flex-col items-center text-center">
+                <div className="relative mb-6">
+                  <img 
+                    src="/Manasvi.jpeg" 
+                    alt="Manasvi Srivastava" 
+                    className="w-32 h-32 rounded-full object-cover ring-4 ring-gray-100 shadow-lg"
+                  />
+                </div>
+                <h3 className="font-serif text-xl font-bold text-gray-900">
+                  Manasvi Srivastava (B.sc)
+                </h3>
+                <Link 
+                  to="/author/manasvi-srivastava"
+                  className="inline-flex items-center mt-4 text-sm font-medium text-luChronicles-black hover:text-luChronicles-black/80 transition-colors"
+                >
+                  View Full Profile
+                  <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                  </svg>
+                </Link>
+              </div>
+            </div>
+          </div>
         </div>
       )}
 

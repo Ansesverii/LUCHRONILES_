@@ -28,7 +28,16 @@ const NewsCard: React.FC<NewsCardProps> = ({ article, variant = 'medium' }) => {
             <Link to={`/article/${slug}`}>{title}</Link>
           </h3>
           <div className="mt-1 text-xs text-gray-600">
-            By <Link to={`/author/${author.username}`} className="author-link">{author.name}</Link> • {date}
+            By {Array.isArray(author) ? (
+              author.map((a, idx) => (
+                <React.Fragment key={a.username}>
+                  <Link to={`/author/${a.username}`} className="author-link">{a.name}</Link>
+                  {idx < author.length - 1 && <span>, </span>}
+                </React.Fragment>
+              ))
+            ) : (
+              <Link to={`/author/${author.username}`} className="author-link">{author.name}</Link>
+            )} • {date}
           </div>
         </div>
       </div>
@@ -54,7 +63,16 @@ const NewsCard: React.FC<NewsCardProps> = ({ article, variant = 'medium' }) => {
           <Link to={`/article/${slug}`}>{title}</Link>
         </h2>
         <div className="mt-3 text-sm text-gray-600">
-          By <Link to={`/author/${author.username}`} className="author-link">{author.name}</Link> • {date}
+          By {Array.isArray(author) ? (
+            author.map((a, idx) => (
+              <React.Fragment key={a.username}>
+                <Link to={`/author/${a.username}`} className="author-link">{a.name}</Link>
+                {idx < author.length - 1 && <span>, </span>}
+              </React.Fragment>
+            ))
+          ) : (
+            <Link to={`/author/${author.username}`} className="author-link">{author.name}</Link>
+          )} • {date}
         </div>
       </div>
     );
@@ -79,7 +97,16 @@ const NewsCard: React.FC<NewsCardProps> = ({ article, variant = 'medium' }) => {
         <Link to={`/article/${slug}`}>{title}</Link>
       </h3>
       <div className="mt-2 text-xs text-gray-600">
-        By <Link to={`/author/${author.username}`} className="author-link">{author.name}</Link> • {date}
+        By {Array.isArray(author) ? (
+          author.map((a, idx) => (
+            <React.Fragment key={a.username}>
+              <Link to={`/author/${a.username}`} className="author-link">{a.name}</Link>
+              {idx < author.length - 1 && <span>, </span>}
+            </React.Fragment>
+          ))
+        ) : (
+          <Link to={`/author/${author.username}`} className="author-link">{author.name}</Link>
+        )} • {date}
       </div>
     </div>
   );
