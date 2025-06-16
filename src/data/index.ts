@@ -2769,6 +2769,274 @@ export const articles: Article[] = [
     featured: true,
     isPublished: true,
   },
+  {
+    id: "passing-the-torch",
+    title: "Passing the Torch: Indian Cricket Team in the Post-Rohit-Kohli Era",
+    slug: "passing-the-torch-indian-cricket-team-post-rohit-kohli",
+    excerpt: "An in-depth analysis of India's cricket future following the retirement of Rohit Sharma and Virat Kohli from Test cricket, exploring the challenges and opportunities ahead.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          With the recent retirement of Rohit Sharma and Virat Kohli from the Test arena, Indian cricket now appears to be on the verge of a significant transition period, with the retirement of star players signifying both an era's end as well as the ushering in of generational transition to India's red-ball future.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">Closing Chapters: The Final Tests of Rohit and Kohli</h2>
+          
+          <p>
+            On May 7, 2025, Rohit Sharma, the Test captain of India, announced that he was retiring from Test cricket. After playing 67 matches, he scored 4,301 runs with an average of 40.57, including 12 centuries and 18 half-centuries. Rohit made a mark in Test cricket, especially after moving to the opening spot in 2019, where he particularly excelled in home conditions.
+          </p>
+          
+          <p>
+            Just a few days later, on May 12, Virat Kohli, who is one of India's top Test captains and a standout batter, also declared his retirement. Kohli concluded his test career with 123 matches, scoring 9,230 runs at an average of 55.57, along with 30 centuries—second only to Sachin Tendulkar among Indian players. He was captain from 2014 to 2022 and led India to 40 Test victories, creating a bold and aggressive style of play.
+          </p>
+
+          <p>
+            Although these retirements were anticipated because of their ages and the demands of the game, they mark a clear shift in the team's leadership.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">The BCCI's Response and Structural Shift</h2>
+          
+          <p>
+            The BCCI has decided to keep Kohli and Rohit in the Grade A+ contracts for the 2024–25 season, which shows how important they still are to India's plans for white-ball cricket. At the same time, the board is making some changes in leadership. Shubman Gill, 25, has been named the new Test captain for the upcoming series against England. This choice signals a shift to a younger team. He's been prepared for this role through his experiences with India A and some early Tests.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">India's Test Future: Challenges and Focus Areas</h2>
+          
+          <p>
+            The exit of two of the most senior batters and leaders leaves a significant gap in experience, temperament, and on-field guidance. The challenges that lie ahead include:
+          </p>
+
+          <p>
+            Leadership Stability: With Gill stepping up as captain, the team will need some time to find its groove in terms of consistent leadership.
+          </p>
+
+          <p>
+            Middle-Order Rebuild: Replacing the reliability and versatility that Kohli and Rohit offered to the middle order won't happen overnight. Young talents like Yashasvi Jaiswal, Ruturaj Gaikwad, and Sarfaraz Khan are set to vie for regular positions.
+          </p>
+
+          <p>
+            Bowling Balance: The Test bowling lineup, featuring Bumrah, Siraj, and Ashwin, remains strong, providing a sense of continuity. However, developing solid backups for the long haul is crucial.
+          </p>
+
+          <p>
+            Tough Tours Ahead: With a five-Test home series against England kicking off on June 20, the new team will face early tests—not just in terms of skill, but also in their ability to handle pressure.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Conclusion: A New Chapter Begins</h2>
+          
+          <p>
+            The concurrent retirements of Rohit Sharma and Virat Kohli are one of the most monumental shifts in Indian cricket's history. While their departures leave significant voids, they also create opportunities for new talent to set new standards and paradigms of leadership.
+          </p>
+
+          <p>
+            The BCCI's vision, the selectors' decision making in identifying suitable replacements, and the new players' ability to perform under the close scrutiny that comes with following such legendary forebears will determine how the transition will turn out. The strength and depth of Indian cricket will ultimately be tested in the coming months and starts with the England tour, which could provide the benchmark for the future.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/leg.jpeg",
+    author: authors.find(a => a.username === "abhinav-upadhyay")!,
+    category: "sports",
+    date: "2025-06-16",
+    readTime: "8 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Cricket", "Sports", "India", "Test Cricket", "Leadership"],
+    featured: true,
+    isPublished: true,
+  },
+  {
+    id: "cybersecurity-india-2025",
+    title: "Cybersecurity and Digital Infrastructure Risks in India: 2025 Outlook",
+    slug: "cybersecurity-digital-infrastructure-risks-india-2025",
+    excerpt: "A comprehensive analysis of India's cybersecurity landscape in 2025, examining emerging threats, government responses, and the path forward for digital infrastructure protection.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          Thanks to India's rapid digital transformation, it is now considered a world leader in technology. However, it has revealed some important gaps in its cybersecurity. Because technology is now used more in government, financial, defense, and help for citizens, online attacks and security breaches have occurred regularly and intensely. In 2025, the threats become more serious, proving how important it is to improve digital infrastructure and security systems.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">More Cyberattacks are Now Occurring</h2>
+          
+          <p>
+            Between May 7-10, 2025 India experienced 650 cyberattacks that are believed to be connected to Pakistani hacker groups. Power grids and financial networks, part of the critical infrastructure, demonstrate that current international conflicts are now taking place in the digital world. There was an increase of 50% in DDoS attacks in 2024, most of which (85%) occurred in the financial sector. ISRO, which is a government organization, has to deal with more than 100 hacking attempts every day.
+          </p>
+          
+          <p>
+            These days, Cybercriminals' attacks are focused on banking, healthcare, manufacturing, and public services. By mid 2024, there were 593 major cyber issues found in India, involving ransomware and stolen data. The India Meteorological Department (IMD) especially had to block public access to its data after finding out about cyber risks from outside the country.
+          </p>
+
+          <p>
+            Private businesses have faced the same challenges too. An investigation in April 2025 revealed that a ransomware attack on Marks & Spencer was rooted in problems with Tata Consultancy Services (TCS), which was dealing with the retailer's IT systems. Because of the incident, people became more concerned about risks in supply chain cybersecurity.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Government Policy Measures</h2>
+          
+          <p>
+            Because national security is important, India has brought about several big reforms. In April 2025, the government required CCTV systems that use the internet to be very secure. As a way to limit espionage dangers from Chinese companies, the Indian government has caused a big impact on the domestic surveillance technology industry.
+          </p>
+
+          <p>
+            Besides, the Union Budget 2024–25 showed that cybersecurity was valued highly, as Rs 759 crore was put toward protecting against cyber threats—a 90% rise from the previous year. Better regulations for digital companies and strong real-time monitoring in every sector have been proposed by the government.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Challenges Related to Organization's Structure and Workforce</h2>
+          
+          <p>
+            Nonetheless, despite the above mentioned actions, India has many difficulties to overcome:
+          </p>
+
+          <p>
+            1. It is difficult to find enough skilled people in the field of cybersecurity. This gap hampers the efficiency of dealing with new threats.
+          </p>
+
+          <p>
+            2. Absence of a common blueprint among the groups handling cyber security issues causes problems and delays when dealing with crises.
+          </p>
+
+          <p>
+            3. Advanced Persistent Threats (APTs) are some of the new attacks, and they are hard to detect because they are silent and highly advanced. They can weaken important services even before being detected.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">A New Strategy Ahead</h2>
+          
+          <p>
+            Creating a safe future in the digital world requires India to use many different methods:
+          </p>
+
+          <p>
+            1. Programs such as the Information Security Education and Awareness (ISEA) project contribute a lot to growing new talents. Teaching cybersecurity at schools and universities will fill the present shortage of professionals.
+          </p>
+
+          <p>
+            2. Rely on co-operation between private and public sectors when it comes to development and improvement. Improved cooperation between the government and technology companies may allow prompt discovering and dealing with cyber threats.
+          </p>
+
+          <p>
+            3. Introduction of artificial intelligence, machine learning, and quantum cryptography can greatly help India in cybersecurity.
+          </p>
+
+          <p>
+            4. Each country must cooperate on cybersecurity since it is a challenge for all. The nation should still cooperate with international organizations, provide information, and stick to the worldwide rules for cybersecurity.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Conclusion</h2>
+          
+          <p>
+            As more of India's activities move online, the country's cybersecurity policies should also evolve. These days, cyberattacks are part of modern fighting, disruption of economies, and they are used in political tactics. Secure digital infrastructure, which relies on well-trained staff, advanced machinery, and reliable rules, is needed to safeguard India's interests in digital life.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/cyber.jpeg",
+    author: authors.find(a => a.username === "hetal-kothari")!,
+    category: "sci-tech",
+    date: "2025-06-16",
+    readTime: "12 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Cybersecurity", "Technology", "Digital Infrastructure", "India", "Policy"],
+    featured: true,
+    isPublished: true,
+  },
+  {
+    id: "india-communalism",
+    title: "India at the Crossroads: The Rising Shadow of Communalism",
+    slug: "india-crossroads-rising-shadow-communalism",
+    excerpt: "An examination of the historical roots and contemporary manifestations of communalism in India, its impact on society, and the path forward for national unity.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          India is a diverse country with a rich history of harmonious coexistence among its numerous communities. Yet, modern times have witnessed the rise of communal clashes, class conflicts, caste struggles, linguistic disputes, and ethnic tensions. Communalism is the belief that people of the same religion share common interests, suggesting that people of different communities have mutually incompatible and hostile ideologies.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">Its Roots</h2>
+          
+          <p>
+            Although conflicts did exist in the pre-colonial period, overall, it was a time marked by religious syncretism and harmony. Communalism is a colonial legacy tracing its roots back to various British policies of divide and rule like:
+          </p>
+
+          <p>
+            • giving harsher punishments to Muslims than Hindus following the revolt of 1857
+          </p>
+
+          <p>
+            • the partition of Bengal in 1905 along religious lines
+          </p>
+
+          <p>
+            • introduction of a separate electorate
+          </p>
+
+          <p>
+            • a communal interpretation of Indian history by James Mill
+          </p>
+
+          <p>
+            • economic policies that led to stagnation and competition for limited resources and jobs
+          </p>
+
+          <p>
+            India is founded on the rejection of the very idea that religion should be a determinant of nationhood. Secularism is enshrined in the Preamble and part of the basic structure of the constitution but it has not stopped political leaders and parties, both during the freedom struggle and post-independence, from using religious identities for electoral gains.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Its Impact</h2>
+          
+          <p>
+            Jawaharlal Nehru warned in his book "The Discovery of India" (1946) that the communalism of the majority was especially dangerous because it could present itself as nationalist. Recurrent instances of communal violence and riots result in fatalities, displacement, property damage, and enduring trauma for people and communities. Instances include the 1984 Anti-Sikh riots, the 1992 riots following the Babri Masjid demolition, and the Gujarat riots of 2002.
+          </p>
+
+          <p>
+            Social media has turned into a medium for spreading misinformation, rumors, and hate speech fostering an "us vs. them" narrative among communities (purposely augmented by communal politics), diminishing India's pluralistic identity, and resulting in societal polarization based on religion in turn threatening India's unity.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Conclusion</h2>
+          
+          <p>
+            Addressing past injustices by committing new ones in a different context only deepens the original harm. Tackling communalism in India necessitates a multidimensional approach, including a focus on secular institutions, encouraging interfaith conversations, supporting ethical journalism, ensuring political responsibility, and confronting socio-economic inequalities.
+          </p>
+
+          <p>
+            Future generations must not be taught to use history as a justification for present-day prejudice. Instead, we must strive to build a unified and harmonious society that looks forward rather than being divided by the past.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/communism.jpeg",
+    author: authors.find(a => a.username === "trishla-chaudhary")!,
+    category: "national",
+    date: "2025-06-16",
+    readTime: "10 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Communalism", "Society", "Politics", "History", "India"],
+    featured: true,
+    isPublished: true,
+  },
 ];
 
 // Admin users
