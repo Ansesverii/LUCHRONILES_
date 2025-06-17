@@ -3037,6 +3037,405 @@ export const articles: Article[] = [
     featured: true,
     isPublished: true,
   },
+  {
+    id: "beyond-rcb-stampede",
+    title: "Beyond the RCB Stampede: The Crisis of Toxic Fandom in India",
+    slug: "beyond-rcb-stampede-the-crisis-of-toxic-fandom-in-india",
+    excerpt: "An in-depth analysis of the tragic RCB stampede incident and the broader issue of toxic fandom in India, exploring how celebration turned into tragedy and what it reveals about our society.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          In India, cricket isn't just a sport—it's emotion, identity, and, for many, a kind of religion. So when RCB finally lifted the IPL trophy after 18 long years, it felt like a dream come true. Streets lit up, chants echoed through the night, and fans poured in by the thousands to be part of something historic. But somewhere between the celebration and the chaos, joy turned into tragedy.
+        </p>
+
+        <p>
+          A stampede broke out. People who came to cheer ended up crying. 11 lives were lost. 47 people were injured. And a question hung heavy in the air: how could something so beautiful turn so dark?
+        </p>
+
+        <p>
+          This piece isn't just about one event. It's about a pattern we keep ignoring—the way we put celebrities on pedestals that we tend to forget they're human, and so are we. This is in fact about the system that feeds off our devotion for the games and the system isn't concerned about the safety of others. It's about the way fandom, when pushed too far, stops being about love and starts becoming dangerous.
+        </p>
+
+        <p>
+          And maybe, just maybe, it's time we start questioning how much is too much, when it comes to worshipping our heroes?
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">This Isn't Just A One-Off Tragedy</h2>
+          
+          <p>
+            This isn't just a one-off tragedy. What happened wasn't an isolated event—it's a glimpse into a much bigger, deeper issue. The RCB stampede is a symptom of something we've normalized for far too long: toxic fan culture.
+          </p>
+          
+          <p>
+            From constant Twitter wars and name-calling hashtags to meme pages viciously trolling teams and players—these may seem trivial on the surface, but they're where it begins. The aggression builds quietly, becoming part of everyday fandom until it explodes into something real, something violent.
+          </p>
+
+          <p>
+            We've seen it before. Vandalism at Dhoni's House (2012 & 2014) Fans vandalized his Ranchi house after he lost certain matches. It wasn't criticism—it was mob outrage over a game. The infamous SRK–Salman rivalry wasn't just a clash of stars, it created years of online abuse, hate trends, and blind loyalty. Now, the battleground has shifted to YouTube, where digital creators command cult-like devotion. Feuds between influencers often lead to doxxing, harassment, and targeted abuse, all in the name of loyalty. It's almost as if they're trying to please a god, not admire a person. And when devotion turns into blind worship, dissent becomes betrayal, and celebration becomes chaos.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">How Does Fandom Become Toxic</h2>
+          
+          <p>
+            Fandom, at its heart, is just love. It's the joy of watching someone succeed, the comfort of seeing a familiar face on screen, the excitement of waiting for a new match, movie, or video to drop. It's deeply human—to want to cheer for someone, to feel like you're part of something bigger.
+          </p>
+
+          <p>
+            But sometimes, without even realising it, that love crosses a line.
+          </p>
+
+          <p>
+            People start tying their self-worth to someone else's success. "If they win, I feel proud. If they lose, I feel small." It stops being about the game or the film or the art. It becomes personal. It becomes mine. And when someone says something against that person, someone you've grown up admiring, defending, even living through, it feels like they're insulting you.
+          </p>
+
+          <p>
+            That's when admiration turns into obsession.
+          </p>
+
+          <p>
+            What starts as a harmless debate—"my team is better than yours" slowly becomes a fight. Then a war. Then something uglier. We've seen it happen. People hurl insults over a tweet, sending threats over a film review, breaking things after a match loss, all in the name of being a "true fan."
+          </p>
+
+          <p>
+            But maybe behind all that noise, there's just a silent hurt. People looking for meaning. For pride. For something that makes them feel alive and seen in a world that often doesn't care. And when they find that in a celebrity or a team or a creator they hold on too tight.
+          </p>
+
+          <p>
+            There's nothing wrong with loving your heroes. But maybe the question we need to ask is: are we loving them, or are we losing ourselves in them?
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Systematic Failures Feed It</h2>
+          
+          <p>
+            Toxic fandom doesn't happen in isolation. It's not just about over-passionate fans, it's also about the authorities around them that allow, and sometimes even encourage it.
+          </p>
+
+          <p>
+            Take the example of poor event planning—oversold tickets, unmanned gates, no crowd control. Fans are left to navigate chaos on their own. The tragic case of the KK concert in Kolkata is proof: it wasn't violence, it was negligence.
+          </p>
+
+          <p>
+            Then marketing comes into the light. Franchises and celebrities aren't just sold as talented, they're sold as identities. "Ee Sala Cup Namde," "Bleed Blue," "SRK Army." The message is: don't just support—belong, defend, fight. But the infrastructure around this emotion? Nowhere to be seen. No safeguards. No mental health checks. No accountability when things go wrong.
+          </p>
+
+          <p>
+            And the media? They know exactly what they're doing. Headlines like "Who has the most loyal fans?" or "Twitter goes to war over XYZ" aren't harmless—they're the fuel to the fire. What should be entertainment turns into this constant need to be louder, more aggressive, more "loyal."
+          </p>
+
+          <p>
+            The system profits from obsession—but never takes responsibility when it turns dangerous.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Human Cost</h2>
+          
+          <p>
+            Behind every stampede, every surge of online hate, every fan war that crosses the line—there are people. Not just usernames or crowd counts, but human beings with emotions, families, and stories of their own. Somewhere along the way, in the rush to go viral or break records, we forget that. Fans are reduced to metrics likes, views, ticket sales while the hurt they carry, the fear, the lasting scars, go unseen.
+          </p>
+
+          <p>
+            And when something does go wrong, the silence from the top is deafening. No accountability. No apology. The same franchises and systems that romanticise undying loyalty—selling slogans, rivalries, and hype and vanish when it's time to take responsibility.
+          </p>
+
+          <p>
+            The fans are left behind. Not heroes. Not warriors. Just human beings who gave too much and got too little in return.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">What Needs to Change?</h2>
+          
+          <p>
+            Toxic fandom won't fix itself—it needs change, and that change must happen at every level. For fans, it starts with knowing where to draw the line. It's okay to love a team, a celebrity, a creator but not to the point where it becomes your entire identity. Passion shouldn't cost you your peace. And loyalty? It doesn't have to come with anger or hate. In fact, sometimes the most loyal thing you can do is speak up when your own side goes too far.
+          </p>
+
+          <p>
+            For teams, franchises, and event organisers, the message is simple: stop chasing hype at the cost of responsibility. Fans aren't just crowds or numbers—they're people. They deserve safety, respect, and basic care. And framing aggression as devotion only makes things worse.
+          </p>
+
+          <p>
+            As a society, we need to think about what this says about us. Why do we tie our pride to a player's win? Why does belonging sometimes mean fighting strangers online? These aren't just sports or film issues, they're about identity, insecurity, and the human need to feel seen.
+          </p>
+
+          <p>
+            The tragic RCB stampede, which resulted in the loss of many lives and many more injuries, has triggered many serious questions—When did being a fan turn into picking sides like it's a war? It used to be about enjoying what you love—your team, your movie, your music. Now, it feels like you have to fight strangers just to prove you belong. It's not really about sports or films anymore. It's about identity, validation, and feeling seen. But in the middle of all the noise, we forgot the joy.
+          </p>
+
+          <p class="conclusion">
+            So ask yourself – when did love for the game start costing lives?
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/toxic.jpeg",
+    author: authors.find(a => a.username === "prerna-srivastava")!,
+    category: "features",
+    date: "2025-06-17",
+    readTime: "15 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Sports", "Society", "Culture", "Fandom", "Cricket"],
+    featured: true,
+    isPublished: true,
+  },
+  {
+    id: "ibc-effective-tool",
+    title: "Is the IBC Still an Effective Tool for Resolution?",
+    slug: "is-the-ibc-still-an-effective-tool-for-resolution",
+    excerpt: "An analysis of the Insolvency and Bankruptcy Code's effectiveness after nearly nine years, examining its successes, challenges, and the road ahead for corporate debt resolution in India.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          After nearly nine years of IBC establishment, corporate debt resolution has seen a sea change in India; however, challenges remain persistent, as the landmark cases of Bhushan Power and Jet Airways show. Is IBC delivering on its promise, or has it begun to show signs of strain?
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">A Game-Changer in Debt Resolution</h2>
+          
+          <p>
+            The IBC, introduced in 2016, was a law that carved a way for the time-bound and creditor-centric insolvency resolution. Over the years, it has become the primary recovery instrument for bad loans in India. In FY24, bank recoveries through IBC accounted for nearly 48% of their dues, much more favored than traditional recovery methods like the SARFAESI (32%) or Debt Recovery Tribunals (17%). Early cases like Essar Steel (₹1.19 trillion recovered) and Bhushan Steel provided credibility to the IBC.
+          </p>
+          
+          <p>
+            By December 2024, more than 8,175 insolvency processes had been initiated, out of which more than 3,485 were "rescued" by way of resolution plans or settlements. Financial creditors were able to realize ₹3.58 lakh crore through 1,119 approved plans approximately, with recovery averaging 163% of liquidation value. However, beneath these early successes, several concerning trends cast doubt over the long-term efficacy of the IBC.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Legislative Push to Address Systemic Gaps</h2>
+          
+          <p>
+            Over the years, endless amendments have been introduced by the government and IBBI to plug the system's gaps.
+          </p>
+
+          <p>
+            May 2025- Interim finance providers were allowed to attend Committee of Creditors (CoC) meetings and bidders were permitted to make separate plans with respect to individual assets.
+          </p>
+
+          <p>
+            February 2024- These special rules for real estate firms mandated independent resolution plans and accounts for each project.
+          </p>
+
+          <p>
+            July-December 2025- New guidelines that seek improvement in the appointment of Insolvency Professionals (IPs) ensuring better accountability and availability.
+          </p>
+
+          <p>
+            The proliferation of regulations since 2016 and six amendment Acts proves the intention behind fine-tuning the IBC. However, the practical outcomes remain mixed.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Judicial Roadblocks and Landmark Cases</h2>
+          
+          <p>
+            One of the most disruptive events occurred in May 2025, when the Supreme Court set aside JSW Steel's ₹19,700 crore resolution plan for Bhushan Power & Steel—nearly five years after approval by the CoC. The ruling, which turned on discrepancies regarding promoter liabilities, stunned investors and raised serious concerns as to the sanctity of resolution. While the Court did stay liquidation pending review, that very uncertainty was the most severe vulnerability exposed in the IBC architecture.
+          </p>
+
+          <p>
+            Other famous cases highlight tensions of similar ilk. In November 2024, Jet Airways was eventually liquidated by the Supreme Court after prolonged delays did not crystallize into a feasible resolution. Go First Airlines met a similar fate in January 2025 with the NCLT citing repossession of assets and failed bids as reasons to shut it down.
+          </p>
+
+          <p>
+            The present cases exemplify litigations and all kinds of inefficiencies in processes that shall derail even brighter resolutions.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Recovery Rates and Timelines Lagging</h2>
+          
+          <p>
+            Despite the high-profile recoveries, average creditor realization remains modest with just 32-33% of admitted claims. While the last few quarters saw recoveries up to 70%, overall outcomes show banks are still taking haircuts of above 60%.
+          </p>
+
+          <p>
+            Timelines are a growing concern, too. The law allows a maximum of 330 days for resolution; however, presently, the average case spans more than 865 days. Litigation remains the primary reason for delays in almost 78% of all cases beyond the 270 days stipulated in the Act.
+          </p>
+
+          <p>
+            Such backlogs run counter to the very principle that made the IBC attractive—certainty through speed.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Mixed Views from Experts and Institutions</h2>
+          
+          <p>
+            The government and RBI continue to support the IBC, arguing it has contributed to enhanced credit discipline and larger recoveries. A 2023 study from IIM-Ahmedabad contends that companies resolved under the IBC saw improved profitability and liquidity.
+          </p>
+
+          <p>
+            However, more sober voices from the industry, amongst others from credit rating agencies, portray a different picture. ICRA mentions the worsening of timelines and that nearly half the cases end up in liquidation. Legal experts contend that the system is susceptible to abuse—by both borrowers seeking to delay proceedings and creditors who want to hastily push for liquidation for asset grabs.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Road Ahead</h2>
+          
+          <p>
+            The IBC remains the most effective tool in India for debt resolution, but it is at a crossroads. Key reforms must be prioritized to keep the momentum:
+          </p>
+
+          <ul>
+            <li>Strengthening and digitizing the infrastructure of the NCLT/NCLAT</li>
+            <li>Setting up dedicated insolvency benches to relieve caseloads</li>
+            <li>Fostering operational and employee creditor empowerment</li>
+            <li>Refashioning a robust pre-pack framework primarily for large firms</li>
+          </ul>
+
+          <p>
+            As the Bhushan Power case illustrates, uncertainty is the mortal enemy of the IBC. Swift action is essential not only to amend the law, but also to implement it effectively.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Conclusion</h2>
+          
+          <p>
+            With timely reforms and restored confidence in the resolution process, IBC could morph into a world-class regime. The alternative will be a fast slide back into impenetrable recovery regimes—a risk India's financial ecosystem can simply not afford.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/IBC.jpeg",
+    author: authors.find(a => a.username === "abhinav-upadhyay")!,
+    category: "business",
+    date: "2025-06-17",
+    readTime: "12 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Business", "Finance", "Law", "IBC", "Corporate"],
+    featured: true,
+    isPublished: true,
+  },
+  {
+    id: "animal-rights-india",
+    title: "Animal Rights in India: Speaking Up for the Unheard",
+    slug: "animal-rights-india-speaking-up-for-the-unheard",
+    excerpt: "A comprehensive look at animal rights in India, exploring the legal framework, everyday challenges, and how each of us can make a difference in protecting our fellow creatures.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          Last month, while walking through the bustling streets of Lucknow, I spotted several stray dogs huddled in a forgotten corner. One of them caught my attention - his ribs protruded sharply beneath his dull coat. He still managed to wag his tail hopefully. That moment stayed with me. Or consider what I once witnessed – a magnificent elephant, chains around her ankles, forced to carry tourists up steep fortress paths in 40-degree heat. Her eyes reflected a deep weariness that words fail to capture. These creatures can't speak our language, but anyone who's truly looking can see they experience the full spectrum of emotions – joy, suffering, terror, and yes, even love.
+        </p>
+
+        <p>
+          India presents a fascinating paradox. We paint divine status on cows, celebrate Nag Panchami for snakes, and our mythology brims with animal deities from Hanuman to Garuda. You'd think this spiritual reverence would translate to harmonious coexistence, but I've seen firsthand how the reality often falls painfully short. Yet there's hope – our laws offer substantive protections. The problem? Too few people know about them.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Legal Shield Few Know About</h2>
+          
+          <p>
+            I was surprised to learn during my research that India stands among a handful of nations whose Constitution explicitly safeguards animals. Article 51(A) doesn't merely suggest – it mandates that every citizen bears a fundamental duty to protect and show compassion to all living creatures. This isn't flowery language; it's a legal obligation with real teeth.
+          </p>
+          
+          <p>
+            The backbone of protection comes from the Prevention of Cruelty to Animals Act, passed back in 1960 but still relevant today. At its heart lies a simple principle: no animal should suffer needlessly. Whether it's the shopkeeper who kicks away the neighborhood stray, the cart owner who whips his exhausted horse through monsoon floods, or the farmer who keeps his cattle perpetually tethered in filthy conditions – the law considers these acts wrong. I've seen each example in my own neighborhood.
+          </p>
+
+          <p>
+            For our wild heritage, the Wildlife Protection Act of 1972 steps in. Growing up near the Western Ghats, I watched forest areas shrink year by year. This legislation stands as a crucial barrier, prohibiting the hunting of protected species and preserving their habitats within sanctuaries and national parks.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Everyday Cruelties We Walk Past</h2>
+          
+          <p>
+            Most animal suffering in India stems not from deliberate cruelty but from sheer ignorance. I remember my grandmother throwing stones at street dogs, believing them "dirty" and "dangerous" – until I explained how these animals have legal rights to exist unmolested. The Animal Birth Control Rules specifically mandate humane sterilization and vaccination programs rather than culling – though I still occasionally see municipal workers rounding up strays for slaughter despite these protections.
+          </p>
+
+          <p>
+            Working animals break my heart the most. Last summer in Varanasi, I watched a bullock collapse from heat stroke while pulling an overloaded cart. Few realize that these animals have legally mandated work limits, rest periods, and weight restrictions. The same applies to the goats I've seen packed into trucks headed for slaughter, or the battery hens stuffed into spaces smaller than a sheet of paper – our transport laws require adequate space, food, and rest periods that rarely materialize in practice.
+          </p>
+
+          <p>
+            Even Bollywood isn't exempt. Remember that blockbuster with the tiger chase scene? Films and circuses must adhere to the Performing Animals Rules, requiring licenses and humane treatment. After witnessing a film shoot where a horse was repeatedly forced to fall for dramatic effect, I filed a complaint with the Animal Welfare Board – they actually took action!
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Courts Stepping Up When Humans Won't</h2>
+          
+          <p>
+            India's judiciary has increasingly championed animal protection. I've followed the Jallikattu controversy for years – the case titled "Animal Welfare Board of India & Ors v. Union of India & Anr" (2023) continues the debate over whether this bull-taming tradition can ever be conducted humanely. Back in 2014, the Supreme Court initially prohibited the practice due to documented cruelties, though political pressures have complicated enforcement.
+          </p>
+
+          <p>
+            What truly amazed me was the 2016 Uttarakhand High Court ruling that recognized animals as legal persons. When I first read the judgment, it brought tears to my eyes. This revolutionary stance means animals possess inherent rights beyond mere property status – we humans have a duty to honor and protect those rights, not just avoid cruelty.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Beyond Paragraphs in Law Books</h2>
+          
+          <p>
+            Animal rights transcend legal frameworks – they're about moral evolution and empathy.
+          </p>
+
+          <p>
+            My father taught me to observe animal behaviors – how a cow nuzzles her calf, how birds warn each other of danger, how even the smallest creatures fight to survive. They may lack human speech, but their communication through body language, vocalizations and even profound silence speaks volumes. True compassion requires more than merely preventing harm; it demands recognizing their right to coexist with dignity in our shared world.
+          </p>
+
+          <p>
+            When you offer water to a panting stray during a heatwave, refuse that elephant ride in Amber Fort despite family pressure, or speak up when your neighbor keeps his dog perpetually chained – you're not just being "nice." You're honoring fundamental rights that even our courts have recognized.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">How You Can Make Real Difference</h2>
+          
+          <p>
+            I've learned that anyone can help:
+          </p>
+
+          <ul>
+            <li>Document and report cruelty to local police or the Animal Welfare Board of India. I keep their hotline (1962) saved in my phone – one call about a neglected horse last year led to immediate intervention.</li>
+            <li>Consider adoption instead of shopping for pets. My rescued street dog Buddy has brought more joy than any pedigreed animal could, while saving a life in the process.</li>
+            <li>Use your voice in your community. When our apartment complex wanted to evict resident strays, a few of us rallied enough support to establish a feeding station and vaccination program instead.</li>
+            <li>Support grassroots rescue organizations. The dedication I've witnessed at small shelters operating on shoestring budgets has restored my faith in humanity.</li>
+            <li>Educate others, especially children. My niece now lectures her whole class about animal kindness after I explained why we shouldn't buy birds in cages.</li>
+          </ul>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Conclusion</h2>
+          
+          <p>
+            In a world increasingly callous toward vulnerability, choosing compassion becomes a radical act. India's animal protection framework reflects the society we aspire to create – one where each sentient being, regardless of species, deserves dignity and consideration.
+          </p>
+
+          <p>
+            I still think about that street dog in Lucknow sometimes. Did someone feed him that evening? Does he have shelter during monsoons? But I also remember the elderly vegetable seller who kept a water bowl outside her stall, refilling it throughout the scorching day for thirsty strays. Such small kindnesses remind me of what's best in us.
+          </p>
+
+          <p>
+            When we protect animals, we don't just save them. We save something essential in ourselves.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/Animal.jpeg",
+    author: authors.find(a => a.username === "hetal-kothari")!,
+    category: "features",
+    date: "2025-06-17",
+    readTime: "15 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Animal Rights", "Society", "Law", "Environment", "Ethics"],
+    featured: true,
+    isPublished: true,
+  },
 ];
 
 // Admin users
