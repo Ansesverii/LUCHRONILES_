@@ -3436,6 +3436,318 @@ export const articles: Article[] = [
     featured: true,
     isPublished: true,
   },
+  {
+    id: "lgbtq-struggles-india",
+    title: "Life Beyond Legal Victories: The Struggles of the LGBTQ+ Community in India",
+    slug: "life-beyond-legal-victories-the-struggles-of-the-lgbtq-community-in-india",
+    excerpt: "An exploration of the current situation of LGBTQ+ people in India, examining their achievements and the obstacles they still face despite legal progress.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          Thanks to efforts over the past decade, India's Supreme Court made an important decision in 2018 to decriminalize homosexuality through the abolition of Section 377 of the Penal Code. Although the ruling was very significant for LGBTQ+ people and brought them closer to being accepted, it did not bring the struggle to a close. Most LGBTQ+ people in India have not found social acceptance, and they keep encountering social bias, cultural shame, and feelings of loneliness.
+        </p>
+
+        <p>
+          This article explores the present situations of LGBTQ+ people in India, pointing out their achievements and the obstacles they still face.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">A Legal Milestone: Section 377 and Beyond</h2>
+          
+          <p>
+            On September 6, 2018, the Supreme Court of India said that private same-sex relations between consenting adults are now allowed. LGBTQ+ people in India found new dignity after this decision, which led the country to follow new human rights standards.
+          </p>
+          
+          <p>
+            After that, more positive changes have taken place in the law.
+          </p>
+
+          <p>
+            <strong>Transgender Persons (Protection of Rights) Act, 2019</strong><br>
+            Intended to protect the rights of transgender individuals, though criticized for failing to adequately reflect the community's needs.
+          </p>
+
+          <p>
+            <strong>Madras High Court rulings</strong><br>
+            Have directed educational institutions to be more inclusive and sensitized toward LGBTQ+ students.
+          </p>
+
+          <p>
+            But, despite the improvements in laws, it is still not consistently carried out, and there are issues that go deeper.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Stigma and Discrimination in Society</h2>
+          
+          <p>
+            Laws can accept a type of family, but that does not mean society does. Don't forget that homophobia and transphobia remain common in Indian society, mainly in rural areas and among traditional sectors of the cities. People who identify as LGBTQ+ quite often encounter difficulties:
+          </p>
+
+          <ul>
+            <li>Family abusers can make a person feel rejected, force them to marry someone they are not attracted to, or even walk away entirely.</li>
+            <li>Lots of teens suffer bullying, get left out by their peers, and feel lonely even with friends.</li>
+            <li>Despite being allowed to work, people who identify as LGBTQ+ are usually overlooked for jobs, mistreated in the workplace, or have to go through unfair hiring procedures.</li>
+            <li>Many landlords will not let same-sex couples, or transgender individuals live in their homes and are forced to settle in informal areas or places that are unsafe.</li>
+          </ul>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Mental Health Struggles Faced by Them</h2>
+          
+          <p>
+            Being queer takes a heavy toll on the mental well-being of person in India.
+          </p>
+
+          <p>
+            Studies reveal that the following conditions happen more often:
+          </p>
+
+          <ul>
+            <li>People experience depression and anxiety.</li>
+            <li>Substance abuse is taking in harmful substances in unhealthy amounts.</li>
+            <li>A significant problem in transgender and non-binary youth is with suicidal thoughts.</li>
+          </ul>
+
+          <p>
+            The pressure and stress put on minority groups is an important reason for the current mental health crisis among these groups. Even though professional mental health help is growing in big cities, it usually costs money that most people do not have.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">The LGBTQ Community Has to Go Through Certain Challenges</h2>
+          
+          <p>
+            Transgender individuals in India must cope with extra forms of discrimination. Although the Supreme Court said in 2014 that people could use their own terms for gender, bureaucratic and social problems still exist.
+          </p>
+
+          <ul>
+            <li>It is very difficult to obtain or alter ID documents.</li>
+            <li>People often face many difficulties when trying to get healthcare and gender-affirming care because it is rarely accessible and stigmatized.</li>
+            <li>People who do not meet the expectations of binary gender still usually experience severe public humiliation and violence.</li>
+            <li>Because there are few jobs and educational options available to them, most transgender individuals end up begging or having to engage in sex work.</li>
+          </ul>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Education and Visibility</h2>
+          
+          <p>
+            More and more, India's media, literature, and social discussions now include representations of LGBTQ+ individuals. These marches, groups of LGBTQ+ students at universities, and Naz Foundation as well as Humsafar Trust have helped many people become more aware of the LGBTQ+ community.
+          </p>
+
+          <p>
+            However, sex education and LGBTQ+ inclusivity in schools remain almost non-existent. Some individuals find it hard to recognize and accept who they are since they are raised speaking a foreign language.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Fight for Marriage Equality</h2>
+          
+          <p>
+            Up to this point, same-sex marriages have not been made legal in India. Even after petitions presented to the High Courts and the Supreme Court, the central government has so far rejected change, saying it would impact the country's culture and religion.
+          </p>
+
+          <p>
+            It is not only about recognizing romantic feelings. It affects the following areas:
+          </p>
+
+          <ul>
+            <li>Inheritance rights</li>
+            <li>Adoption and surrogacy</li>
+            <li>Tax benefits</li>
+            <li>Medical decision-making in emergencies</li>
+          </ul>
+
+          <p>
+            Lack of these rights makes same-sex couples legally exposed and difficult to recognize in the community.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Conclusion: The Road Ahead</h2>
+          
+          <p>
+            Although the community has succeeded in getting legal recognition in India, they have not yet attained true equality. Legislation may change all too quickly, but it takes time for people's viewpoints to change. It is not only about making the law better, but also about challenging narrow attitudes and untrue information about LGBTQ+ people in society.
+          </p>
+
+          <p>
+            Activism, learning, and working together on various issues are still very important. It is necessary for LGBTQ+ people to be represented more in politics, the workplace, and media because this would help all Indians live with respect and real equality.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/lg.jpeg",
+    author: authors.find(a => a.username === "hetal-kothari")!,
+    category: "features",
+    date: "2025-06-18",
+    readTime: "12 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["LGBTQ+", "Society", "Law", "Human Rights", "India"],
+    featured: true,
+    isPublished: true,
+  },
+  {
+    id: "union-to-silence-lucknow-university",
+    title: "From Union to Silence: How Criminalization Killed Mass Politics at Lucknow University",
+    slug: "from-union-to-silence-how-criminalization-killed-mass-politics-at-lucknow-university",
+    excerpt: "An analysis of how student politics at the University of Lucknow transformed from ideological engagement to criminal control, and the consequences of banning student union elections.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          The story of student politics at the University of Lucknow is, in many ways, the story of India itself. A campus that once hosted torchbearers of freedom—where the student union gave honorary membership to Jawaharlal Nehru, Lal Bahadur Shastri, and Khan Abdul Ghaffar Khan—has today been without an elected student union for nearly two decades. The official reasoning behind this decision is violence. But this is not just about violence. This is the story of how criminalization hollowed out a culture of mass political participation and left behind a sterile campus where politics is either elite or criminal—with nothing in between.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Ideological Era</h2>
+          
+          <p>
+            In the post-independence decades, student politics at LU was ideological. AISF, ABVP, NSUI—these were not just acronyms but distinct political positions with real ideological foundations. Debates were fierce, yet based on ideas. Student union elections were political acts, not proxy wars. Atul Anjaan, perhaps the most significant LUSU president, held office during the Emergency and kept the idea of a student union alive when democratic rights were suspended nationwide. His tenure was not marked by fear but by articulation, oratory, and mass work. LU in the '60s and '70s was a campus of politics—not a battlefield.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Criminal Turn</h2>
+          
+          <p>
+            But this balance began to collapse in the '80s, and by the '90s, it was destroyed. The rise of criminal elements—Dhananjay Singh, Abhay Singh—turned student politics into an entry point for mafia operations. Elections were no longer about mandates; they were about territory. Hostel rooms became armories. The union became a ladder to political contracts, not public service. And with this shift came fear. Participation shrank. Only those who could afford physical risk or had patronage entered the fray. Politics moved from the classroom to the corridor of power—and finally into the shadows.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Ban and Its Consequences</h2>
+          
+          <p>
+            The consequence? In 2006, under the guise of implementing Lyngdoh Committee recommendations, elections were banned. Not suspended—banned in practice, if not in name. No LUSU elections have been held since. Students have come and gone without even knowing what collective representation means. And it's not just representation that is lost—it's memory, imagination, and history. A campus that once debated Vietnam, caste, and price hikes is now a campus where student voices are reduced to hashtags, if that.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Deeper Cost of Depoliticization</h2>
+          
+          <p>
+            But what is the deeper cost of this depoliticization? The vacuum of mass participation has not created neutrality—it has created elite and criminal dominance. Those with social capital, family networks, or party backing still rise. They become spokespersons, political managers, or NGO functionaries. The criminal networks didn't disappear either; they just found new forms—controlling admissions, hostels, and extortion rackets informally, without needing an election. What's missing is the middle: the mass student who once voted, once protested, once debated, once dreamt. That student is now absent. And their absence is political.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Serving the Status Quo</h2>
+          
+          <p>
+            This deliberate dismantling of democratic culture was not just an accident. It served the interests of the status quo. For the ruling elite, a campus without a union is a campus without resistance. For the administration, it is calm without accountability. And for political parties, it is the end of a nursery that once produced leaders from working-class and backward backgrounds. Today, most prominent leaders from LU's student past—Brajesh Pathak, Pushkar Dhami, Ravidas Mehrotra, Arvind Gope—are from earlier decades. The system stopped producing new ones when it closed the gates on mass participation.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">What Does Silence Mean?</h2>
+          
+          <p>
+            What does it mean for a public university to be silent? It means that the students are no longer political beings. They become individuals pursuing degrees, not citizens in training. It means that education is stripped of engagement. And that criminalization—which once justified the banning of elections—has actually won. Because it killed its only real opponent: democratic student politics.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Challenge Ahead</h2>
+          
+          <p>
+            The challenge now is not just to restore the union. It is to reclaim politics. Not for a faction. Not for a party. But for a generation that has never voted for its own representatives, never seen a public debate, never been told that politics can belong to them too.
+          </p>
+
+          <p class="conclusion">
+            Restoring that imagination is the real revolution.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/luu.jpeg",
+    author: authors.find(a => a.username === "captain-jack-sparrow")!,
+    category: "university",
+    date: "2025-06-18",
+    readTime: "10 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Student Politics", "University", "Democracy", "Education", "Lucknow"],
+    featured: true,
+    isPublished: true,
+  },
+  {
+  id: "operation-rising-lion-prequel-war",
+  title: "OPERATION RISING LION: PREQUEL TO A FULL-SCALE WAR?",
+  slug: "operation-rising-lion-prequel-to-a-full-scale-war",
+  excerpt: "An analysis of Israel's Operation Rising Lion attack on Iran, examining the strategic implications and the potential for escalation in the Middle East.",
+  content: `
+    <div class="article-content">
+      <p class="intro-paragraph">
+        On June 13th, 2025, Israel launched Operation Rising Lion, a full-scale missile-based attack on Iran, targeting its nuclear and military facilities. This comes at a time when Israel is already at a full-blown kinetic conflict in the Gaza strip, and faces retaliation from its neighbours including Lebanon (through Hezbollah), Iran and large-scale condemnation from the world for violating the human rights of the Palestinians. This escalation raises critical questions about regional stability and the evolving nature of Israel’s strategic stature.
+      </p>
+      <p>
+        Apart from its boast of the capability to handle multiple conflicts at a time, the operation displays stark intelligence work by the Mossad.
+      </p>
+      <section class="article-section">
+        <h2 class="section-heading">A prelude to the operation: What led to the attack?</h2>
+        <p>
+          Israel, with the initiation of Khameini’s regime, has been walking on a sharp sword when it comes to Iran, both of them being rather adversaries to each other. Since around 1980, Tehran has repeatedly pledged to wipe Israel “off the map”, and has invested a lot of time and energy to set up the ‘The Axis of Resistance’ consisting of various militias, including but not limited to the Houthis and the Hamas. Both the nations have been at conflict on and off.
+        </p>
+        <p>
+          Israel has been at continued trial for dismantling the axis of resistance, Israel assassinated Ismail Haniyeh, the political head of Hamas, in Iran, the fall of the Assad regime also weakened the already weak Hamas, which have been continually hammered in the Gaza strip.
+        </p>
+        <p>
+          The war has never been one sided, both the sides have exchanged fire time and again and have been at proxy wars since 1980, leaving little space for any diplomatic exchange. The US backed Israel has been fearless in launching operations at Iran, but this time, it was different, Operation Rising Lion was launched without the supervision, or lordship rather, of the United States, which has been infamous for fueling wars all over the world under the name of maintaining global peace.
+        </p>
+      </section>
+      <section class="article-section">
+        <h2 class="section-heading">The operation</h2>
+        <p>
+          Amid rising tensions, Iran was allegedly preparing to become a nuclear state. As of May 2025, the IAEA reported that Iran had amassed 409 kg of uranium enriched to 60% (a level just below weapons-grade) enough for approximately ten nuclear bombs if further enriched.
+        </p>
+        <p>
+          Just a day before the strikes, the IAEA found Iran non-compliant with its nuclear obligations.
+        </p>
+        <p>
+          Tel Aviv has long wished to not let Iran become a nuclear state, which would lead to an enhancement of issues on its borders. Iran, being the dissociating, rather irresponsible, theocracy that it is, would be at risk of using nuclear weapons for purposes not admired.
+        </p>
+        <p>
+          The strikes had set their focus on the same lines. It was aimed at two targets, the Nuclear facilities and the Iranian top brass, Hossein Salami, the commander-in-chief of Iran’s Islamic Revolutionary Guard and other commanders. The Israeli strikes targeted the main uranium facility at Natanz and ballistic missile sites.
+        </p>
+        <p>
+          The operation decapitated the Iranian nuclear programme, reportedly killing four senior commanders and two nuclear scientists.
+        </p>
+      </section>
+      <section class="article-section">
+        <h2 class="section-heading">War of intelligence</h2>
+        <p>
+          The operation rising lion is not a day’s work, nor a month’s. It is years of planning and spy-work sewn into the final action. It is reported by Israeli media and anonymous officials that the Mossad had planted drone launching sites in Tehran in the course of several years, impeccably chalking out the attack with utter precision. Not limited to drone, the Mossad also planted high-precision guided weapons in open areas near Iran’s surface-to-air missile batteries as well as weapon platforms inside civilian vehicles across Iran. This was accompanied with several sabotage missions by the Mossad.
+        </p>
+        <p>
+          An official told the Times of Israel that the operation used “groundbreaking thinking, bold planning and surgical operation of advanced technologies, special forces and agents operating in the heart of Iran while totally evading the eyes of local intelligence.”
+        </p>
+        <p>
+          The attack happened in the heart of Iran, Tehran and the areas surrounding it, under the nose of the local administrations and the Supreme Leaders themselves, with none having a clue.
+        </p>
+      </section>
+      <section class="article-section">
+        <h2 class="section-heading">The America Side of things</h2>
+        <p>
+          With Donal Trump taking the MAGA or Make America Great Again mission more seriously than he takes the welfare of people and students in the nation, Israel was on its own in conducting the mission without the hand of their American overlords on its head. Though, the statement seems a little fogged by Trump’s calls and ‘advises’ to Iran, where he warns Iran that “Israel’s attacks will only get worse”, he seems to move a little over to the Tel Aviv ground instead of sitting on the neutral fence he was earlier. In his first public comments since Friday’s attacks, Trump said on his Truth Social platform that “there is still time to make this slaughter, with the next already planned attacks being even more brutal, come to an end.”
+        </p>
+      </section>
+    </div>
+  `,
+  image: "/voimi.jpeg",
+  author: authors.find(a => a.username === "atulit-pandey")!,
+  category: "international",
+  date: "2025-06-18",
+  readTime: "8 min read",
+  views: 0,
+  likes: 0,
+  comments: [],
+  tags: ["International Relations", "Israel", "Iran", "Middle East", "Geopolitics"],
+  featured: true,
+  isPublished: true,
+},
 ];
 
 // Admin users
