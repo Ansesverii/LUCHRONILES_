@@ -291,11 +291,11 @@ export const articles: Article[] = [
         </p>
 
         <p>
-          What we are witnessing is not the death of democracy, It's the theatre of it. The stage is intact - elections held, flags waved, anchors shouting over each other. But the play is different. The characters are flatter. We now have democratic aesthetics without democratic ethics. Because now, apparently, unity looks like uniformity.
+          What we are witnessing is not the death of democracy, It's the theatre of it.The stage is intact - elections held, flags waved, anchors shouting over each other. But the play is different. The characters are flatter. We now have democratic aesthetics without democratic ethics. Because now,apparently, unity looks like uniformity.
         </p>
 
         <p>
-          We've been here before, every era gets its own remix of "bhai-bhai.", until someone benefits from our family feud. The actors change, the script doesn't. What scares me isn't just the violence - it's that some people have grown disturbingly comfortable with it.
+          We've been here before , every era gets its own remix of "bhai-bhai.",  until someone benefits from our family feud. The actors change, the script doesn't. What scares me isn't just the violence - it's that some people have grown disturbingly comfortable with it.
         </p>
 
         <p>
@@ -315,32 +315,26 @@ export const articles: Article[] = [
         </p>
 
         <section class="article-section">
-          <h2 class="section-heading">Book Recommendations Part 1</h2>
-          
           <p>
             📘<strong>How Fascism Works – Jason Stanley</strong><br/>
             "No single book is as relevant to the present moment."—Claudia Rankine, author of Citizen
           </p>
 
           <p>
-            A philosopher by training and the son of WWII refugees, Jason Stanley doesn't just study fascism - he's lived it. He shows us that fascism doesn't always knock. Sometimes it just walks right in wearing a sadri and kurta, smiling for the cameras. In this unnervingly prescient book, Stanley outlines the ten pillars of fascist politics - tactics that turn "us vs them" into law, wrap propaganda in the language of patriotism, and glorify a mythic past, criminalize minorities, attack intellectuals (because books are scarier than bombs), and shout "law and order" until no one remembers what justice looks like. Drawing from Hungary, Poland, Myanmar, India, and the U.S., he makes one thing brutally clear: a country doesn't need to be fascist to suffer from fascist politics. It starts small- a mythic past here, a criminalized minority there - until the rhetoric becomes policy, and the abnormal becomes Tuesday. Think of it as a red flag manual for democracies on autopilot. Required reading for anyone who still believes "it can't happen here."
+            A philosopher by training and the son of WWII refugees, Jason Stanley doesn't just study fascism -  he's lived it. He shows us that fascism doesn't always knock. Sometimes it just walks right in wearing a sadri and kurta,, smiling for the cameras. In this unnervingly prescient book, Stanley outlines the ten pillars of fascist politics - tactics that turn "us vs them" into law, wrap propaganda in the language of patriotism, and glorify a mythic past, criminalize minorities, attack intellectuals (because books are scarier than bombs), and shout "law and order" until no one remembers what justice looks like. . Drawing from Hungary, Poland, Myanmar, India, and the U.S., he makes one thing brutally clear: a country doesn't need to be fascist to suffer from fascist politics. It starts small-  a mythic past here, a criminalized minority there -  until the rhetoric becomes policy, and the abnormal becomes Tuesday. Think of it as a red flag manual for democracies on autopilot. Required reading for anyone who still believes "it can't happen here."
           </p>
 
           <p>
             📘<strong>The Anatomy of Hate – Revati Laul</strong><br/>
-            What makes a person set fire to another human being? What makes them watch? What makes them rip out the foetus from within the womb with a sword and kill it, while a 14 yo hiding under a pile of bodies, pretending to be dead, watches?
+            What makes a person set fire to another human being? What makes them watch? What makes them  rip out the foetus from within the womb with a sword and kill it , while a 14 yo hiding under a pile of bodies, pretending to be dead, watches?
           </p>
 
           <p>
             In The Anatomy of Hate, Revati Laul peels back the skin of Gujarat 2002 and not just as your usual litany of political failures and victim testimonies. It's far more unsettling. Laul stares into the abyss and introduces us to three of its citizens: Suresh, a career criminal with a vendetta as personal as it was communal; Dungar, a low-caste man trying to out-Hindu the upper castes that humiliated him; and Pranav, an upper-caste rebel whose riot participation was as casual as shoplifting, until guilt chewed through his spine.
           </p>
-        </section>
 
-        <section class="article-section">
-          <h2 class="section-heading">Book Recommendations Part 2</h2>
-          
           <p>
-            What unites these three isn't ideology- it's brokenness. Laul doesn't give you caricatures or monsters. She gives you men- flawed, frightened, festering men who weren't born evil, but got there with small steps. Because once we write off hate as inhuman, we lose the plot. Because here's the kicker: the mob isn't some anonymous mass of maniacs. It has names. It has mommy issues. It binge-watches the same shows. It holds day jobs and wedding grudges. It's you on the wrong day, with the wrong crowd, and the right amount of powerlessness.
+            What unites these three isn't ideology- it's brokenness.. Laul doesn't give you caricatures or monsters. She gives you men- flawed, frightened, festering men who weren't born evil, but got there with small steps.Because once we write off hate as inhuman, we lose the plot. Because here's the kicker: the mob isn't some anonymous mass of maniacs. It has names. It has mommy issues. It binge-watches the same shows. It holds day jobs and wedding grudges. It's you on the wrong day, with the wrong crowd, and the right amount of powerlessness.
           </p>
 
           <p>
@@ -355,11 +349,7 @@ export const articles: Article[] = [
           <p>
             This isn't a book about minorities. It's a book about how the state and society produce minorities- not just through exclusion, but through majoritarian fear. The "minority" here is a political construct, engineered via debates on secularism, nationalism, reservation, gender, and of course, beef.
           </p>
-        </section>
 
-        <section class="article-section">
-          <h2 class="section-heading">Conclusion</h2>
-          
           <p>
             The genius (and horror) lies in how grievance is harvested from decades of privilege. How a dominant group begins to believe it is under siege- because someone else got a scholarship, a film role, or a voice.
           </p>
@@ -369,7 +359,8 @@ export const articles: Article[] = [
           </p>
 
           <p>
-            This book asks the real question: Who gets to feel like a minority in a country where majorities hold the mic, the mandate, and the mob?
+            This book asks the real question:
+            Who gets to feel like a minority in a country where majorities hold the mic, the mandate, and the mob?
           </p>
 
           <p>
@@ -389,7 +380,7 @@ export const articles: Article[] = [
       username: "shumaila-khan",
       image: "/Shumilaprofile.jpeg"
     },
-    category: "Editor's Desk",
+    category: "Editorial",
     date: "2025-06-19",
     readTime: "10 min read",
     views: 0,
@@ -536,7 +527,7 @@ export const articles: Article[] = [
   <li>When we err, we shall correct our mistakes promptly and prominently, with neither delay nor deflection.</li>
   <li>We shall reflect the diversity of our university in our newsroom and in our pages-not as a token gesture, but as a journalistic necessity.</li>
   <li>We shall distinguish reporting from opinion, and clearly mark the difference.</li>
-  <li>When our editors, writers, or institution themselves become newsworthy, we shall not look away.</li>
+  <li>When our editors, writers, or institution ourselves become newsworthy, we shall not look away.</li>
   <li>We shall scrutinize our sources and investigate the institutions that shape campus life-especially those that wield power without transparency.</li>
   <li>We recognize that the appearance of a conflict of interest may be as corrosive as the reality-and will act accordingly.</li>
   <li>We shall state not only what we know, but also what we do not-and why.</li>
@@ -1026,7 +1017,7 @@ export const articles: Article[] = [
         </p>
 
         <section class="article-section">
-          <h2 class="section-heading">INDIA's BACKGROUND: From 1947's NAM to 2025's Multi-alignment</h2>
+          <h2 class="section-heading">INDIA'S BACKGROUND: From 1947's NAM to 2025's Multi-alignment</h2>
           
           <p>
             First, to understand this, we need to understand the past of India's foreign policies and how it has evolved.
@@ -1159,110 +1150,6 @@ export const articles: Article[] = [
     featured: true,
     views: 1250,
     likes: 89,
-    comments: []
-  },
-  {
-    id: "economic-war-china-us",
-    title: "Economic War: China vs US fight",
-    slug: "economic-war-china-us",
-    excerpt: "After Trump ascended in power for the second time as new president of the United States the ongoing conflict between US and China has escalated to a high level bringing a lot of challenges between both countries and the rest of the world.",
-    content: `
-      <div class="article-content">
-        <p class="intro-paragraph">
-          After Trump ascended in power for the second time as new president of the United States the ongoing conflict between US and China has escalated to a high level bringing a lot of challenges between both countries and the rest of the world. The trade dispute between the US and China was motivated by several factors, such as changes in the global economic landscape where the fast rise of China's economic power has been seen as a threat by the US.
-        </p>
-
-        <section class="article-section">
-          <h2 class="section-heading">Background-When everything started</h2>
-          
-          <p>
-            The trade war between the United States of America and China started in 2018, in the first Donald Trump term as a president of America and started imposing tariffs on Chinese products because the Trump Administration believed that China had some unfair trade practices, intellectual property theft and market access. As a response China retaliated by imposing tariffs on American products, starting like this a cycle of successive increases in both sides.
-          </p>
-        </section>
-
-        <section class="article-section">
-          <h2 class="section-heading">Conflict Escalation</h2>
-
-          <p>
-            In January 2018, the Trump administration applied tariffs on $8.5 billion worth of Chinese products, including aircraft parts and machinery. China in response with tariffs on $3.4 billion worth of American products.
-          </p>
-
-          <p>
-            In 2019, the trade war intensified, and the US started applying additional tariffs on $200 billion worth of Chinese products. China also retaliated with tariffs on $60 billion worth of American products.
-          </p>
-
-          <p>
-            In January 2020, the US and China signed the "Phase 1" trade deal, with the US agreeing to reduce tariffs and China committing to buy $200 billion worth of American products over the next two years.
-          </p>
-        </section>
-
-        <section class="article-section">
-          <h2 class="section-heading">Current situation</h2>
-          
-          <p>
-            In April 2025, Trump proposed a 60% tariff on all Chinese products, and later on it increased to 145%, in response China retaliated by applying a 125% tariff on American products.
-          </p>
-
-          <p>
-            On May 12, 2025 was announced the US-China trade truce, specifically 90-day pause in trade war. This agreement was proposed during talks in Geneva between US and Chinese officials, in order to ease tensions and open space for negotiations. This is a temporary pause and some key factors are:
-          </p>
-
-          <ul>
-            <li>The Us lowered tariffs on Chinese goods from as high as 145% to 30%.</li>
-            <li>China reduced its tariffs on Us goods from 125% to 30%.</li>
-            <li>Both sides agreed to create a new dialogue mechanism for the ongoing trade issues.</li>
-          </ul>
-        </section>
-
-        <section class="article-section">
-          <h2 class="section-heading">Global Consequences</h2>
-          
-          <p>
-            US and China are two powerful economies and this trade war brings huge consequences in the global context, this both countries together account 43% of share of the global economy, according to International Monetary Fund (IMF) such consequences include:
-          </p>
-
-          <h3>Global GDP Reduction:</h3>
-          <p>
-            The present conflict can lead to a decline in global trade and economic growth. This uncertainty and tariffs led to slower global GDP growth. The IMF and World Bank both have revised growth forecasts downward during the trade war.
-          </p>
-
-          <h3>Higher Prices for the consumers:</h3>
-          <p>
-            The tariff costs applied on goods passed to consumers, the US and Chinese consumers faced higher prices on goods subject to tariffs. For example, US prices rose on electronics, clothing and food items.
-          </p>
-
-          <h3>Realignment of Global Trade:</h3>
-          <p>
-            Many companies have shifted manufacturing out of China to avoid US tariffs, moving to countries like India, Vietnam, Malaysia, Mexico and Thailand. China reduced import of soybean from US and started importing from Argentina and Brazil. Oil and gas flows were adjusted, with China turning it to Russia and the Middle East for energy supplies.
-          </p>
-        </section>
-
-        <section class="article-section">
-          <h2 class="section-heading">Conclusion</h2>
-          
-          <p>
-            The current trade war between the US and China is rising uncertainty in the present economic global scenario, it is a rooted manifestation of economic, technological and geopolitical tensions between the largest economies of the world. This war is disrupting global supply chains, slowing the global economic growth and realigning trade relations across continents.
-          </p>
-
-          <p>
-            Looking at this scenario, the US-China economic war has laid the foundation for a more fragmented and multipolar global order.
-          </p>
-        </section>
-      </div>
-    `,
-    author: {
-      id: "3",
-      name: "Dorcas Tembo Sambo",
-      username: "dorcas-tembo",
-      image: "/Dorcas Tembo Sambo.jpg"
-    },
-    category: "International",
-    date: "2025-06-09",
-    readTime: "10 min read",
-    image: "/USCHINA.jpeg",
-    featured: true,
-    views: 980,
-    likes: 67,
     comments: []
   },
   {
@@ -2337,7 +2224,7 @@ export const articles: Article[] = [
           <h2 class="section-heading">Creating a Tech-Ready Ecosystem</h2>
           
           <p>
-            But it's not just about spending money. These countries are also trying to create the right environment for new industries to grow. That includes updating school curriculums, training local workers in tech skills, and building large data centres to handle the vast amount of digital information that modern technologies rely on. They're also setting up laws and systems to encourage international companies to bring their business to the region.
+            But it's not just about spending money. These countries are also trying to create the right environment for new industries to grow. That includes updating school curricula, training local workers in tech skills, and building large data centres to handle the vast amount of digital information that modern technologies rely on. They're also setting up laws and systems to encourage international companies to bring their business to the region.
           </p>
         </section>
 
@@ -2359,132 +2246,6 @@ export const articles: Article[] = [
     likes: 0,
     comments: [],
     tags: ["Middle East", "Technology", "Economic Development", "AI", "Green Technology"],
-    featured: true,
-    isPublished: true,
-  },
-  {
-    id: "kolkata-doctor-case",
-    title: "Why is the doctor rape and murder case in Kolkata being unnoticed?",
-    slug: "kolkata-doctor-rape-murder-case-unnoticed",
-    excerpt: "A critical examination of the Dr. Moumita Debnath case in Kolkata, exploring the factors behind the fading public attention and the broader implications for justice and media coverage.",
-    content: `
-      <div class="article-content">
-        <section class="article-section">
-          <h2 class="section-heading">Tragedy that Changed Many Lives</h2>
-          
-          <p>
-            9th August 2024, Dr. Moumita Debnath was reported dead at RG Kar Medical College due to exhaustion after a 36-hour stretch as a postgraduate trainee. Originally believed to have been a suicide, the truth was found in the autopsy – she had received numerous injuries and died by strangulation after being raped and tortured.
-          </p>
-          
-          <p>
-            Learning about her many serious injuries and sexual abuse, the whole nation was under serious shock. In Kolkata and other cities in India, people joined candle marches, protests and demonstrations as a part of the 'Reclaim the Night' event. Thousands of doctors stopped providing care and the Indian Medical Association also launched a nation-wide strike.
-          </p>
-          
-          <p>
-            However, people's interest started to fade quickly.
-          </p>
-        </section>
-
-        <section class="article-section">
-          <h2 class="section-heading">Timeline of the SC proceedings and verdict</h2>
-          
-          <p>
-            Between August 13, 2024 and March 2025, the Calcutta student doctor rape-murder case drew nationwide attention, triggering urgent response from the judiciary. The Calcutta HC transferred the case to the CBI on grounds of police mishandling the case. Amid escalating doctors' protests, the Supreme Court took suo motu cognizance, criticizing FIR delays, mishandled suicide claims, and lax hospital security. It ordered CISF/CRPF deployment at RG Kar Hospital and formed a task force on doctors' safety. By September, the SC enforced victim protection under the rape-shield law and directed the return of protesting doctors. The CBI filed a chargesheet in October; by January 2025, Sanjay Roy was convicted and sentenced to life imprisonment under Bharatiya Nyaya Sanhita Sections 64, 66, and 103(1), with ₹17 lakh compensation to the victim's family. The court ruled it is not a "rarest of rare" case. The SC later dismissed the family's plea for High Court oversight but permitted them to seek further remedies.
-          </p>
-        </section>
-
-        <section class="article-section">
-          <h2 class="section-heading">Why the Silence Became So Prevalent</h2>
-          
-          <p>
-            The level of detailed explanation about torture promoted disinterest. In the autopsy, it was mentioned that "there was 150 mg of semen, a break in the pelvis, and injuries and bleeding everywhere". Forum participants themselves admitted that these photos caused them to go to places they never imagined. At first, the subject was all over the news, but soon the media moved on from focusing on it because many people found it 'very hard to stay interested'.
-          </p>
-        </section>
-
-        <section class="article-section">
-          <h2 class="section-heading">Fools and fakers who want to mislead everyone</h2>
-          
-          <p>
-            The ruling TMC was accused by critics of hiding the truth: moreover, they are said to have covered up the evidence, created damage inside the crime scene, and were late in filing the FIR. But Mahua Moitra of Trinamool denied claims of trying to cover up anything, while members of the BJP wanted quick actions and resignations following this case. The Governor requested President to address an anti‑rape bill in response to rising protests.
-          </p>
-
-          <p>
-            Reports claiming that 151 grams of semen were found in the victim's body have been officially debunked. Autopsy experts clarified that "Wt – 151 gm" in the post-mortem report referred to the weight of the vaginal tissue collected for forensic analysis, not semen.
-          </p>
-
-          <p>
-            In autopsies, it's standard practice to note the weight of organs or tissues sent for viscera examination. This medical detail was misinterpreted and sensationalized, leading to widespread misinformation.
-          </p>
-
-          <p>
-            Even though political messages started to clash, the incident was more widely known as part of an election campaign, and this pulled more attention away from it.
-          </p>
-        </section>
-
-        <section class="article-section">
-          <h2 class="section-heading">People get tired of the news and stories change rapidly</h2>
-          
-          <p>
-            Soon, articles, headlines, and news channels shifted their focus to other related matters: international fights, economic issues, and local elections. One outrage overwhelmed by another; Dr. Debnath's case, though a legal roller‑coaster (CBI chargesheets, fast‑track courts, Supreme Court scrutiny), lost its spotlight.
-          </p>
-        </section>
-
-        <section class="article-section">
-          <h2 class="section-heading">Factors of Politics and the Implications of the Structure</h2>
-          
-          <h3 class="sub-heading">Safety issues facing women used to win votes</h3>
-          <p>
-            Moved by what happened, The West Bengal Legislative Assembly has unanimously passed the 'Aparajita Woman and Child Bill (West Bengal Criminal Laws and Amendment) 2024. Aparajita bill that would use the death penalty for those who rape-and-kill people. Responsiveness may have been signalled, but some people say it only hid the main issues, such as weak hospital security, altering evidence, and bad police investigations. While the opposition made the case an example of what they claim to be Mamata Banerjee's negligence, the TMC responded by saying the BJP is simply exploiting it for its own benefit.
-          </p>
-
-          <h3 class="sub-heading">Accountability and oversight are shining in the legal field</h3>
-          <p>
-            Choosing to hand the probe to the CBI, the High Court pointed out certain issues related to the initial work of the police. CJI Chandrachud headed a three‑judge bench in the Supreme Court, which attacked the actions of local authorities and instructed a national task team to look after the safety of doctors. Legal analysis pointed out that people tend to react more quickly to emotional protest than to a court case.
-          </p>
-
-          <h3 class="sub-heading">Problems within the organization</h3>
-          <p>
-            Because of this outrage, the medical community showed how issues in hospitals existed: cameras or guards were missing, as well as secured areas where doctors could rest during their time on shift. The tragedy made it clear that gender violence sometimes happens in places where supervision is lacking. Reforming the system is a gradual process, and policies can be forgotten by people before they are implemented.
-          </p>
-        </section>
-
-        <section class="article-section">
-          <h2 class="section-heading">Where attention needs to lie</h2>
-          
-          <ol>
-            <li>Several officials are still being examined, including the hospital heads, the police, and the suspect, Sanjay Roy. However, there are still significant weaknesses in larger financial institutions that have not been settled yet.</li>
-            <li>Security: Most hospitals in India are still left vulnerable. The weak security, inadequate lighting, and the absence of visible police presence highlight the serious lapses in safety and surveillance measures in hospitals.</li>
-            <li>Policies must match results: The "Aparajita" bill should be implemented by using resources, setting up fast pathways, safeguarding whistleblowers, and spending on healthcare safety.</li>
-            <li>They need to be clear about where the blame lies and work together on open probes, spend more on repairing infrastructure, and introduce reforms for victims.</li>
-          </ol>
-        </section>
-
-        <section class="article-section">
-          <h2 class="section-heading">The process from outrage to change</h2>
-          
-          <p>
-            Dr. Moumita Debnath's rape and murder shook India, giving rise to mass protests, legal activism, and legislative bans. But over time—a combination of horrific detail, political exploitation, media turnover, and slow reforms—has pushed it from daily consciousness.
-          </p>
-
-          <p>
-            To turn this tragedy into significant progress, India must reignite accountability—ensuring justice that is meaningful, structural protections that actually protect, and political framing that isn't self‑serving. The case demands sustained national memory—not fleeting outrage.
-          </p>
-
-          <p>
-            Only then can Dr. Debnath's death become a catalyst for enduring safety and justice—not just a reminder of its failure.
-          </p>
-        </section>
-      </div>
-    `,
-    image: "/r.jpeg",
-    author: authors.find(a => a.username === "hetal-kothari")!,
-    category: "national",
-    date: "2025-06-14",
-    readTime: "12 min read",
-    views: 0,
-    likes: 0,
-    comments: [],
-    tags: ["Crime", "Justice", "Healthcare", "Women's Safety", "Legal System"],
     featured: true,
     isPublished: true,
   },
@@ -2974,110 +2735,6 @@ export const articles: Article[] = [
     isPublished: true,
   },
   {
-    id: "cybersecurity-india-2025",
-    title: "Cybersecurity and Digital Infrastructure Risks in India: 2025 Outlook",
-    slug: "cybersecurity-digital-infrastructure-risks-india-2025",
-    excerpt: "A comprehensive analysis of India's cybersecurity landscape in 2025, examining emerging threats, government responses, and the path forward for digital infrastructure protection.",
-    content: `
-      <div class="article-content">
-        <p class="intro-paragraph">
-          Thanks to India's rapid digital transformation, it is now considered a world leader in technology. However, it has revealed some important gaps in its cybersecurity. Because technology is now used more in government, financial, defense, and help for citizens, online attacks and security breaches have occurred regularly and intensely. In 2025, the threats become more serious, proving how important it is to improve digital infrastructure and security systems.
-        </p>
-
-        <section class="article-section">
-          <h2 class="section-heading">More Cyberattacks are Now Occurring</h2>
-          
-          <p>
-            Between May 7-10, 2025 India experienced 650 cyberattacks that are believed to be connected to Pakistani hacker groups. Power grids and financial networks, part of the critical infrastructure, demonstrate that current international conflicts are now taking place in the digital world. There was an increase of 50% in DDoS attacks in 2024, most of which (85%) occurred in the financial sector. ISRO, which is a government organization, has to deal with more than 100 hacking attempts every day.
-          </p>
-          
-          <p>
-            These days, Cybercriminals' attacks are focused on banking, healthcare, manufacturing, and public services. By mid 2024, there were 593 major cyber issues found in India, involving ransomware and stolen data. The India Meteorological Department (IMD) especially had to block public access to its data after finding out about cyber risks from outside the country.
-          </p>
-
-          <p>
-            Private businesses have faced the same challenges too. An investigation in April 2025 revealed that a ransomware attack on Marks & Spencer was rooted in problems with Tata Consultancy Services (TCS), which was dealing with the retailer's IT systems. Because of the incident, people became more concerned about risks in supply chain cybersecurity.
-          </p>
-        </section>
-
-        <section class="article-section">
-          <h2 class="section-heading">Government Policy Measures</h2>
-          
-          <p>
-            Because national security is important, India has brought about several big reforms. In April 2025, the government required CCTV systems that use the internet to be very secure. As a way to limit espionage dangers from Chinese companies, the Indian government has caused a big impact on the domestic surveillance technology industry.
-          </p>
-
-          <p>
-            Besides, the Union Budget 2024–25 showed that cybersecurity was valued highly, as Rs 759 crore was put toward protecting against cyber threats—a 90% rise from the previous year. Better regulations for digital companies and strong real-time monitoring in every sector have been proposed by the government.
-          </p>
-        </section>
-
-        <section class="article-section">
-          <h2 class="section-heading">Challenges Related to Organization's Structure and Workforce</h2>
-          
-          <p>
-            Nonetheless, despite the above mentioned actions, India has many difficulties to overcome:
-          </p>
-
-          <p>
-            1. It is difficult to find enough skilled people in the field of cybersecurity. This gap hampers the efficiency of dealing with new threats.
-          </p>
-
-          <p>
-            2. Absence of a common blueprint among the groups handling cyber security issues causes problems and delays when dealing with crises.
-          </p>
-
-          <p>
-            3. Advanced Persistent Threats (APTs) are some of the new attacks, and they are hard to detect because they are silent and highly advanced. They can weaken important services even before being detected.
-          </p>
-        </section>
-
-        <section class="article-section">
-          <h2 class="section-heading">A New Strategy Ahead</h2>
-          
-          <p>
-            Creating a safe future in the digital world requires India to use many different methods:
-          </p>
-
-          <p>
-            1. Programs such as the Information Security Education and Awareness (ISEA) project contribute a lot to growing new talents. Teaching cybersecurity at schools and universities will fill the present shortage of professionals.
-          </p>
-
-          <p>
-            2. Rely on co-operation between private and public sectors when it comes to development and improvement. Improved cooperation between the government and technology companies may allow prompt discovering and dealing with cyber threats.
-          </p>
-
-          <p>
-            3. Introduction of artificial intelligence, machine learning, and quantum cryptography can greatly help India in cybersecurity.
-          </p>
-
-          <p>
-            4. Each country must cooperate on cybersecurity since it is a challenge for all. The nation should still cooperate with international organizations, provide information, and stick to the worldwide rules for cybersecurity.
-          </p>
-        </section>
-
-        <section class="article-section">
-          <h2 class="section-heading">Conclusion</h2>
-          
-          <p>
-            As more of India's activities move online, the country's cybersecurity policies should also evolve. These days, cyberattacks are part of modern fighting, disruption of economies, and they are used in political tactics. Secure digital infrastructure, which relies on well-trained staff, advanced machinery, and reliable rules, is needed to safeguard India's interests in digital life.
-          </p>
-        </section>
-      </div>
-    `,
-    image: "/cyber.jpeg",
-    author: authors.find(a => a.username === "hetal-kothari")!,
-    category: "sci-tech",
-    date: "2025-06-16",
-    readTime: "12 min read",
-    views: 0,
-    likes: 0,
-    comments: [],
-    tags: ["Cybersecurity", "Technology", "Digital Infrastructure", "India", "Policy"],
-    featured: true,
-    isPublished: true,
-  },
-  {
     id: "india-communalism",
     title: "India at the Crossroads: The Rising Shadow of Communalism",
     slug: "india-crossroads-rising-shadow-communalism",
@@ -3557,159 +3214,6 @@ export const articles: Article[] = [
     isPublished: true,
   },
   {
-    id: "lgbtq-struggles-india",
-    title: "Life Beyond Legal Victories: The Struggles of the LGBTQ+ Community in India",
-    slug: "life-beyond-legal-victories-the-struggles-of-the-lgbtq-community-in-india",
-    excerpt: "An exploration of the current situation of LGBTQ+ people in India, examining their achievements and the obstacles they still face despite legal progress.",
-    content: `
-      <div class="article-content">
-        <p class="intro-paragraph">
-          Thanks to efforts over the past decade, India's Supreme Court made an important decision in 2018 to decriminalize homosexuality through the abolition of Section 377 of the Penal Code. Although the ruling was very significant for LGBTQ+ people and brought them closer to being accepted, it did not bring the struggle to a close. Most LGBTQ+ people in India have not found social acceptance, and they keep encountering social bias, cultural shame, and feelings of loneliness.
-        </p>
-
-        <p>
-          This article explores the present situations of LGBTQ+ people in India, pointing out their achievements and the obstacles they still face.
-        </p>
-
-        <section class="article-section">
-          <h2 class="section-heading">A Legal Milestone: Section 377 and Beyond</h2>
-          
-          <p>
-            On September 6, 2018, the Supreme Court of India said that private same-sex relations between consenting adults are now allowed. LGBTQ+ people in India found new dignity after this decision, which led the country to follow new human rights standards.
-          </p>
-          
-          <p>
-            After that, more positive changes have taken place in the law.
-          </p>
-
-          <p>
-            <strong>Transgender Persons (Protection of Rights) Act, 2019</strong><br>
-            Intended to protect the rights of transgender individuals, though criticized for failing to adequately reflect the community's needs.
-          </p>
-
-          <p>
-            <strong>Madras High Court rulings</strong><br>
-            Have directed educational institutions to be more inclusive and sensitized toward LGBTQ+ students.
-          </p>
-
-          <p>
-            But, despite the improvements in laws, it is still not consistently carried out, and there are issues that go deeper.
-          </p>
-        </section>
-
-        <section class="article-section">
-          <h2 class="section-heading">Stigma and Discrimination in Society</h2>
-          
-          <p>
-            Laws can accept a type of family, but that does not mean society does. Don't forget that homophobia and transphobia remain common in Indian society, mainly in rural areas and among traditional sectors of the cities. People who identify as LGBTQ+ quite often encounter difficulties:
-          </p>
-
-          <ul>
-            <li>Family abusers can make a person feel rejected, force them to marry someone they are not attracted to, or even walk away entirely.</li>
-            <li>Lots of teens suffer bullying, get left out by their peers, and feel lonely even with friends.</li>
-            <li>Despite being allowed to work, people who identify as LGBTQ+ are usually overlooked for jobs, mistreated in the workplace, or have to go through unfair hiring procedures.</li>
-            <li>Many landlords will not let same-sex couples, or transgender individuals live in their homes and are forced to settle in informal areas or places that are unsafe.</li>
-          </ul>
-        </section>
-
-        <section class="article-section">
-          <h2 class="section-heading">Mental Health Struggles Faced by Them</h2>
-          
-          <p>
-            Being queer takes a heavy toll on the mental well-being of person in India.
-          </p>
-
-          <p>
-            Studies reveal that the following conditions happen more often:
-          </p>
-
-          <ul>
-            <li>People experience depression and anxiety.</li>
-            <li>Substance abuse is taking in harmful substances in unhealthy amounts.</li>
-            <li>A significant problem in transgender and non-binary youth is with suicidal thoughts.</li>
-          </ul>
-
-          <p>
-            The pressure and stress put on minority groups is an important reason for the current mental health crisis among these groups. Even though professional mental health help is growing in big cities, it usually costs money that most people do not have.
-          </p>
-        </section>
-
-        <section class="article-section">
-          <h2 class="section-heading">The LGBTQ Community Has to Go Through Certain Challenges</h2>
-          
-          <p>
-            Transgender individuals in India must cope with extra forms of discrimination. Although the Supreme Court said in 2014 that people could use their own terms for gender, bureaucratic and social problems still exist.
-          </p>
-
-          <ul>
-            <li>It is very difficult to obtain or alter ID documents.</li>
-            <li>People often face many difficulties when trying to get healthcare and gender-affirming care because it is rarely accessible and stigmatized.</li>
-            <li>People who do not meet the expectations of binary gender still usually experience severe public humiliation and violence.</li>
-            <li>Because there are few jobs and educational options available to them, most transgender individuals end up begging or having to engage in sex work.</li>
-          </ul>
-        </section>
-
-        <section class="article-section">
-          <h2 class="section-heading">Education and Visibility</h2>
-          
-          <p>
-            More and more, India's media, literature, and social discussions now include representations of LGBTQ+ individuals. These marches, groups of LGBTQ+ students at universities, and Naz Foundation as well as Humsafar Trust have helped many people become more aware of the LGBTQ+ community.
-          </p>
-
-          <p>
-            However, sex education and LGBTQ+ inclusivity in schools remain almost non-existent. Some individuals find it hard to recognize and accept who they are since they are raised speaking a foreign language.
-          </p>
-        </section>
-
-        <section class="article-section">
-          <h2 class="section-heading">The Fight for Marriage Equality</h2>
-          
-          <p>
-            Up to this point, same-sex marriages have not been made legal in India. Even after petitions presented to the High Courts and the Supreme Court, the central government has so far rejected change, saying it would impact the country's culture and religion.
-          </p>
-
-          <p>
-            It is not only about recognizing romantic feelings. It affects the following areas:
-          </p>
-
-          <ul>
-            <li>Inheritance rights</li>
-            <li>Adoption and surrogacy</li>
-            <li>Tax benefits</li>
-            <li>Medical decision-making in emergencies</li>
-          </ul>
-
-          <p>
-            Lack of these rights makes same-sex couples legally exposed and difficult to recognize in the community.
-          </p>
-        </section>
-
-        <section class="article-section">
-          <h2 class="section-heading">Conclusion: The Road Ahead</h2>
-          
-          <p>
-            Although the community has succeeded in getting legal recognition in India, they have not yet attained true equality. Legislation may change all too quickly, but it takes time for people's viewpoints to change. It is not only about making the law better, but also about challenging narrow attitudes and untrue information about LGBTQ+ people in society.
-          </p>
-
-          <p>
-            Activism, learning, and working together on various issues are still very important. It is necessary for LGBTQ+ people to be represented more in politics, the workplace, and media because this would help all Indians live with respect and real equality.
-          </p>
-        </section>
-      </div>
-    `,
-    image: "/lg.jpeg",
-    author: authors.find(a => a.username === "hetal-kothari")!,
-    category: "features",
-    date: "2025-06-18",
-    readTime: "12 min read",
-    views: 0,
-    likes: 0,
-    comments: [],
-    tags: ["LGBTQ+", "Society", "Law", "Human Rights", "India"],
-    featured: true,
-    isPublished: true,
-  },
-  {
     id: "union-to-silence-lucknow-university",
     title: "From Union to Silence: How Criminalization Killed Mass Politics at Lucknow University",
     slug: "from-union-to-silence-how-criminalization-killed-mass-politics-at-lucknow-university",
@@ -3794,176 +3298,176 @@ export const articles: Article[] = [
     isPublished: true,
   },
   {
-  id: "operation-rising-lion-prequel-war",
-  title: "OPERATION RISING LION: PREQUEL TO A FULL-SCALE WAR?",
-  slug: "operation-rising-lion-prequel-to-a-full-scale-war",
-  excerpt: "An analysis of Israel's Operation Rising Lion attack on Iran, examining the strategic implications and the potential for escalation in the Middle East.",
-  content: `
-    <div class="article-content">
-      <p class="intro-paragraph">
-        On June 13th, 2025, Israel launched Operation Rising Lion, a full-scale missile-based attack on Iran, targeting its nuclear and military facilities. This comes at a time when Israel is already at a full-blown kinetic conflict in the Gaza strip, and faces retaliation from its neighbours including Lebanon (through Hezbollah), Iran and large-scale condemnation from the world for violating the human rights of the Palestinians. This escalation raises critical questions about regional stability and the evolving nature of Israel’s strategic stature.
-      </p>
-      <p>
-        Apart from its boast of the capability to handle multiple conflicts at a time, the operation displays stark intelligence work by the Mossad.
-      </p>
-      <section class="article-section">
-        <h2 class="section-heading">A prelude to the operation: What led to the attack?</h2>
-        <p>
-          Israel, with the initiation of Khameini’s regime, has been walking on a sharp sword when it comes to Iran, both of them being rather adversaries to each other. Since around 1980, Tehran has repeatedly pledged to wipe Israel “off the map”, and has invested a lot of time and energy to set up the ‘The Axis of Resistance’ consisting of various militias, including but not limited to the Houthis and the Hamas. Both the nations have been at conflict on and off.
+    id: "operation-rising-lion-prequel-war",
+    title: "OPERATION RISING LION: PREQUEL TO A FULL-SCALE WAR?",
+    slug: "operation-rising-lion-prequel-to-a-full-scale-war",
+    excerpt: "An analysis of Israel's Operation Rising Lion attack on Iran, examining the strategic implications and the potential for escalation in the Middle East.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          On June 13th, 2025, Israel launched Operation Rising Lion, a full-scale missile-based attack on Iran, targeting its nuclear and military facilities. This comes at a time when Israel is already at a full-blown kinetic conflict in the Gaza strip, and faces retaliation from its neighbours including Lebanon (through Hezbollah), Iran and large-scale condemnation from the world for violating the human rights of the Palestinians. This escalation raises critical questions about regional stability and the evolving nature of Israel's strategic stature.
         </p>
         <p>
-          Israel has been at continued trial for dismantling the axis of resistance, Israel assassinated Ismail Haniyeh, the political head of Hamas, in Iran, the fall of the Assad regime also weakened the already weak Hamas, which have been continually hammered in the Gaza strip.
+          Apart from its boast of the capability to handle multiple conflicts at a time, the operation displays stark intelligence work by the Mossad.
         </p>
-        <p>
-          The war has never been one sided, both the sides have exchanged fire time and again and have been at proxy wars since 1980, leaving little space for any diplomatic exchange. The US backed Israel has been fearless in launching operations at Iran, but this time, it was different, Operation Rising Lion was launched without the supervision, or lordship rather, of the United States, which has been infamous for fueling wars all over the world under the name of maintaining global peace.
-        </p>
-      </section>
-      <section class="article-section">
-        <h2 class="section-heading">The operation</h2>
-        <p>
-          Amid rising tensions, Iran was allegedly preparing to become a nuclear state. As of May 2025, the IAEA reported that Iran had amassed 409 kg of uranium enriched to 60% (a level just below weapons-grade) enough for approximately ten nuclear bombs if further enriched.
-        </p>
-        <p>
-          Just a day before the strikes, the IAEA found Iran non-compliant with its nuclear obligations.
-        </p>
-        <p>
-          Tel Aviv has long wished to not let Iran become a nuclear state, which would lead to an enhancement of issues on its borders. Iran, being the dissociating, rather irresponsible, theocracy that it is, would be at risk of using nuclear weapons for purposes not admired.
-        </p>
-        <p>
-          The strikes had set their focus on the same lines. It was aimed at two targets, the Nuclear facilities and the Iranian top brass, Hossein Salami, the commander-in-chief of Iran’s Islamic Revolutionary Guard and other commanders. The Israeli strikes targeted the main uranium facility at Natanz and ballistic missile sites.
-        </p>
-        <p>
-          The operation decapitated the Iranian nuclear programme, reportedly killing four senior commanders and two nuclear scientists.
-        </p>
-      </section>
-      <section class="article-section">
-        <h2 class="section-heading">War of intelligence</h2>
-        <p>
-          The operation rising lion is not a day’s work, nor a month’s. It is years of planning and spy-work sewn into the final action. It is reported by Israeli media and anonymous officials that the Mossad had planted drone launching sites in Tehran in the course of several years, impeccably chalking out the attack with utter precision. Not limited to drone, the Mossad also planted high-precision guided weapons in open areas near Iran’s surface-to-air missile batteries as well as weapon platforms inside civilian vehicles across Iran. This was accompanied with several sabotage missions by the Mossad.
-        </p>
-        <p>
-          An official told the Times of Israel that the operation used “groundbreaking thinking, bold planning and surgical operation of advanced technologies, special forces and agents operating in the heart of Iran while totally evading the eyes of local intelligence.”
-        </p>
-        <p>
-          The attack happened in the heart of Iran, Tehran and the areas surrounding it, under the nose of the local administrations and the Supreme Leaders themselves, with none having a clue.
-        </p>
-      </section>
-      <section class="article-section">
-        <h2 class="section-heading">The America Side of things</h2>
-        <p>
-          With Donal Trump taking the MAGA or Make America Great Again mission more seriously than he takes the welfare of people and students in the nation, Israel was on its own in conducting the mission without the hand of their American overlords on its head. Though, the statement seems a little fogged by Trump’s calls and ‘advises’ to Iran, where he warns Iran that “Israel’s attacks will only get worse”, he seems to move a little over to the Tel Aviv ground instead of sitting on the neutral fence he was earlier. In his first public comments since Friday’s attacks, Trump said on his Truth Social platform that “there is still time to make this slaughter, with the next already planned attacks being even more brutal, come to an end.”
-        </p>
-      </section>
-    </div>
-  `,
-  image: "/voimi.jpeg",
-  author: authors.find(a => a.username === "atulit-pandey")!,
-  category: "international",
-  date: "2025-06-18",
-  readTime: "8 min read",
-  views: 0,
-  likes: 0,
-  comments: [],
-  tags: ["International Relations", "Israel", "Iran", "Middle East", "Geopolitics"],
-  featured: true,
-  isPublished: true,
-},
-{
-  id: "iit-kharagpur-drum-app",
-  title: "IIT Kharagpur's DRUM App: Navigating Toward Cleaner Air for Urban Commuters",
-  slug: "iit-kharagpur-drum-app-navigating-toward-cleaner-air-for-urban-commuters",
-  excerpt: "In the fast paced world of urban India, where air pollution is an enduring threat to public health and quality of life, an innovative tech solution is coming to light from the IIT Kharagpur labs.",
-  content: `
-    <div class="article-content">
-      <p class="intro-paragraph">
-        In the fast paced world of urban India, where air pollution is an enduring threat to public health and quality of life, an innovative tech solution is coming to light from the IIT Kharagpur labs. The DRUM app, Dynamic Route Planning for Urban Mobility, assists commuters in selecting routes that may reduce their exposure to harmful pollutant emissions, thus providing them, in the broader sense, a breath of fresh air.
-      </p>
-
-      <section class="article-section">
-        <h2 class="section-heading">Addressing a Pressing Urban Health Crisis</h2>
-        
-        <p>
-          Air pollution is not a mere nuisance factor for Indian cities; it is in fact a silent killer. Studies show air pollution contributes to 7.2% of deaths in the urban population per year, while high exposure can even result in a 5-year reduction in life expectancy. From the notorious smog in Delhi to heavy traffic in Mumbai, millions undergo threats to respiratory and cardiovascular health every single day. In the given scenario, DRUM's objective becomes very apparent: to inform the commuters of the healthier travel alternatives based on real-time air quality data.
-        </p>
-      </section>
-
-      <section class="article-section">
-        <h2 class="section-heading">How DRUM Works: Technology at the Forefront</h2>
-        
-        <p>
-          DRUM is distinct in that it gathers real-time air quality information from a combination of stationary and mobile sensors deployed in 22 Indian cities. By integrating this information into a rapid-routing algorithm (GraphHopper and Mapbox), the app considers not only the fastest or shortest path types, but also those that minimize pollution exposure. More precisely, the app gives the two-wheeler commuters, in particular, alternate route options considering:
+        <section class="article-section">
+          <h2 class="section-heading">A prelude to the operation: What led to the attack?</h2>
+          <p>
+            Israel, with the initiation of Khameini's regime, has been walking on a sharp sword when it comes to Iran, both of them being rather adversaries to each other. Since around 1980, Tehran has repeatedly pledged to wipe Israel "off the map", and has invested a lot of time and energy to set up the 'The Axis of Resistance' consisting of various militias, including but not limited to the Houthis and the Hamas. Both the nations have been at conflict on and off.
+          </p>
+          <p>
+            Israel has been at continued trial for dismantling the axis of resistance, Israel assassinated Ismail Haniyeh, the political head of Hamas, in Iran, the fall of the Assad regime also weakened the already weak Hamas, which have been continually hammered in the Gaza strip.
+          </p>
+          <p>
+            The war has never been one sided, both the sides have exchanged fire time and again and have been at proxy wars since 1980, leaving little space for any diplomatic exchange. The US backed Israel has been fearless in launching operations at Iran, but this time, it was different, Operation Rising Lion was launched without the supervision, or lordship rather, of the United States, which has been infamous for fueling wars all over the world under the name of maintaining global peace.
+          </p>
+        </section>
+        <section class="article-section">
+          <h2 class="section-heading">The operation</h2>
+          <p>
+            Amid rising tensions, Iran was allegedly preparing to become a nuclear state. As of May 2025, the IAEA reported that Iran had amassed 409 kg of uranium enriched to 60% (a level just below weapons-grade) enough for approximately ten nuclear bombs if further enriched.
+          </p>
+          <p>
+            Just a day before the strikes, the IAEA found Iran non-compliant with its nuclear obligations.
+          </p>
+          <p>
+            Tel Aviv has long wished to not let Iran become a nuclear state, which would lead to an enhancement of issues on its borders. Iran, being the dissociating, rather irresponsible, theocracy that it is, would be at risk of using nuclear weapons for purposes not admired.
+          </p>
+          <p>
+            The strikes had set their focus on the same lines. It was aimed at two targets, the Nuclear facilities and the Iranian top brass, Hossein Salami, the commander-in-chief of Iran's Islamic Revolutionary Guard and other commanders. The Israeli strikes targeted the main uranium facility at Natanz and ballistic missile sites.
+          </p>
+          <p>
+            The operation decapitated the Iranian nuclear programme, reportedly killing four senior commanders and two nuclear scientists.
+          </p>
+        </section>
+        <section class="article-section">
+          <h2 class="section-heading">War of intelligence</h2>
+          <p>
+            The operation rising lion is not a day's work, nor a month's. It is years of planning and spy-work sewn into the final action. It is reported by Israeli media and anonymous officials that the Mossad had planted drone launching sites in Tehran in the course of several years, impeccably chalking out the attack with utter precision. Not limited to drone, the Mossad also planted high-precision guided weapons in open areas near Iran's surface-to-air missile batteries as well as weapon platforms inside civilian vehicles across Iran. This was accompanied with several sabotage missions by the Mossad.
+          </p>
+          <p>
+            An official told the Times of Israel that the operation used "groundbreaking thinking, bold planning and surgical operation of advanced technologies, special forces and agents operating in the heart of Iran while totally evading the eyes of local intelligence."
+          </p>
+          <p>
+            The attack happened in the heart of Iran, Tehran and the areas surrounding it, under the nose of the local administrations and the Supreme Leaders themselves, with none having a clue.
+          </p>
+        </section>
+        <section class="article-section">
+          <h2 class="section-heading">The America Side of things</h2>
+          <p>
+            With Donal Trump taking the MAGA or Make America Great Again mission more seriously than he takes the welfare of people and students in the nation, Israel was on its own in conducting the mission without the hand of their American overlords on its head. Though, the statement seems a little fogged by Trump's calls and 'advises' to Iran, where he warns Iran that "Israel's attacks will only get worse", he seems to move a little over to the Tel Aviv ground instead of sitting on the neutral fence he was earlier. In his first public comments since Friday's attacks, Trump said on his Truth Social platform that "there is still time to make this slaughter, with the next already planned attacks being even more brutal, come to an end."
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/voimi.jpeg",
+    author: authors.find(a => a.username === "atulit-pandey")!,
+    category: "international",
+    date: "2025-06-18",
+    readTime: "8 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["International Relations", "Israel", "Iran", "Middle East", "Geopolitics"],
+    featured: true,
+    isPublished: true,
+  },
+  {
+    id: "iit-kharagpur-drum-app",
+    title: "IIT Kharagpur's DRUM App: Navigating Toward Cleaner Air for Urban Commuters",
+    slug: "iit-kharagpur-drum-app-navigating-toward-cleaner-air-for-urban-commuters",
+    excerpt: "In the fast paced world of urban India, where air pollution is an enduring threat to public health and quality of life, an innovative tech solution is coming to light from the IIT Kharagpur labs.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          In the fast paced world of urban India, where air pollution is an enduring threat to public health and quality of life, an innovative tech solution is coming to light from the IIT Kharagpur labs. The DRUM app, Dynamic Route Planning for Urban Mobility, assists commuters in selecting routes that may reduce their exposure to harmful pollutant emissions, thus providing them, in the broader sense, a breath of fresh air.
         </p>
 
-        <ul>
-          <li>Shortest Route</li>
-          <li>Fastest Route</li>
-          <li>Least Air Pollution Exposure Route (LEAP)</li>
-          <li>Least Energy Consumption Route (LECR)</li>
-          <li>Balanced route suggested</li>
-        </ul>
+        <section class="article-section">
+          <h2 class="section-heading">Addressing a Pressing Urban Health Crisis</h2>
+          
+          <p>
+            Air pollution is not a mere nuisance factor for Indian cities; it is in fact a silent killer. Studies show air pollution contributes to 7.2% of deaths in the urban population per year, while high exposure can even result in a 5-year reduction in life expectancy. From the notorious smog in Delhi to heavy traffic in Mumbai, millions undergo threats to respiratory and cardiovascular health every single day. In the given scenario, DRUM's objective becomes very apparent: to inform the commuters of the healthier travel alternatives based on real-time air quality data.
+          </p>
+        </section>
 
-        <p>
-          For instance, a bike rider in Delhi could be directed away from a very polluted corridor of traffic to a slightly longer but much cleaner alternative, on which he would reveal 40% less exposure compared to usual apps. This is, in essence, the key to flexibility.
-        </p>
-      </section>
+        <section class="article-section">
+          <h2 class="section-heading">How DRUM Works: Technology at the Forefront</h2>
+          
+          <p>
+            DRUM is distinct in that it gathers real-time air quality information from a combination of stationary and mobile sensors deployed in 22 Indian cities. By integrating this information into a rapid-routing algorithm (GraphHopper and Mapbox), the app considers not only the fastest or shortest path types, but also those that minimize pollution exposure. More precisely, the app gives the two-wheeler commuters, in particular, alternate route options considering:
+          </p>
 
-      <section class="article-section">
-        <h2 class="section-heading">From the Simulations to Real Streets: Progresses and Challenges</h2>
-        
-        <p>
-          Simulations in some major urban centres, including Delhi, kicked off the DRUM development. In these simulations, DRUM found that traditional route planning led to commuters being exposed with higher pollution in congested areas, and that DRUM's alternative routes consistently lowered that risk in simulated situations.
-        </p>
+          <ul>
+            <li>Shortest Route</li>
+            <li>Fastest Route</li>
+            <li>Least Air Pollution Exposure Route (LEAP)</li>
+            <li>Least Energy Consumption Route (LECR)</li>
+            <li>Balanced route suggested</li>
+          </ul>
 
-        <p>
-          Challenges are aplenty when it comes to real-life implementation. Air quality monitoring in India is primarily an unorganised sector, and many cities have sensor distribution only in a scanty manner. To counter this, DRUM makes use of a low-cost sensor system that can be deployed easily and crowdsources its data from users' mobile devices. However, the reliability of the data will be tricky to maintain, especially in the actual-time low pollution guidance.
-        </p>
-      </section>
+          <p>
+            For instance, a bike rider in Delhi could be directed away from a very polluted corridor of traffic to a slightly longer but much cleaner alternative, on which he would reveal 40% less exposure compared to usual apps. This is, in essence, the key to flexibility.
+          </p>
+        </section>
 
-      <section class="article-section">
-        <h2 class="section-heading">The Road Ahead: Expansion to Broader Coverage and Flexibility</h2>
-        
-        <p>
-          With a view to customise predictive routing by anticipating pollution spikes and thereby providing proactive rerouting to users, some machine learning tools will also be developed in the near future. The expansion of services beyond two wheels to encompass either four wheels or pedestrians will increase the app's relevance across a much larger spectrum of urban commuters.
-        </p>
-      </section>
+        <section class="article-section">
+          <h2 class="section-heading">From the Simulations to Real Streets: Progresses and Challenges</h2>
+          
+          <p>
+            Simulations in some major urban centres, including Delhi, kicked off the DRUM development. In these simulations, DRUM found that traditional route planning led to commuters being exposed with higher pollution in congested areas, and that DRUM's alternative routes consistently lowered that risk in simulated situations.
+          </p>
 
-      <section class="article-section">
-        <h2 class="section-heading">Contextualizing: What Makes DRUM Different?</h2>
-        
-        <p>
-          While the innovations underpinning DRUM are impressive, it has entered a competitive field where global platforms like Google Maps are piloting features such as Air View+ for air-quality-based routing. Its advantage lies in its focus on Indian cities, flexibility based on local infrastructure, and opportunities for community involvement through sensor networks. In the end, massive uptake and integration of the platform with present mobility frameworks will lend credence to its impact.
-        </p>
-      </section>
+          <p>
+            Challenges are aplenty when it comes to real-life implementation. Air quality monitoring in India is primarily an unorganised sector, and many cities have sensor distribution only in a scanty manner. To counter this, DRUM makes use of a low-cost sensor system that can be deployed easily and crowdsources its data from users' mobile devices. However, the reliability of the data will be tricky to maintain, especially in the actual-time low pollution guidance.
+          </p>
+        </section>
 
-      <section class="article-section">
-        <h2 class="section-heading">Societal Impact: A Lifeline for the Vulnerable</h2>
-        
-        <p>
-          If successful in its implementation, DRUM will go a long way to safeguarding the health of vulnerable populations such as children, the old, and those with chronic health conditions, preventing their exposure to pollution on the streets on a daily basis. Such mitigation would ease the financial load on the backdrop of India's healthcare system while also serving as a salient reference for other nations facing the ravages of urban air pollution.
-        </p>
-      </section>
+        <section class="article-section">
+          <h2 class="section-heading">The Road Ahead: Expansion to Broader Coverage and Flexibility</h2>
+          
+          <p>
+            With a view to customise predictive routing by anticipating pollution spikes and thereby providing proactive rerouting to users, some machine learning tools will also be developed in the near future. The expansion of services beyond two wheels to encompass either four wheels or pedestrians will increase the app's relevance across a much larger spectrum of urban commuters.
+          </p>
+        </section>
 
-      <section class="article-section">
-        <h2 class="section-heading">Conclusion: Hope and Caution</h2>
-        
-        <p>
-          DRUM marks a visionary and concrete step toward healthier and sustainable urban mobility in India. The combination of real-time data, smart flexible routing, and future-proofing takes on a whole new level of promise. But success shall largely depend on arriving at a compromise with limitation of data, attaining ease of use for the average user, and achieving the diverse uptake. After leaving the lab and entering its actual testing ground, the app is one of the few sources of inspiration for new ideas and methods to remember the difficult obstacles that cleaner air will face in the future.
-        </p>
-      </section>
-    </div>
-  `,
-  image: "/ab.jpeg",
-  author: authors.find(a => a.username === "abhinav-upadhyay")!,
-  category: "sci-tech",
-  date: "2025-06-19",
-  readTime: "10 min read",
-  views: 0,
-  likes: 0,
-  comments: [],
-  tags: ["Technology", "Environment", "Urban Development", "Air Pollution", "Innovation", "IIT Kharagpur", "Mobile Apps"],
-  featured: true,
-  isPublished: true,
-},
+        <section class="article-section">
+          <h2 class="section-heading">Contextualizing: What Makes DRUM Different?</h2>
+          
+          <p>
+            While the innovations underpinning DRUM are impressive, it has entered a competitive field where global platforms like Google Maps are piloting features such as Air View+ for air-quality-based routing. Its advantage lies in its focus on Indian cities, flexibility based on local infrastructure, and opportunities for community involvement through sensor networks. In the end, massive uptake and integration of the platform with present mobility frameworks will lend credence to its impact.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Societal Impact: A Lifeline for the Vulnerable</h2>
+          
+          <p>
+            If successful in its implementation, DRUM will go a long way to safeguarding the health of vulnerable populations such as children, the old, and those with chronic health conditions, preventing their exposure to pollution on the streets on a daily basis. Such mitigation would ease the financial load on the backdrop of India's healthcare system while also serving as a salient reference for other nations facing the ravages of urban air pollution.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Conclusion: Hope and Caution</h2>
+          
+          <p>
+            DRUM marks a visionary and concrete step toward healthier and sustainable urban mobility in India. The combination of real-time data, smart flexible routing, and future-proofing takes on a whole new level of promise. But success shall largely depend on arriving at a compromise with limitation of data, attaining ease of use for the average user, and achieving the diverse uptake. After leaving the lab and entering its actual testing ground, the app is one of the few sources of inspiration for new ideas and methods to remember the difficult obstacles that cleaner air will face in the future.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/ab.jpeg",
+    author: authors.find(a => a.username === "abhinav-upadhyay")!,
+    category: "sci-tech",
+    date: "2025-06-19",
+    readTime: "10 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Technology", "Environment", "Urban Development", "Air Pollution", "Innovation", "IIT Kharagpur", "Mobile Apps"],
+    featured: true,
+    isPublished: true,
+  },
 ];
 
 // Admin users
