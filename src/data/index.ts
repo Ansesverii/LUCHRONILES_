@@ -280,6 +280,126 @@ I'll be here, ready to ask the next why and learn from every conversation.`,
 // Sample Articles
 export const articles: Article[] = [
   {
+    id: "read-like-democracy",
+    title: "Read Like Your Democracy Depends on It",
+    slug: "read-like-your-democracy-depends-on-it",
+    excerpt: "In a country where indifference is rewarded, and reposting an infographic counts as activism, picking up a book might just be the most radical thing you can do.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          In a country where indifference is rewarded, and reposting an infographic counts as activism, picking up a book might just be the most radical thing you can do.
+        </p>
+
+        <p>
+          What we are witnessing is not the death of democracy, It's the theatre of it. The stage is intact - elections held, flags waved, anchors shouting over each other. But the play is different. The characters are flatter. We now have democratic aesthetics without democratic ethics. Because now, apparently, unity looks like uniformity.
+        </p>
+
+        <p>
+          We've been here before, every era gets its own remix of "bhai-bhai.", until someone benefits from our family feud. The actors change, the script doesn't. What scares me isn't just the violence - it's that some people have grown disturbingly comfortable with it.
+        </p>
+
+        <p>
+          People expect that the death of democracy comes with censorship (It does actually), but what's actually more efficient is self-censorship- the quiet moment when a writer thinks, "This won't get published anyway." Or when a student journalist - like me - spends more time editing out names than writing them in, and finally sighs, "Let's not talk about that here."
+        </p>
+
+        <p>
+          So what do you do in a moment like this - when someone turns the boundary between right and wrong into a skipping rope? You read. Because while conversations are throttled and facts folded to fit the play, libraries still don't ask for your surname.
+        </p>
+
+        <p>
+          So read - because the story is being rewritten. And if you don't pay attention, you'll forget what the original even said.
+        </p>
+
+        <p>
+          Read what came before. Read because this has happened before. Read because the past isn't just history - it's a warning.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">Book Recommendations Part 1</h2>
+          
+          <p>
+            📘<strong>How Fascism Works – Jason Stanley</strong><br/>
+            "No single book is as relevant to the present moment."—Claudia Rankine, author of Citizen
+          </p>
+
+          <p>
+            A philosopher by training and the son of WWII refugees, Jason Stanley doesn't just study fascism - he's lived it. He shows us that fascism doesn't always knock. Sometimes it just walks right in wearing a sadri and kurta, smiling for the cameras. In this unnervingly prescient book, Stanley outlines the ten pillars of fascist politics - tactics that turn "us vs them" into law, wrap propaganda in the language of patriotism, and glorify a mythic past, criminalize minorities, attack intellectuals (because books are scarier than bombs), and shout "law and order" until no one remembers what justice looks like. Drawing from Hungary, Poland, Myanmar, India, and the U.S., he makes one thing brutally clear: a country doesn't need to be fascist to suffer from fascist politics. It starts small- a mythic past here, a criminalized minority there - until the rhetoric becomes policy, and the abnormal becomes Tuesday. Think of it as a red flag manual for democracies on autopilot. Required reading for anyone who still believes "it can't happen here."
+          </p>
+
+          <p>
+            📘<strong>The Anatomy of Hate – Revati Laul</strong><br/>
+            What makes a person set fire to another human being? What makes them watch? What makes them rip out the foetus from within the womb with a sword and kill it, while a 14 yo hiding under a pile of bodies, pretending to be dead, watches?
+          </p>
+
+          <p>
+            In The Anatomy of Hate, Revati Laul peels back the skin of Gujarat 2002 and not just as your usual litany of political failures and victim testimonies. It's far more unsettling. Laul stares into the abyss and introduces us to three of its citizens: Suresh, a career criminal with a vendetta as personal as it was communal; Dungar, a low-caste man trying to out-Hindu the upper castes that humiliated him; and Pranav, an upper-caste rebel whose riot participation was as casual as shoplifting, until guilt chewed through his spine.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Book Recommendations Part 2</h2>
+          
+          <p>
+            What unites these three isn't ideology- it's brokenness. Laul doesn't give you caricatures or monsters. She gives you men- flawed, frightened, festering men who weren't born evil, but got there with small steps. Because once we write off hate as inhuman, we lose the plot. Because here's the kicker: the mob isn't some anonymous mass of maniacs. It has names. It has mommy issues. It binge-watches the same shows. It holds day jobs and wedding grudges. It's you on the wrong day, with the wrong crowd, and the right amount of powerlessness.
+          </p>
+
+          <p>
+            The Anatomy of Hate is a psychological autopsy- with Laul performing it in full view. Hate, she warns, is terrifying not because it's alien- but because it's almost disturbingly human.
+          </p>
+
+          <p>
+            📘<strong>Becoming Minority – Jyotirmaya Tripathy & Sudarsan Padmanabhan</strong><br/>
+            What if being the majority wasn't enough? What if you needed to feel like the underdog- just enough to justify dominance, just enough to cry foul every time someone else spoke? In Becoming Minority, Tripathy and Padmanabhan dissect how policies, populist rhetoric, and cultural anxieties are weaponized to manufacture a crisis: the imagined decline of the Hindu upper-caste self.
+          </p>
+
+          <p>
+            This isn't a book about minorities. It's a book about how the state and society produce minorities- not just through exclusion, but through majoritarian fear. The "minority" here is a political construct, engineered via debates on secularism, nationalism, reservation, gender, and of course, beef.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Conclusion</h2>
+          
+          <p>
+            The genius (and horror) lies in how grievance is harvested from decades of privilege. How a dominant group begins to believe it is under siege- because someone else got a scholarship, a film role, or a voice.
+          </p>
+
+          <p>
+            Tripathy and Padmanabhan trace this sleight of hand across media, policy, and social discourse. It's academic, yes-but dangerously relevant. Because once the most powerful start calling themselves victims, justice itself becomes suspicious.
+          </p>
+
+          <p>
+            This book asks the real question: Who gets to feel like a minority in a country where majorities hold the mic, the mandate, and the mob?
+          </p>
+
+          <p>
+            So if you're wondering what to do when the noise drowns the truth and neutrality feels like betrayal- start here. Read. Because reading isn't passive. It's defiance in print. It's how you remember what justice sounds like when the slogans get louder and the facts go quiet.
+          </p>
+
+          <p>
+            Read like your democracy depends on it—because, quite frankly, it does.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/bok.jpeg",
+    author: {
+      id: "1",
+      name: "Shumaila Khan",
+      username: "shumaila-khan",
+      image: "/Shumilaprofile.jpeg"
+    },
+    category: "Editor's Desk",
+    date: "2025-06-19",
+    readTime: "10 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Democracy", "Books", "Politics", "Society", "Reading"],
+    featured: true,
+    isPublished: true
+  },
+  {
     id: "indus-water-treaty",
     title: "INDUS WATER TREATY: TO BE OR NOT TO BE?",
     slug: "indus-water-treaty-to-be-or-not-to-be",
@@ -2385,30 +2505,30 @@ export const articles: Article[] = [
 
         <section class="article-section">
           <h2 class="section-heading">The Article 142</h2>
-          
-          <p>
+
+        <p>
             Before diving into precedents, it is a necessity for us to know what does the article exactly say, what does it convey?
-          </p>
-          
-          <p>
+        </p>
+
+        <p>
             In its exact terminologies, the Article 142 of the Indian Constitution states that,
-          </p>
+        </p>
 
-          <p>
+        <p>
             "The Supreme Court in the exercise of its jurisdiction may pass such decree or make such order as is necessary for doing complete justice in any cause or matter pending before it, and any decree so passed or order so made shall be enforceable throughout the territory of India in such manner as may be prescribed by or under any law made by Parliament and, until provision in that behalf is so made, in such manner as the President may by order prescribe."
-          </p>
+        </p>
 
-          <p>
+        <p>
             "Subject to the provisions of any law made in this behalf by Parliament, the Supreme Court shall, as respects the whole of the territory of India, have all and every power to make any order for the purpose of securing the attendance of any person, the discovery or production of any documents, or the investigation or punishment of any contempt of itself."
-          </p>
+        </p>
         </section>
 
         <section class="article-section">
           <h2 class="section-heading">What sparked the debate?</h2>
-          
-          <p>
+
+        <p>
             The President, questioning the use of the powers of supreme court, inquired whether the Supreme Court can really replace or substitute a Governor or the President for that matter by invoking the article and hence, placing an article above the first citizen of the nation and those of the states. Reacting to this the Vice President, Shri Jagdeep Dhankar called the article "nuclear missile against democratic forces", The Hindu reports.
-          </p>
+        </p>
           
           <p>
             In defence, Justice Pardiwala did mention later that the article was invoked thoughtfully and that it was used in the benefit of the citizens of Tamil Nadu.
@@ -3745,6 +3865,102 @@ export const articles: Article[] = [
   likes: 0,
   comments: [],
   tags: ["International Relations", "Israel", "Iran", "Middle East", "Geopolitics"],
+  featured: true,
+  isPublished: true,
+},
+{
+  id: "iit-kharagpur-drum-app",
+  title: "IIT Kharagpur's DRUM App: Navigating Toward Cleaner Air for Urban Commuters",
+  slug: "iit-kharagpur-drum-app-navigating-toward-cleaner-air-for-urban-commuters",
+  excerpt: "In the fast paced world of urban India, where air pollution is an enduring threat to public health and quality of life, an innovative tech solution is coming to light from the IIT Kharagpur labs.",
+  content: `
+    <div class="article-content">
+      <p class="intro-paragraph">
+        In the fast paced world of urban India, where air pollution is an enduring threat to public health and quality of life, an innovative tech solution is coming to light from the IIT Kharagpur labs. The DRUM app, Dynamic Route Planning for Urban Mobility, assists commuters in selecting routes that may reduce their exposure to harmful pollutant emissions, thus providing them, in the broader sense, a breath of fresh air.
+      </p>
+
+      <section class="article-section">
+        <h2 class="section-heading">Addressing a Pressing Urban Health Crisis</h2>
+        
+        <p>
+          Air pollution is not a mere nuisance factor for Indian cities; it is in fact a silent killer. Studies show air pollution contributes to 7.2% of deaths in the urban population per year, while high exposure can even result in a 5-year reduction in life expectancy. From the notorious smog in Delhi to heavy traffic in Mumbai, millions undergo threats to respiratory and cardiovascular health every single day. In the given scenario, DRUM's objective becomes very apparent: to inform the commuters of the healthier travel alternatives based on real-time air quality data.
+        </p>
+      </section>
+
+      <section class="article-section">
+        <h2 class="section-heading">How DRUM Works: Technology at the Forefront</h2>
+        
+        <p>
+          DRUM is distinct in that it gathers real-time air quality information from a combination of stationary and mobile sensors deployed in 22 Indian cities. By integrating this information into a rapid-routing algorithm (GraphHopper and Mapbox), the app considers not only the fastest or shortest path types, but also those that minimize pollution exposure. More precisely, the app gives the two-wheeler commuters, in particular, alternate route options considering:
+        </p>
+
+        <ul>
+          <li>Shortest Route</li>
+          <li>Fastest Route</li>
+          <li>Least Air Pollution Exposure Route (LEAP)</li>
+          <li>Least Energy Consumption Route (LECR)</li>
+          <li>Balanced route suggested</li>
+        </ul>
+
+        <p>
+          For instance, a bike rider in Delhi could be directed away from a very polluted corridor of traffic to a slightly longer but much cleaner alternative, on which he would reveal 40% less exposure compared to usual apps. This is, in essence, the key to flexibility.
+        </p>
+      </section>
+
+      <section class="article-section">
+        <h2 class="section-heading">From the Simulations to Real Streets: Progresses and Challenges</h2>
+        
+        <p>
+          Simulations in some major urban centres, including Delhi, kicked off the DRUM development. In these simulations, DRUM found that traditional route planning led to commuters being exposed with higher pollution in congested areas, and that DRUM's alternative routes consistently lowered that risk in simulated situations.
+        </p>
+
+        <p>
+          Challenges are aplenty when it comes to real-life implementation. Air quality monitoring in India is primarily an unorganised sector, and many cities have sensor distribution only in a scanty manner. To counter this, DRUM makes use of a low-cost sensor system that can be deployed easily and crowdsources its data from users' mobile devices. However, the reliability of the data will be tricky to maintain, especially in the actual-time low pollution guidance.
+        </p>
+      </section>
+
+      <section class="article-section">
+        <h2 class="section-heading">The Road Ahead: Expansion to Broader Coverage and Flexibility</h2>
+        
+        <p>
+          With a view to customise predictive routing by anticipating pollution spikes and thereby providing proactive rerouting to users, some machine learning tools will also be developed in the near future. The expansion of services beyond two wheels to encompass either four wheels or pedestrians will increase the app's relevance across a much larger spectrum of urban commuters.
+        </p>
+      </section>
+
+      <section class="article-section">
+        <h2 class="section-heading">Contextualizing: What Makes DRUM Different?</h2>
+        
+        <p>
+          While the innovations underpinning DRUM are impressive, it has entered a competitive field where global platforms like Google Maps are piloting features such as Air View+ for air-quality-based routing. Its advantage lies in its focus on Indian cities, flexibility based on local infrastructure, and opportunities for community involvement through sensor networks. In the end, massive uptake and integration of the platform with present mobility frameworks will lend credence to its impact.
+        </p>
+      </section>
+
+      <section class="article-section">
+        <h2 class="section-heading">Societal Impact: A Lifeline for the Vulnerable</h2>
+        
+        <p>
+          If successful in its implementation, DRUM will go a long way to safeguarding the health of vulnerable populations such as children, the old, and those with chronic health conditions, preventing their exposure to pollution on the streets on a daily basis. Such mitigation would ease the financial load on the backdrop of India's healthcare system while also serving as a salient reference for other nations facing the ravages of urban air pollution.
+        </p>
+      </section>
+
+      <section class="article-section">
+        <h2 class="section-heading">Conclusion: Hope and Caution</h2>
+        
+        <p>
+          DRUM marks a visionary and concrete step toward healthier and sustainable urban mobility in India. The combination of real-time data, smart flexible routing, and future-proofing takes on a whole new level of promise. But success shall largely depend on arriving at a compromise with limitation of data, attaining ease of use for the average user, and achieving the diverse uptake. After leaving the lab and entering its actual testing ground, the app is one of the few sources of inspiration for new ideas and methods to remember the difficult obstacles that cleaner air will face in the future.
+        </p>
+      </section>
+    </div>
+  `,
+  image: "/ab.jpeg",
+  author: authors.find(a => a.username === "abhinav-upadhyay")!,
+  category: "sci-tech",
+  date: "2025-06-19",
+  readTime: "10 min read",
+  views: 0,
+  likes: 0,
+  comments: [],
+  tags: ["Technology", "Environment", "Urban Development", "Air Pollution", "Innovation", "IIT Kharagpur", "Mobile Apps"],
   featured: true,
   isPublished: true,
 },
