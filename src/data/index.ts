@@ -3468,6 +3468,210 @@ export const articles: Article[] = [
     featured: true,
     isPublished: true,
   },
+  {
+    id: "where-have-all-the-daughters-gone-bihar-sex-ratio",
+    title: "Where Have All the Daughters Gone? A Deep Dive into Bihar's Shrinking Sex Ratio",
+    slug: "where-have-all-the-daughters-gone-bihar-sex-ratio",
+    excerpt: "A critical look at Bihar's alarming decline in the sex ratio, exploring the cultural, social, and policy failures behind the crisis.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          Let's not mince words, something deeply wrong is unfolding in Bihar. The numbers are cold, but the implications are chilling. The state is quietly losing its daughters. Not to migration, not to education or opportunities elsewhere, but to a culture still steeped in son-preference, gender bias, and neglect. The data screams, but are we listening?
+        </p>
+  
+        <section class="article-section">
+          <h2 class="section-heading">The Numbers Don't Lie — But They Should Make Us Uncomfortable</h2>
+          <p>
+            Back in 2001, Bihar had 919 women for every 1000 men. A decade later in 2011? 918. Practically no change. But behold, the child sex ratio (girls aged 0–6 years) dropped from 942 to 935 during the same time frame.
+          </p>
+          <p>
+            Fast-forward to 2022–23, that statistic now stands at 895 girls per 1000 boys. That's not a gap, that's a canyon. With the national average climbing to 933, Bihar's situation is the worst in India and is concerning to the core. While the world moves forward, we keep slipping back.
+          </p>
+          <p>The sex ratio at birth tells an even more brutal truth:</p>
+          <ul>
+            <li>964 (2020)</li>
+            <li>908 (2021)</li>
+            <li>891 (2022)</li>
+          </ul>
+          <p>Each year, fewer baby girls are born. And mind you, this isn't "just happening", it's being engineered. Discreetly, brutally.</p>
+        </section>
+  
+        <section class="article-section">
+          <h2 class="section-heading">What Makes Bihar Different, And Not in a Good Way</h2>
+          <p>
+            While states like Assam, Maharashtra, Gujarat, and even Haryana are starting to reverse their skewed ratios, Bihar seems stuck, or worse, sinking. Bihar is one of the only states where the sex ratio at birth is falling every single year.
+          </p>
+          <p>
+            Even rural Bihar, which traditionally showed slightly better numbers, is no longer a haven. NFHS-5 data puts the rural sex ratio at birth at 903, versus 940 in urban areas. But before you cheer for urban progress, know this, it too fell from 940 to 934 in just five years.
+          </p>
+          <p>
+            Districts like Rohtas and Buxar are case studies in collapse. Rohtas' child sex ratio fell from 885 to 872, and Buxar's from 962 to 886 between NFHS-4 and NFHS-5. In lay-man terms: fewer girls are surviving, or being allowed to be born.
+          </p>
+        </section>
+  
+        <section class="article-section">
+          <h2 class="section-heading">This Isn't Just About Birth — It's About Beliefs</h2>
+          <p>Let's call this what it is, a war against daughters. Not with guns, but with silence, preference, and institutional failure.</p>
+          <ul>
+            <li>Patriarchy? Check.</li>
+            <li>Dowry fears? Check.</li>
+            <li>Early marriage? Still rampant.</li>
+            <li>Education gap? Still yawning, female literacy sits at 57.8% versus 78.5% for men.</li>
+            <li>Child brides? Nearly 41% of young women are married before 18.</li>
+          </ul>
+          <p>
+            These aren't just statistics. These are the everyday realities that are told to a daughter: "You're second-class. You're an expense. You're dispensable."
+          </p>
+          <p>
+            And when parents still see sons as future breadwinners and daughters as liabilities, can we be surprised that prenatal sex selection is still rampant?
+          </p>
+        </section>
+  
+        <section class="article-section">
+          <h2 class="section-heading">Let's Talk About the Scary Part — It's Not All Pre-Birth</h2>
+          <p>
+            You'd think the damage stops in the womb. But you'd be wrong. A UNFPA study tells us 65% of Bihar's "missing girls" die after birth. Neglect, undernourishment, lack of healthcare, it's slow violence, and it's killing our daughters silently.
+          </p>
+          <p>
+            Yes, illegal ultrasounds still operate. Yes, raids are conducted (119 clinics were busted in 2023). But enforcement is patchy, and let's be honest, many doctors, technicians, and families simply don't care enough.
+          </p>
+        </section>
+  
+        <section class="article-section">
+          <h2 class="section-heading">What's the Government Doing? Not Nothing, But Not Enough</h2>
+          <ul>
+            <li>Mukhyamantri Kanya Suraksha Yojana (₹2000 at girl's birth, but only for BPL families).</li>
+            <li>Kanya Utthaan Yojana (₹25K after Class 12, ₹50K after college).</li>
+            <li>Ananya Scheme (residential schools for SC/ST girls).</li>
+            <li>Liquor ban, DDU-GKY, ASHAs, maternity schemes, and more.</li>
+            <li>Plus, central schemes like Beti Bachao Beti Padhao have footprints in Bihar.</li>
+          </ul>
+          <p>But here's the bitter pill, the outcomes don't match the announcements. Despite these efforts, sex ratios keep dropping.</p>
+          <p>
+            Even the Chief Secretary tried to deny the CRS data, calling it an "error," instead citing unpublished caste census figures (953 females per 1000). But reality checks don't lie. Bihar had 3.07 million births in 2022. Of those? Just 1.31 million were girls. A gap of 1.6 lakh daughters.
+          </p>
+        </section>
+  
+        <section class="article-section">
+          <h2 class="section-heading">So What's the Fix?</h2>
+          <ul>
+            <li><strong>Crack Down, Harder, Louder:</strong> Don't just raid illegal clinics. Publicize them. Name and shame them. Cancel licenses. Broadcast and project the message, louder and clearer than anyone's ever heard.</li>
+            <li><strong>Link Cash to Outcomes:</strong> Don't just give ₹2000 for being born. Tie benefits to vaccinations, school retention, health check-ups, and enforce it.</li>
+            <li><strong>Invest in Girls' Health:</strong> Girls shouldn't die because they're born. Prioritize their nutrition, postnatal care, and immunization. Bring health to the doorstep.</li>
+            <li><strong>Make Girls Visible in Schools:</strong> Expand residential schools. Train and mentor. Delay marriage with education, not just awareness slogans.</li>
+            <li><strong>Change the Culture, Not Just the Law:</strong> Start community dialogues. Involve mothers-in-law, teachers, and village leaders. Celebrate daughters publicly. Bihar's women deserve role models and recognition, not shame.</li>
+            <li><strong>Transparency is Power:</strong> Make sex ratio data public. Track by district. Create dashboards. Let civil society, media, and voters see what's going wrong.</li>
+            <li><strong>End Dowry, For Real:</strong> Not just a law on paper. Real convictions, real deterrents. Only then will daughters stop being seen as liabilities.</li>
+          </ul>
+        </section>
+  
+        <section class="article-section">
+          <h2 class="section-heading">Because It's Not Just About Girls — It's About the Soul of Bihar</h2>
+          <p>
+            If we don't act, we're heading towards a future where men outnumber women by staggering margins — leading to trafficking, forced marriages, and unrest. This is not hyperbole. It's already happening in parts of Haryana and Punjab.
+          </p>
+          <p>
+            And remember, this isn't destiny, This is a choice, a conscious, fully aware choice. Other states have pulled back from the brink and so can we.
+          </p>
+          <p>
+            But only if we, as people, as parents, as policymakers — stop tolerating this silent erasure of our daughters.
+          </p>
+          <p>
+            Because the real question isn't "where are the girls?" It's "why aren't we saving them?"
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/betii.jpeg",
+    author: authors.find(a => a.username === "ansesveri-laxmi")!,
+    category: "national",
+    date: "2025-06-20",
+    readTime: "12 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Sex Ratio", "Bihar", "Gender", "Society", "Women", "India", "NFHS", "Policy"],
+    featured: true,
+    isPublished: true
+  },
+  {
+    id: "world-environment-day-hypocrisy",
+    title: "World environment day hypocrisy",
+    slug: "world-environment-day-hypocrisy",
+    excerpt: "A critical essay on the performativity and contradictions of World Environment Day celebrations.",
+    content: `
+      <div class="article-content">
+        <section class="article-section">
+          <h2 class="section-heading">The Green Mask: World Environment Day Hypocrisy</h2>
+          <p>
+            Every 5th of June, timelines turn green. Twitter is flooded with recycled quotes on saving the world. Companies put up a leaf on top of their logos. Politicians make heartfelt speeches with vows of a greener tomorrow. Schools have poster-making competitions, and businesses plant saplings for a photo-op. For one day, the world appears to care.
+          </p>
+          <p>
+            But when the lights go out and the hashtags disappear, reality bites back. Factories return to belching smoke. Single-use plastics reappear on supermarket shelves. Government schemes chop down forests for highways or industries. The saplings planted for a photo-op are left to wither. The promises are forgotten until next year.
+          </p>
+          <p>
+            World Environment Day has, for most of us, become a ritual of convenience rather than a day of reckoning. It is a yearly show of concern for the environment, more theatre than substance. A PR show in green finery.
+          </p>
+          <p>
+            Corporates are among the largest stakeholders in this green soap opera. Fast fashion giants speak of sustainability while globally churning out millions of inexpensive garments every day, which subsequently end up in landfills. Oil giants promote clean energy while still heavily financing fossil fuels. Beverage companies that produce billions of plastic bottles vow to clean the oceans. This isn’t commitment — it’s greenwashing.
+          </p>
+        </section>
+        <section class="article-section">
+          <h2 class="section-heading">Worshipped Rivers, Polluted Realities: India’s Environmental Irony</h2>
+          <p>
+            Governments are not blameless either. On World Environment Day, politicians deliver their grand speeches. But the same governments often sanction deforestation, downplay pollution data, and fall behind on climate action. India, for instance, talks of climate resilience while ramping up coal mining and approving large-scale infrastructure projects that cause irreversible environmental damage. According to climate action tracker, India's National Electricity Plan (2022) says it will increase its coal power capacity by 18-23% by 2031-32, meaning more coal power plants will be built. This is contradictory to what India promised during the COP26 Glasgow pact—which was to phase down coal use to fight change.
+          </p>
+          <p>
+            In the name of development, forests are felled, wetlands are filled, and biodiversity is lost, such as the Mumbai coastal road project or the Char Dham highway.
+          </p>
+          <p>
+            The state of India’s rivers is a bleak reflection of this hypocrisy. The Yamuna, even after repeated clean-up campaigns and crores of rupees spent on rejuvenation, remains one of the filthiest rivers in the country, often choked with toxic foam and untreated sewage. Delhi has spent 6,856.9 crore over five years – yet most stretches remain unfit for bathing with faecal contamination 500x over the desirable limit. Parliamentary panels, NGT, and Supreme Court have flagged ongoing pollution, underperforming STPs, and pointed out that even spending such a huge sum, the river is even dirtier than before. According to a report by the Central Pollution Control Board (CPCB), the level of faecal coliform bacteria in the Ganga and Yamuna at Prayagraj Sangam is far higher than the safe limit of 2,500 units per 100 ml of water. The Ganga, though revered as sacred, still carries industrial effluents and sewage, despite flagship initiatives like Namami Gange launched in 2014, with 30,000 crores having shown limited measurable improvement. Other rivers like the Mithi in Mumbai, the Musi in Hyderabad, and the Brahmaputra in Assam are no better, having been turned into dumping sites for chemical, domestic, and plastic waste.
+          </p>
+          <p>
+            In theory, we honour our rivers. In practice, we contaminate them.
+          </p>
+          <p>
+            Even individuals, including many well-meaning citizens, get trapped in performative activism. Posting something or marching somewhere is easy, but real change demands lifestyle change — less garbage, less conspicuous consumption, and rethinking transportation habits. In a world of instant content and fleeting trends, it is easier to post than to act — easier to signal concern than to shoulder the responsibility.
+          </p>
+          <p>
+            Schools, ironically, are part of the problem too. Students are taught to create “Save Trees” posters using paper. Even in environmental events, plastic scraps and disposables are often used, revealing the irony. The subliminal message that environmentalism begins with routine individual and institutional responsibility is lost.
+          </p>
+        </section>
+        <section class="article-section">
+          <h2 class="section-heading">Beyond Hashtags: Turning Green Promises into Real Action</h2>
+          <p>
+            Environment Day’s contribution is largely confined to pixels and paper. It has become a day of edited articles and witty one-liners, a stage for the self-projection of a green image by institutions, influencers, and governments. The purpose seems more about mimicking awareness than truly creating it.
+          </p>
+          <p>
+            The irony lies not in celebrating World Environment Day, but in reducing it to symbolism. The world does not need one day of love for the planet, but a lifetime of action and activism — not just by scientists and environmentalists, but by all stakeholders in society.
+          </p>
+          <p>
+            What is to be done? First, acknowledge the hypocrisy. Name the problem. It is the first step toward a solution.
+          </p>
+          <p>
+            Second, substitute PR with policy. Governments must implement environmental laws rigorously. Corporates must be held accountable for their carbon footprints and waste.
+          </p>
+          <p>
+            Third, learning must go beyond events. Environmental consciousness should be integrated into curricula, encouraging not just the acquisition of knowledge but the development of sustainable habits. Finally, citizens must shift from passive learners to active habit-formers. Use less. Waste less. Question more.
+          </p>
+          <p>
+            World Environment Day must not be the day we modestly pretend to care. It must be the day that reminds us to care every day, with awareness and responsibility. Until then, the green we wear on June 5 will remain just a mask, concealing the damage we inflict on all other days.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/ne.jpeg",
+    author: authors.find(a => a.username === "aliya-imam")!,
+    category: "national",
+    date: "2025-06-20",
+    readTime: "8 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Environment", "World Environment Day", "Greenwashing", "India", "Policy", "Activism", "Rivers", "Pollution"],
+    featured: true,
+    isPublished: true
+  }
 ];
 
 // Admin users
