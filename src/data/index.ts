@@ -3671,6 +3671,172 @@ export const articles: Article[] = [
     tags: ["Environment", "World Environment Day", "Greenwashing", "India", "Policy", "Activism", "Rivers", "Pollution"],
     featured: true,
     isPublished: true
+  },
+  {
+    id: "romanticising-summer-break",
+    title: "Romanticising the summer break:",
+    slug: "romanticising-summer-break",
+    excerpt: "Done and dusted with your semester exam? Let's not talk about results just yet (or ever). This summer break is well deserved after all that hard work.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          Done and dusted with your semester exam? Let's not talk about results just yet (or ever). All year long, we have juggled between assignments, classes, practicals, and exams! This summer break is well deserved after all that hard work.
+        </p>
+
+        <p>
+          Well, this summer vacation should not be the one in which you are doom scrolling on Instagram while rotting in bed. To save you from all those traps, I'm here to help you make this vacay less boring and a lot more fun!
+        </p>
+
+        <p>
+          A 1.5-month-long summer break isn't a teeny break, people!! If you have the intent to make it a fun and memorable one. The university will be all set to reopen by the mid of July. In the meantime, here are a few ideas to help you enjoy this break while still keeping things meaningful.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">A pocketful of things to try</h2>
+          
+          <p>
+            <strong>Upskill yourself:</strong> If you're looking to enhance your skills or learn something new during the vacation, don't worry! YouTube is a fantastic (and free) resource to get started. However, if you're interested in more structured learning with certification, platforms like Udemy and Coursera offer a wide range of courses. Completing a course will provide you with a certificate that can boost your CV and showcase your commitment to personal development.
+          </p>
+
+          <p>
+            <strong>Look for Internships:</strong> Now that you've brushed up your skills or are in the process of doing so, why don't you look for internships? There are many internships for college students these days, both paid and unpaid. You can find them on sites like Internshala, Upwork.
+          </p>
+
+          <p>
+            <strong>Read more:</strong> Do you see the pile of books you have gathered? You collected all of it, thinking you would read them. Now it's time to dive right in! Reading is not only a great hobby but also helps broaden your perspective. It's always good to have something amazing to share in a convo "you know, I read this in XYZ book".
+          </p>
+
+          <p>
+            <strong>Socialise more:</strong> If you are an extroverted person and you love going out, meeting people, well this is your time, to go places and meet people you have been putting off meeting because of your hectic college routine, maybe meet your old school friends, cousins, relatives. Don't just go out and sit there—try to engage, this is you romanticising your life. This is you bringing out the 'main character energy'.
+          </p>
+
+          <p>
+            <strong>Try out journaling:</strong> This is a cliche I know, but cliches are cliches for a reason. Journaling is an amazing tool for self reflection with the academic calendar ending. Why don't you reflect on this past year—what worked, what didn't? Pen down beautiful memories you had this year, remember the Holi celebration at LU? It was so fun, a first for me definitely. Or the time we all rushed to the Anthro department to ask the professors to extend the assignment submission date because we had just discovered via a last minute WhatsApp forward that the submission was due in an hour (We got an earful, but the dates were extended—so, mission accomplished).
+          </p>
+
+          <p>
+            <strong>Catch up on the sleep:</strong> Well, yes, you read that right, sleep? How is it productive? It is scientifically proven that sleeping is directly linked to enhanced memory and learning (checkout 'Why We Sleep' by Matthew Walker). Maybe it's to make up for all the sleep that you lost due to college, assignments and exams. Having said that, please note that oversleeping can also disrupt your body clock and affect energy levels.
+          </p>
+
+          <p>
+            <strong>Building a routine:</strong> The best way to romanticise your life and this summer break is to have a routine, have a morning ritual as soon as you wake up, could be drinking a glass of warm water with lemon (trust me, all the hot girls are doing this) or setting the intention for the day ahead, anything which puts you in the driver's seat and make your romanticize the mundane things. Time blocking is proven to be a helpful time management tool. Use time blocking to schedule time for entertainment, social media, errands, etc. At last, end your day on a peaceful note because it improves the sleep quality. Don't doomscrolling on Insta until your eyes are hurting (note to self: P) instead, maybe read a good book, watch something soothing.
+          </p>
+
+          <p>
+            A few days ago, I came across this video of a guy who was on a mission to "de-rot his brain rot". He explained how watching low-stimulation cartoons or videos can actually help reset your mind and reduce the effect of digital overload resulting in de rotting your brain rot. Maybe this can be your daily dose of nostalgia—Oswald is a good low-stimulation cartoon to start with (loved his dog!). And through these ways you can add a bit more structure to your day even in the summer break, so when the college reopens you don't have to worry about setting up your routine.
+          </p>
+
+          <p>
+            <strong>Get your "movies-to-watch-before-I-die" list out:</strong> Do you remember saving 20+ movies on your watchlist, thinking "I'll watch it soon"? Maybe this vacation time is perfect for you to start watching them. With friends or family, how about a watch party? It's a great way to watch together virtually with everyone.
+          </p>
+
+          <p>
+            <strong>How about a glow-up?</strong> Before the next academic semester begins, why don't you try out some new looks? Maybe experiment a bit with your hair, wear colours you would not normally wear (cmon, take that plunge). Who says glow-up is just physical? A glow-up can be mental, emotional, social and digital. So, which glow-up are you manifesting for yourself?
+          </p>
+
+          <p>
+            <strong>Read LU Chronicles:</strong> You want to read the news, know what's happening in the world both internationally and locally, why don't you turn to your college newspaper, "The LU Chronicles"? They release articles every day! From international affairs to blogs, they have it all. This vacation time, if you want to have a mental glow up, LU Chronicles is just what you need (plus, the kids there have been working hard, including yours truly :P).
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Perfect Ending</h2>
+          <p>
+            Well, these were some of the many ways in which you can make the best out of this summer vacation time, but it's okay if you couldn't finish all of the books or are still lagging in the courses you enrolled in. Life's not a To Do List where all of the items needs to be ticked off, it's perfectly human to leave things in between because you realised it was not working out for you.
+          </p>
+
+          <p>
+            And all that matters in the end is to have a fun vacation, which is different from your mundane college life.
+          </p>
+
+          <p>
+            And once this vacay ends, let's meet in Gandhi park (or as we fondly call it PMP) so that you can tell me all about how you romanticized your summer break—while I tell you about writing this piece… even at 2:19 AM.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/summer.jpeg",
+    author: authors.find(a => a.username === "prerna-srivastava")!,
+    category: "blogs",
+    date: "2025-06-21",
+    readTime: "8 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Summer Break", "College Life", "Self-Improvement", "Lifestyle", "Student Life", "LU Chronicles"],
+    featured: false,
+    isPublished: true
+  },
+  {
+    id: "yoga-through-ages",
+    title: "Yoga through the ages: How India gifted the world a way of life",
+    slug: "yoga-through-ages",
+    excerpt: "On this 11th International Yoga Day, we move not just our bodies — but our consciousness, from mat to mind, echoing the theme: Yoga for One Earth, One Health.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          On this 11th International Yoga Day, we move not just our bodies — but our consciousness, from mat to mind, echoing the theme: Yoga for One Earth, One Health. Yoga is an ancient discipline that has evolved through spiritual, philosophical, and physical traditions. It focuses on harmonizing the mind and body. It is one of the six systems of Vedic philosophy. Maharishi Patanjali, known as the Father of Yoga compiled various aspects of Yoga in his book Yoga Sutras.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">The birth of Yoga</h2>
+          <p>
+            Archaeological evidence indicates that early forms of Yoga existed in the Indus Valley civilization, with the term "Yoga" first appearing in the Rig Veda. Key texts providing information about yoga practices include the Vedas, Upanishads, Smritis, and teachings from Buddhism and Jainism.
+          </p>
+          <p>
+            The Classical period, from 500 BC to 800 C.E., marks a significant time in Yoga's development. The following era, from 800 to 1700 C.E., was influenced by figures such as Adi Shankaracharya and the Natha Yogis, who popularized Hatha Yoga practices.
+          </p>
+          <p>
+            The Modern period, from 1700 to the present day, has seen significant contributions from Yogacharyas such as Ramana Maharshi, Ramakrishna Paramhansa, Paramhansa Yogananda, Vivekananda, B.K.S. Iyengar, Indra Devi, Sadhguru, and Baba Ramdev, who popularized Yoga among the masses.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Benefits</h2>
+          <p>
+            Yoga offers a variety of benefits which include but are not limited to:
+          </p>
+          
+          <p>
+            <strong>1. Physical:</strong> It enhances respiratory health, promotes healthy blood flow, maintains a healthy weight, increases flexibility leading to greater ease of movements, reduces physical tension, boosts the immune system, builds muscle strength, encourages restfulness, improves sleep quality, and alleviates chronic pain conditions like arthritis, migraine, etc.
+          </p>
+
+          <p>
+            <strong>2. Mental and psychological:</strong> It lowers cortisol levels, reduces stress, and enhances cognitive clarity and mental resilience. It promotes a healthy body which leads to positive self-esteem and it also influences neurotransmitters like GABA, helping regulate mood.
+          </p>
+
+          <p>
+            <strong>3. Emotional:</strong> It helps to connect with inner consciousness, promotes calmness and help release piled up emotional tension which contributes to happiness and overall well-being.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Conclusion</h2>
+          <p>
+            Yoga combines physical postures, breathing exercises, and meditation to create a holistic practice that benefits every aspect of a person's well-being. World Yoga Day serves as a beautiful reminder of its significance but its practice should not be confined to a single day of celebration. Its essence lies in consistent, daily practice.
+          </p>
+          <p>
+            This yoga day, let's embrace yoga as an essential part of our journey towards a balanced life rather than merely remembering it as a day to create records and Instagram stories.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/yoga.jpeg",
+    author: {
+      id: "14",
+      name: "Trishla Chaudhary",
+      username: "trishla-chaudhary",
+      image: "/Trishla.jpeg"
+    },
+    category: "features",
+    date: "2025-06-21",
+    readTime: "6 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Yoga", "International Yoga Day", "India", "Wellness", "Health", "Meditation", "Ancient Wisdom"],
+    featured: false,
+    isPublished: true
   }
 ];
 
