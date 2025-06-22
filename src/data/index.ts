@@ -3837,6 +3837,228 @@ export const articles: Article[] = [
     tags: ["Yoga", "International Yoga Day", "India", "Wellness", "Health", "Meditation", "Ancient Wisdom"],
     featured: false,
     isPublished: true
+  },
+  {
+    id: "why-wearing-lip-gloss-doesnt-mean-i-cant-still-be-your-boss",
+    title: "Why wearing lip gloss doesn't mean I can't still be your boss",
+    slug: "why-wearing-lip-gloss-doesnt-mean-i-cant-still-be-your-boss",
+    excerpt: "From the moment a girl picks up lip gloss in one hand and a book in the other, the world starts glitching. Society loves its binaries - you can be pretty or smart, stylish or serious, soft or revolutionary.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          From the moment a girl picks up lip gloss in one hand and a book in the other, the world starts glitching. Society loves its binaries - you can be pretty or smart, stylish or serious, soft or revolutionary. Apparently, if your eyeliner is sharp, your intellect can't be.
+        </p>
+
+        <p>
+          There's something about a swipe of gloss - the high shine, the flirt of reflection, the unapologetic femininity of it all - that seems to make men underestimate you. As if a tinted sheen on the lips means your words will be just as glossy, just as easy to wipe off. Our competence must come in a matte finish. Anything shiny looks suspicious. Anything Pink makes people nervous.
+        </p>
+
+        <p>
+          Not scared, necessarily - though they should be - but dismissive. But why must ambition arrive in beige?
+        </p>
+
+        <p>
+          From Simone de Beauvoir to Megan Thee Stallion, women have been proving - repeatedly, exhaustingly - that critical thinking and cosmetic preference are not mutually exclusive.
+        </p>
+
+        <p>
+          I still remember the quiet dismissal I got my freshman year – that polite-smirk kind of condescension, the kind that said, "Oh, she's cute for trying." I walked into debates only to be dismissed before I spoke - but yeah I still won. And the best part? I didn't even smudge my lipstick.
+        </p>
+
+        <p>
+          Turns out, underestimating a girl with lip gloss might be the oldest mistake in the book - and I've always had a thing for rewrites.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Lip Gloss Ceiling</h2>
+          <p>
+            There's always been this strange cultural panic that femininity dilutes authority. Women have long been expected to erase themselves to be accepted. We've been told to dress "appropriately," to speak in "measured tones," to lean in - but not too much. And for those of us who dare to decorate our intelligence? We're told to "tone it down."
+          </p>
+
+          <p>
+            Because here's the unspoken rule no one wants to print in the brochure: masculinity is still the dress code of credibility. In classrooms, in courtrooms, in protests - the traits that signal "seriousness" are often coded masculine: control, neutral tones, the illusion of detachment. Meanwhile, femininity - emotional, aesthetic, expressive - is dismissed as frivolous.
+          </p>
+
+          <p>
+            Scholar Rosalind Gill calls this the "postfeminist masquerade": a double-bind where femininity must be carefully curated to avoid being perceived as either threatening or trivial. You can be a boss, but only if you leave your lip gloss at home.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Elle Woods Was Not a Joke</h2>
+          <p>
+            Pop culture is sprinkled - no, strategically sequined - with archetypes who challenge this. Elle Woods (Legally Blonde) cracked Harvard Law in pink stilettos. Rory Gilmore, when she wasn't being tragic in Season 6, carried around Proust and perfect fits.
+          </p>
+
+          <p>
+            But they were often treated as anomalies - the exceptions, not the rule. One-of-a-kind wonders who somehow managed to be smart despite being girly.
+          </p>
+
+          <p>
+            What's radical now is not just celebrating these women, but recognizing that their "girlishness" didn't dilute their power. It amplified it. Their femininity wasn't a barrier to their ambition. It was a language - one of their own.
+          </p>
+
+          <p>
+            And if we're being honest, patriarchy doesn't fear a woman who codes like a man. It fears a woman who codes her own language and refuses to translate.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Feminist Case for Being Girly</h2>
+          <p>
+            Let's be clear: choosing to be "girly" in a world that tells you not to is political. Femininity, when reclaimed on our terms, becomes resistance. Think Audre Lorde's insistence that self-care is political warfare. Think bell hooks writing about love as a radical force. Think about every girl who's been mocked for liking makeup but runs million-dollar businesses out of her bedroom.
+          </p>
+
+          <p>
+            There is power in softness, if we stop mistaking it for weakness. There is rage in beauty, if we stop dismissing it as vanity. And beauty with brains? That's not a compliment- it's a cage made to sound like praise.
+          </p>
+
+          <p>
+            We are not confused. We are not compensating. We are complex. And we're not interested in dismantling the master's house while cosplaying as the master. We want new blueprints. Ones with glitter margins.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">In Defense of the "Difficult" Women</h2>
+          <p>
+            I've always had a soft spot for the women everyone loves to hate. The "too much" girls. The "attention-seekers." The ones who are called dramatic, bossy, high-maintenance, fake, shallow, or dangerous - depending on which part of them made men feel small.
+          </p>
+
+          <p>
+            Because if men are the ones writing the story, then of course women who take up space, who flirt with power, who cry loudly or walk in like they own the place - will be cast as villains.
+          </p>
+
+          <p>
+            I loved the women who were mocked for being ambitious. For being pretty and outspoken. For wearing lipstick and wanting the last word.
+          </p>
+
+          <p>
+            They were punished for being seen through the narrowest lens - one shaped by the male gaze and sharpened by internalized misogyny. 'Cause anything too emotional, too expressive, too loud, too pink? It didn't fit the frame.
+          </p>
+
+          <p>
+            But I saw them and I learned from them. Because if the world hates a woman, chances are she knew exactly what she was doing.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">So What Now?</h2>
+          <p>
+            We stop apologizing. For the bows in our hair. For the softness in our voice. For the notebooks covered in stickers. For crying in public and quoting Judith Butler. For listening to Taylor Swift and reading Marx.
+          </p>
+
+          <p>
+            We take up space - all of it. With our eyeliner sharp and our minds sharper. With lip gloss that doubles as war paint. With rage wrapped in tulle. With glitter that blinds the system.
+          </p>
+
+          <p>
+            Because I'm not here to pick between being a girl and being a boss. I am both. And the world better get used to it.
+          </p>
+
+          <p class="conclusion">
+            Sincerely,<br/>
+            — Editor-in-chief, typing in lip gloss and logic
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/lipboss.jpeg",
+    author: {
+      id: "1",
+      name: "Shumaila Khan",
+      username: "shumaila-khan",
+      image: "/Shumilaprofile.jpeg"
+    },
+    category: "Op-ed",
+    date: "2025-06-22",
+    readTime: "12 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Feminism", "Gender", "Leadership", "Society", "Women Empowerment", "Femininity"],
+    featured: true,
+    isPublished: true
+  },
+  {
+    id: "india-beef-export-story-ethics-legality-cultural-debates",
+    title: "India - The Beef Export Story: Ethics, Legality and Cultural Debates",
+    slug: "india-beef-export-story-ethics-legality-cultural-debates",
+    excerpt: "India is the most prominent exporter of buffalo meat also referred to as carabeef to the world, making it one of the major exporters of meat in the world.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          India is the most prominent exporter of buffalo meat also referred to as carabeef to the world, making it one of the major exporters of meat in the world. During the fiscal year 2023-24, India exported about 1.29 million metric tonnes worth of buffalo meat, which translates to about 3.74 billion U.S. dollars, or more than 82 per cent of its total export in animal products. But beef exportation of cows is still not permitted because of strict legal and cultural obligations.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">Government Policies and Legal Framework</h2>
+          <p>
+            The state law has a stronger influence on whether India will export beef or not. It is stated in the Constitution that states have the power to regulate on cattle slaughter and preservation. Because of this, the slaughtering of cows, bulls and bullocks has a law that has been implemented by most states.
+          </p>
+
+          <p>
+            The case of Gujarat that has strings attached as cow slaughter carries unimaginable sentences involving imprisonment to life imprisonment. On the contrary, states such as Kerala and West Bengal are less restrictive with controlled slaughtering of bovine animals.
+          </p>
+
+          <p>
+            Export of meat is regulated by the Agricultural and Processed Food Products Export Development Authority (APEDA), which ensures that the meat-products satisfy the international standards. In 2021, APEDA had dropped the word Halal in its red meat manual reminding that animals need to be slaughtered to meet the requirements of the importing country. This action was geared towards the easing of exportation procedure and the objections of diverse stakeholders.
+          </p>
+
+          <p>
+            A round table workshop conducted by APEDA and Department of Animal Husbandry and Dairying (DAHD) in June 2025 gave focus on improving the livestock export ecosystem of India. During the workshop, it was emphasized that strengthening of quality, disease prevention and accessing the market remain central activities to establishing India as a leading exporter of livestock in the world.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Cultural and Ethical Aspects</h2>
+          <p>
+            In India, the drive to consume beef is enveloped with beliefs and traditions. Cows are holy to the Hindus, Jains and the Buddhists and killing them is even seen as a crime against the principle of Ahimsa (non-violence). This devotion has resulted in a prevalence of the ban on cow slaughter in many states. On the other hand, other communities like Muslims and Christian are not bound by such religious proscriptions to beef and thus, may practice beef consumption creating a culture clash and even controversy about food diets.
+          </p>
+
+          <p>
+            Animal rights groups such as Beauty Without Cruelty are against the killing of cows and require the proper treatment of every living organism. According to them, the life should be sacred, and moral issues should inform the consumption of food and farming.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Global Trade Dynamics</h2>
+          <p>
+            As you consider the dynamics of global trade, the exportation of buffalo meat by India is outstanding. During the first half of the 2024-25 fiscal year, the country exported predominantly carabeef to the markets in the Middle East, Southeast Asia, and Africa. Vietnam pioneered this with Egypt, Malaysia and Iraq following. Indian buffalo became a standard pick in those areas because of price and quality.
+          </p>
+
+          <p>
+            According to the United States Department of Agriculture (USDA), beef production in India which amounted to 4.57 million metric tonnes in 2024 is poised to reach 4.64 million metric tonnes in 2025 due to the robust levels of domestic and exports demand. That future expansion illustrates how critical India is to the overall meat trade.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Balancing Ethics, Legality, and Trade</h2>
+          <p>
+            In case you read or heard the story on India exporting beef, you will observe how all these components, ethics, law, and trade act and come to a clash in a single headline. On the one hand, an export of cow meat remains prohibited due to legal and ethical reasons. In one side, buffalo meat continues to chalk up sales with the government endorsement and robust demand abroad.
+          </p>
+
+          <p class="conclusion">
+            All this makes the debate active: India must consider a balance of the numerous voices on its soil and the rest of the world in the event it wishes to have a meat-export industry that is both peaceful and sustainable.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/beef.jpeg",
+    author: {
+      id: "2",
+      name: "Hetal Kothari",
+      username: "hetal-kothari",
+      image: "/Hetal.jpeg"
+    },
+    category: "International",
+    date: "2025-06-22",
+    readTime: "8 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Beef Export", "India", "Trade", "Ethics", "Culture", "Agriculture", "International Trade"],
+    featured: false,
+    isPublished: true
   }
 ];
 
