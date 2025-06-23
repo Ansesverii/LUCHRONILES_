@@ -4059,6 +4059,205 @@ export const articles: Article[] = [
     tags: ["Beef Export", "India", "Trade", "Ethics", "Culture", "Agriculture", "International Trade"],
     featured: false,
     isPublished: true
+  },
+  {
+    id: "musk-vs-trump-clash-tech-politics-markets",
+    title: "Musk vs. Trump: A Clash of Tech, Politics and Markets",
+    slug: "musk-vs-trump-clash-tech-politics-markets",
+    excerpt: "In late May 2025, Elon Musk stood with President Donald Trump in the Oval Office – a partnership that soon spectacularly unraveled. Public threats and insults became their forte, with veiled barbs traded between them.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          In late May 2025, Elon Musk stood with President Donald Trump in the Oval Office – a partnership that soon spectacularly unraveled. Public threats and insults became their forte, with veiled barbs traded between them. While Musk toyed with the thought of impeaching Trump, he warned that he could repeal "billions and billions" in state subsidies and contracts for Musk's companies. An open, friendly alliance between him, the world's richest man, and the U.S. President, turned sour into a social media melee and fair-game spectacle for news outlets across the world.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">Media and Political Significance</h2>
+          <p>
+            Today, the media-driven politics reflect in Musk's feud with Trump. Analysts noted that Trump suddenly dropped all mentions of Musk from his communication strategy-he used to praise him every week beginning early 2025 but up to now, April, did not mention him even once. A recent analysis by Politico shows that Trump aides and fundraising emails have almost completely stopped invoking the name Musk, once considered a prized right-wing celebrity asset. Public polling reflects this shift: voters now hold a far lower view of Musk than of Trump. The very same kind of commentators tend to call this event worrisome or toddler-like. NPR's Kara Swisher ripened such a comment with the world's most powerful and richest men publicly squabbling like girls on the playground. In short, how personal alliances among political and tech elites can shape news cycles and influence public discourse is what this episode suggests.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Economic and Market Impacts</h2>
+          <p>
+            Initial reaction from financial markets was rather stark as the argument developed. On June 5, 2025, Tesla stock dropped approximately 14-15%, wiping out nearly $150 billion from the company's market valuation, in a single day. Analysts warn that if this fight continues, Musk "could lose billions," with an effect potentially across all businesses. Tesla's visionary agenda had plans like the self-driving "robotaxis" launch jeopardized: of course, the stock had reached quite a peak on the promise of that rollout only to skid to rest in a 14% decline amid the melee. Tariff clashes and slashes of the U.S. electric-car tax credits, a leading sales stimulus for Tesla vehicles, have also been cited as at least partly resulting from the fallout. Noted one analyst, "Tesla's recent rise was almost entirely driven by robotaxi enthusiasm," and "Musk's war of words with Trump could be a negative."
+          </p>
+
+          <p>
+            In addition to Tesla, SpaceX may raise concerns because of the statements from the Trump administration. The fact that Trump hinted at canceling SpaceX NASA contracts worth several billions of dollars in launches and ISS missions got Musk thinking that he would retire the only U.S. vehicle to reach the space station - SpaceX's Dragon capsule - but he backtracked quickly. On the same line, the satellite Internet venture Starlink is part of Musk's interests and won important international deals under Trump: some, like India and the Middle East, were highlighted among others during Trump's foreign trips, with uncertainty as to whether the new tensions will endanger them. Even the media platform X (formerly Twitter) seems to be entering the fray: big advertisers had begun to return to X after having fled because of Musk's "relaxed" content rules, but strategists warn Trump's turning against X could again make it "politically radioactive" for brands.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Tech, Business and Politics</h2>
+          <p>
+            The Musk–Trump episode illustrates the tangled web of tech with politics. Musk became special adviser to the White House, Trump appointing him to head the new Department of Government Efficiency one day a week, thus showing how a tech CEO could become part of government insiders. Ironically, much of Musk's estate exists on government support, entering through airways and Internet satellites to obtain necessary licenses and contracts; cars enjoy tax credits, while Tesla earns hundreds of millions selling regulatory "carbon credits" to rivals. Analysts argued that such a big noise from Musk about "government pork" despite the fact that his companies remain heavily dependent on largesse of the government. Now, regulators might use that dependence: for example, the National Highway Traffic Safety Administration has already probed Tesla's Autopilot software and observers note that Trump could pressure agencies to scrutinize Tesla's driverless-car plans more closely. Summarizing, the showdown stresses how a tech billionaire's policy stance could incite political backlash - and vice versa. As an investor pointed out: "billions of dollars of government contracts are at stake" when the richest person and the most powerful leader collide.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Public Narrative and Reactions</h2>
+          <p>
+            Public reactions mirrored the hard turn in media coverage. Most Trump supporters and party figures cooled off on Musk following the onset of that feud. According to a recent poll cited by Politico, Musk's approval rating seems to have dropped across demographic lines as Democrats try to portray him as "politically toxic" to their base. Social media was divided over party lines, with liberals posting memes of a grumpy Trump railing at a smirking Musk and with conservatives ridiculing Musk for being ungrateful. The traditional media took the spat as a parable; opinion writers sounded warnings against unaccountable influence of tech billionaires in political affairs; not one of them came out especially good from the fray. Inside some parts of Congress, some Republicans privately admit they "miss" having Musk as an easy talking point, while Democrats seized on Musk's insults (including unfounded claims about Trump in the "Epstein files") to fundraise and campaign. Throughout the entire battle, both sides have fought to claim the moral high ground- Trump as the wounded leader under attack, Musk as the principled entrepreneur"-virtually a potent battleground for 24/7 news.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Conclusion</h2>
+          <p>
+            The Musk–Trump feud transcended personal disagreement to become something greater. Mid-June saw Musk express public regret about his extreme posts while private efforts attempted to soothe tensions. The episode creates an indelible impression according to observers. The intricate connections between Silicon Valley and Washington emerged clearly through private Pentagon briefings alongside space contracts while social media platforms transformed into political megaphones. The implications extend from short-term market disruptions to prolonged political shifts. The Musk–Trump saga represents an intricate examination of the intersection between billionaire wealth, social media dominance, and governmental power which have consequences that stretch far beyond the personal lives of these two powerful figures.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/trumpelon.jpeg",
+    author: {
+      id: "7",
+      name: "Abhinav Kumar Upadhyay",
+      username: "abhinav-upadhyay",
+      image: "/Abhinav Kumar Upadhyay .jpeg"
+    },
+    category: "International",
+    date: "2025-06-23",
+    readTime: "15 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Elon Musk", "Donald Trump", "Politics", "Technology", "Business", "Markets", "Tesla", "SpaceX"],
+    featured: true,
+    isPublished: true
+  },
+  {
+    id: "india-4th-largest-economy-or-is-it",
+    title: "INDIA IS THE 4TH LARGEST ECONOMY OR IS IT?",
+    slug: "india-4th-largest-economy-or-is-it",
+    excerpt: "In the bustling streets of chowk, Raju, a chikankari artisan sells his art, rather struggling to make ends meet. But on May 25th, 2025, the national thinking conglomerate, NITI Aayog, officially announced that India had surpassed Japan to become the fourth largest economy in the world.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          In the bustling streets of chowk, Raju, a chikankari artisan sells his art, rather struggling to make ends meet. But on May 25th, 2025, the national thinking conglomerate, NITI Aayog, officially announced that India had surpassed Japan to become the fourth largest economy in the world, leaving only Germany, China and the USA ahead of it now. The IMF, in its report, recognizes this feat and projects that it will be in third place by 2028. This nation, that is now a $4.3 trillion economy was not always so, it has viewed hardships and bumps innumerable.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">India's journey through the years</h2>
+          <p>
+            India, a relatively young nation, grew at unprecedented rates, becoming the fastest growing nation in the world at present. The transformation from a purely agricultural economy to a multi-faceted techno-agricultural economy was not always a cake walk, neither for the authorities nor the masses. Several events shaped the India that it is today.
+          </p>
+
+          <p>
+            With the newly-gained independence, we came up with Five-year plans and they were successful indeed, but changing times demanded transformation. Shastri's term came with the textbook ideal of a farming revolution, the Green Revolution. Now, it was finally time that the long-exploited soil could be rejuvenated and the yield be regained through correct manure usage and HYV seeds, giving a large-scale boost to the agri economy, enhancing the farmers' income by as much as 70%!
+          </p>
+
+          <p>
+            There even came a time when India had to keep 67 tons of gold as a security reserve in the UK and Switzerland. Events like these impeded growth but acted as mirrors to the lawmakers, pleading for change and signifying that old methods don't respond now, it was time for turning tables. In 1991, under Shri Manmohan Singh's supervision, the long followed 'License Raj' was finally done away with, and hence, came the era of private players to step into act and privatization, alongwith government support, became the norm, economic liberalization was the grand idea. Tariffs and interest rates were reduced, and the public monopoly eventually ended.
+          </p>
+
+          <p>
+            The economy kept giving the legislators reminders for change. The great recession of 2008 is a live example of it. The demonetisation of 2016 can never be excluded from the history of the Indian economy, it was a landmark act marking the end of currency notes, though leading to a little distress but held in itself, potential for curbing widespread and generational corruption that prevailed in the country.
+          </p>
+
+          <p>
+            The pandemic came with worldwide recession, and India was hit indifferently, what was different was the comeback, stronger, quicker and more robust than ever. The country soon stood back on its feet and displayed growth unprecedented, going on to become the fastest growing nation in the world. Now, to note here is the fact that this all comes in a war-torn world where the global economy is moving towards recession, and the global trade is staggered.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Where does this place us on the global stage?</h2>
+          <p>
+            Climbing the economic ladder enables opportunities, those of growth, of recognition and of investment. It provides us with powers, hard and soft, and capabilities, to provide for our citizens, a superior quality of life. The economic enhancement opens doors for higher foreign investments, giving boost to private and public sectors alike, hence, more cash!
+          </p>
+
+          <p>
+            Becoming the 4th largest economy comes with its set of perks. It gives the nation an upper hand in global influence and increased representation in inter-governmental organisations like the G20, BRICS, so on and so forth, leading to the strengthening and widespread of the Indian vision of the world.
+          </p>
+
+          <p>
+            Although India has overtaken Japan to become the world's fourth-largest economy by nominal GDP, a closer look reveals that this headline achievement is only part of the story. There are loopholes bigger than Pune potholes in the whole story.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">How much are people earning on ground zero?</h2>
+          <p>
+            India's per capita income remains far below that of Japan. India's per capita income is currently around $2,730, with projections to rise by $2,000 over the next five years potentially reaching $4,700 by the end of the decade. In contrast, Japan's per capita GDP stands at approximately $33,955. This implies that an average Japanese citizen earns over 12 times more than the average Indian.
+          </p>
+
+          <p>
+            This probably is an indicator that below the cape of Nominal GDP, there is no superman as such, and living standards are not at zenith as that of the economy we boast to be.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Why the India-Japan Comparison Is Misleading: Is it the full story?</h2>
+          <p>
+            Between the mid-1990s and 2023, Japan's nominal GDP declined from $5.3 trillion to $4.2 trillion. During this time, the Indian economy was growing rapidly, and the nominal GDP more than doubled. Hence, it's not a fair comparison between two growing economies. It is a comparison between a growing and a stagnating economy.
+          </p>
+
+          <p>
+            India's growth is fueled by a large, youthful population, rapid urbanisation, and ongoing structural reforms. Japan's growth is constrained by demographic decline and a saturated market.
+          </p>
+
+          <p>
+            Japan invests over 3% of its GDP in R&D, but faces declining patents and productivity. India invests just 0.64% of its GDP in R&D, but is making strides in digital innovation and infrastructure.
+          </p>
+
+          <p>
+            At present, stark wealth inequality persists in India with the top 1% owning 40.1% of the country's total wealth. In simple words, just a handful of Jack Sparrows possess the majority of dirt jars.
+          </p>
+
+          <p>
+            In addition to this, India faces significant infrastructure challenges, including road quality, electricity reliability, and digital connectivity. Only 24% of rural households have internet access, compared to 66% in urban areas, creating a pixelated iron wall that limits economic opportunity and social mobility.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">What lies ahead?</h2>
+          <p>
+            For India to become to have a holistic development, it must address its structural weaknesses:
+          </p>
+
+          <ul>
+            <li><strong>Boost per capita income and reduce inequality:</strong> Economic growth must translate into higher wages and better living standards for all.</li>
+            <li><strong>Invest in infrastructure:</strong> Improving roads, electricity, and digital connectivity is essential for inclusive growth.</li>
+            <li><strong>Reform education and skill development:</strong> Aligning education with industry needs will help create a future-ready workforce.</li>
+            <li><strong>Increase R&D and innovation:</strong> Higher investment in research and private sector participation is critical for technological leadership.</li>
+            <li><strong>Create quality jobs:</strong> The economy must generate enough skilled employment to absorb its growing workforce.</li>
+          </ul>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Growth Beyond Numbers: India's Real Test of Progress</h2>
+          <p>
+            Amazingly, India has become the fourth-largest economy in the world. But does this success affect every citizen? This celebration seems far away to Raju, who hears the news while juggling two meals a day, whose first sale of the day—his bouni—often doesn't happen until 6 PM. It reminds us that even though we've come a long way, much more needs to be done. The true fruit of this success will be when even Raju can sit comfortably in his showroom, take the right price for his art, and analyse and discuss where the economy needs more work. That day, my readers, will we say that INDIA IS A LEADING WORLD ECONOMY.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/eco.jpeg",
+    author: [
+      {
+        id: "5",
+        name: "Atulit Pandey",
+        username: "atulit-pandey",
+        image: "/Atlut.jpeg"
+      },
+      {
+        id: "6",
+        name: "Prerna Srivastava",
+        username: "prerna-srivastava",
+        image: "/Perna.jpeg"
+      }
+    ],
+    category: "Business",
+    date: "2025-06-23",
+    readTime: "12 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["India", "Economy", "GDP", "Japan", "Development", "Inequality", "Infrastructure", "Business"],
+    featured: true,
+    isPublished: true
   }
 ];
 
