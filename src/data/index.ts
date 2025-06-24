@@ -4258,6 +4258,164 @@ export const articles: Article[] = [
     tags: ["India", "Economy", "GDP", "Japan", "Development", "Inequality", "Infrastructure", "Business"],
     featured: true,
     isPublished: true
+  },
+  {
+    id: "nam-modern-era",
+    title: "NAM in the Modern Era: A Timeless Strategy in a Changing Global Order",
+    slug: "nam-modern-era-timeless-strategy-changing-global-order",
+    excerpt: "The policy of non-alignment has been the foundation of India's foreign policy. When India gained its independence in 1947, the world was divided into two blocs on an ideological basis and geopolitical rivalry, the communist bloc led by the former USSR and the capitalist bloc led by the USA.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          The policy of non-alignment has been the foundation of India's foreign policy. When India gained its independence in 1947, the world was divided into two blocs on an ideological basis and geopolitical rivalry, the communist bloc led by the former USSR and the capitalist bloc led by the USA. In such a situation during the Cold War, India's first Prime Minister, Jawaharlal Nehru, envisioned a foreign policy that would protect sovereignty, promote economic development, and territorial integrity as many newly independent countries became battlegrounds for the Cold War conflicts.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">The development of non-alignment in India's foreign policy</h2>
+          <p>
+            In 1954, Nehru articulated the "Panchsheel" (Five Principles of Peaceful Coexistence), which became the bedrock of non-alignment:
+          </p>
+          <ul>
+            <li>Mutual respect of territorial integrity and sovereignty.</li>
+            <li>Mutual non-aggression.</li>
+            <li>Mutual non-interference in domestic affairs.</li>
+            <li>Equality and mutual benefit.</li>
+            <li>Peaceful coexistence</li>
+          </ul>
+          <p>
+            In the 1960s-1980s, India changed its idealism to pragmatism with a strategic tilt towards the Soviet Union as the USA aligned with Pakistan in the Indo-Pak war (1965,1971).
+          </p>
+          <p>
+            With the collapse of the Soviet Union in 1991, India reoriented towards multi-alignment engaging with all major powers and pursuing core principles of promoting economic growth, and ensuring national security.
+          </p>
+          <p>
+            In contemporary times, India engages in issue-based alignments, partnering with different powers based on its national interests.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">How Non-Alignment policy has helped in times of crisis</h2>
+          <p>
+            While India has been criticized by others for taking inconsistent stances and contradictory positions, NAM has served our interests very directly. It allowed us to make international decisions that served our interests rather than that of the superpowers and we have been able to balance one superpower against the other. It is not about isolationism or neutrality as India plays an active role in mediating and works to prevent war between others.NAM has allowed India the privilege of walking on eggshells as contradictory to global norm of running on the multi-edged sword.
+          </p>
+          <ul>
+            <li>It helped to preserve sovereignty by staying out of military blocs like the Warsaw Pact or NATO and allowed it to focus on development rather than militarization.</li>
+            <li>It allows us to take military and economic assistance which is important as India is still a developing country.</li>
+            <li>The inherent flexibility allows us to make decisions based on economic pragmatism and adapt our foreign policy to changing global dynamics.</li>
+            <li>It helps in advocating for the rights and interests of the Developing World (Global South) as the majority of its members are from developing countries.</li>
+          </ul>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Conclusion</h2>
+          <p>
+            The non-alignment policy has evolved into a doctrine of multi-alignment and continues to serve by protecting India's national interest, safeguarding its sovereignty, maintaining its strategic autonomy, and playing a positive role on the global stage. In a world marked by rising conflicts and global divisions, India's legacy of non-alignment stands as a vital strategic asset and a guiding principle for its foreign policy. Today, more than ever, reaffirming non-alignment—not as passive neutrality but as a forward-looking, independent foreign policy—is both timely and essential.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/nam.jpeg",
+    author: [
+      {
+        id: "14",
+        name: "Trishla Chaudhary",
+        username: "trishla-chaudhary",
+        image: "/Trishla.jpeg"
+      }
+    ],
+    category: "International",
+    date: "2025-06-24",
+    readTime: "6 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["NAM", "India", "Foreign Policy", "International Relations", "Geopolitics"],
+    featured: true,
+    isPublished: true
+  },
+  {
+    id: "pride-at-lu-appeal-to-be-seen",
+    title: "Pride at the University of Lucknow: An Appeal to Be Seen",
+    slug: "pride-at-university-of-lucknow-appeal-to-be-seen",
+    excerpt: "As an openly non-binary, pansexual individual who was assigned the gender of a man at birth — with long curly hair, wearing makeup, and politically active — I have come to realise that my existence itself is an intervention in the everyday violence of the University of Lucknow.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          As an openly non-binary, pansexual individual who was assigned the gender of a man at birth — with long curly hair, wearing makeup, and politically active — I have come to realise that my existence itself is an intervention in the everyday violence of the University of Lucknow.
+        </p>
+
+        <p>
+          I won't sugarcoat it: the University of Lucknow is not a progressive space. There are days when I walk across the campus and from between large groups of boys, someone shouts “chakka” or “hijra” at me. It's always someone, always hidden among many. These boys are not a one-time encounter. They are the most active presence on this campus. They roam around like they own the space — and in many ways, perhaps they do. They moral police couples, disrupt cultural events, openly fight in front of the police and administration, and there’s never any consequence. None. These boys are not just students — they are the living face of the deep, rooted patriarchy that controls and defines this institution.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">Beyond the Enemy</h2>
+          <p>
+            However, if we see them only as the enemy, we miss the full picture.
+          </p>
+          <p>
+            Most of these boys are not from Lucknow. Many of them come from rural or poor backgrounds, where the pressure on them is immense. Their families send them to the university with one hope — that they will get a job and bring the family out of crisis. But look at the job market — it’s broken. Shrinking. Merciless. And what does this university offer them in return? Is there space here for self-development? Is there community? Is there dignity?
+          </p>
+          <p>
+            There isn’t. So what they find instead is a sense of identity, purpose, and belonging — not in books, or classrooms, or debates — but in collective aggression. They find self-worth in silencing women, targeting the vulnerable, policing morality, and asserting dominance through harassment. It is a tragic irony — those who are themselves abandoned by the system are turned into its foot soldiers.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Visible and Invisible Rot</h2>
+          <p>
+            But that’s still only the visible layer of the rot. Behind all this is something far more sinister: the complicity of the state and the university administration. These institutions are not failing these students — they are actively using them. The political groups and criminal networks that operate on campus — they don’t just tolerate the violence of these student groups, they feed off it. And the university? It looks the other way. Sometimes, it nods in approval.
+          </p>
+          <p>
+            In the middle of this, women shrink. To survive, they shrink. They walk faster. They speak less. They stay only where they must. Because they have to. And when the space for women is like this, what happens to people like me — queer people?
+          </p>
+          <p>
+            I’ve been here a while. I meet new students every day. I’m a student activist. But not once have I met someone who openly identifies as queer. It’s not because they don’t exist. They do. We do. But we make ourselves invisible. Because it’s not safe. Because to be visibly queer in a space like this is to live with the constant fear of being hounded, harassed, or worse. So we pass — as normal, as masculine, as straight — just to get through the day.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Pride Was Never Meant to Be Quiet</h2>
+          <p>
+            Pride was born out of protest — not in celebration, but in bricks thrown at police by trans women and queer people at Stonewall. Pride is not a festival — it is an uprising. And it must remain so, especially here. At the University of Lucknow, where patriarchal violence walks in broad daylight and the administration walks past it silently, Pride must not be reduced to visibility alone. It must become a demand to reclaim space. It must break the monopoly of who gets to walk freely, who gets to laugh out loud, who gets to wear what they want, love whom they want, and exist in their own skin — without fear.
+          </p>
+          <p>
+            In a campus where physical space is controlled by patriarchal muscle and administrative complicity, where the corridor is not just a corridor but a minefield for anyone who does not conform, Pride is revolution. It is about showing ourselves not because it is safe to do so — but because not showing ourselves only makes them stronger. We do not appear after the fear is gone — the fear begins to disappear when we show up.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">This Is a Call to Fight</h2>
+          <p>
+            To all students of the University of Lucknow — I appeal to you: Think. Reflect. Then act. Push back against this fear that has been drilled into us. Show yourself. Take up space. Speak louder. Love who you want. Dress how you want. Take your time. Let go of shame.
+          </p>
+          <p>
+            Because Pride, in places like this, is not about celebration— it is about survival. And about revolt.
+          </p>
+          <p>
+            Let us revolt — not alone, but together.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/seen.jpeg",
+    author: [
+      {
+        id: "15",
+        name: "Captain Jack Sparrow",
+        username: "captain-jack-sparrow",
+        image: "/Shantam.jpeg"
+      }
+    ],
+    category: "Op-ed",
+    date: "2025-06-24",
+    readTime: "5 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Pride", "LGBTQ+", "University of Lucknow", "Activism", "Student Life", "Queer", "Op-ed"],
+    featured: true,
+    isPublished: true
   }
 ];
 
