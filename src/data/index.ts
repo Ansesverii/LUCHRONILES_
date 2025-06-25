@@ -4416,6 +4416,181 @@ export const articles: Article[] = [
     tags: ["Pride", "LGBTQ+", "University of Lucknow", "Activism", "Student Life", "Queer", "Op-ed"],
     featured: true,
     isPublished: true
+  },
+  {
+    id: "you-cant-self-care-your-way-out-of-late-stage-capitalism",
+    title: "You Can’t Self-Care Your Way Out of Late-Stage Capitalism",
+    slug: "you-cant-self-care-your-way-out-of-late-stage-capitalism",
+    excerpt: "I lit a candle that smells like neoliberalism, poured myself a mug of herbal delusion, and tried deep breathing through the existential dread of unpaid internships and overpriced therapy. They told me self-care would save me. Turns out, all it saved was capitalism’s conscience.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          I lit a candle that smells like neoliberalism, poured myself a mug of herbal delusion, and tried deep breathing through the existential dread of unpaid internships and overpriced therapy. They told me self-care would save me. Turns out, all it saved was capitalism’s conscience.
+        </p>
+        <p>
+          This is your gentle reminder - the kind that sounds like a war drum - that you can’t meditate your way out of a system built to exhaust you. You can't face-mask away the fact that rent has outpaced reality. You can't lavender-oil your way past burnout when the burnout is the point.
+        </p>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Origins of the Self-Care Industrial Complex</h2>
+          <p>
+            Let’s rewind. When Audre Lorde wrote in her 1988 book A Burst of Light “Caring for myself is not self-indulgence, it is self-preservation, and that is an act of political warfare” she was speaking as a Black, queer, chronically ill poet in a society that denied her rest, dignity, and survival. Her notion of self-care was radical - a tool for resistance in a world trying to erase her.
+          </p>
+          <p>
+            Fast forward to 2025, that quote is now plastered on tote bags sold for ₹1,999 by corporations that underpay their women workers in Bangladesh where 80% of garment workers earn below a living wage. The radical has been repackaged as retail.
+          </p>
+          <blockquote class="border-l-4 border-gray-500 pl-4 italic my-4">
+            We’re encouraged to light candles while the world burns.
+          </blockquote>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Even Exhaustion Isn’t Equal</h2>
+          <p>
+            Caste, patriarchy, and racism determine who gets to rest and who is worked to the bone. These systems don’t just oppress - they structure who carries the heaviest burdens of burnout. For example, in India, Dalit and Adivasi women are disproportionately represented in the most precarious, underpaid, and exploitative forms of labor, from sanitation work to garment factories — roles where rest isn’t a right but a risk. Globally, Black and Indigenous women, migrant workers, and queer communities face similar patterns, working longer hours in harsher conditions with fewer protections.
+          </p>
+          <p>
+            A corporate executive sipping turmeric lattes at a wellness retreat isn’t practicing the same “self-care” as a Dalit woman navigating caste and gender violence, or a gig worker juggling multiple jobs to survive. Rest looks different when you’re safe, when your survival isn’t at stake.
+          </p>
+          <p>
+            This is why the politics of care must remain intersectional. The idea that we can solve burnout through lifestyle choices alone erases how capitalism, casteism, racism, and patriarchy combine to keep rest out of reach for the most marginalized. Real self-care isn’t a luxury product; it’s the fight for a world where dignity, rest, and healing aren’t commodities, but rights.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Business of Your Burnout</h2>
+          <p>
+            Capitalism has a genius for turning your pain into profit. It sells you exhaustion and then markets supplements to cure it. The gig economy - where over 7.7 million Indians now work, often without labor protections - destabilizes your attention span with algorithmic dopamine hits, and then tells you to unplug at a ₹3,000 digital detox retreat.
+          </p>
+          <p>
+            This isn’t self-care. It’s sedation. A glossy pause button on a system that’s eating us alive.
+          </p>
+          <p>
+            Meanwhile, billionaires do yoga on yachts. Wellness influencers sell $80 “charged” moon water while gig workers fall asleep on night buses. Therapy is locked behind a paywall - in India, only 0.75 psychiatrists are available per 100,000 people, (WHO, 2023), far below the recommended standard with costs that put private therapy out of reach for most. Rest is a luxury. And everything that once meant healing - community, art, time - has been redesigned to turn a profit.
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">Burnout Is Not a Personal Failure</h2>
+          <p>
+            What’s sinister is how late-stage capitalism reframes structural issues as personal shortcomings.
+          </p>
+          <ul class="list-disc list-inside my-4">
+            <li>Struggling to keep up? Try a productivity planner.</li>
+            <li>Can’t afford rent? Maybe you should budget better.</li>
+            <li>Anxious and disconnected? You just need more “me time.”</li>
+          </ul>
+          <p>
+            This language makes burnout feel like a failure of character, not the consequence of exploitative systems. But here’s the truth: no one can "optimize" their way out of precarity. No matter how many vision boards you create, you can't manifest your way into affordable housing or labor protections.
+          </p>
+          <p>
+            A 2024 BCG study found 48% of workers worldwide report burnout symptoms, with rates spiking to 62% in India and 61% in Japan, where overwork culture remains deadly (BCG, 2024). In the U.S., burnout costs the economy $300 billion annually, while in Europe, countries like Poland report burnout levels as high as 70% (BCG, 2024; Statista, 2023).
+          </p>
+        </section>
+
+        <section class="article-section">
+          <h2 class="section-heading">The Right to Rest.</h2>
+          <p>
+            Of course, rest is essential. Of course, taking care of yourself matters. But self-care, as it’s been co-opted, often becomes another burden - another should. And it’s always uneven.
+          </p>
+          <p>
+            Let’s be clear: You deserve care. You deserve slow mornings, nourished bodies, and lives not dictated by deadlines. But let’s not confuse survival hacks with liberation. The face mask won’t protect you from burnout. The scented candle won’t unionize your workplace. The five-step skincare routine won’t dismantle a system that profits from your insecurity.
+          </p>
+          <p>
+            We don’t need more bath bombs. We need better labor laws. We don’t need more “quiet quitting” think pieces. We need to loudly demand structural change.
+          </p>
+          <p>
+            So go ahead - drink that tea. Nap unapologetically. Journal like your future depends on it (because it does). But don’t stop there. Recognize the trap. Rest is not an end; it’s a weapon. Self-care should refill you for resistance, not numb you into compliance.
+          </p>
+          <p>
+            Because the truth is: you’re not burnt out because you’re weak. You’re burnt out because this system is designed to burn you out. And no amount of serums, smoothies, or Instagram affirmations will save us from that.
+          </p>
+          <p>
+            We will have to save ourselves - together.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/self.jpeg",
+    author: authors.find((a) => a.username === "shumaila-khan"),
+    category: "Editorial",
+    date: "2025-06-25",
+    readTime: "6 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Self-Care", "Capitalism", "Burnout", "Mental Health", "Politics", "Activism"],
+    featured: true,
+    isPublished: true
+  },
+  {
+    id: "patriotism-in-the-age-of-social-media",
+    title: "Patriotism in the Age of Social Media: A Reflection",
+    slug: "patriotism-in-the-age-of-social-media",
+    excerpt: "Patriotism is love and dedication towards one's nation—a profound sense of pride and desire to make it better. But with social media dominating our lives, the very meaning of patriotism appears blurry.",
+    content: `
+      <div class="article-content">
+        <section>
+          <h2 class="section-heading">The Illusion of Patriotism in a Digital Age</h2>
+          <p>
+            Patriotism is love and dedication towards one's nation—a profound sense of pride and desire to make it better. But with social media starting to dominate our lives, the very meaning of patriotism appears to be blurry. On 15th August, our feeds are filled with expressions of love for one's country. But within 24 hours, we forget to obey traffic rules, to maintain cleanliness around us, to desist from hate speech, or merely to live in harmony and peace. In idolizing large, sharable acts, we lose track of our daily duties as citizens, swamped with likes and followers.
+          </p>
+          <p>
+            Social media has not just shaped the way we practice patriotism, but also how we define it. It has begun "teaching" us how patriotism must look. Not being vocal about the love of the country is now considered a threat. Instagram and X are filled to the brim with emotional reels and one-liners. WhatsApp is filled with half-baked, outrage-fueled conspiracy theories, usually created to pit people against each other in the name of allegiance. But is it loyalty at all if, in doing so, our own nation is hurt—if we chip away at the very base upon which it stands? Does changing your profile picture to a flag carry the same weight as casting your vote or standing against corruption?
+          </p>
+        </section>
+        <section>
+          <h2 class="section-heading">When Patriotism Turns Blind</h2>
+          <p>
+            Rabindranath Tagore, writing during the height of colonial rule, warned us in his book <em>Nationalism</em> (1917), "Patriotism cannot be our final spiritual shelter; my refuge is humanity." He cautioned against blind patriotism and stressed universal human values. When the youth of a country begin to adopt patriotism blindly, it often morphs into aggressive nationalism, the belief that one’s nation is inherently superior and beyond criticism sprouts and dissent is seen as betrayal. So love turns into obedience and pride converts itself into prejudice. This kind of blind conformity discourages people from questioning the overlords/authorities. And when someone dares to ask questions, they’re often labelled as traitors. This, in turn, weakens democracy. Patriotism starts to excuse censorship, war atrocities, and muzzling of voices, under the guise of national pride.
+          </p>
+          <p>
+            Tagore felt that if patriotism becomes our sole identity, we forget our common humanity. What is a nation, indeed, without people?
+          </p>
+          <p>
+            Our growing ignorance of history and context only deepens this problem. Instead of thinking critically, we follow the blaring political noises. Without a deep understanding of our nation’s past, herd mentality takes over. We forget the ideals our freedom fighters gave their lives for—liberty, justice, and equality. Instead, we follow what’s getting us 90 seconds of fame and a few followers.
+          </p>
+          <p>
+            Yes, social media is a strong tool, it unites people, exchanges ideas, and disseminates information. But there is a dark side to it. We've seen the kind of riots and further polarizations triggered by fake or half-true news. And usually, the most vulnerable—minorities—are caught in the fallout.
+          </p>
+          <p>
+            In this environment, patriotism risks becoming a shallow, divisive identity marker rather than a commitment to collective progress. To preserve its true meaning, patriotism must go beyond digital gestures and embrace informed, inclusive, and constructive participation in the society.
+          </p>
+          <p>
+            This new "social media patriotism" is more performative. It's not being the loudest to sing the national anthem, or commenting smugly on a reel. It's being that voice that speaks up for the ideals the anthem stands for. It's knowing the heart of the nation.
+          </p>
+        </section>
+        <section>
+          <h2 class="section-heading">Rekindling Real Patriotism: Beyond Likes and Hashtags</h2>
+          <p>
+            To rekindle true patriotism, the young people need to read, study the history of the country, learn how to challenge the authorities, and reject cattle behavior. We have to accept imperfections in our system and strive to correct them. As citizens of the era of the internet, it's our responsibility to learn before we opine, because every opinion determines the future of our country. We need greater media literacy, algorithmic transparency, and digital spaces that promote informed, inclusive civic engagement—not viral outrage.
+          </p>
+          <p>
+            The beauty of our nation is in its culture, heritage, diversity, and most importantly, in being one. If we can learn to respect this, if we practice civic responsibility and question narratives, be it in textbooks, news outlets, or WhatsApp forwards, we get closer to actual patriotism.
+          </p>
+          <p>
+            In a world increasingly driven by digital presence, patriotism is no longer just felt—it is posted, liked, and shared. But to be patriotically active today means to remain aware, be compassionate, speak out against injustice, and engage in actual, grass-roots change.
+          </p>
+          <p>
+            Patriotism isn't about crying loudest. It’s about doing the hard, quiet things that truly count—like choosing truth over trend, action over applause and the nation over oneself.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/social.jpeg",
+    author: [
+      authors.find((a) => a.username === "hetal-kothari"),
+      authors.find((a) => a.username === "aliya-imam")
+    ],
+    category: "Editorial",
+    date: "2025-06-25",
+    readTime: "5 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Patriotism", "Social Media", "India", "Civic Engagement", "Nationalism", "Youth", "Editorial"],
+    featured: true,
+    isPublished: true
   }
 ];
 
