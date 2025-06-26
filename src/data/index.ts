@@ -4591,6 +4591,122 @@ export const articles: Article[] = [
     tags: ["Patriotism", "Social Media", "India", "Civic Engagement", "Nationalism", "Youth", "Editorial"],
     featured: true,
     isPublished: true
+  },
+  {
+    id: "hate-myth-and-humanity-lgbtq",
+    title: "Hate, Myth and humanity : what society gets wrong about LGBTQ+ community",
+    slug: "hate-myth-and-humanity-what-society-gets-wrong-about-lgbtq",
+    excerpt: "A critical look at the myths, prejudices, and societal failures that continue to harm the LGBTQ+ community, and a call for empathy, dignity, and real equality.",
+    content: `
+      <div class="article-content">
+        <section>
+          <h2 class="section-heading">Nature Doesn’t Discriminate, We Do-</h2>
+          <p>
+            In a world where information is at your fingertips, ignorance continues to exist.
+            The struggles of LGBTQ+ community might appear to be easing on the surface level, but negative stereotypes, degrading comments, and denial of fundamental human rights continue to be deep rooted in our society. These harsh realities continue to be sidetracked with excuses based on so-called "unnatural biology," religious purposes, or assertions that society has never been so before.
+          </p>
+          <p>
+            From having been stigmatized to mocked for not being normal according to societies traditional notions of "normal," all the discrimination to which the members of the community are subjected is due to centuries of misinformation, prejudice, and the absence of a modicum of basic human empathy.
+            Even among animals, homosexual behaviour has been witnessed. More than 1,500 species, ranging from invertebrates including insects and spiders to vertebrates like birds, mammals, and fish, have shown homosexual behaviour. So, when individuals protest that it's "unnatural," the case falls apart under even the most rudimentary scientific examination. Homosexual relationships are not something new, throughout history and across cultures, from ancient Indian writings to Native American societies.
+          </p>
+        </section>
+        <section>
+          <h2 class="section-heading">The Truth About LGBTQ+ Rights-</h2>
+          <p>
+            The majority of people still believe that those of other sexual orientations are sick in the mind or have personality disorders. Such assertions not only close their very existence off, but also obliterate the type of support which they need. Such a belief is not only outdated but also untrue. In 1973, the American Psychiatric Association—the world's largest psychiatric association, finally deleted homosexuality from the list of mental illnesses. This was done after comprehensive research and a number of debates. But over half a century later, LGBTQ+ activists are still fighting to achieve this reality, while some so called "researchers" and "physicians" try to revive these destructive myths back from the dead, dragging the progress back to square one.
+          </p>
+          <p>
+            The lack of understanding, acceptance, and respect results in bullying, sexual assault, violence, and emotional abuse. It often culminates into depression and suicide. The effect of such hate is catastrophic - it dehumanizes, isolates, takes away  employment, their home, their dignity, and their fundamental rights.
+          </p>
+          <p>
+            One of the most popular reasons for refusing LGBTQ+ individuals’ equality is religion. Society  uses religion as protection to excuse hatred, saying they are "saving" their religion or tradition. But if one believes in God, how does one explain hatred towards God's own people? No faith teaches hate. Holy books instruct love, kindness, and sympathy. So why the brutality? Just because you don't comprehend a person's identity? As humans, we are still in the dark about so many things, we're still learning about the depths of our own bodies and the workings of the brain. It's hateful to despise someone just because their normal is a little different from ours.
+          </p>
+        </section>
+        <section>
+          <h2 class="section-heading">Equality Means Everyone-</h2>
+          <p>
+            Another common argument that is often raised is that trans women are a "threat" to feminism, particularly in athletics. Critics argue that trans women might have physical advantages over cis women and thus deprive them of opportunities. But this concern is not supported by strong evidence. The International Olympic Committee and World Athletics have already put in place strict eligibility requirements, such as hormone rules, to maintain fair competition. Trans women are not "dominating" women's sports as is often argued. Seems a little out of context, let's stick to trans women.
+          </p>
+          <p>
+            Using feminism to justify exclusion of queer people betrays the very nature of feminism itself. Feminism is based on the fight for freedom, equality, and respect for all. Excluding trans women from feminist spaces not only erases their struggles but goes against the principles feminism was built on.
+          </p>
+          <p>
+            Being a member of  LGBTQ+ is not a phase or a trend, it is a part of the natural human spectrum. It always has been and will always be. While it's fine to question or disagree on some subjects, refusing someone's existence is not an opinion — it is dehumanizing. You don't have to get every identity in order to treat someone with kindness and respect.
+            If your faith makes you hate, exclude, or hurt others simply because they are who they are- then it's not their identity we need to question, it's our humanity.
+          </p>
+          <p>
+            A society that prides itself on equality and freedom has to start by providing the bare essentials: dignity, love, safety, and rights for all. Because everyone deserves that.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/myth.jpeg",
+    author: authors.find(a => a.username === "aliya-imam")!,
+    category: "Editorial",
+    date: "2025-06-26",
+    readTime: "7 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["LGBTQ+", "Society", "Myth", "Equality", "Human Rights", "Editorial"],
+    featured: true,
+    isPublished: true
+  },
+  {
+    id: "akbarnagar-betrayed-children-no-school",
+    title: "Akbarnagar’s Betrayed Children: No School Beyond the Rubble",
+    slug: "akbarnagar-betrayed-children-no-school-beyond-the-rubble",
+    excerpt: "After the demolition of Akbarnagar, displaced families in Basant Kunj face a new crisis: their children have no access to government schools, severing their right to education and hope.",
+    content: `
+      <div class="article-content">
+        <section>
+          <p>
+            When the state destroyed Akbarnagar, it didn't just demolish homes. It uprooted futures. It crushed the fragile scaffolding on which generations of working-class families had tried to build stability—brick by brick, year by year. And perhaps no one has been more betrayed by this destruction than the children.
+          </p>
+          <p>
+            After the demolition, families were pushed into the Basant Kunj Yojana resettlement colony. It was declared a rehabilitation site, but in reality, it is a dumping ground. No water, no hospital, no proper drainage, no public transport. And most critically—no government school.
+          </p>
+          <p>
+            Let me be clear: not a single government school exists within or even near Basant Kunj. The only schools in the area are private. Some are in name only—tiny rented rooms charging ₹500 per month with no infrastructure. Others are expensive, the kind no displaced worker earning daily wages can even dream of affording. A few children are still traveling 5–10 kilometers to reach their old schools, but that’s increasingly rare. With no transport, no stability, and rising economic stress, families are being pushed to pull their children out.
+          </p>
+          <p>
+            What is the state’s plan for these children? Where are the bridge courses, the emergency enrolment camps, the mobile schools that should have followed the demolition? If the government can send bulldozers overnight, can it not provide even a bus or a teacher?
+          </p>
+          <p>
+            Parents now live with an unbearable choice: pay for housing you didn’t choose, or educate your children. Many are being forced to choose shelter over schooling, not because they don’t care, but because they’ve been made to suffer for surviving poverty.
+          </p>
+          <p>
+            We are told this is ‘rehabilitation’. But what kind of rehabilitation severs children from education? From friendship? From dreams?
+          </p>
+          <p>
+            Article 21A of the Constitution guarantees every child the right to free and compulsory education. The courts have repeatedly held that displaced communities must be given access to education as part of any resettlement. But in Basant Kunj, the children of Akbarnagar are being deliberately abandoned. Their only ‘crime’? Being born to poor families in a locality, the city now wants to erase from its memory.
+          </p>
+          <p>
+            This is not a policy failure. This is a political choice.
+          </p>
+          <p>
+            And it is not just the children who will bear the cost. We all will—because a city that treats its children as collateral damage for beautification projects has no moral right to speak of development.
+          </p>
+          <p>
+            I invite the administration, the media, and every citizen with a conscience to visit Basant Kunj. Look into the eyes of the children there. Ask them why they’re not in school. Then ask yourself: if this happened to your child, what would you call it?
+          </p>
+          <p>
+            We call it what it is: injustice.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/cris.jpeg",
+    author: authors.find(a => a.username === "captain-jack-sparrow")!,
+    category: "city",
+    date: "2025-06-26",
+    readTime: "6 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Akbarnagar", "Education", "Children", "Resettlement", "Policy", "City", "Injustice"],
+    featured: true,
+    isPublished: true
   }
 ];
 
