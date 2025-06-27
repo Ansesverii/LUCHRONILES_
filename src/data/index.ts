@@ -4625,7 +4625,7 @@ export const articles: Article[] = [
         <section>
           <h2 class="section-heading">Equality Means Everyone-</h2>
           <p>
-            Another common argument that is often raised is that trans women are a "threat" to feminism, particularly in athletics. Critics argue that trans women might have physical advantages over cis women and thus deprive them of opportunities. But this concern is not supported by strong evidence. The International Olympic Committee and World Athletics have already put in place strict eligibility requirements, such as hormone rules, to maintain fair competition. Trans women are not "dominating" women's sports as is often argued. Seems a little out of context, let's stick to trans women.
+            Another common argument that is often raised is that trans women are a "threat" to feminism, particularly in athletics. Critics argue that trans women might have physical advantages over cis women and thus deprive them of opportunities. But this concern is not supported by strong evidence. The International Olympic Committee and World Athletics have already put in place strict eligibility requirements, such as hormone rules, to maintain fair competition. Trans women are not "dominating" women's sports as is often argued.
           </p>
           <p>
             Using feminism to justify exclusion of queer people betrays the very nature of feminism itself. Feminism is based on the fight for freedom, equality, and respect for all. Excluding trans women from feminist spaces not only erases their struggles but goes against the principles feminism was built on.
@@ -4705,6 +4705,160 @@ export const articles: Article[] = [
     likes: 0,
     comments: [],
     tags: ["Akbarnagar", "Education", "Children", "Resettlement", "Policy", "City", "Injustice"],
+    featured: true,
+    isPublished: true
+  },
+  {
+    id: "pressure-cooker-of-hope",
+    title: "The Pressure Cooker of Hope",
+    slug: "pressure-cooker-of-hope",
+    excerpt: "A raw look at the crushing burden on Indian students, the broken promises of education, and the silent crisis of youth abandoned by the system.",
+    content: `
+      <div class="article-content">
+        <section>
+          <p>
+            Being a student in India today is not a matter of choice. It’s a burden. It’s a risk families take out of desperation, not curiosity. You study because your parents are counting on you. You move to a city you can’t afford, live in a room with no space to breathe, and tell yourself you’ll make it—because there’s no other way out.
+          </p>
+          <p>
+            Every year, students from villages and small towns take this leap. Patna, Prayagraj, Kota, Lucknow—they arrive with borrowed money, second-hand dreams, and a pressure that doesn’t let them sleep. All for one shot at a government job. Because one job means the whole family survives.
+          </p>
+          <p>
+            But the jobs aren’t there.
+          </p>
+          <p>
+            CMIE data says unemployment is around 7.4%. But for youth aged 20–24, it’s over 40%. And in states like Bihar and UP, the contradiction is brutal—vacant posts, endless forms, and coaching centres running full like factories. The system keeps selling hope. The students keep buying it. And when it breaks, only one side is blamed.
+          </p>
+          <p>
+            There’s a video I can’t forget. A boy in Patna, trying to crack a government exam. He lives in a narrow box of a room. He eats what he can. He works part-time and studies till his eyes burn. When a reporter asks his mother why he hasn’t got a job yet, she says: “He’s not trying hard enough.” You can see the shame on his face. You can see the exhaustion. And it’s not just him. It’s a pattern.
+          </p>
+          <p>
+            These are boys and girls carrying entire families on their shoulders. But cities like Patna or Lucknow don’t welcome them. The rooms are cramped. The food makes them sick. Classes are overcrowded, teachers don’t show up. There’s no library, no support, no care. The coaching centres keep milking them. The state keeps ignoring them.
+          </p>
+          <p>
+            In Lucknow University, the story continues. Hostels are falling apart. Classes run without meaning. The system teaches them nothing and then calls them failures.
+          </p>
+          <p>
+            So they drift—into groups. Big groups of boys, roaming around, laughing loudly, moral policing, heckling, making their presence known. And while that behaviour must be called out, let’s not forget: these are boys abandoned by every promise they believed in. Boys who came to learn and found nothing. Boys who built gangs because the classroom gave them nothing else.
+          </p>
+          <p>
+            And when they fall behind, the questions come like knives:
+          </p>
+          <ul>
+            <li>Why didn’t you crack the paper?</li>
+            <li>Why aren’t you fluent in English?</li>
+            <li>Why haven’t you made us proud?</li>
+          </ul>
+          <p>
+            No one asks:
+          </p>
+          <ul>
+            <li>Why did the government stop hiring?</li>
+            <li>Why is the university broken?</li>
+            <li>Why is the student always the one left to blame?</li>
+          </ul>
+          <p>
+            The truth is: education without employment is a betrayal. It’s violence. You spend years studying, go into debt, give up your youth—and at the end, there’s nothing. Just more forms, more waiting, more silence.
+          </p>
+          <p>
+            So where do these students go? Who listens to them?
+          </p>
+          <p>
+            We need to stop pretending this is about merit. It’s about abandonment.
+          </p>
+          <p>
+            The students of this country are not lazy. They are tired. They are not entitled. They are struggling. And if we don’t ask why the system broke them, we’ll keep pretending this is their failure—when really, it’s ours.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/pressure.jpeg",
+    author: authors.find(a => a.username === "captain-jack-sparrow")!,
+    category: "national",
+    date: "2025-06-27",
+    readTime: "7 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Students", "Education", "Unemployment", "national", "Youth", "India", "Pressure"],
+    featured: true,
+    isPublished: true
+  },
+  {
+    id: "self-styled-demigods-fraudulent-babas-india",
+    title: "Self-Styled Demigods: India's Fraudulent Babas and their Trail of Deceit",
+    slug: "self-styled-demigods-fraudulent-babas-india",
+    excerpt: "A critical look at India's so-called godmen, their crimes, the social dangers they pose, and why blind faith continues to empower them.",
+    content: `
+      <div class="article-content">
+        <section>
+          <p>
+            Article 51A(h) of the Constitution of India urges citizens to develop a scientific temper, humanism, and a spirit of inquiry and reform. Like many of the Fundamental Duties, this provision is often overlooked. India, renowned for its spiritualism and religiosity, has always revered its sages and saints. But in modern times, the line between spiritual guidance and exploitation has been blurred and the garb of religion has been used frequently to shroud innumerable crimes and deception.
+          </p>
+          <h3>Famous Babas and their Crimes</h3>
+          <p>
+            If we begin documenting the crimes of all 'dhongi' babas, we will be short of space; however, few stand out for heinous crimes and the support they got from the masses even after their crimes were exposed.
+          </p>
+          <ul>
+            <li>
+              <strong>Gurmeet Ram Rahim Singh:</strong> Convicted of raping two women, he is also linked to the mass castration of male followers. Additionally, he was convicted for the murder of journalist Ram Chander Chhatrapati, who reported on the rape charges against Ram Rahim.
+            </li>
+            <li>
+              <strong>Asaram Bapu:</strong> Accused of land grabbing, fraud, and convicted of sexual assaults like rape of a minor girl.
+            </li>
+            <li>
+              <strong>Swami Nithyananda:</strong> Facing charges of rape, kidnapping, and abuse, escaped India and declared himself the ruler of a fictional country called "Kailasa." He continues to attract followers online, making unusual claims such as teaching cows to speak Sanskrit and performing teleportation.
+            </li>
+            <li>
+              <strong>Others:</strong> Swami Aseemanand, who was accused of terror bombings but was acquitted due to lack of evidence; Chandraswami, who was convicted of fraud in foreign exchange; and Baba Ramdev, who faced allegations of tax evasion and land grabbing. Additionally, he made controversial remarks equating homosexuality to a disease and spread misinformation claiming that his company's products can cure serious illnesses like COVID, with their so-called revolutionary pill, Covinil.
+            </li>
+          </ul>
+          <h3>Misogyny, Casteism, and Dangerous Advice</h3>
+          <p>
+            Beyond physical crimes, many godmen also perpetuate misogynistic and casteist ideologies, reinforcing regressive social structures and inciting hate.
+          </p>
+          <ul>
+            <li>
+              <strong>Aniruddhacharya:</strong> He has implied that women are partly responsible for sexual violence based on their appearance or clothing. Furthermore, he has made derogatory statements about Dalits and inter-caste marriage, comparing such unions to animals mating outside their species.
+            </li>
+            <li>
+              <strong>Bageshwar Dham Baba:</strong> He promotes the toleration of domestic abuse by echoing outdated rhetoric such as "the husband is like a god," which reinforces dangerous patriarchal norms that silence abuse victims. Additionally, he frequently makes derogatory comments about Dalit communities.
+            </li>
+            <li>
+              <strong>Swami Om:</strong> He made sexist and objectifying remarks, verbally harassing women and engaging in inappropriate physical behavior.
+            </li>
+          </ul>
+          <h3>With blind devotion and unquestioned power</h3>
+          <p>
+            Influential individuals from various political parties support these so-called religious leaders. Politicians from both the BJP and Congress have been seen seeking 'blessings' to mobilize vote banks.
+          </p>
+          <p>
+            It's not just influential personalities who defend them; even after fraudulent babas are exposed, they continue to receive mass support.
+          </p>
+          <p>
+            Ram Rahim Singh has been granted parole on 15 occasions, with many of these instances coinciding with election periods. Altogether, he has spent over 250 days outside of jail during his sentence. Each time he's granted parole, thousands line up for his 'darshan.'
+          </p>
+          <p>
+            Asaram Babu has been granted Interim bail on medical grounds until March 2025. His image, quotes, and teachings are still shared widely across WhatsApp groups, YouTube, and religious shops. His monthly magazine “Rishi Prasad” never stopped publication, even when he was in jail.
+          </p>
+          <p>
+            The reason why people still follow them is because of emotional dependency, Charisma & Spectacle, Cultural conditioning, and Disinformation.
+          </p>
+          <h3>Truth and Social Accountability</h3>
+          <p>
+            In conclusion, the thriving empire of these conmen is a glaring reflection of a society that chooses blind faith over reason and critical thinking. What's even more disturbing is that their influence continues even after they are exposed. Do not trade your common sense for empty promises. It's time to open our eyes, question false authority, and stop giving power to those who manipulate spirituality for personal gain. Faith should inspire truth and compassion—not fear, fraud, and exploitation.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/digo.jpeg",
+    author: authors.find(a => a.username === "trishla-chaudhary")!,
+    category: "national",
+    date: "2025-06-27",
+    readTime: "8 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Babas", "Fraud", "national", "Religion", "India", "Blind Faith", "Accountability"],
     featured: true,
     isPublished: true
   }
