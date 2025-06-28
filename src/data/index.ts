@@ -4861,6 +4861,173 @@ export const articles: Article[] = [
     tags: ["Babas", "Fraud", "national", "Religion", "India", "Blind Faith", "Accountability"],
     featured: true,
     isPublished: true
+  },
+    {
+    id: "pop-psychology-culture",
+    title: "THE POP-PSYCHOLOGY CULTURE",
+    slug: "pop-psychology-culture",
+    excerpt: "A critical examination of how pop psychology has transformed mental health discourse, from genuine healing to performative wellness culture.",
+    content: `
+      <div class="article-content">
+        <section>
+          <p>
+            Once upon a time, understanding the mind meant stepping into battle - not with capes or superpowers, but with the monsters inside us. Freud, armed with his theories of the unconscious - forever searching for the mother of all answers (yes your mother).Jung with his archetypes asking us to see in our dreams what we refused to see in daylight. Pavlov's salivating dogs proving we're not as free as we'd like to think; that a bell could turn us into puppets of conditioning.
+          </p>
+          <p>
+            But then arrived the real demon - pop psychology ; the shrink-wrapping of human anguish for mass consumption. Now, self-awareness comes in listicles: "5 signs you're dating a narcissist." "How your attachment style explains everything (even your bad WiFi)." Memes do the work of entire graduate programs. Healing is packaged as a 30-second reel you can save, send, and promptly forget.
+          </p>
+          <p>
+            Pop psychology today feels less like science and more like astrology with better PR. Your trauma's a vibe. Your personality? A branded starter pack.No offence but if one more time I hear someone call themselves OCD for cleaning their room or use their attachment style as their entire personality ,I'm pulling a Thelma & Louise and driving straight off a cliff.
+          </p>
+          <h3>The Pop-Psych Culture</h3>
+          <p>
+            We live in the golden age of Pop Psychology Culture: a billion dollar industry that sells overpriced journals promising to help you manifest your inner child's dreams and self-help books that resemble emotional IKEA: flat-pack solutions with cheery diagrams and step-by-step guides, designed for you to assemble alone. And now you know why none of the pieces fit quite right. Gone are any needs for DSM - now it's "10 Hacks to Heal Your Inner Child" before bedtime.Trauma isn't just something you survive anymore - it's an aesthetic. A vibe. A reason to buy the shadow-work workbook your favorite influencer swears by (discount code in bio).
+          </p>
+          <p>
+            As Pravina Rudra said these "therapy influencers" use trendy terms (attachment styles, trauma, etc.) to explain ordinary behavior, creating an aura of authority without real nuance. In Rudra's view, "Pop therapy has to categorise" everything and "quasi-medical labels lend [influencers] an aura of authority," whereas real therapists would more often admit uncertainty. (newstatesman.com). A recent Guardian investigation (May 2025) found over half of TikTok videos tagged #mentalhealthtips contain misinformation.Experts quoted in the article describe these posts as "riddled with unhelpful, harmful and sometimes dangerous mental health advice". (theguardian.com)
+          </p>
+          <p>
+            And here's the catch: it feels good. It feels empowering to have language - "toxic," "gaslighter," "empath," "boundaries" - that turns the mess of human relationships into clean, shareable categories.It gives us community, or the illusion of it. Everyone's an armchair diagnostician, diagnosing everyone but themselves. It makes us feel in control. Because if you can name it, surely you can fix it.
+          </p>
+          <p>
+            Just like you, I wish healing could be as simple - though I'm too proud to admit it 'cause I fancy myself Wonder Woman. But I too secretly hope that a clay mask could cool the burns I got as I tried to be the bravest soldier.That maybe, just maybe, another outfit could hide the scars I've spent years pretending weren't there
+          </p>
+          <p>
+            Pop psychology offers the performance of healing, not its substance. It asks for nothing but consumption. It tells us to set "boundaries" without ever asking: what systems made those boundaries necessary in the first place? It sells us tools of self-repair - journals, apps, wellness retreats - while ensuring we stay just broken enough to need the next fix.
+          </p>
+          <h3>Pop Psychology Is Not Psychology</h3>
+          <p>
+            Pop psychology may have you believe you have an "anxious attachment style" when you're simply trying to date in an emotionally avoidant culture. It may tell you that people with avoidant attachment styles are cold-hearted villains, while anxious individuals are helpless victims who "just love too much." That's not psychology - that's projection disguised as diagnosis.
+          </p>
+          <p>
+            It may have you over-relying on theories and aesthetic jargon, distracting you from the reality that maybe , just maybe - you're in the wrong relationship, or unwilling to do the hard work of repair.
+          </p>
+          <p>
+            Many terms are used too loosely.
+          </p>
+          <ul>
+            <li>Gaslighting is not someone disagreeing with you. It's a long-term pattern of manipulation that makes you doubt your memory or reality.</li>
+            <li>Being "triggered" is not the same as being upset. It refers to intense reactions, like flashbacks or panic, often linked to trauma.</li>
+            <li>Narcissistic Personality Disorder is a serious diagnosis. It's not the same as someone being proud or self-centered.</li>
+            <li>Trauma is not just anything that hurts. It means an experience that overwhelms your ability to cope, with lasting impact.</li>
+            <li>Codependency isn't just needing people. It refers to a pattern of losing yourself in others' needs, often shaped by long-term emotional habits.</li>
+          </ul>
+          <p>
+            Oversimplifying these terms dilutes their meaning , and trivializes the lived experiences of people actually navigating clinical realities.
+          </p>
+          <p>
+            Not everything needs to be normalised.<br/>
+            Some things need to be understood properly.
+          </p>
+          <h3>What would a truer psychology look like?</h3>
+          <p>
+            It would look like this:
+          </p>
+          <p>
+            A psychology that honours complexity. That knows people aren't problems to be solved or patterns to be decoded, but whole, messy beings trying to make sense of themselves.
+          </p>
+          <p>
+            It would look like dialogue over diagnosis. Like choosing to listen instead of rushing to explain. Like leaving space for questions we don't have answers for yet.
+          </p>
+          <p>
+            A truer psychology wouldn't sell answers. It would ask better questions.
+          </p>
+          <p>
+            It would look like the love Bell Hooks taught - where healing is slow, deliberate, and rooted in connection. Like Fanon's reminder that healing the mind means understanding the heart. Like those spaces where care wasn't a product, but a shared promise - the friend who listens, the teacher who sees, the community that holds.
+          </p>
+          <p>
+            Because real healing was never about fixing what's broken - it was about remembering what's still whole.
+          </p>
+          <p>
+            As I sip tea from my You Are Enough mug, I find myself asking: has healing become a performance? Have we forgotten how to heal without an audience?
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/sh.jpeg",
+    author: authors.find(a => a.username === "shumaila-khan")!,
+    category: "Editorial",
+    date: "2025-06-28",
+    readTime: "12 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Pop Psychology", "Mental Health", "Editorial", "Wellness Culture", "Psychology", "Social Media", "Healing"],
+    featured: true,
+    isPublished: true
+  },
+    {
+    id: "axiom-4-shubhanshu-shukla-india-interstellar-aspirations",
+    title: "THE ADVENTURES OF AXIOM 4, SHUBHANSHU SHUKLA AND INDIA'S INTERSTELLAR ASPIRATIONS",
+    slug: "axiom-4-shubhanshu-shukla-india-interstellar-aspirations",
+    excerpt: "Shubhanshu Shukla becomes the first Indian to set foot on the International Space Station, marking a new chapter in India's space exploration journey.",
+    content: `
+      <div class="article-content">
+        <section>
+          <p class="intro-paragraph">
+            "Shubhanshu Shukla becomes the first Indian to set foot on the International Space Station"
+          </p>
+          <p>
+            It has been 41 years since an Indian astronaut last had the privilege of saying "Saare jahan se achchha" to their Prime Minister over a radio. With India expanding its footprint in the space exploration realm, the renewal of this privilege is now considered due.
+          </p>
+          <p>
+            ISRO now focuses on sending crewed missions to space, the first being Gaganyaan—a mission to low Earth orbit.
+          </p>
+          <p>
+            In its prelude, one of the 4 astronauts of the mission, Group captain Shubhanshu Shukla has been selected as a pilot to go on the ISS under the Axiom-4 mission, a first for an Indian.
+          </p>
+          <h3>What is Axiom-4?</h3>
+          <p>
+            The Axiom 4 is a privately planned spaceflight to the International Space Station. The mission precedes Axiom's goal of launching into the Earth's orbit, the first-ever commercial space station, the Axiom Station. The mission encompasses astronauts from four nations, the USA, India, Hungary and Poland and collaborates with NASA, SpaceX, ISRO, ESA and HSO to give action to the spaceflight.
+          </p>
+          <h3>The delay</h3>
+          <p>
+            The mission was set to initiate with the launch of SpaceX's fifth and final crew dragon, C213 on 11th June, 2025, but was postponed due to a leak in the Liquid Oxygen tank, posing a risk of combustion and potential explosion during takeoff. The next attempt was scrapped due to an unrelated leak in the Russian Zvezda service module of the ISS.
+          </p>
+          <p>
+            But finally, June 26th, 2025 marked the successful docking of the C213 on the ISS, reigniting the long-held Indian dream of human spaceflight and to finally add names to the list of astronauts in space.
+          </p>
+          <h3>Why is Axiom-4 important?</h3>
+          <p>
+            The mission comes with a lot of geopolitical and national firsts. This is the first time a company is attempting to reign over the long existing US-China-Soviet supremacy when it comes to space stations, hence breaking the monopoly down.
+          </p>
+          <p>
+            For India, it is a fuel to once again send Indians somewhere away from geopolitical ties, finally! Also, it will serve as a rehearsal for Shubhanshu Shukla, who is set to pilot the Gaganyaan mission for ISRO. The mission brings collaborations not previously witnessed. US,India,Poland and Hungary co-operate to bring about leaps for humanity. It also brings a space mission for Hungary and Poland, for which the field has remained rather untapped since the fall of the USSR. Poland finally receives long-overdue representation in the space sector, overcoming its world war horrors.
+          </p>
+          <p>
+            All in all, it is a win-win, cash for the company and co-operation for the world, something which the Earth fraternity can seriously use right now.
+          </p>
+          <h3>What is in store for India?</h3>
+          <p>
+            First and foremost, soft power, an open assertion that we are here, and to stay. Axiom 4 bears the fruit of expansion, of horizons unexplored and doors unopened. The possibility of private players entering the Indian space sector seems to be dehazing and the ebb and flow of government monopoly seems to be easing down. It is now time that the space sector also witnesses robust and resilient public-private partnerships, and astronauts also get to serve in private missions. If the trajectory is positive enough, it might not be long before we can see the uprising of an Indian Blue Origin.
+          </p>
+          <p>
+            On an emotional metric, the mission boosts morale for more such missions but with India in the foreground.
+          </p>
+          <h3>Axiom-4: Fueling India's Astronautical Future</h3>
+          <p>
+            Axiom 4 brings hope for Indians and humans worldwide that in a war torn world, humans can still cooperate for the sake of humanity and its betterment.
+          </p>
+          <p>
+            The delay haunted citizens and authorities alike. Hearts throbbed with the fear that whether the manned mission will ever lift off, or will it just remain to be a concept? But with it finally in action, the Great Indian Dream also takes flight.
+          </p>
+          <p>
+            The space programme and plans instil both fear and excitement alike. But a question pertains, When time knocks our doors, will India be ready to take on not just the seas and skies, but also what lies beyond?
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/space.jpeg",
+    author: authors.find(a => a.username === "atulit-pandey")!,
+    category: "sci-tech",
+    date: "2025-06-28",
+    readTime: "8 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Space", "ISRO", "Axiom-4", "Shubhanshu Shukla", "ISS", "Space Exploration", "India", "Gaganyaan"],
+    featured: true,
+    isPublished: true
   }
 ];
 
