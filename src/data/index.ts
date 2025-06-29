@@ -5028,6 +5028,158 @@ export const articles: Article[] = [
     tags: ["Space", "ISRO", "Axiom-4", "Shubhanshu Shukla", "ISS", "Space Exploration", "India", "Gaganyaan"],
     featured: true,
     isPublished: true
+  },
+  {
+    id: "burden-of-expectations-engineering-medicine-india",
+    title: "The Burden of Expectations: How India's Preoccupation with Engineering and Medicine Damps Aspirations",
+    slug: "burden-of-expectations-engineering-medicine-india",
+    excerpt: "In most Indian homes, the terms 'engineer' and 'doctor' are not only occupations, they are dreams passed down like family heirlooms. But in this competition for security and respectability, what is usually sacrificed is the voice, aspirations, and identity of the child.",
+    content: `
+      <div class="article-content">
+        <section>
+          <p class="intro-paragraph">
+            In most Indian homes, the terms "engineer" and "doctor" are not only occupations, they are dreams passed down like family heirlooms. For decades, these have been regarded as golden tickets to stability, respect in society, and social mobility. But in this competition for security and respectability, what is usually sacrificed is the voice, aspirations, and identity of the child.
+          </p>
+          
+          <h3>The Numbers Behind the Pressure</h3>
+          <p>
+            Engineering is still one of India's favorite streams, as per the All India Survey of Higher Education (AISHE) 2021, with more than 3.5 million students studying undergraduate engineering in India. Even the National Medical Commission reveals over 1.4 million students competing every year for only 100,000 MBBS seats. The competition is mind-boggling: to fill one MBBS seat, almost 15 students are in the fray.
+          </p>
+          
+          <p>
+            These statistics tell more than just an academic level of interest - they indicate ingrained parental and societal pressure. A 2022 Mindler report, a career guidance platform, indicated that 85% of Indian students are persuaded by parents when selecting a career and almost 49% of them are urged to take up a career in engineering or medicine regardless of personal ability or interest.
+          </p>
+          
+          <h3>The Cost of Conformity</h3>
+          <p>
+            Although motivations for this drive are regularly based on love and worry, the emotional toll for most of these children is huge. Science careers, particularly engineering and medicine, involve strong training and several years of education. However, many students pursue these because they feel they must, not because they truly want to.
+          </p>
+          
+          <p>
+            Such an expectation, if not aligned with a child's innate interests, tends to lead to disappointment. Research indicates that almost 60% of India's engineering graduates are either unemployed or underemployed. Most students, after graduation, find themselves changing disciplines altogether, going into management, entrepreneurship, design, or even creative fields.
+          </p>
+          
+          <p>
+            And for the rest, mental health is an unseen casualty. An Indian Journal of Psychiatry report released in 2020 pointed to a troubling increase in depression and anxiety among students gearing up for competitive exams such as NEET and JEE. The weight of expectations, especially the fear of letting parents down has made the system emotionally draining for many students. This pressure intensifies more in non urban cities, where options feel fewer and social norms more rigid.
+          </p>
+          
+          <h3>Reflections in Cinema</h3>
+          <p>
+            Indian film has long reflected these social pressures. Taare Zameen Par exemplifies how children with different learning patterns are labeled as "lazy" or "dumb" by a society that emphasizes conformity rather than creativity. Life of Pi, albeit metaphorical, beautifully captures the inner struggle of a young boy to balance faith, fear, and family expectations.
+          </p>
+          
+          <p>
+            These movies resonated not only because of the narratives, but also because they showed a mirror to many real stories within Indian families.
+          </p>
+          
+          <h3>Towards a More Complete Notion of Success</h3>
+          <p>
+            It cannot be denied that engineering and medical careers are stable. MBBS, in fact, remains one of the most job-guaranteed degrees in India. But stability must not be at the expense of individuality.
+          </p>
+          
+          <p>
+            As India grows, so do its definitions of success. The job market itself is diversifying - UX design, climate science, digital marketing, psychology, social entrepreneurship are booming fields. These occupations, previously stereotyped as "unsafe," are now starting to become fundamental pillars of the new economy.
+          </p>
+          
+          <p>
+            Parents want the best for their kids, no question about that. But "best" needs to be defined in terms of a kid's interests, abilities, and mental health. Love must be followed by listening. Support must be accompanied by space.
+          </p>
+          
+          <p>
+            If we really want to have successful kids, we first need to let them dream on their own terms.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/ali.jpeg",
+    author: authors.find(a => a.username === "aliya-imam")!,
+    category: "op-ed",
+    date: "2025-06-29",
+    readTime: "7 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Education", "Engineering", "Medicine", "Career Pressure", "Mental Health", "Indian Society", "Parenting", "Career Choices"],
+    featured: true,
+    isPublished: true
+  },
+  {
+    id: "hostel-gendered-institution-patriarchy-lucknow-university",
+    title: "The Hostel as a Gendered Institution: Locked for Their Own Good: How Hostels Reproduce Patriarchy",
+    slug: "hostel-gendered-institution-patriarchy-lucknow-university",
+    excerpt: "You don't have to live in a hostel to understand how it is disciplined. You just have to observe who the system is protecting — and from what.",
+    content: `
+      <div class="article-content">
+        <section>
+          <p class="intro-paragraph">
+            You don't have to live in a hostel to understand how it is disciplined. You just have to observe who the system is protecting — and from what.
+          </p>
+          
+          <p>
+            At the University of Lucknow, hostels are not just spaces to sleep or study. They are micro-governments. They regulate food, mobility, time, and even emotion. But above all, they regulate gender. If you're a male student, your hostel is a shelter. If you're a female student, it's a boundary. Not metaphorically — literally. The gate shuts at 8 PM.
+          </p>
+          
+          <p>
+            There are eight boys' hostels and five girls' hostels on the main campus. But the difference isn't just in number — it's in rule, in tone, in trust. Girls must return by 8 PM. Boys by 10. Girls need a local guardian. Boys don't. Girls must apply in writing for night-outs. Boys walk in and out until curfew with little oversight. These differences are not incidental. They're foundational.
+          </p>
+          
+          <p>
+            Feminist scholars have long shown that institutions rarely need overt sexism to function patriarchally. They just need rules that seem like common sense. Who could object to keeping women "safe"? But ask: from what? And at what cost?
+          </p>
+          
+          <p>
+            The curfew for girls is enforced in the name of safety — but what it secures is obedience. It teaches women that the world outside is unsafe, and that they are safest when watched. The girls' hostel is not just a space of residence; it's a factory of deference. Leave requests, dress codes, visitor registers, moral supervision — all add up to the lesson that care is conditional, autonomy is dangerous, and adulthood is gendered.
+          </p>
+          
+          <p>
+            This logic of surveillance and gendered control is older than the hostels themselves. What's new is the resistance. In 2022, when girls protested the curfew, they weren't just asking for two extra hours. They were asking for equality —not the performative kind that lives in university slogans, but the lived kind that comes with being trusted to manage your own time. The administration's response was to lock some students out and call their parents. It was meant to restore order. What it exposed was control.
+          </p>
+          
+          <p>
+            The boys' hostels are no utopia — they too faced bad food, poor infrastructure, and administrative neglect — but not moral policing. They are not spaces where male virtue is assumed fragile, or where freedom is granted as reward for obedience. A boy's mistake is a moment. A girl's mistake is a breach of character.
+          </p>
+          
+          <p>
+            As a student of Gender Studies, I read these things not just as facts but as ideologies. The hostel is a gendered institution. It replicates the structure of the patriarchal family, with its protective father-figure (the administration), its moral code (the curfew), and its imagined girl-child who must be kept "safe" through supervision. What it does not replicate is trust. Women are not seen as agents. They are seen as objects to be managed.
+          </p>
+          
+          <p>
+            It would be easier if this were just another local problem. But across campuses in India, the same logic holds. From Delhi to Allahabad, BHU to AMU, female students are governed by different rules, written in the language of care but enacted through discipline. And always, the justification is safety. But as Nivedita Menon reminds us: the demand for safety can never come at the cost of autonomy.
+          </p>
+          
+          <p>
+            When women students ask to be treated as adults, they are not asking for danger. They are asking to decide what danger means — and whether it is worse to walk alone at 9 PM, or to be told you cannot.
+          </p>
+          
+          <p>
+            What would it mean for a university to say: we will keep you safe without locking you up? That we will trust you not because you are compliant, but because you are capable? That we will respond to violence by confronting it — not by containing the victims?
+          </p>
+          
+          <p>
+            Until then, the hostel gate will remain a symbol of everything women are taught to internalize: that freedom is a privilege, and that someone else always decides when it ends.
+          </p>
+          
+          <p>
+            But it doesn't have to be this way. A rule is not a destiny. And a curfew is not a care plan.
+          </p>
+          
+          <p>
+            It's just a gate. And gates can open — especially when enough people push.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/same.jpeg",
+    author: authors.find(a => a.username === "captain-jack-sparrow")!,
+    category: "university",
+    date: "2025-06-29",
+    readTime: "6 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Gender Studies", "Hostel Life", "Patriarchy", "University", "Women's Rights", "Gender Discrimination", "Student Life", "Feminism"],
+    featured: true,
+    isPublished: true
   }
 ];
 
