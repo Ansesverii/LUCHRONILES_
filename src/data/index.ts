@@ -5180,6 +5180,205 @@ export const articles: Article[] = [
     tags: ["Gender Studies", "Hostel Life", "Patriarchy", "University", "Women's Rights", "Gender Discrimination", "Student Life", "Feminism"],
     featured: true,
     isPublished: true
+  },
+  {
+    id: "pride-not-personality-political-project",
+    title: "Pride is Not a Personality. It is a Political Project",
+    slug: "pride-not-personality-political-project",
+    excerpt: "Pride is not a parade or a personality trait. It is a political project—a lifelong commitment to dismantling every structure that tells us we do not belong.",
+    content: `
+      <div class="article-content">
+        <section>
+          <p class="intro-paragraph">
+            Every June, the streets in a few Indian cities light up with rainbows, hashtags, slogans, and selfies. There’s visibility, there’s joy, and often, there’s also a strange silence. A silence that hides the fault lines within the queer movement itself.
+          </p>
+          <p>
+            The truth is, pride is fractured. And we don’t talk about it enough.
+          </p>
+          <p>
+            Trans people, even within queer spaces, are frequently sidelined, tokenised, or reduced to caricatures. Bisexual people are often asked to “pick a side,” as if their existence threatens the neat binaries the world prefers—even some queer people prefer. Asexual people are treated like outliers. Non-binary people are asked for "proof." And caste and class are routinely ignored, unless someone from the margins fights their way into the room—and still often goes unheard.
+          </p>
+          <p>
+            Why does this happen? The answer isn’t simple, but one starting point is this: you can be born queer, but you are not born into the politics of pride. That has to be learned.
+          </p>
+          <p>
+            No one teaches you what you feel. No school, no family gathering, no college curriculum tells you that your desires and your gender identity are valid. You learn that yourself, through pain, through rage, through struggle. But pride is not just about learning to accept ourselves. It is also about learning to accept others.
+          </p>
+          <p>
+            And that’s where we often fall short. When queer individuals themselves mock someone’s gender, erase someone’s caste, ridicule someone’s dialect, or turn away from the realities of poverty, they are not just being unkind. They are failing the very politics of pride.
+          </p>
+          <p>
+            Pride is not about becoming palatable to the state or digestible to the market. It is not about rainbow capitalism or NGO campaigns. It is not about who has the best aesthetics or the most eloquent identity labels. Pride is about solidarity. It is about living and loving and resisting together, in a world that often does not want us alive at all.
+          </p>
+          <p>
+            And this resistance must be intersectional—or it means nothing.
+          </p>
+          <p>
+            The truth is, we don’t all arrive into queerness from the same place. A Dalit trans woman and an upper-caste cis gay man might both be part of the queer community, but the streets they walk, the looks they receive, the violence they risk — none of that is the same. Our lives are shaped not just by our gender or sexuality, but by caste, class, religion, language, and so much else. Pride that refuses to speak of caste, that stays silent about the daily battles of queer sex workers, queer Muslims, or queer people with disabilities — that kind of pride isn’t just incomplete. It’s dishonest. It’s dangerous.
+          </p>
+          <p>
+            We must ask: whose pride is being celebrated? Who is visible? Who is absent? And who is silenced?
+          </p>
+          <p>
+            We must also be honest. Pride parades that partner with the police while ignoring the violence queer people face at their hands cannot be our only strategy. NGOs that speak of inclusion but erase grassroots voices cannot lead our politics. Queer spaces that mirror the very exclusions we claim to fight against must be challenged.
+          </p>
+          <p>
+            Because pride is not a parade. It is not a personality trait. It is a political project. A lifelong commitment to dismantling every structure that tells us we do not belong.
+          </p>
+          <p>
+            Any queer person who denies another queer person’s identity, who refuses to see their struggle, who turns away from caste and class—must be reminded: you may be queer by birth, but pride is not inherited. It is built. And it must be built together.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/pridee.jpeg",
+    author: authors.find(a => a.username === "captain-jack-sparrow")!,
+    category: "op-ed",
+    date: "2025-06-30",
+    readTime: "6 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: [
+      "Pride Month",
+      "Queer Politics",
+      "Intersectionality",
+      "LGBTQIA+",
+      "Caste",
+      "Class",
+      "Solidarity",
+      "Activism"
+    ],
+    featured: true,
+    isPublished: true
+  },
+  {
+    id: "not-all-wounds-are-visible-mens-mental-health",
+    title: "Not All Wounds Are Visible: Why Men’s Mental Health Needs Our Attention",
+    slug: "not-all-wounds-are-visible-mens-mental-health",
+    excerpt: "At Lucknow University, where students are constantly juggling classes, career pressure, and personal battles, men's mental health often remains unspoken, unheard, and misunderstood.",
+    content: `
+      <div class="article-content">
+        <section>
+          <p class="intro-paragraph">
+            He’s the one cracking jokes in the back row of the lecture hall. The one you’ll find vibing to music in the canteen, hyping his friends during college fests, or posting stories at 2 AM from hostel corridors. Everyone assumes he’s doing great.
+          </p>
+          <p>
+            But when the crowd fades and the Wi-Fi disconnects, he lies awake, staring at the ceiling fan, wondering why everything feels so heavy.
+          </p>
+          <p>
+            This isn’t just someone else’s story. It could be your roommate, your classmate, your best friend — maybe even you.
+          </p>
+          <p>
+            Every June, we talk about Men’s Health. But the conversation almost always stops at gyms, protein, and blood pressure. Mental health rarely enters the room, especially in Indian campuses like ours. At Lucknow University, where students are constantly juggling classes, career pressure, family expectations, and personal battles, men's mental health often remains unspoken, unheard, and misunderstood.
+          </p>
+          <p>
+            But the numbers don’t lie. They tell a very real story.
+          </p>
+          <p>
+            According to the National Crime Records Bureau, over 70% of those who died by suicide in India in 2022 were men. These aren’t just statistics — they’re stories that ended too soon.
+          </p>
+          <h3>A Crisis in Silence</h3>
+          <p>
+            A national survey from 2015-16 revealed that nearly 14% of Indian men face some form of mental illness, from anxiety and depression to more severe issues. But here’s the catch: more than 80% never seek help.
+          </p>
+          <p>
+            Why?
+          </p>
+          <p>
+            Because most boys grow up hearing things like “don’t cry,” “be strong,” or “men don’t talk about feelings.” So they grow up learning to hide their struggles behind sarcasm, silence, or a smile.
+          </p>
+          <p>
+            On campus, it looks like this:
+          </p>
+          <ul class="list-disc list-inside space-y-2 my-4">
+            <li>A friend who’s always “tired.”</li>
+            <li>A class topper suddenly misses lectures.</li>
+            <li>A hostelmate who’s become quieter, or angrier, or just… different.</li>
+          </ul>
+          <p>
+            You don’t always notice it. Because they’ve been trained not to show it.
+          </p>
+          <h3>It’s Not Just About Suicide</h3>
+          <p>
+            While the suicide stats are alarming, there’s a quieter, invisible battle being fought daily. Men’s mental health issues often wear different masks: Anger. Burnout. Irritability. Sleepless nights. Impulse decisions. Addictions.
+          </p>
+          <p>
+            Sometimes, it’s long hours at the gym. Sometimes, it’s drinking alone after exams. Sometimes, it’s vanishing from social circles altogether. At LU, students are under enormous pressure — semester grades, placements, internships, and competitive exams. Add to that long-distance relationships, financial stress, and identity struggles, and it’s no wonder so many male students feel overwhelmed.
+          </p>
+          <p>
+            And yet? They don’t talk. Not because they don’t want to, but because they don’t know how to. In a 2024 report by Mpower (a mental health helpline), only 25% of callers were men. The need is there. The courage is missing — and society is partly to blame.
+          </p>
+          <h3>The Cultural Cage</h3>
+          <p>
+            In our movies, the “hero” rarely breaks down. In our homes, boys are told not to cry. In college circles, a guy who opens up might be called “emotional,” or worse — “weak.” Even on social media, there’s a script: be successful, be unbothered, be the rock. There’s no space for softness, because a sigma male is stoic. So, many guys either distract themselves with reels and games, or just disappear into themselves.
+          </p>
+          <p>
+            A few, heartbreakingly, decide they’ve had enough.
+          </p>
+          <h3>What Makes It Even Harder?</h3>
+          <ul class="list-disc list-inside space-y-2 my-4">
+              <li><strong>They don’t have the words:</strong> Instead of saying “I’m anxious,” they say “I’m just tired.”</li>
+              <li><strong>They fear judgment:</strong> Talking about therapy can still feel risky, even among close friends.</li>
+              <li><strong>There aren’t enough role models:</strong> It’s rare to see seniors or professors open up about this.</li>
+              <li><strong>The societal expectation:</strong> Men are often expected to be providers and protectors, which can make them feel like they can’t show vulnerability. This pressure can prevent them from seeking help, even when they need it most.</li>
+          </ul>
+          <h3>But Change Is Happening — Even Here</h3>
+          <p>
+            Things are slowly shifting, even at LU. More students are forming peer support groups. The psychology department occasionally hosts mental health talks. Student-led initiatives are creating spaces where boys can talk without being laughed at or judged. Nationally, helplines like Tele-MANAS and Mpower are receiving more calls from young men than ever before. Campaigns like #ItsOkayToTalk are breaking stereotypes one reel at a time.
+          </p>
+          <p>
+            It’s not perfect, but it’s a start. And it needs you to keep growing.
+          </p>
+          <h3>How You Can Help — As a Friend, a Roommate, a Classmate</h3>
+          <ul class="list-disc list-inside space-y-2 my-4">
+              <li><strong>Check in with your guy friends</strong> — Not just when they’re “off,” but on regular days too.</li>
+              <li><strong>Don’t dismiss their emotions</strong> — Don’t say “just chill” or “man up.” Ask, listen, support.</li>
+              <li><strong>Normalise therapy</strong> — Share mental health resources, talk about your own struggles.</li>
+              <li><strong>Speak up when you hear toxic jokes</strong> — The “boys don’t cry” mindset ends with us.</li>
+              <li><strong>Create safe circles</strong> — Whether it’s hostel chats, chai breaks, or study groups — let emotions have a place.</li>
+          </ul>
+          <h3>A Message to the Men Reading This</h3>
+          <p>
+            If you’ve ever felt like you're drowning in deadlines, expectations, or just your own thoughts — please know this: You are not weak. You are not broken. You are not alone. Whether you’re dealing with homesickness, a breakup, career stress, or something you can’t even name — your feelings are valid. You deserve help. You deserve healing. And you don’t have to suffer in silence. You don’t have to “man up.” You just have to open up.
+          </p>
+          <h3>Final Thoughts</h3>
+          <p>
+            Mental health isn’t just for certain people. It’s for everyone. But silence? That’s something men have been handed generation after generation. Let’s be the generation that breaks it. This June, let’s do more than just share a post or change a profile picture. Let’s check in, sit down, and really talk over chai in the canteen, during walks back from class, or those late-night hostel chats when everything feels a little too much. Let’s remind our friends and ourselves — that it’s okay to not have it all figured out. And that we’re not alone.
+          </p>
+          <p>
+            Because not all wounds are visible. And no one should have to heal alone — especially not on our watch.
+          </p>
+          <div class="mt-6 p-4 border-l-4 border-gray-400 bg-gray-100 dark:bg-gray-800">
+              <h4 class="font-bold">Need to Talk? You’re Not Alone.</h4>
+              <ul class="list-disc list-inside mt-2 space-y-1">
+                  <li>Tele-MANAS (India's national mental health helpline): 14416</li>
+                  <li>iCall (free & confidential): +91 9152987821</li>
+                  <li>Vandrevala Foundation Helpline: 1860 266 2345 / 1800 233 3330</li>
+              </ul>
+          </div>
+        </section>
+      </div>
+    `,
+    image: "/men.jpeg",
+    author: authors.find(a => a.username === "prerna-srivastava")!,
+    category: "op-ed",
+    date: "2025-06-30",
+    readTime: "7 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: [
+      "Men's Mental Health",
+      "Mental Health",
+      "Student Life",
+      "University",
+      "Anxiety",
+      "Depression",
+      "Suicide Prevention"
+    ],
+    featured: true,
+    isPublished: true
   }
 ];
 
