@@ -5300,6 +5300,248 @@ export const articles: Article[] = [
     ],
     featured: true,
     isPublished: true
+  },
+  {
+    id: "beyond-pets-indias-dark-secret-about-animals",
+    title: "Beyond Pets: India’s Dark Secret About Animals",
+    slug: "beyond-pets-indias-dark-secret-about-animals",
+    excerpt: "Behind the closed doors of Indian homes and streets, countless animals suffer in silence. This article exposes the grim reality of animal abuse, neglect, and the cultural practices that perpetuate cruelty.",
+    content: `
+      <div class="article-content">
+        <section>
+          <h2>Behind Closed Doors: The End of Compassion for Animals</h2>
+          <p>
+            I’ve always believed that caring for pets was one of the truest tests of human compassion—a reflection of our ability to nurture and love beyond ourselves. The wag of a dog’s tail, the purring of a contented cat, or even the gentle companionship of a parrot—these everyday moments reveal a bond that can be deeply moving. But as I looked beyond the comfortable confines of pet ownership, I began to see a much harsher reality, one that is often hidden in plain sight.
+          </p>
+          <p>
+            In India, the suffering of animals extends far beyond our beloved companions. Across the country, countless animals are abused, neglected, or simply forgotten. Working animals like bullocks, donkeys, and horses are frequently subjected to gruelling conditions, pulling heavy loads for hours under the scorching sun with little food, water, or rest. Their bodies bear the marks of whips and burdens they were never meant to carry, yet their plight rarely makes headlines.
+          </p>
+          <p>
+            Stray dogs and cats, seen by many as nuisances rather than sentient beings, are often victims of brutal culling campaigns—poisoned, beaten, or left to starve. Meanwhile, India’s rich biodiversity is under constant threat, with wild animals such as elephants, leopards, and even peacocks falling prey to poaching and habitat destruction. Rescue centres are overwhelmed, wildlife corridors are shrinking, and the laws meant to protect these creatures are often poorly enforced.
+          </p>
+          <p>
+            This is a story that is grim, unsettling, and woefully underreported. Their suffering is not just an animal issue—it’s a human one.
+          </p>
+          <h3>Crisis Magnitude Scale</h3>
+          <p>
+            According to FIAPO and All Creatures Great and Small reports from 2010 to 2020, documented cruelty cases had almost been 493,910, which included: street animals (720), working animals (741), companion animals (588), farm animals (88), and wild animals (258). These involve horrifying tales: dogs have been raped with screwdrivers in Goa, langurs were beaten to death in Telangana, and puppies have been poisoned in Kolkata.
+          </p>
+          <p>
+            Even after that, activists and advocates caution that these recorded incidents are only an inkling. FIAPO projects that the real extent of cruelty could possibly be as much as 10 times the estimated number, or 50 animals possibly be killed in 24 hours, triggering 2 animals per hour.
+          </p>
+          <p>
+            However, since there is no official data on tracking animal cruelty, such violence is still in the shadows.
+          </p>
+          <h3>The Reasons Why So Many Incidents Are Not Reported</h3>
+          <p>
+            Many cases exist where justice is hindered by the law and society. Over 20,000 cases of cruelty were registered within the BSPCA in Mumbai between 2011-2016, but in more than 13,000 cases, no offenders turned up in the court; they just ended up paying a fine amounting to rupees 10 and rupees 100.
+          </p>
+          <p>
+            On a five-year basis, only 19,028 cases have been reported in Mumbai—none to very few action has been taken against the alleged perpetrators in the cases. This is almost 3800 cases per year, and none of them had real legal outcomes.
+          </p>
+          <p>
+            1,231 cases of cruelty were reported in Odisha in a period of three years, and the sum of all the fines was 55,750/-. The same happens in Mumbai, where the annual number of offences is 300-350, yet certain activists state that these figures are akin to just a fraction of what happens, which is much too large to count accurately.
+          </p>
+          <h3>Authentic Accounts of Animal Abuse (As of June, 2025)</h3>
+          <div class="overflow-x-auto my-4">
+            <table class="min-w-full border border-gray-300 text-sm">
+              <thead>
+                <tr class="bg-gray-100">
+                  <th class="border px-2 py-1">Type of Abuse</th>
+                  <th class="border px-2 py-1">Action Taken</th>
+                  <th class="border px-2 py-1">Date</th>
+                  <th class="border px-2 py-1">Location</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td class="border px-2 py-1">Stray dog poisoning (5 dogs died)</td>
+                  <td class="border px-2 py-1">FIR registered under PCA Act & BNS; forensic & postmortem investigation</td>
+                  <td class="border px-2 py-1">June 18, 2025</td>
+                  <td class="border px-2 py-1">Battarahalli, Bengaluru</td>
+                </tr>
+                <tr>
+                  <td class="border px-2 py-1">Man beat stray dog to death</td>
+                  <td class="border px-2 py-1">FIR under BNS Section 325; accused booked</td>
+                  <td class="border px-2 py-1">June 25, 2025</td>
+                  <td class="border px-2 py-1">Vasna, Ahmedabad</td>
+                </tr>
+                <tr>
+                  <td class="border px-2 py-1">Poisoning of 5 dogs (4 died)</td>
+                  <td class="border px-2 py-1">FIR under PCA Act & BNS; ongoing police investigation</td>
+                  <td class="border px-2 py-1">June 21, 2025</td>
+                  <td class="border px-2 py-1">Adibatla, Hyderabad</td>
+                </tr>
+                <tr>
+                  <td class="border px-2 py-1">Driver ran over puppy with car</td>
+                  <td class="border px-2 py-1">FIR under PCA Act and BNS registered; legal notice to accused</td>
+                  <td class="border px-2 py-1">~June 22, 2025</td>
+                  <td class="border px-2 py-1">Baguiati, Kolkata</td>
+                </tr>
+                <tr>
+                  <td class="border px-2 py-1">Community dog beaten to death</td>
+                  <td class="border px-2 py-1">FIR registered under BNS & PCA Act; accused arrested</td>
+                  <td class="border px-2 py-1">May 6, 2025</td>
+                  <td class="border px-2 py-1">Patel Nagar, Delhi</td>
+                </tr>
+                <tr>
+                  <td class="border px-2 py-1">Sexual assault & mutilation of dog</td>
+                  <td class="border px-2 py-1">FIR registered under BNS; accused arrested with video evidence</td>
+                  <td class="border px-2 py-1">March 17, 2025</td>
+                  <td class="border px-2 py-1">Jayanagar, Bengaluru</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <h3>The Cultural Inhumanity That Is Glorified</h3>
+          <p>
+            Consider Jallikattu, a bull-taming sport of Tamil Nadu. 23 humans and countless numbers of bulls were killed during 2008-2017. Before events, the bulls are frequently mistreated: twisted tails, chilies in the eyes, a broken spine, and whatnot.
+          </p>
+          <p>
+            These constant practices are indications of a systematic inability to pull tradition and animal welfare in unison. Brutality is ignored because of cultural pride where people do not want to forget it even in situations where there is no contribution to that activity done especially by influential groups.
+          </p>
+          <p>
+            I have watched viral videos that are soon enough forgotten by the people; such is the case of a Pomeranian that is thrown off an eighth floor in Delhi: the owner gets to repay his karma by feeding dogs in the shelter, and nothing serious happens to the aggressor.
+          </p>
+          <h3>The Importance of Reporting</h3>
+          <p>
+            In absence of the data, there is no accountability: NCRB does not include animal cruelty data in its annual data of crime reports. Fines imposed under PCA Act had increased marginally since the year 1960 (10 to 50 Rupees). In draft amendments, fines of up to 75,000 rupees or imprisonment is proposed, however, they are still pending.
+          </p>
+          <p>
+            This emptiness propagates savagery. Small payments are paid by offenders and streets are not safe for animals. Even worse, more aggression and human-animal conflict are created in inhumane environments. The cost of compassion will not always be cheap.
+          </p>
+          <p>
+            I am not writing as an animal lover but as a person who feels that the value of a country is by how it treats its weakest members. Every unreported case eats away at our nationwide mind. Empowering the citizens to do more to help besides domesticating animals at home which is just— 72% care, 15% act. Now I think it is possible for you to forget about that cute pet on Instagram and consider the ugly truth: thousands of animals suffer in silence. We have got to insist on justice—not merely their justice, but our justice, the kind of society we want to be a part of.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/abuse.jpeg",
+    author: authors.find(a => a.username === "hetal-kothari")!,
+    category: "Society & Culture",
+    date: "2025-07-01",
+    readTime: "8 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: [
+      "Animal Welfare",
+      "India",
+      "Society",
+      "Law",
+      "Culture",
+      "Reporting",
+      "Justice"
+    ],
+    featured: false,
+    isPublished: true
+  },
+  {
+    id: "50-years-since-the-death-of-democracy",
+    title: "50 Years Since ‘The Death of Democracy’",
+    slug: "50-years-since-the-death-of-democracy",
+    excerpt: "A half-century after the Emergency, India still grapples with the shadows of suspended rights, mass imprisonments, and the silencing of dissent. What lessons remain for our democracy?",
+    content: `
+      <div class="article-content">
+        <section>
+          <p>
+            June, 1975, Chanderwati, a middle-aged woman, was shot twice in the head. Her body was never seen by her kin, nor was the reason for her death declared by authorities. Raju, a young boy, arrested from residence by the police without a warrant, killed during investigation because he couldn’t bear the reckless beating and torture.
+          </p>
+          <p>
+            These are just two cases, how do we know of them? Because their kin endured, to know where their loved ones went, how they left their homes — or in some cases, how they never even stepped out, yet never returned. Lakhs of other kins couldn’t endure as much and the atrocities were systematically shushed. Chandrawati’s postmortem was declared 42 years after her death, till then, it was just ‘natural death’.
+          </p>
+          <p>
+            How is it relevant? What is it that we are referring to here? We are talking about the National Emergency declared by then Prime Minister Smt Indira Gandhi which completes its 50th anniversary this year. And no, this time it’s not Emergency ka Amrit Mahotsav, but a reminder of what should NOT happen in a democracy.
+          </p>
+          <h3>ANALYSING WHAT REALLY HAPPENED: Commissions Don’t Lie, but Governments Do</h3>
+          <p>
+            When one googles the reason, the first computer generated output that comes on screen is that the emergency was imposed due to internal disturbances and ‘imminent threat’ to India, but a closer, magnified look narrates a completely different story.
+          </p>
+          <p>
+            In early 1970s, the famous JP movement or complete revolution movement arose, led by a semi-retired Jayaprakash Narayan, demanding for the fall of the Indira regime and accusing her of electoral malpractice. A case was filed, and the general aspiration was that it will be silenced after sometime, which has been a kind of norm in the Indian Judiciary, no one ever knows where cases go, but the tables were about to be turned. On June 12, 1975, Justice Jagmohanlal Sinha of the Allahabad High Court held Madam Prime Minister guilty of electoral malpractices.
+          </p>
+          <p>
+            The political pressure on Justice Sinha was so intense, the Indian Express reports, that he had locked himself days before the verdict was to be delivered and that he had prepared two judgements, opposite in nature so that even if the judgements were leaked, it was the wrong one that reached the Lordship’s eye.
+          </p>
+          <p>
+            Although the High Court banned her from contesting for six years, she was allowed to hold her post as the PM but was barred from voting in the Parliament. This led to so much nerve being pinched, that Smt Gandhi declared internal disturbance as prevalent and with a President who listened to what the PM wanted, on 25th June, 1975, the President declared national emergency exercising article 352 and citing ‘internal disturbance’ as the cause of declaration.
+          </p>
+          <h3>WHAT DID THE EMERGENCY BRING WITH IT?</h3>
+          <h4>SUSPENSION OF RIGHTS:</h4>
+          <p>
+            Okay, the emergency was imposed, there must be some threat, so what?
+          </p>
+          <p>
+            On June 27th, articles 358 and 359 were brought into action. What this meant was suspension of Articles 14, 19, 21 and 22, simply put, the rights to equality, freedom of speech, life, and equality before law. In short, a citizen was stripped of every right they had to protect themselves in their own homeland, exposing them to a multitude of hazards, law itself was one. One could not speak against the authorities, against any discrimination faced, could not seek the court as the guardian of their rights, could not claim any rights under article 21 i.e. right to life, also, the court was also not bound anymore to treat citizens equally, giving the already corrupt and irritated administration an opportunity, to treat anyone as the lordship pleased.
+          </p>
+          <blockquote>
+            <p>
+              In words of the then Additional Solicitor General of India, Shri Fali S. Nariman,<br/>
+              “In those dark days, with informers around, you only spoke within hearing of others, when you had to.”
+            </p>
+          </blockquote>
+          <h4>MASS IMPRISONMENTS:</h4>
+          <p>
+            Again, some rights were suspended because the state was in emergency, so what?
+          </p>
+          <p>
+            Readers, the state was in emergency for 21 months! Not a day or two. What happened due to that suspension is the next point.
+          </p>
+          <p>
+            With suspension of fundamental rights in place and the overuse of Maintenance of Internal Security Act (MISA), the government went haywire! Close to 35,000 people were arrested ‘to maintain internal security’! Now, would it have been possible if one’s rights were in place and one could challenge or at least prove their innocence? What they did was to deprive a person of every possible straw and then plunged them into an ocean of any and every misery.
+          </p>
+          <p>
+            The Shah Commission’s report tells stories unheard at that time, as of 1 January 1975, Indian jails housed 2,20,146 prisoners against a capacity of 1,83,369! Among them, 1,26,772 were under-trial prisoners.
+          </p>
+          <p>
+            These mass imprisonments included not only the general public, but also leaders of the opposition, weakening their stance in parliament and burning down the rival train (metaphor intended). Among the arrested were the likes of Jayaprakash Narayan, Morarji Desai, Atal Bihari Vajpayee, L.K. Advani, all-in-all, every opposition player that could weaken this unwanted imposition of emergency.
+          </p>
+          <h4>THE FOURTH PILLAR OF DEMOCRACY:</h4>
+          <p>
+            To deny dissent is to deny democracy altogether. The emergency first struck the media, the fourth pillar of democracy. It was rather an attempt to demolish the pillar altogether.
+          </p>
+          <p>
+            What came with the emergency, was horrendous control over the media houses with the government controlling what the media could publish and what it couldn’t. This was a time when the Indian Express, for the first time in its history, published with a blank front page and editorial in protest against the stringent and unjust regulations over media.
+          </p>
+          <p>
+            Power supply to newspaper offices in Delhi was cut off during the early days of censorship enforcement and newspapers were labelled as ‘friendly’, ‘neutral’ or ‘hostile’ based on their editorial stance and coverage.
+          </p>
+          <p>
+            The statutory watchdog, the Press Council of India was abolished altogether, leaving complete control to the government, so much so that the editors had to get government clearance before getting anything published [PIB].
+          </p>
+          <h4>MASS STERILISATION PROGRAMMES:</h4>
+          <p>
+            The Shah Commission stated that 1.07 crore sterilisations had been conducted nation-wide as a part of a population control programme, which was not a requirement, it was 1975, wake up!
+          </p>
+          <p>
+            The Indian Express reports that to complete their ‘targets’, officials often conducted these sterilization drives on very young men and even those well beyond the upper age threshold of 55. The commission also reported 1,774 deaths linked to the procedures.
+          </p>
+          <h3>WHAT DO WE TAKE AWAY?</h3>
+          <p>
+            Fifty years have flown by, but the shadows of the Emergency still loom over our democratic institutions. What was done under the guise of “internal disturbance” was, in truth, a systematic dismantling of rights, voices and dissent. It wasn’t just 21 months of injustice or legislative control, it was a mirror held up to the fragility of freedom. And while leaders changed, and decades rolled on, have the structures of unchecked power truly been dismantled? Can we say with certainty that dissent today is met with dialogue, not suppression? Are we, as a nation, more vigilant, or merely more distracted? These are not just questions for historians, they are questions for every citizen who still believes in the promise of a democracy that listens, protects, and never forgets.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/emergecy.jpeg",
+    author: authors.find(a => a.username === "atulit-pandey")!,
+    category: "Politics & History",
+    date: "2025-07-30",
+    readTime: "9 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: [
+      "Emergency",
+      "Democracy",
+      "India",
+      "History",
+      "Civil Rights",
+      "Media",
+      "Politics"
+    ],
+    featured: false,
+    isPublished: true
   }
 ];
 
