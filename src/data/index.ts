@@ -5526,7 +5526,7 @@ export const articles: Article[] = [
     image: "/emergecy.jpeg",
     author: authors.find(a => a.username === "atulit-pandey")!,
     category: "Politics & History",
-    date: "2025-07-30",
+    date: "2025-07-01",
     readTime: "9 min read",
     views: 0,
     likes: 0,
@@ -5539,6 +5539,239 @@ export const articles: Article[] = [
       "Civil Rights",
       "Media",
       "Politics"
+    ],
+    featured: false,
+    isPublished: true
+  },
+  {
+    id: "not-like-other-girls-babe-i-was-just-misguided",
+    title: "Not Like Other Girls? Babe, I Was Just Misguided.",
+    slug: "not-like-other-girls-babe-i-was-just-misguided",
+    excerpt: "A personal journey from internalized misogyny to embracing girlhood, pink, and the power of being 'like other girls.'",
+    content: `
+      <div class="article-content">
+        <section>
+          <h2>1. I Thought I Was Different (I Was Just Brainwashed)</h2>
+          <p>
+            For a large part of my teen life, I thought I was built differently. And by “different,” I mean not like other girls. You know the line — the one used in Wattpad bios, boy compliments, and mildly toxic friendships: “You’re not like other girls.”
+          </p>
+          <p>
+            And I? I took that and ran with it like it was a Nobel Prize.
+          </p>
+          <p>
+            I thought pink was embarrassing, crushes were for people with nothing better to do, and girl groups were chaotic emotional black holes full of drama, selfies, and people who cared too much about K-pop and Kajal.
+          </p>
+          <p>
+            At one point, I literally felt like a plan wasn’t “fun” unless there were guy friends involved. All-girl plans? Emotion. Chatter. Feelings. Ew. I’d romanticised being “one of the boys” without realising I was slowly building my identity out of everything I wasn’t — and that “wasn’t” was always other girls.
+          </p>
+          <p>
+            And I felt proud of this. Like somehow, I had hacked femininity. Skipped the line. Outsmarted the clichés. Turns out, I had just deeply internalised misogyny in a super aesthetic way.
+          </p>
+          <h2>2. Girlhood Was My Villain Origin Story</h2>
+          <p>
+            Let’s talk about the symptoms.
+          </p>
+          <p>
+            I rolled my eyes at girls who cried over boys. I was allergic to pink. I believed girls who wore eyeliner in 9th grade were “trying too hard.” And God forbid someone got too close to my male friends — the audacity! I had worked hard for that male validation.
+          </p>
+          <p>
+            Also, dating? Never tried it. Not because I didn’t have crushes (I did, and they were intense enough to fuel an entire Taylor Swift album), but because I had convinced myself that having a crush made me weak. Made me basic. Made me… “just like other girls.”
+          </p>
+          <p>
+            And we couldn’t have that, now could we?
+          </p>
+          <p>
+            Even today, when I catch myself liking someone, a small, stubborn part of me still flinches. Like my brain's screaming: Abort mission! Feelings are for the weak! It’s embarrassing. I’m working on it.
+          </p>
+          <p>
+            But what’s wild is, while I was trying so hard not to be “that girl,” I didn’t even realise what kind of girl I was turning into — one who was scared of softness, scared of bonding, and low-key gatekeeping male attention like it was limited edition.
+          </p>
+          <p>
+            And I wasn’t the only one. My friend recently told me how she struggled with feeling feminine enough in her body growing up. She didn’t have curves and always felt like her body wasn’t "woman" enough — like she had missed the deadline to develop the right way. So while I was running away from femininity, she was chasing it, both of us thinking we were broken in different ways.
+          </p>
+          <p>
+            Isn’t it funny (read: tragic) how girlhood is made to feel like a trap no matter where you stand?
+          </p>
+          <h2>Redemption Arc: I Like Pink Now</h2>
+          <p>
+            At some point between 17 and 18, something in me snapped — in a good way.
+          </p>
+          <p>
+            Maybe it was burnout. Maybe feminism finally made it to my bloodstream. Or maybe I was just tired of pretending I didn’t want to be hugged by a girl group and cry over pretty men dancing in crop tops.
+          </p>
+          <p>
+            Because plot twist: I became a SEVENTEEN stan. Yes. Thirteen men. One group. Zero skips.
+          </p>
+          <p>
+            These men — in glittery jackets and emotionally charged lyrics — somehow helped me reclaim parts of myself I’d buried out of shame.
+          </p>
+          <p>
+            I used to mock K-pop fans (secretly, obviously), but now? I will square up for my boys. SEVENTEEN didn’t just heal my playlist — they healed my inner teenager who thought softness was lame and crying over men was weak.
+          </p>
+          <p>
+            Turns out, it's not weak to feel. It's ✨sexy✨. It's revolutionary.
+          </p>
+          <p>
+            And honestly? If loving K-pop makes me "like other girls," then hand me a lightstick and glitter eyeliner because I’m all in. Also, pink? Freaking iconic. I wear it. I rock it. I feel powerful in it.
+          </p>
+          <p>
+            So what if I match my notebook, earrings, and soul in one color scheme? At least I’m coordinated.
+          </p>
+          <p>
+            I also now spend more time with girls, and wow — girls are deliciously chaotic in the best way. There's unmatched comfort in discussing skincare, boy problems, and intergenerational trauma over aloo patties. 10/10, would recommend.
+          </p>
+          <p>
+            I only have one male friend now, and I don't treat him like a trophy anymore. He’s cool. He listens. But he doesn’t define me. I’m not here for boy validation. I’m here for healing, hotness, and Hoshi’s fancams.
+          </p>
+          <p>
+            I still feel awkward when I have a crush, yes. But now, I treat it like a high school musical subplot, not a crime against feminism. I romanticize things. I cringe. I overanalyze eye contact. I suffer — but in a hot way.
+          </p>
+          <p>
+            Because being soft is no longer my enemy. Being "like other girls" is no longer my fear. It's my superpower.
+          </p>
+          <h2>Epilogue (Because I’m Dramatic Like That)</h2>
+          <p>
+            You know what’s truly basic? A system that trains girls to fight each other for scraps of approval.
+          </p>
+          <p>
+            The whole “not like other girls” thing is just another cage — a prettier one, with better lighting, but a cage nonetheless. It keeps us isolated, insecure, and constantly performing a version of ourselves that isn’t real.
+          </p>
+          <p>
+            So here’s the truth: I am like other girls. And that’s the best thing about me.
+          </p>
+          <p>
+            Because other girls are bold, brilliant, chaotic, loving, layered, angry, healing, messy, magical, and real.
+          </p>
+          <p>
+            So if anyone ever tells you “you’re not like other girls,” just smile and say: “Thank God I am.”
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/not.jpeg",
+    author: authors.find(a => a.username === "manasvi-srivastava")!,
+    category: "Features",
+    date: "2025-07-02",
+    readTime: "8 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: [
+      "Girlhood",
+      "Feminism",
+      "Personal Essay",
+      "Identity",
+      "Misogyny",
+      "K-pop",
+      "Redemption"
+    ],
+    featured: false,
+    isPublished: true
+  },
+  {
+    id: "the-oscar-bait-industrial-complex",
+    title: "The Oscar-Bait Industrial Complex",
+    slug: "the-oscar-bait-industrial-complex",
+    excerpt: "Why today’s most “important” films feel like homework—and what we’re losing in the process.",
+    content: `
+      <div class="article-content">
+        <section>
+          <p>
+            There’s a peculiar silence that follows the end of a prestige film - the kind reserved for funerals, or homework you’re proud to have completed.<br/>
+            It’s not the stunned, breathless silence that trails something breathtaking. A silence born not of awe, but of reverence—of obligation. The kind of hush we offer after seeing something we’re told is good, something we’re expected to admire.<br/>
+            This is the paradox of the Oscar-bait era: our most awarded films rarely move us. They press on us, heavy with historical pain, moral correctness, and visual austerity, but leave behind little but a vague sense of dutiful applause.<br/>
+            Every awards season, the world’s most lauded cinema is not the most alive, the most inventive, or even the most watched—it is the most morally dressed. These movies don’t want to be loved; they want to be respected. And if you don’t like them, clearly, you didn’t try hard enough.
+          </p>
+          <h3>Act One: The Performance of Prestige</h3>
+          <p>
+            In 2024, Oppenheimer swept the Oscars like a dutifully well-dressed valedictorian. Yes, Nolan’s film was technically stunning. Yes, it had scale. But at its core, it was a three-hour exercise in High Seriousness, where men explain war to each other in oak-paneled rooms and women are reduced to psychiatric shadows.<br/>
+            Cue: Florence Pugh naked and sad.<br/>
+            Cue: Cillian Murphy in profile, thinking.<br/>
+            Cue: a scene where someone says, “This will change the world.”<br/>
+            Hollywood’s idea of prestige these days? Men with tortured legacies and women with piano music playing softly behind them.<br/>
+            And Hollywood isn’t alone.
+          </p>
+          <h3>Act Two: The Bollywood Awards-ification</h3>
+          <p>
+            2024-25 has seen an unsettling trend in Indian cinema: the rise of the “festival film” that plays more like an application to Cannes than a movie. Let’s name names.
+          </p>
+          <p>
+            <strong>Ae Watan Mere Watan</strong><br/>
+            A perfectly packaged tale of radio and rebellion, Sara Ali Khan’s earnest patriot in Kannan Iyer’s period piece ticks every festival box. It is historically reverent, politically risk-averse, and visually sepia-toned. The suffering is aesthetic. The rage is filtered.<br/>
+            “It’s the kind of nationalism that smells like sandalwood and cries once an hour,”—heard in whispers.
+          </p>
+          <p>
+            <strong>The Sabarmati Files</strong><br/>
+            A 2025 release that tried to walk in the footsteps of The Kashmir Files, but without the venom or viral bite. Pain is staged. Violence is implied. Everyone emotes, but no one feels.<br/>
+            It wants to win an award, not an argument.
+          </p>
+          <p>
+            <strong>Ae Mere Dil ke Ashkon</strong><br/>
+            (Coming soon to your closest jury festival)<br/>
+            You haven’t heard of it yet, but rest assured, it has a single-take rape scene, a blind girl with an iPad, and at least one monologue about freedom. It will win Best Film (Human Rights) somewhere like Busan or Tallinn. You heard it here first.
+          </p>
+          <h3>Act Three: The Math of Manipulation</h3>
+          <p>
+            There’s a formula.<br/>
+            Take a trauma (Partition, caste, cancer, colonialism)<br/>
+            Add an underdog (preferably mute, blind, or oppressed)<br/>
+            Shoot in natural light<br/>
+            Cast someone “de-glam” (this year: Bhumi Pednekar in mud)<br/>
+            Title it in Urdu or Latin<br/>
+            Submit to Sundance
+          </p>
+          <p>
+            These aren’t bad stories. But too often, they’re delivered as mandatory virtue projects, not lived experiences. Art made not for catharsis, but for red carpet. Prestige cinema is terrified of spontaneity. It doesn't trust the audience to laugh and still care. It doesn’t believe that truth can arrive in colour, or catharsis in chaos.
+          </p>
+          <h3>Act Four: The Guilt in Pleasure</h3>
+          <p>
+            And so somewhere along the way, we learned to apologize for joy.<br/>
+            Loving a film that’s bright, funny, or wildly entertaining now requires a qualifier: “It’s my guilty pleasure.” As if pleasure, on its own, needs to be excused. In this language, joy is frivolous. Whimsy is immature. Irony is dangerous.<br/>
+            You hear it all the time. People whisper their affection for Barbie or Badrinath ki Dulhania like they’re confessing sins simply because they dared to be emotionally accessible.<br/>
+            This is the fallout of prestige culture: it’s not enough to enjoy something. You have to suffer for it. Cinema that’s colorful, commercial, or comfortingly human is seen as unserious, unless wrapped in trauma or trimmed in grayscale.<br/>
+            So we shame joy. We reward austerity. And we forget that art doesn’t need to hurt to matter.
+          </p>
+          <h3>So What About the Fun Stuff?</h3>
+          <p>
+            <strong>Barbie</strong> - too pink, too playful, too busy making jokes about the patriarchy to win Best Picture.<br/>
+            <strong>Darlings</strong> - too dark, too domestic, too feminist for comfort.<br/>
+            <strong>The Worst Person in the World</strong> - too messy, too real, too unwilling to resolve neatly.<br/>
+            <strong>Laapataa Ladies</strong> - too rural, too witty, too feminist.<br/>
+            <strong>12th Fail</strong> - too honest, too simple, too unpolished.<br/>
+            <strong>Heropanti 2</strong> - okay, just bad. Even Oscar-bait needs limits.
+          </p>
+          <p>
+            When awards season ends, what’s left is not excellence but exhaustion. A string of films that made you feel bad, slow, and vaguely guilty for checking your phone.
+          </p>
+          <h3>Finale: What Pauline Kael Knew</h3>
+          <p>
+            Pauline Kael, high priestess of cine-snark, once wrote, “When we champion ‘art,’ we may be forgetting that what movies offer at their best is kinetic joy.”<br/>
+            She hated pretension. She hated moral piety. She liked films that bled, breathed, and broke rules.<br/>
+            We now live in the opposite world—where films beg to be graded like essays. Where watching feels like enduring. Where Oscar season (and its Mumbai mimic) is a mausoleum of meaning.<br/>
+            “Award-winning” should not be a synonym for “emotionally manipulative.”<br/>
+            Until we give up the cult of respectable cinema, we’ll keep applauding the same beige, brooding films over and over. And the only people truly thrilled by that? The ones holding the trophies—or those whose entire personality hinges on being the kind of person who “only watches classics.”<br/>
+            <br/>
+            <em>-Editor-in-chief typing free of guilt who still believes movies should move before they moralize.</em>
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/oscar.jpeg",
+    author: authors.find(a => a.username === "shumaila-khan")!,
+    category: "Arts & Culture",
+    date: "2025-07-02",
+    readTime: "7 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: [
+      "Oscars",
+      "Cinema",
+      "Film Criticism",
+      "Bollywood",
+      "Hollywood",
+      "Awards",
+      "Culture"
     ],
     featured: false,
     isPublished: true
