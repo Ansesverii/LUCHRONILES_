@@ -5775,6 +5775,187 @@ export const articles: Article[] = [
     ],
     featured: false,
     isPublished: true
+  },
+  {
+    id: "women-in-charge-peace-data",
+    title: "Women in charge could mean less war – And the data backs it up!",
+    slug: "women-in-charge-could-mean-less-war-and-the-data-backs-it-up",
+    excerpt: "A growing body of research shows that more women in leadership means more peace, less conflict, and a new vision for global power.",
+    content: `
+      <div class="article-content">
+        <section>
+          <p>
+            "War is a man’s game," the adage goes, and unfortunately, history often proves it right. But what if we flipped the script? What if women, more often than not, held the reins of power globally? A growing body of research suggests that increased female leadership correlates with more peaceful societies. I believe this conversation is more than just about gender parity in leadership; it's about reimagining a future that prioritizes diplomacy, care, and collaboration over aggression and dominance.
+          </p>
+          <p>
+            Contrary to popular stereotypes that leadership requires 'aggression' and ‘toughness,’ studies show that female leaders often rely more on dialogue, compromise, and community-based problem-solving, all of which are essential for peace.
+          </p>
+          <p>
+            India, a country of over 1.4 billion, has witnessed the power of women in its freedom movement, governance, and grassroots activism. Yet, leadership, especially in politics and conflict resolution, remains overwhelmingly male-dominated. I believe the question isn't "Can women lead?" but rather "What happens when they do?" Globally and locally, the evidence suggests a clear answer: having more women in power leads to more peace.
+          </p>
+          <p>
+            India, like many other nations, faces internal conflicts from insurgency in the Northeast to communal tensions, gender-based violence, and political polarization. In such a context, empowering women in leadership is not just a gender issue; it's a peace strategy.
+          </p>
+          <h3>The Evidence: More women leaders, lower Conflict rates</h3>
+          <ol>
+            <li>
+              <strong>Liberia: Ellen Johnson Sirleaf’s Peace Legacy</strong><br/>
+              Ellen Johnson Sirleaf became Africa's first elected female head of state in 2006, taking over a country torn by 14 years of civil war. Under her leadership, Liberia saw substantial recovery, demobilization of armed groups, support for women's peace movements like the Women of Liberia Mass Action for Peace, and the creation of institutions promoting good governance. The country stabilized significantly, and Sirleaf was awarded the Nobel Peace Prize in 2011 for her non-violent struggle for women’s safety and rights.
+            </li>
+            <li>
+              <strong>Rwanda: Women in Parliament Post-Genocide</strong><br/>
+              After the 1994 genocide, Rwanda rebuilt its political framework by heavily involving women. Today, Rwanda has the highest percentage of women in parliament in the world — over 60%. A study by the Council on Foreign Relations found that this inclusive governance model has contributed to improved social harmony and a consistent reduction in internal conflicts. Women leaders prioritized health, education, and social reconciliation, which are critical for lasting peace.
+            </li>
+            <li>
+              <strong>New Zealand: Jacinda Ardern’s Crisis Management</strong><br/>
+              Though New Zealand isn't war-torn, Jacinda Ardern's leadership during the Christchurch terror attack and the COVID-19 pandemic demonstrates how a feminine approach to leadership marked by empathy, clarity, and inclusion can maintain national unity in turbulent times.
+            </li>
+            <li>
+              <strong>India: In Manipur, Women-Led Civil Rights Groups</strong><br/>
+              The Meira Paibi (Women Torchbearers) have played a historic role in non-violent protest and community peacekeeping. In Kashmir, for example, Mehbooba Mufti was the first woman CM of Jammu & Kashmir and, despite criticism, advocated for dialogue over military action. Though her political legacy is complex, her approach signals a shift from guns to governance.
+            </li>
+          </ol>
+          <h3>Gender Equality Does Lead to Peace: Says the Data</h3>
+          <p>
+            A 2015 study by the ‘Institute for Economics and Peace' revealed a positive correlation between gender equality and peacefulness. Countries that scored higher on gender equality indices were far less likely to be involved in violent conflict.
+          </p>
+          <p>
+            In India, although women make up nearly half the population, they account for only around 15% of Lok Sabha MPs and just over 10% of state legislators. Peace and equality go hand in hand, so when women are missing from the decision-making table, so is their capacity to negotiate for peace, justice, and inclusion.
+          </p>
+          <p>
+            The Georgetown Institute for Women, Peace and Security maintains a global index ranking countries by women's inclusion, justice, and security. The top-ranking countries, such as Norway, Switzerland, and Finland, also rank among the most peaceful and stable nations globally, with minimal military engagement.
+          </p>
+          <h3>Govern With Heart: How Women’s Emotions Can Transform Power and Peace</h3>
+          <p>
+            <strong>Women Govern Differently</strong><br/>
+            Studies in political psychology and sociology suggest women are socialized to value relationships, consensus, and long-term thinking. These traits aren't weaknesses; they're strengths when it comes to de-escalating conflict and creating durable peace. Men, on the other hand, are often taught to see strength through control, even aggression, traits that have historically dominated warfare and colonization.
+          </p>
+          <p>
+            When women gain access to power, they often invest more in human welfare, healthcare, and education—foundations of peaceful societies. For instance, research published in the American Journal of Political Science found that women legislators in the U.S. sponsor and co-sponsor more bills related to health and education, areas indirectly connected to reducing social tensions and violence.
+          </p>
+          <h3>Feminism's Role in Peacebuilding</h3>
+          <p>
+            Let’s be clear, it isn’t about tokenism. Feminism demands systematic transformation and inclusion.<br/>
+            Feminism isn’t just about representation, it’s about restructuring power. A feminist perspective questions the glorification of military power and embraces non-violent resistance, intersectionality, and restorative justice. The feminist peace movement from Leymah Gbowee in Liberia to grassroots groups in Colombia has historically played critical roles in negotiating ceasefires and rebuilding post-conflict societies. True feminism isn’t about an individual woman rising in a male-dominated structure; it’s about restructuring the system to include everyone, especially the most marginalised.
+          </p>
+          <p>
+            I see women’s leadership as essential, not just for equality, but for global survival. Climate crises, refugee movements, and cyber warfare all demand leadership that is empathetic, globally cooperative, and peace-oriented, and women have shown they can deliver.
+          </p>
+          <h3>Challenges and Roadblocks</h3>
+          <p>
+            Despite the data, women remain vastly underrepresented in peace processes and political leadership. The road to actual change is riddled, especially in a country as diverse as India. As of 2024, women made up only 26% of national parliamentarians globally and less than 15% of peace negotiators. The political class often sees gender empowerment as a check box, not a necessity. This underrepresentation isn’t due to a lack of talent; it's the result of systemic barriers, patriarchal institutions, and the masculinization of leadership. A woman in public life is judged more harshly than a man for her clothing, speech, assertiveness, and choices. Those who break these norms, especially outspoken feminists or activists, are labelled as “aggressive”, “anti-national”, or “characterless”. This societal policing discourages many young girls from even dreaming of political or leadership roles.
+          </p>
+          <h3>Conclusion</h3>
+          <p>
+            The world has given war a chance for millennia. Statistically and philosophically, women in power tend to steer away from conflict and toward inclusion, negotiation, and peace.<br/>
+            So, if we want a more peaceful future, the answer isn’t just more women in power; it’s building systems that embrace feminist leadership values.<br/>
+            Because peace is not passive, it is a powerful, intentional choice. And women, time and again, have shown they’re ready to lead the way. Let’s stop asking women to lead “like men”. Let’s start asking the world to value the way women lead – with heart, with healing, and with hope.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/arti.jpeg",
+    author: {
+      name: "Member of Femcore",
+      designation: "Member of Femcore"
+    },
+    category: "Features",
+    date: "2025-07-03",
+    readTime: "8 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: [
+      "Women Leaders",
+      "Peace",
+      "Feminism",
+      "Conflict Resolution",
+      "Gender Equality",
+      "Politics",
+      "Society"
+    ],
+    featured: false,
+    isPublished: true
+  },
+  {
+    id: "books-that-feel-like-rain-july-reading-mood",
+    title: "Books That Feel Like Rain: A July Reading Mood",
+    slug: "books-that-feel-like-rain-july-reading-mood",
+    excerpt: "Seven books that match the gentle, reflective rhythm of July—stories to keep you company like a rainy afternoon.",
+    content: `
+      <div class="article-content">
+        <section>
+          <p>
+            July doesn’t come crashing in — it drifts gently, just like the first drizzle on dry ground. There’s a stillness to this month that feels both comforting and nostalgic. The skies grow quieter, the air thickens with memory, and somehow, even our emotions feel more tender. Whether you’re walking under cloudy skies or watching the raindrops blur your windowpane, July invites you to slow down — to pause, feel, and simply be.
+          </p>
+          <p>
+            This is the season of soft music, warm drinks, and the kind of books that speak more to the heart than the mind. You know the kind, stories that don’t rush, characters who linger, and words that hold space for silence. Books that feel like rain: steady, calming, sometimes a little heavy, but always welcome.
+          </p>
+          <p>
+            Here are seven reads that match the quiet rhythm of July and offer the same kind of companionship as a rainy afternoon spent with your thoughts.
+          </p>
+          <ol>
+            <li>
+              <strong>Norwegian Wood – Haruki Murakami</strong><br/>
+              This book doesn’t try to impress — it simply sits with you. Murakami captures the ache of love and loss in a way that feels deeply personal. It’s quiet, even a little haunting, but incredibly real. Like a slow, consistent rain that lets you think, feel, and remember, Norwegian Wood doesn’t demand anything from you — it just stays.
+            </li>
+            <li>
+              <strong>The God of Small Things – Arundhati Roy</strong><br/>
+              Set in lush, rain-kissed Kerala, this novel doesn’t just talk about monsoon, it lives inside it. The language flows like water, rich and poetic. The story is layered with memory, pain, and forbidden love — elements that quietly echo throughout its pages. It’s the kind of book that seeps in gradually, much like the scent of wet earth after a long shower, heavy, familiar, and impossible to forget.
+            </li>
+            <li>
+              <strong>Before the Coffee Gets Cold – Toshikazu Kawaguchi</strong><br/>
+              Inside a small café in Tokyo, people can time travel, but only under one condition: they must return before the coffee cools. This book is soft-spoken, yet deeply touching. It reflects on things we wish we’d said, moments we’d relive, and the courage to let go. Just like rain on a slow afternoon, it’s gentle, nostalgic, and quietly magical.
+            </li>
+            <li>
+              <strong>A Man Called Ove – Fredrik Backman</strong><br/>
+              Ove starts off as the neighborhood grump, but there’s so much more underneath. As his story unfolds, it brings unexpected warmth and laughter, like sunlight breaking through a stormy sky. This book reminds you that people carry stories they never tell, and sometimes, love comes wrapped in the most unusual packaging.
+            </li>
+            <li>
+              <strong>Eleanor Oliphant Is Completely Fine – Gail Honeyman</strong><br/>
+              Eleanor is alone, misunderstood, and stuck in routine, until life slowly opens her up. Her story is about healing, connection, and learning how to be seen. It echoes the stillness before a storm and the gentle pouring that follows — quiet at first, but deeply transformative. It reminds us that not all healing is loud, and not all loneliness is visible.
+            </li>
+            <li>
+              <strong>The Night Circus – Erin Morgenstern</strong><br/>
+              A love story hidden inside a magical circus that only opens at night, this book is pure atmosphere. It feels like walking through a foggy evening with wonder in the air. The writing is lush, the pacing dreamy, and the world within it utterly spellbinding. Perfect for when you want to escape into something slow, surreal, and softly enchanting.
+            </li>
+            <li>
+              <strong>The Forty Rules of Love – Elif Shafak</strong><br/>
+              This novel moves between the modern world and the ancient friendship of Rumi and Shams. It explores love — romantic, spiritual, and divine — in a way that feels like a gentle unfolding. It’s thoughtful, soulful, and quietly stirring, like a soft rain that washes over everything you thought you knew.
+            </li>
+          </ol>
+          <h3>Final Thoughts: Let the Rain Choose Your Book</h3>
+          <p>
+            July brings more than just water from the sky; it brings space. Space to reflect, to remember, to recharge. These books won’t shout over the rain or compete with its quiet — they’ll simply sit beside you, page by page, like a soft voice in a silent room.
+          </p>
+          <p>
+            So let this month be slow. Let the rain fall and the words follow. Let these stories keep you company, not loudly, but meaningfully. After all, some of the most beautiful things in life arrive unannounced — just like a drizzle on an ordinary day, or a story that stays long after the last page.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/monsoon.jpeg",
+    author: {
+      name: "Muskan Srivastava",
+      designation: "Member of Bibliocore"
+    },
+    category: "Features",
+    date: "2025-07-03",
+    readTime: "6 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: [
+      "Books",
+      "Reading",
+      "Monsoon",
+      "Literature",
+      "Mood",
+      "Rainy Season",
+      "Recommendations"
+    ],
+    featured: false,
+    isPublished: true
   }
 ];
 
