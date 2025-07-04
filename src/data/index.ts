@@ -275,6 +275,18 @@ I'll be here, ready to ask the next why and learn from every conversation.`,
     categories: ["Arts & Culture", "Blogs"],
     articlesCount: 1,
   },
+  {
+    id: "18",
+    name: "Tanu Mohan",
+    username: "tanu-mohan",
+    image: "/ta.jpeg",
+    bio: "I'm Tanu Mohan, a curious student of chemistry and zoology with a passion for art, literature, and the quirks of life. When I'm not delving into the world of molecules and species, you can find me lost in a good book, experimenting with paints, or uncovering the fascinating history behind everyday things. I'm not afraid to speak my mind on societal issues, tackling tough topics with curiosity and conviction. Life's intricacies inspire me, and I'm always eager to explore, learn, and spark meaningful conversations.",
+    email: "",
+    designation: "Writer",
+    course: "B.Sc.",
+    categories: ["Science", "Arts & Culture", "Blogs"],
+    articlesCount: 0
+  },
 ];
 
 // Sample Articles
@@ -5953,6 +5965,162 @@ export const articles: Article[] = [
       "Mood",
       "Rainy Season",
       "Recommendations"
+    ],
+    featured: false,
+    isPublished: true
+  },
+  {
+    id: "her-choice-her-voice-reproductive-rights-indian-youth",
+    title: "Her Choice, Her Voice: Why Are Reproductive Rights So Necessary for Indian Youth",
+    slug: "her-choice-her-voice-reproductive-rights-indian-youth",
+    excerpt: "A deep dive into why reproductive rights are not just ideals, but urgent, personal, and revolutionary necessities for India's 365 million youth—especially young women.",
+    content: `
+      <div class="article-content">
+        <section>
+          <p>
+            Discussions on reproductive rights in the largest democracy in the world are muted, tainted with stigma, and tend to be touched by the presence of moral policing. But to the 365 million young people in India (about two-thirds of the country is under 25), these rights are no such ideals. They are individual, pressing, and revolutionary. Reproductive rights are associated with a right to contraception, safe abortion, sexual education, and freedom to choose one's body. Fighting to win these rights is like having a battle over dignity, equality, and freedom for young Indians, mostly women in India.
+          </p>
+          <h3>Reproductive Rights: Why they matter to us</h3>
+          <p>
+            Reproductive right, according to the World Health Organization (WHO), is the freedom of an individual to control the number and timing of their children responsibly. These rights are essential in the Indian situation where women are entrapped by expectations of society, gender roles, and pressures of family.
+          </p>
+          <p>
+            The right to abortion is vital for any individual woman to achieve their full potential. By banning abortion, women are put at risk by forcing them to use illegal abortionists. The right to abortion should be part of pregnancy rights that enables women to make a truly free choice whether to end a pregnancy or continue.
+          </p>
+          <p>
+            Access to reproductive health services is directly associated with education and activities, including career opportunities and mental health. When a young woman has the freedom of choice whether to have children or not, then she is more likely to get a proper education and join the workforce, and add value to society. Failure to give her this option sets her into a dependence cycle created by the patriarchal society.
+          </p>
+          <h3>Ground Realities in India</h3>
+          <p>
+            Safe abortion and contraception are not widely accessible, even though there are constitutional and legislative guarantees. Additionally, unmarried women and women in rural or disadvantaged groups cannot apply these general grants in practice.
+          </p>
+          <p>
+            The study conducted by the Guttmacher Institute in 2022 shows that almost half of all pregnancies in India are unintended, and every third pregnancy leads to abortion, many of which are unsafe. The label that is made up of premarital sex and the judgmental nature of healthcare providers tends to compel young women to take unsafe options at the cost of their lives and futures.
+          </p>
+          <h4>An example of real life: The Story of a college student</h4>
+          <p>
+            A 22-year-old college student in Delhi found herself pregnant after her partner was unable to use contraception correctly. She even went to a government hospital to have an abortion, but the personnel denied her any service, saying that it was their moral objection. Her family did not know about her relationship, and she went to an unlicensed clinic and requested help. The procedure resulted in critical health issues, and she spent weeks in the hospital. In a country where reproductive rights are legal, how can access still be denied on the grounds of personal belief?
+          </p>
+          <h4>Another real-life example: 10-year-old rape victim in Bihar</h4>
+          <p>
+            Another tragic story of 2023 is that 10-year-old girl in Bihar, impregnated following repeated rapes by a relative, was refused abortion in a local hospital. When the court proceedings started, her pregnancy was past the official legal limit of 24 weeks in the MTP (Medical Termination of Pregnancy) Act. The Supreme Court later got involved and permitted the termination on the grounds of mental and physical trauma to the child. The delay and system breakdown indicated how the legal and medical systems often do the most harm to the victims by adding to the pain of the most vulnerable.
+          </p>
+          <p>
+            These kind of cases indicate a dark truth: reproductive rights in India depend on moral considerations, bureaucracy, and legal uncertainty, even in rape and sexual violence situations.
+          </p>
+          <h3>How the youth is exercising their Freedom of choice</h3>
+          <p>
+            Policies don’t exist as something that the youth accepts as it is. It is the youth who make the changes. In India, the youth are organizing grassroots movements, internet campaigns, and legal petitions to campaign on reproductive justice.
+          </p>
+          <p>
+            As an example, YP Foundation, a youth organization in India, trains adolescents and young adults to support their sexual and reproductive rights. They have trained thousands of students spread across states with their message of knowing your body and knowing your rights through their campaign so that those who have been abused can speak out and get assistance without shame.
+          </p>
+          <p>
+            In the other instance, a 23-year-old woman applied in the court of Bombay High Court for permission to abort a 24-week fetus, and underwent the same in 2020 in Mumbai following abnormalities in the fetus. The case which ruled in her esteem established a valuable precedent regarding the right to reproductive choice and broadened the knowledge of maternal mental health.
+          </p>
+          <h3>Education and Policy Role</h3>
+          <p>
+            In India, sexuality education (CSE) is still a gap in the school program. In some cases, where it is managed, it is defanged and moralized. Not only does CSE help to prevent teenage pregnancies and sexually transmitted infections, but it also helps to establish respect and consent in relationships.
+          </p>
+          <p>
+            In addition, policy should be able to keep up with ground realities. The introduced amendment to the MTP Act in 2021 has stretched out the cut-off limit of abortion to 24 weeks for some categories, as positive, but remains an act subject to the approval of the medical boards, which tend to slow down the life-saving procedure. The youth advocates support the rights-based approach that allows the individual who wants an abortion to make the decision on their own.
+          </p>
+          <h3>Calling to Action</h3>
+          <p>
+            Medical access to reproductive rights encompasses human rights. Indian youth and women, during their autonomy formation, prioritize their ability to make significant and independent choices regarding their bodies. Prevention of unwanted pregnancies is not the only aspect, but this is a matter of taking control of their life, their choice, and their future.
+          </p>
+          <p>
+            We require radical policy changes, broad-based education, and attitude change to make sure that all young Indians can access reproductive health services without fear and stigma. She must be able to respect her choice and be heard, then we may say that we belong to a truly democratic and inclusive country.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/tanuu.jpeg",
+    author: authors.find(a => a.username === "hetal-kothari")!,
+    category: "Features",
+    date: "2025-07-04",
+    readTime: "7 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: [
+      "Reproductive Rights",
+      "Youth",
+      "India",
+      "Women's Health",
+      "Abortion",
+      "Policy",
+      "Education"
+    ],
+    featured: false,
+    isPublished: true
+  },
+  {
+    id: "equality-in-name-only-casteism-modern-india",
+    title: "Equality in name only: the truth behind casteism in modern day India",
+    slug: "equality-in-name-only-casteism-modern-india",
+    excerpt: "Despite claims that casteism is a thing of the past, everyday experiences and casual remarks reveal the persistent reality of caste-based discrimination in India.",
+    content: `
+      <div class="article-content">
+        <section>
+          <p>
+            Reservation? For what? Casteism doesn't exist now! In what era are you living? Sounds familiar? With reservation being the hot topic, people often throw these sentences around casually, but the truth is far from it.
+          </p>
+          <h3>My personal experience during my first year:</h3>
+          <p>
+            I would like to share two very personal instances that happened to me as a freshman.<br/>
+            Me and an acquaintance were having random conversation and suddenly the topic of reservation came up, but instead of stating facts like how reservation is taking away from the well-deserving (which is debatable), they said something along the lines of how these lower-caste people are undeserving and are less capable academically, they have less intellect since their ancestors did the dirty work, and once they got to know I am from these so-called lower castes, fingers were pointed directly at me, questioning my abilities and my worth.
+          </p>
+          <p>
+            The second instance happened with a friend; they, not knowing that I myself belong to these so-called "lower castes," called them murderers, "They have it in their blood, you know; they are born with this criminal mindset." I was furious, naturally, so we had a little banter, but that is in the past now.<br/>
+            And these are just two instances in a span of 6 months and that too among university students, literate people. Now imagine what a person goes through in small towns and villages.
+          </p>
+          <h3>Ignoring the complexities:</h3>
+          <p>
+            Ignoring the complexities of castes is always a privilege for “upper castes”. And this privilege often takes the form of “casual casteism”.<br/>
+            Casual casteism is when an “upper castes” person naturally assumes that they have every right to find faults in the “lower caste” person.<br/>
+            Whether it be the question “how did you get the job?” or “you have it easy since you belong to a quota”, these are all just some form of casual casteism. Public spaces often witness such remarks as Dalits are ugly, cannot speak correctly, do not get good marks, are not skilled in extra-curricular activities, are not smart enough to put up cultural performances, are backward, timid, awkward, incompetent and worthless. Casual casteism constructs caste stereotypes that normalise the everyday behaviour of the dominant castes and depict Dalits in poor light.
+          </p>
+          <h3>But reservation…:</h3>
+          <p>
+            Now the counter argument for every form of casteism is “Caste based Reservation”. The people from general category often put forward this argument that they could not get that government college seat, that job just because a person from reserved category got a seat or the job and that too at less marks than them. The statement does hold truth in some form, but it does not, in any form give justification for casteism in any form. And after all is said and done it all comes down to that “You cannot win a race if the starting line is not the same”.<br/>
+            A person from reserved category does not stand at the same place as a person from general category. They might have money but they do not have the same social circle, they do not have a privileged lineage and it might be a hard pill to swallow for some but they truly do not have the same respect in society.<br/>
+            Coming from an oppressed background their ancestors had no education, land, money so they had to work to their bones to get the same financial standing as the ancestors of a person of general category.
+          </p>
+          <h3>Casteism 2.0:</h3>
+          <p>
+            Casteism now might not be in the form of untouchability, but it is still prevalent in instances such as these. There is so much shame linked with castes that if you look around yourself, you will always find a Brahmin, Kshatriya, Rajput, etc. wearing their castes like a badge of honour. They carry it proudly in their surnames and even on the sticker at the back of their cars.<br/>
+            Why do you think it is? Because the people of India, no matter how literate they get, are not willing to give up on the hierarchy because they know that being on top is very comforting; it gives them power. So reservation may be the cause for you not getting a government seat, but you will never have to do manual scavenging to feed your family. You wouldn't feel shame in telling your surname; you had never and will never have to beg for representation in your own country, demand for acceptance in your own religion. What use is a temple to an "untouchable"? If God wanted them to pray, then he wouldn't have created this hierarchy from the beginning. What people from these reserved categories need is representation and respect. Which, sadly, the country and its people have failed to provide.
+          </p>
+          <p>
+            If casteism doesn't exist, then why do you have separate dishes for your house help? If casteism doesn't exist, then what about the "dirty work" that is forced upon a particular group of people despite being illegal? If casteism doesn't exist, then why is it proud to be a Rajput and not a Shudra? Why do you use the term "chamar" as a slur? If casteism doesn't exist, then why are inter caste marriages a social crime? If casteism doesn't exist, then why are there such vicious comments online? Think about it: at your table of conversation, how many times have you made a joke about caste? How many times have you proudly said that I am a Brahmin, a Rajput? Just because you don't see people walking with brooms attached to their backs and a pot of water hung from their necks doesn't mean that casteism does not exist.
+          </p>
+          <blockquote>
+            And as Dr. B.R. Ambedkar quotes: "The caste system is not a divine institution. It is a human institution, and it can be changed by human effort.” As humans we must strive to change, to bring about a reform, for caste system cannot be abolished by having internet caste marriages or by allowing a “shudra” into the temple. Caste is a state of mind and one can abolish caste system from society once they have abolished it from their minds.
+          </blockquote>
+        </section>
+      </div>
+    `,
+    image: "/artuc.jpeg",
+    author: {
+      name: "Tanu Mohan",
+      designation: "Member"
+    },
+    author: authors.find(a => a.username === "tanu-mohan")!,
+    category: "Features",
+    date: "2025-07-04",
+    readTime: "6 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: [
+      "Casteism",
+      "Equality",
+      "Reservation",
+      "Society",
+      "India",
+      "Personal Experience",
+      "Social Justice"
     ],
     featured: false,
     isPublished: true
