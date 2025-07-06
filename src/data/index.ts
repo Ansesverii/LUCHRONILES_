@@ -6321,6 +6321,219 @@ export const articles: Article[] = [
     ],
     featured: false,
     isPublished: true
+  },
+  {
+    id: "2025",
+    title: "2025",
+    slug: "2025",
+    excerpt: "The Playbook - A deep dive into Project 2025 and its implications for democracy, examining how authoritarianism manifests in both the Global North and South.",
+    content: `
+      <div class="article-content">
+        <section>
+          <h3>The Playbook</h3>
+          <p>
+            Let's begin not with a tweet or a riot, but with a pdf. It's 920 pages long, reads like a corporate mission statement ghostwritten by Machiavelli, and goes by a name only a Bond villain or a right-wing think tank could conjure: <strong>Project 2025: Mandate for Leadership</strong>. Officially, it serves as a transition guide for a hypothetical Republican presidency in the post-Biden era. Unofficially, it's a choose-your-own-adventure novel where democracy forgets how to read.
+          </p>
+          <p>
+            The document proposes, among other things, replacing career civil servants with values-aligned appointees, consolidating executive authority, and restoring what it terms "constitutional order" through a sweeping reinterpretation of federal power. As for the Department of Education? Well, let's say it might be wise to memorize the alphabet while it still exists. All while cloaked in the language of restoration: a return to "constitutional order," "parental rights," and "religious liberty." Naturally, the liberty in question is extremely selective.
+          </p>
+          <p>
+            But it's not just language. Project 2025 calls for dismantling civil service protections (via Schedule F), eliminating public sector unions, slashing climate and education programs, and giving the President direct control over the DOJ. The ACLU called it a "dystopian view of America." The Center for American Progress warned it would turn presidents into kings.
+          </p>
+          <p>
+            Authored by a coalition of over 50 right-wing organizations, including the Heritage Foundation, the Center for Renewing America, and the American Cornerstone Institute, Project 2025 is not a conspiracy theory or in any way classified. It's a public document, downloadable by anyone with Wi-Fi and a strong stomach. Read it, if you dare.
+          </p>
+          <p>
+            But here's the catch: to many in the Global South, this doesn't read like an apocalyptic scenario. It reads like the news.
+          </p>
+  
+          <h3>The Beta Version of Control</h3>
+          <p>
+            You can't plagiarize a form of governance, but if you could, some countries in the Global South might want to consider suing. In India, for instance, one might notice the uncanny familiarity in the air. Civil society is, let's say, lightly managed. The press? Predictably pliant. The judiciary? Efficient in its silences. And the bureaucracy? Streamlined to a fault.
+          </p>
+          <p>
+            India ranked 161st out of 180 in the 2024 World Press Freedom Index. Independent journalists face a gentle kind of pressure. Tea invitations followed by tax audits, or offices that become crime scenes overnight. Television news hums along in near unison, its anchors performing with the verve of a national chorus line.
+          </p>
+          <p>
+            The once-insulated bureaucracy now runs on 360° evaluations and nervous glances toward the Prime Minister's Office. Civil servants have been retired en masse under vaguely applied "non-performance" clauses. Appraisals look less like merit reviews and more like trust falls into ideology. As ThePrint reported in 2019, the government "rewards loyalty and performance, perhaps in that order" and has "no space for those viewed with suspicion".
+          </p>
+          <p>
+            What the document outlines as a goal, some appear to have treated it as an early access beta.
+          </p>
+  
+          <h3>Autocracy for Dummies</h3>
+          <p>
+            Autocracy today doesn't storm the gates. It refines the paperwork. What once distinguished democratic governance from centralized control now blurs in the language of institutional reform and patriotic efficiency.
+          </p>
+          <p>
+            Project 2025 reads like an IKEA manual for soft authoritarianism: disassemble institutions, insert ideology, tighten screws, silence dissent, repeat. Take India's Foreign Contribution Regulation Act, ostensibly designed to monitor foreign-funded NGOs. Over the past few years, it has delicately trimmed the wings of organizations deemed excessively independent. And then there's the now defunct electoral bonds scheme, a clever little financial riddle in which transparency was the prize never meant to be claimed.
+          </p>
+          <p>
+            In these systems, dissent isn't criminalized outright. It's simply made administratively exhausting.
+          </p>
+  
+          <h3>The Culture War Vending Machine</h3>
+          <p>
+            No ideological blueprint is complete without a manufactured culture war. In one hemisphere, the adversary is broadly modernity, with critical race theory, gender identity, and reproductive autonomy lined up like cartoon villains. In India, the script includes "love jihad," a term of folkloric menace with abundant traction in primetime headlines, among others.
+          </p>
+          <p>
+            Cultural anxieties, when rendered legible through legislation, have a way of becoming national preoccupations. In the U.S., proposals seek to prohibit gender-affirming care and remove protections for LGBTQ+ individuals from schools.
+          </p>
+          <p>
+            GLAAD reports that Project 2025 would erase federal protections for LGBTQ+ Americans, banning "sexual orientation" and "gender identity" from official policy language.
+          </p>
+          <p>
+            In India, the Supreme Court's 2023 verdict declining to recognize same-sex marriage was framed not as a denial but as a democratic pause.
+          </p>
+          <p>
+            Both systems, in their own idioms, excel at producing moral emergencies on demand, and treating empathy like a threat to national order.
+          </p>
+  
+          <h3>Authoritarian Chic</h3>
+          <p>
+            Strongmen rarely look the same. Some wield volume. Others, silence. In one hemisphere, there are capital letters and exclamation points. In another, there is a carefully cultivated absence of punctuation. A quiet conviction that speaks through certain monuments restored and syllabi revised.
+          </p>
+          <p>
+            Take a look at schoolbooks in India: Gandhi's warnings about majoritarian rule? Deleted. Mughal history? Trimmed. Darwin? Vanished. Education policy today isn't about what you learn, but what you forget - gently, efficiently, by design.
+          </p>
+          <p>
+            One imagines a state with militarized order and centralized will. The others wear softer fabric but stitch the same seam, a narrative curated from myth, managed through messaging, and maintained with a kind of bureaucratic hypnosis.
+          </p>
+          <p>
+            And yet, the ends converge. In both cases, the citizen becomes not so much a participant as a spectator. One whose cheers are requested, but questions are not.
+          </p>
+  
+          <h3>Footnotes of Defiance</h3>
+          <p>
+            Here's the paradox: the louder the resistance, the more robust the repression. But in both nations, an undercurrent survives.
+          </p>
+          <p>
+            In India, independent digital media like The Wire, Scroll, Newslaundry, and LU.Chronicles (shameless plug) are doing what legacy outlets won't. In the U.S., whistleblowers and watchdog groups are mobilizing legal challenges against Project 2025's anticipated assault on democratic norms.
+          </p>
+          <p>
+            Groups like the ACLU, Common Cause, and the Brennan Center have begun contingency planning for litigation, civil rights defense, and FOIA warfare. The goal: drag each authoritarian maneuver into the daylight and document the dismantling as it happens.
+          </p>
+          <p>
+            And artists, as always, are slipping protest into prose and resistance into rhythm.
+          </p>
+          <p>
+            But the question remains: can democracy outpace its own dismantling?
+          </p>
+  
+          <h3>Democracy, Uninstalled</h3>
+          <p>
+            It may remain theoretical. India's trajectory may yet pivot. Courts may rediscover their spines, and elections, still luminous with possibility, may alter the arc.
+          </p>
+          <p>
+            But the deeper concern lies not in individuals or manifestos. It lies in what we've begun to accept as normal. The optimization of ideology. The bureaucratization of belief. The gentle efficiency with which public memory can be rewritten in real-time.
+          </p>
+          <p>
+            It is tempting to think democracies fall. In truth, they fade. Until the lights seem dim by design, and no one remembers when it was otherwise.
+          </p>
+          <p>
+            <em>-Editorial</em>
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/pro.jpeg",
+    author: authors.find(a => a.username === "shumaila-khan")!,
+    category: "Editorial",
+    date: "2025-07-06",
+    readTime: "10 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: [
+      "Project 2025",
+      "Democracy",
+      "Authoritarianism",
+      "Politics",
+      "Global South",
+      "India",
+      "United States",
+      "Civil Rights",
+      "Press Freedom",
+      "Bureaucracy",
+      "Culture Wars"
+    ],
+    featured: false,
+    isPublished: true
+  },
+  {
+    id: "after-june-pride-without-permission",
+    title: "After June: Pride Without Permission",
+    slug: "after-june-pride-without-permission",
+    excerpt: "Pride Month is over, but for queer people in India, the struggle for acceptance and rights continues every day beyond the corporate rainbows and performative allyship.",
+    content: `
+      <div class="article-content">
+        <section>
+          <p>
+            Pride Month is over. The rainbows have faded from Instagram stories. Brand logos have quietly slipped back into their neutral greys. Influencers have moved on to the next cause. And for many queer people, especially in India, there's a quiet question that doesn't leave us alone: Was any of this really meant for us—or just built around us?
+          </p>
+          <p>
+            In a country where being queer is still treated either as something exotic or something dangerous, the way Pride gets packaged each June often feels artificial. It's like queerness is given permission to be visible—but only on someone else's terms. So long as it is bright, happy, safe, and unthreatening. For a few weeks, it's celebrated. But not for what it truly is just for what can be profited off or marketed.
+          </p>
+          <p>
+            Ask a queer student in a university who still hides their identity to avoid harassment from classmates and faculty. Ask a trans sex worker who is routinely extorted by police. Ask a lesbian couple being forced into heterosexual marriages. Ask anyone who tried to access gender-affirming care at a government hospital. These aren't isolated struggles—they reflect a broader system that permits marginalization while pretending progress. Pride doesn't end for them in June. For them, Pride is not a party. It is survival.
+          </p>
+          <p>
+            The Indian state, for its part, continues to legislate silence. While the Supreme Court decriminalized Section 377 in 2018, marriage equality was struck down just last year, with judges making regressive comments about "urban elitism" and the "cultural readiness" of society. Conversion therapy remains legal in practice. Transgender persons continue to be treated as criminals in police registers and as jokes in the media.
+          </p>
+          <p>
+            The ruling party offers no pretense of support; instead, it feeds off the cultural anxieties of a deeply patriarchal society. And the liberal opposition, when it speaks of queer rights at all, does so in vague, depoliticized terms—afraid of offending the so-called majority.
+          </p>
+          <p>
+            In this landscape, what is Pride?
+          </p>
+          <p>
+            Pride isn't about corporate posters or feel-good posts in June. It's about carving out space in a society that has, time and again, told us we don't belong. It's not just about dealing with individual bias—it's about standing up to the structures that keep us out. Structures like caste, capitalism, the family, religion, and the state, which decide who gets to live freely and who doesn't.
+          </p>
+          <p>
+            In India, Pride must be protested. Pride must be a memory. Pride must be everyday.
+          </p>
+          <p>
+            It is the defiant walk of queer couples through public parks in Lucknow, daring to hold hands in spaces crawling with moral policing. It is the quiet courage of trans activists running community kitchens during the pandemic when the state abandoned them. It is the queer student creating secret support circles in campuses where "anti-national" has become a catch-all slur for anyone who dissents.
+          </p>
+          <p>
+            June might be over. But the things we carry—our resistance, our happiness, our wounds, our anger—don't get packed away with it.
+          </p>
+          <p>
+            So the next time a company plasters a rainbow on a product or a minister puts out a tweet about inclusion, let's ask them something simple: What will you do now that July has begun?
+          </p>
+          <p>
+            Because for queer people in this country, Pride isn't a month. It's what we wake up and fight for, every single day.
+          </p>
+        </section>
+      </div>
+    `,
+    image: "/se.jpeg",
+    author: {
+      name: "Jake Sparrow",
+      designation: "Contributing Writer"
+    },
+    author: authors.find(a => a.username === "captain-jack-sparrow")!,
+    category: "Features",
+    date: "2025-07-06",
+    readTime: "5 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: [
+      "Pride Month",
+      "LGBTQ+ Rights",
+      "Queer Rights",
+      "India",
+      "Social Justice",
+      "Human Rights",
+      "Discrimination",
+      "Activism",
+      "Section 377",
+      "Marriage Equality",
+      "Transgender Rights"
+    ],
+    featured: false,
+    isPublished: true
   }
 ];
 
