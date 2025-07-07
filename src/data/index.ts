@@ -6534,6 +6534,162 @@ export const articles: Article[] = [
     ],
     featured: false,
     isPublished: true
+  },
+  {
+    id: "human-rights-in-war",
+    title: "HUMAN RIGHTS IN WAR: THE PROPAGANDA I KEEP FALLING FOR",
+    slug: "human-rights-in-war-the-propaganda-i-keep-falling-for",
+    excerpt: "A critical look at how human rights are sidelined in times of war, the treaties meant to protect them, and the propaganda that buries the truth.",
+    content: `
+      <div class="article-content">
+        <p>
+          In an age dominated by diplomacy, dialogue and dictatorship, it is important that someone speaks the blatant truth, buries the dagger without that sugar coating, plain, simple and straight. THE WORLD IS AT WAR, and everyone is holding sessions on integrity, sovereignty, borders, and resources, intentionally skipping one paramount agenda, or propaganda that politicians, bureaucrats, authorities, lordships historically love to skip, HUMAN RIGHTS. 
+        </p>
+        <p>
+          While Instagram is busy falling for foodie, aesthetic, girlie pop propaganda, I fell for this one. When humans skip human rights, it is a sign, a sign of calamity, disaster, ignorance, and more often than not, numbers, which never make the public eye. I might not be able to dig out those classified reports because they don’t want us to, but I, readers, will make sure to remind you of loopholes. This article will be anything but justification and romanticization of war and nothing but white truth, probably antagonistic to what our leaders speak. This article will be everything, spanning from Jallianwala bagh, the fourth Geneva convention, the NATO charter to the present day kinetic and armed conflicts. Because these voices, methodically silenced, deserve to be heard, loud and clear. 
+        </p>
+        <h2>ARE THERE ANY SAFEGUARDS?</h2>
+        <p>
+          Of course, there are safeguards to ensure human rights in a war-torn region, on paper.
+        </p>
+        <h3>THE FOUR GENEVA CONVENTIONS</h3>
+        <p>
+          First and foremost, the Four Geneva Conventions, signed in 1949, aspired to make itself the holy saviour of human rights, but now probably finds itself in some forgotten folder, or an embassy dumpster. No, it’s not been officially denied, nor has it been kept aside for a minute, but that is the irony of the situation, that is the intelligence with which it has been bypassed, because the enforcers are themselves at the attacking end now and atrocities have been more brutal than ever.
+        </p>
+        <h3>THE HAGUE CONVENTIONS</h3>
+        <p>
+          These are rather an early set of intended watchdogs against cruelty, signed around 1899-1907. These conventions are rules on conduct of hostilities, use of weapons, and protection of cultural property and civilians, and are significantly less comprehensive than the Geneva conventions.
+        </p>
+        <h3>UNIVERSAL DECLARATION OF HUMAN RIGHTS (UDHR)</h3>
+        <p>
+          Drawn out in 1948, the UDHR was not legally binding on countries, but laid out some ideal ground rules and the bare minimum basic civil, political, economic, and social rights. These rights included the basic fundamental rights that any living being deserves, focusing on human beings here, like right to Life (Article 6), Right to fair trial and due process (Article 14), Protection from arbitrary arrest or detention (Article 9), etc.
+        </p>
+        <p>
+          These are just three examples, if it were not for the limitations of writing, one extra full-length article can be written on just the treaties and documents existing to ensure Human Rights. But the same can be said and done for the number of times and horrendous incidents where these have been breached, and it is more important to look at that. Along with the facts, we will also try and explore how the facts have been twisted, how numbers have been buried, because governments may lie, but walls, rocks, papers don’t.
+        </p>
+        <h2>HOW MUCH ‘SAVING’ HAVE THE SAVIORS DONE AND HAVE THE NUMBERS SEEN THE LIGHT OF THE DAY?</h2>
+        <p>
+          Although a lot of times the conventions have served the purpose they were drawn up for and have acted as the scythe against atrocities, their implications and effect on ground zero have been rather insignificant. The reason for this lies in the very limited scope of these documents, walled by just documentation, sanctions and no real retaliatory response. Now, we cannot deny the fact that sanctions do very limited damage, often amounting to close to nothing, as has been seen in the Russia-Ukraine conflict and several other times. If sanctions were that much of a weapon, the war would have stopped on day one, probably before it even started, but we all know where the world stands at the moment.
+        </p>
+        <p>
+          The world’s favourite sets of documents have failed to deliver any real protections, and have been breached more times than twitter's servers have crashed.
+        </p>
+        <p>
+          I will take just one example and the picture will become clear as day.
+        </p>
+        <h3>The Rwandan Genocide:</h3>
+        <p>
+          Having occurred in 1994, the genocide is one of the most notorious recorded events. The killings took place on the sole metric that a person belonged to the Tutsi community or ‘looked like they did’. Was the Geneva Convention able to ensure security? Decide for yourself.
+        </p>
+        <p>
+          What is to be noted here, is the differences in figures presented. The total number of the deaths could not be reported with assurance and was extrapolated from population census performed in 1991, three years prior to the disaster, leaving us with speculations.
+        </p>
+        <p>
+          The bigger problem is, that the government allegedly under-reported the number of Tutsis and refused to reveal communal identity in later consensus! The 1991 census data reported 12.8% Tutsi in the population of Gikongoro, while the 1990 population data from the local administration reported a much higher proportion of Tutsi, 17.5%. If the extent of under-reporting was similar in other prefectures, the number of Tutsi at the outbreak of the genocide would have been about 40% higher than the number extrapolated from the 1991 census (Verpoorten, 2005).
+        </p>
+        <p>
+          There are large disparities in numbers officially displayed on search pages and media houses. BBC reports the number at 800,000. Although the exact figure is unknown, official Rwandan government documents estimate that the number of people killed in the genocide is 1,074,017 of whom 93.7 percent were Tutsi. A 2008 report compiled by the Student Genocide Survivors Organisation (AERG) estimated the number to be close to 2 million. (SURF survivors fund)
+        </p>
+        <p>
+          What we see is the systematic moderation of numbers into bite sized digits, and I leave the rest to understand upon my distinguished readers.
+        </p>
+        <h2>WEIGHING THE COST OF LIFE</h2>
+        <p>
+          Apart from the Rwandan Genocide, the World Wars, Israel-Palestine conflict, the Russia-Ukraine war, the Israel-Iran war, the Syrian civil war, the Yemeni civil war, the Bosnian war, and many more stand as living and breathing examples of how numbers have been manipulated, voices have been silenced, documents have been buried, people have been shushed, any whisper in the corridor has been overpowered with hollow promises, superhero quotations and caped warriors who sit in their armchairs and comfortably sip their teas, questioning the ways of the world while treading the same themselves. The declarations eat dust sitting on corner tables and human rights always become the first ones to crumble as soon as a conflict erupts.
+        </p>
+        <p>
+          Readers, I ask this question, because those who had to, certainly did not. Why do numbers become negotiable when names are not? If wars can be reported first-hand, can’t human lives be? In this era of armchair diplomacy, when will human rights stop being the ‘on page 16’ content and start being the headline?
+        </p>
+      </div>
+    `,
+    image: "/fi.jpeg",
+    author: authors.find(a => a.username === "atulit-pandey")!,
+    category: "International",
+    date: "2025-07-07",
+    readTime: "12 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Human Rights", "War", "Propaganda", "Geneva Convention", "Rwanda", "International"],
+    featured: false,
+    isPublished: true
+  },
+  {
+    id: "cinemas-muse-not-its-voice",
+    title: "Cinema’s Muse, Not Its Voice",
+    slug: "cinemas-muse-not-its-voice",
+    excerpt: "A critical look at how mainstream Indian cinema continues to sideline women, offering the illusion of progress while keeping them voiceless.",
+    content: `
+      <div class="article-content">
+        <h2>1). When Bollywood Was Finally Listening :-</h2>
+        <p>
+          Between 2014 and 2018, we saw more and more films give women space, dignity, and depth. Bollywood appeared to be finally listening to women. <i>Piku</i>, <i>Queen</i>, <i>Pink</i>, and more recently <i>Bulbul</i> on OTT did not simply just feature female leads, but drive them with the entire narrative. These were not "strong women" for the sake of it. They were messy, introspective, real, comedic, flawed. They felt human, like you and me.
+        </p>
+        <p>
+          And for a moment, it seemed like mainstream Indian cinema was transforming. That maybe, finally, women on screen were not going to be accessories or pretty diversions. But these movies failed the audience, bringing back the old patterns where women characters are hollow, again.
+        </p>
+        <h2>2). From Depth to Distraction:-</h2>
+        <p>
+          In big-budget Blockbusters, mostly action and mass entertainers’ movies - females are nothing but clickbait. They're stylishly dressed, tightly shot, given a couple of snappy dialogues, to act as damsel in distress, superficially they look empowering but actually don't amount to anything. Their arcs never advance the plot.
+        </p>
+        <p>
+          This is not just bad writing - it's deliberate packaging. And not by accident. It's feminism masquerading as capitalism.
+        </p>
+        <p>
+          Directors are well aware of what they are doing. They know that a pretty girl in the trailer, a seductive song-and-dance number - can pull in crowds. Ormax Media's 2022 report says that men made up over 60% of box office crowds in India, especially in Tier 2 and Tier 3 cities. So, when a woman is starring in a movie, it is not necessarily because her story is crucial. Sometimes it is just marketing acumen.
+        </p>
+        <p>
+          It is for this reason that even in blockbusters, including <i>Pushpa</i>, <i>Pathaan</i>, <i>Kabir Singh</i>, or <i>Jawan</i>, the women are visually augmented but narratively overlooked. They're hyper-visible but strangely voiceless.
+        </p>
+        <h2>3). A Costume Called Feminism :-</h2>
+        <p>
+          Even when they do end up with "strong roles," it's undercut by how the film presents them. A crop-top cop. A makeup-covered lawyer. A warrior who spends an entire five minutes experiencing real action. And if she's yelling or talking about independence, it's usually followed by a romantic plotline or a "softening" shot - like the script's worried she'll become too nasty.
+        </p>
+        <p>
+          Meanwhile, dialogue is infused with pseudo-woke speak that's not meant to mean anything but to go viral. Empowerment has been commodified. Feminism has been reduced to a costume. And women? They've been relegated to stunning edit distractions.
+        </p>
+        <p>
+          This regression is not only maddening - it's dangerous. Because film does not merely reflect society, it contributes to its creation. When millions of individuals see these movies and absorb the message that a woman's worth is her looks or whether she can fund a man's adventure, it reinforces all the things we're trying to move beyond as a culture.
+        </p>
+        <p>
+          Worse still, when women's presence is hollow but is presented as "progressive," it is an illusion of progress. It tricks us into believing that things are improving, when they're not. That we've reached somewhere, when we're still stuck in the same cycle - albeit with better lighting and better costumes.
+        </p>
+        <h2>4). The Mirror Needs Cleaning :-</h2>
+        <p>
+          There are exceptions, honestly. OTT has opened up for more assertive, multidimensional women - the kind portrayed by Shefali Shah in <i>Delhi Crime</i>, Madhuri Dixit in <i>Maja Ma</i>, Alia Bhatt in <i>Darlings</i>, or the women in <i>Made in Heaven</i>. But even those stories are limited to urban, upper-class life. They have their niche audience. The issue lies in mass cinema - the kind that reaches the nook and corner of the country. That's where the erasure is most visible.
+        </p>
+        <p>
+          And it's significant that the majority of these new, reactionary films still demand to be female-fronted. They throw buzzwords around on the publicity circuit, quote feminist mantras in marketing, and cast high-profile actresses. But the minute the cameras roll, it's clear: the story never did belong to the woman. She was just the packaging.
+        </p>
+        <h2>5). Where do we go from here, then?</h2>
+        <p>
+          Because women don’t just need screen time - they need screen truth. Not more slow-motion entries, but stories that linger. Not just makeup under moonlight, but motives, arcs, contradictions.
+        </p>
+        <p>
+          Cinema has the power to immortalize. It can raise questions, ignite revolutions, and shatter silences. But when it chooses to mute women behind edits, frames, and formulas, it wastes that power.
+        </p>
+        <p>
+          We don’t need another heroine in a shaffon saree dancing beside a man. We need women who hold the camera with their presence. Who aren’t just written into scripts, but who write the script of the film itself.
+        </p>
+        <p>
+          Because if cinema is a mirror to society, then it should be an honest one. It should reflect women not as ornaments, not as box office bait, but as the messy, brilliant, hurting, healing, hilarious, terrifying forces they truly are.
+        </p>
+        <p>
+          Until then, the frame may look full, but the story will remain painfully incomplete.
+        </p>
+      </div>
+    `,
+    image: "/film.jpeg",
+    author: { name: "Cinecore" },
+    category: "Arts & Culture",
+    date: "2025-07-07",
+    readTime: "10 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Cinema", "Bollywood", "Feminism", "Women", "Film Criticism", "Culture"],
+    featured: false,
+    isPublished: true
   }
 ];
 
