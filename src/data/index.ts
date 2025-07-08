@@ -6690,6 +6690,171 @@ export const articles: Article[] = [
     tags: ["Cinema", "Bollywood", "Feminism", "Women", "Film Criticism", "Culture"],
     featured: false,
     isPublished: true
+  },
+  {
+    id: "sustainable-development-policy-to-practice",
+    title: "Sustainable Development: From Policy to Practice",
+    slug: "sustainable-development-policy-to-practice",
+    excerpt: "Exploring how sustainable development evolved from a global policy ideal to practical action, and the challenges India faces in bridging the gap between vision and implementation.",
+    content: `
+      <div class="article-content">
+        <p>
+          Gro Harlem Brundtland, a Norwegian politician known for her role as Chair of the World Commission on Environment and Development (WCED), defined sustainable development as "development that meets the needs of the present without compromising the ability of future generations to meet their own needs." While she articulated this in an environmental context, in today's world, sustainable development has become a guiding principle for policymakers in addressing challenges not only related to environmental degradation but also to social inequality and economic instability. However, bridging the gap between policy formulation and practical implementation remains a major challenge.
+        </p>
+        <h2>From MDGs to SDGs</h2>
+        <p>
+          The concept of sustainable development gained momentum with the 1987 Brundtland Commission Report. This report laid the foundation for global action, beginning with the MDGs (Millennium Development Goals) in 2000. These goals focused on key social issues and later led to the Sustainable Development Goals (SDGs) in 2015, adopted by 193 UN member states. There are 17 SDGs and 169 targets that aim to transform the world comprehensively.
+        </p>
+        <h2>India's Journey</h2>
+        <p>
+          India has integrated SDGs into national schemes across multiple sectors. Below are key programs aligned with specific goals:
+        </p>
+        <ul>
+          <li><strong>No Poverty (SDG 1):</strong> Pradhan Mantri Awas Yojana (PMAY), National Social Assistance Programme (NSAP), Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)</li>
+          <li><strong>Zero Hunger (SDG 2):</strong> Public Distribution System (PDS), PM Garib Kalyan Anna Yojana (PMGKAY), National Nutrition Mission (POSHAN Abhiyaan), Mid-Day Meal Scheme</li>
+          <li><strong>Good Health and Well-being (SDG 3):</strong> Ayushman Bharat (PM-JAY), National Health Mission (NHM), Mission Indradhanush, PM Ayushman Bharat Health Infrastructure Mission</li>
+          <li><strong>Quality Education (SDG 4):</strong> Samagra Shiksha Abhiyan, PM eVIDYA</li>
+          <li><strong>Gender Equality (SDG 5):</strong> Beti Bachao Beti Padhao, UJJAWALA Scheme, One Stop Centres</li>
+          <li><strong>Clean Water and Sanitation (SDG 6):</strong> Jal Jeevan Mission, Swachh Bharat Mission (SBM)</li>
+          <li><strong>Affordable and Clean Energy (SDG 7):</strong> Ujjwala Yojana, Deen Dayal Upadhyaya Gram Jyoti Yojana, Solar Park Scheme, PM-KUSUM</li>
+          <li><strong>Decent Work and Economic Growth (SDG 8):</strong> Skill India Mission, Start-Up India, Stand-Up India, Make in India, Atmanirbhar Bharat Abhiyan</li>
+          <li><strong>Industry, Innovation, and Infrastructure (SDG 9):</strong> Start-Up India, Digital India, National Infrastructure Pipeline (NIP), Bharatmala & Sagarmala Projects</li>
+          <li><strong>Reduced Inequality (SDG 10):</strong> PM-VIKAS, Accessible India Campaign</li>
+          <li><strong>Sustainable Cities and Communities (SDG 11):</strong> The Smart Cities Mission, AMRUT (Atal Mission for Rejuvenation and Urban Transformation), PM Awas Yojana – Urban</li>
+          <li><strong>Responsible Consumption and Production (SDG 12):</strong> Zero Effect Zero Defect (ZED) Scheme, National Electric Mobility Mission Plan</li>
+          <li><strong>Climate Action (SDG 13):</strong> National Action Plan on Climate Change (NAPCC), Faster Adoption and Manufacturing of Electric Vehicles (FAME), International Solar Alliance (ISA)</li>
+          <li><strong>Life Below Water (SDG 14):</strong> Blue Revolution Scheme, Sagarmala Project</li>
+          <li><strong>Life on Land (SDG 15):</strong> Green India Mission, National Afforestation Programme, Project Tiger / Project Elephant</li>
+          <li><strong>Peace, Justice, and Strong Institutions (SDG 16):</strong> Digital Courts & e-Courts, Mission Mode Project, Police Modernization Scheme, RTI Act, 2005, Lokpal and Lokayuktas Act, 2013</li>
+          <li><strong>Partnerships for the Goals (SDG 17):</strong> India-UN Development Partnership Fund, South-South Cooperation Initiatives, Development Monitoring and Evaluation Office (DMEO) under NITI Aayog</li>
+        </ul>
+        <p>
+          NITI Aayog publishes the SDG India Index reports, which track state-wise progress, foster healthy competition, and help in aligning state and central government initiatives with the SDGs.
+        </p>
+        <h2>Implementation Challenges</h2>
+        <p>
+          India faces a complex set of challenges in implementing policies.
+        </p>
+        <ul>
+          <li><strong>Economic:</strong> Developmental goals related to industrial growth are often prioritized over environmental health. Economic inequality persists, which in turn hinders equal access to sustainable solutions and green technologies (clean energy, education, healthcare).</li>
+          <li><strong>Social:</strong> The topic of sustainability is often not properly included in education. There is also resistance to adopting sustainable lifestyles (e.g., waste segregation, energy saving) due to habits, social norms, or mistrust. For many, immediate economic survival takes precedence over long-term sustainable practices, limiting their capacity to engage in sustainability-focused actions.</li>
+          <li><strong>Institutional:</strong> There are multiple intersecting policies at the central and state levels, inadequate funding for initiatives, and weak coordination among ministries. Laws are poorly enforced due to corruption, bureaucracy, or lack of political will.</li>
+          <li><strong>Infrastructure and Technological:</strong> Urban areas struggle with poor public transport, inadequate waste management, and water scarcity. Renewable energy infrastructure is growing, but the use of clean energy remains limited in rural areas.</li>
+        </ul>
+        <h2>Conclusion</h2>
+        <p>
+          India's journey towards sustainable development reflects a complex and evolving journey shaped by vision and local action. The SDGs provide a roadmap — a foundation to build a better world, one that balances growth with ecology. India can strengthen grassroots implementation by promoting innovative financing mechanisms and by fostering an environment for collaboration involving government, the private sector, civil society, and local communities.
+        </p>
+        <p>
+          Together, we can work toward a greener, more equitable, and resilient future.
+        </p>
+      </div>
+    `,
+    image: "/f1.jpeg",
+    author: authors.find(a => a.username === "trishla-chaudhary")!,
+    category: "Development",
+    date: "2025-07-08",
+    readTime: "8 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Sustainable Development", "SDGs", "Policy", "India", "Environment"],
+    featured: false,
+    isPublished: true
+  },
+  {
+    id: "ai-content-crisis-originality-2025",
+    title: "AI Content Crisis: Who Owns Originality in 2025?",
+    slug: "ai-content-crisis-originality-2025",
+    excerpt: "As AI-generated content explodes in 2025, questions of authorship, creativity, and cultural integrity challenge students, professionals, and artists alike.",
+    content: `
+      <div class="article-content">
+        <p>
+          In 2025, artificial intelligence has woven itself deeply into the fabric of creative work and education. From students relying on ChatGPT for essays to viral AI-generated Studio Ghibli-style portraits, questions around originality, authorship, and cultural integrity have come to the fore. Who truly owns creativity when an algorithm can generate content on demand?
+        </p>
+        <h2>1. Students’ dependency on AI: convenience or cognitive drift?</h2>
+        <p>
+          AI adoption in education has skyrocketed. In the UK, a staggering 92% of university students reported using generative AI tools like ChatGPT in 2025—up from 66% the year before. In another case study, 72.3% of students at Hunter College High School admitted to ChatGPT use at least once per month.
+        </p>
+        <p>
+          Harvard's 2024 undergraduate survey (N=326) highlighted that nearly 90% of students use AI, with around 25% substituting essential academic efforts like attending office hours or completing assigned readings.
+        </p>
+        <p>
+          These numbers hint at routine but uncritical use. Alarm bells ring louder with findings that students using generative AI scored on average 6.7 points lower (out of 100) on exams than non-users. Moreover, a study of high school seniors revealed that over half of incorrect ChatGPT suggestions were accepted as fact—and short AI-literacy interventions did little to mitigate this over-reliance.
+        </p>
+        <p>
+          Researchers warn that this "cognitive debt" might suppress the development of critical thinking and information retention, particularly for younger students, with 26% of teens admitting to using AI for schoolwork, double what it was in 2023.
+        </p>
+        <h2>2. Employers and the professional AI turn</h2>
+        <p>
+          It’s not just students—employers increasingly lean on AI for efficiency. While comprehensive statistics on corporate AI use in 2025 are still emerging, anecdotal trends suggest widespread adoption:
+        </p>
+        <ul>
+          <li>Hiring teams increasingly use ChatGPT and other GPT-4 powered tools for candidate screening, resume optimization, and drafting job descriptions.</li>
+          <li>Internal communications, marketing content, and even technical documentation are often co-drafted with AI.</li>
+        </ul>
+        <p>
+          However, just as in academia, this reliance raises concerns. Human resource professionals warn of homogenized messaging—lacking authenticity and personal insight—akin to the tension seen in student writing.
+        </p>
+        <h2>3. The Ghiblification phenomenon: beauty meets ethical dilemma</h2>
+        <p>
+          One of the most visible AI controversies in 2025 was the viral “Ghiblification” trend—turning photos into Studio Ghibli-style images via ChatGPT’s GPT-4o image model. These pastel-hued, dreamlike portraits proliferated across TikTok, X, and Instagram, enthralling fans—but also igniting backlash.
+        </p>
+        <p>
+          Co-founder Hayao Miyazaki has long referred to AI-generated animation as “an insult to life itself”.
+        </p>
+        <p>
+          Artist communities expressed fears of dilution—where Ghibli’s nuanced storytelling and painstaking craftsmanship are reduced to shallow mimicry.
+        </p>
+        <p>
+          Legally, Studio Ghibli has limited recourse. While specific works remain protected, visual style isn’t necessarily copyrightable, making it difficult to challenge platforms like OpenAI. Meanwhile, legal scholars argue OpenAI's "conservative" approach—disallowing style replications of living artists—doesn’t fully address studio-level brand implications.
+        </p>
+        <h2>4. The crux: Who owns originality?</h2>
+        <p>
+          This collision of education, professional use, and art brings us to the core question: Who owns originality in 2025?
+        </p>
+        <h3>A. Attribution & Credit</h3>
+        <p>
+          AI models are trained on vast collections of human-made work—often without consent or compensation. Artists point out that these datasets include years of painstaking effort yet are used to generate mass content. Critics stress this devalues their labor—like how the Industrial Revolution displaced artisans.
+        </p>
+        <h3>B. Authenticity & emotional resonance</h3>
+        <p>
+          The soul in Ghibli’s art wasn’t just pastel hues—it was the human toil behind each frame. Miyazaki’s masterpieces, like the hand-drawn markets in “The Wind Rises,” took animators over a year for mere seconds of animation. AI replicates aesthetics quickly—but not the depth, emotion, or stories encoded within.
+        </p>
+        <h3>C. Rethinking education & skill</h3>
+        <p>
+          Some propose embracing AI as a tool, akin to calculators—teaching students to collaborate with it critically rather than banning it. Others push for structural reforms: oral exams, process-based assignments, and robust AI detection in academia.
+        </p>
+        <p>
+          Similarly, in the creative industries, there is a growing call for ethical AI practices: artists being credited, earners of licensing fees, and explicit opt-in provisions for training data.
+        </p>
+        <h2>5. A path forward</h2>
+        <ul>
+          <li><strong>Policy & law:</strong> Update copyright frameworks to protect style and brand, not just specific works. Mandate datasets get pre-cleared or compensated via licensing.</li>
+          <li><strong>Educational reform:</strong> Promote AI literacy: teach students how and when to use AI—alongside critical evaluation skills. Redesign assessments to test reasoning, not regurgitation.</li>
+          <li><strong>Ethical AI design:</strong> Build transparency and attribution into AI systems. Developers like Adobe Firefly are exploring tools trained only on licensed, opted-in content.</li>
+          <li><strong>Cultural awareness:</strong> Encourage public conversations about what soulful art means beyond visuals—human stakes, emotional labor, cultural memory.</li>
+        </ul>
+        <h2>Conclusion</h2>
+        <p>
+          As AI-generated content becomes faster, cheaper, and more realistic in 2025, the stakes around originality rise. We’re at a crossroads: accepting easy, homogenous output, or investing in systems—legal, educational, technical—that uphold the richness of human creativity.
+        </p>
+        <p>
+          When a tool can replicate a Ghibli-style sunset in seconds, do we lose the sunset’s meaning? Or do we use the moment to reaffirm what only human artistry can truly claim? That, perhaps, is the question of originality in the AI age.
+        </p>
+      </div>
+    `,
+    image: "/f2.jpeg",
+    author: authors.find(a => a.username === "hetal-kothari")!,
+    category: "Technology",
+    date: "2025-07-08",
+    readTime: "8 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["AI", "Originality", "Creativity", "Education", "Art", "Ethics"],
+    featured: false,
+    isPublished: true
   }
 ];
 
