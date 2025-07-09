@@ -6855,6 +6855,128 @@ export const articles: Article[] = [
     tags: ["AI", "Originality", "Creativity", "Education", "Art", "Ethics"],
     featured: false,
     isPublished: true
+  },
+  {
+    id: "a-convenient-fear-murderous-wife-narrative",
+    title: "A Convenient Fear: Why the ‘Murderous Wife’ Narrative Is a Dangerous Lie",
+    slug: "a-convenient-fear-murderous-wife-narrative",
+    excerpt: "A personal and historical reflection on the dangerous myth of the 'murderous wife,' its roots in institutional memory, and the real stories that challenge it.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          It was my sophomore year at the Lucknow Christian Degree College, Golaganj, one of the oldest and prestigious academic institutions in Lucknow whose history may be traced back to 1862 i.e Colonial India.
+        </p>
+        <p>
+          Our batchmates, particularly I, were overwhelmed by the fact that we gained access to Fairfield Hall without delays or the usual cumbersome application process. We were preparing to bid a warm and memorable farewell to our seniors, and I had the honor of being the host for the event. I was approached by the head of my team to briefly mention the College’s Glorious Pasts and achievements along with alumni who once were known names in their particular field and who used to be a part of this prestigious institution.
+        </p>
+        <p>
+          Alumni are the quality product of an academic institution, Whose number within an institution and contribution to their respective field of course  decides the institution's NIRF ranking  and many freshman students idolise them . 
+          So,as a history geek and a part of an assigned task while navigating through webpages of these rich alumni networks, I came across some names that were celebrated for their contributions — and others whose legacies remain controversial. Names of people who once were part of our institution from the 3rd President of India, Dr. Zakir Hussain to legendary urdu poet , Firaq Gorakhpuri and a lesser known yet powerful political figure from Nehru-Gandhi family , Arun Nehru, he was a key accused in 1984 anti Sikh riots and had serious and heinous allegations. This deeply unsettled me and compelled me to write this article
+        </p>
+        <h2>Arun Nehru : The Serious Allegations and Political Patronage :</h2>
+        <p>
+          Mr. Nehru who formerly was a businessman for 17 years before he was approached by Mrs.Indira Gandhi to enter the world of politics . He was born to Anand Kumar Nehru and was a cousin and a close confidante to former PM of India,Late Rajiv Gandhi and a Lucknow Christian Degree College alumni with his alleged involvement in 1984 anti Sikh riots . He represented Rae Bareli constituency in 7th and 8th lok sabha from INC and 9th lok sabha from Bilhaur on Janta Party ticket and served under both Rajiv Gandhi and V.P Singh Cabinet testimony to his political prowess and clout .
+        </p>
+        <h2>Background surrounding the Violence:</h2>
+        <p>
+          During the 1984 Anti-Sikh Violence democracy was willingly substituted with mobocracy by those in power , when people of sikh faith were burned alive on the streets of Delhi , Women were raped on rooftop and sometimes in front of their family members by an angry mobs driven by vengeance, Like other Indians people of Sikh community were too  saddened by the assassination of our former PM Mrs. Indira Gandhi who was assassinated by her bodyguards Beant Singh and Satwant Singh on 31st October 1984. But an agitated mob was given free hand by members of Indian National Congress and a systematic, heart-wrenching violence was instigated on the streets of Delhi and many congress leaders including Arun Nehru played a role as mentioned in a Cover story published in Caravan in October 2014. The Violence of 1984 led to alienation of Sikh community and the world witnessed the collapse of our so-called independent judiciary when as usual we failed to bring perpetrators to the altar of justice.
+        </p>
+        <p>
+          A Cover story titled “Sins of Commission” was published in Caravan, a political magazine on 1 october 2014 in which Avantar Singh Gill , the former petroleum secretary, was quoted saying to political editor ‘Hartosh Singh Gill’ that on 1 November 1984 “Lalit Suri of Lalit hotels, Who used to come and see me often, dropped by. He was the errand boy for Rajiv Gandhi, and since he often needed work done, He was close to me. He came to me in the ministry and said , killings in Delhi and the killings have started. The strategy is to catch Sikh Youth, fling a tyre over their heads, douse them with kerosene and set them on fire. This will calm the anger of the hindus”.
+        </p>
+        <h2>Other Perpetrators and their Fate :</h2>
+        <p>
+          Ten commissions were formed to investigate the barbarism of 1984 riots and the most controversial among them was Mishra commission led by Rangana Mishra , a supreme court whom latter was Rajya Sabha MP from INC party and was widely criticised by intellectuals as it failed to prosecute or press charges against the individuals and provide a clean chit high level official and the most recent one Nanavati Commission that submitted its report on 9 Feb 2005. But according to me Jain Aggarwal committee was most successful one as it recommended the registration of cases upon proper investigation against prominent congress leaders like H.K.L Bhagat, Sajjan Kumar , Dharamdas shastri and Jagdish Tytler but cases weren’t registered by the police and the most recent conviction that took place was of congress leader , Sajjan Kumar who was sentenced to life imprisonment by Delhi High court but most of the perpetrators are still at large.
+        </p>
+        <h2>Suggested readings :</h2>
+        <p>
+          When a Tree shook Delhi : The 1984 Carnage and it’s Aftermath by Manoj Mitta and H.S Phoolka is one of the few brilliant yet grievous books highlighting the horror and terror inflicted by the mob over the Sikh community for upcoming three days i.e 1-3 November 1984 post the Mrs. Gandhi assassination on 31st October 1984 and simultaneously the anarchism and organizational collapse that engulfed the country for these three days and an era of collective amnesia that still persists.
+        </p>
+      </div>
+    `,
+    image: "/aliyaart.jpeg",
+    author: {
+      name: "abhijeet Chaubey"
+    },
+    category: "Editorial",
+    date: "2025-07-09",
+    readTime: "10 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["History", "Politics", "1984 Riots", "Justice", "India"],
+    featured: false,
+    isPublished: true
+  },
+  {
+    id: "a-convenient-fear-murderous-wife-narrative",
+    title: "A Convenient Fear: Why the ‘Murderous Wife’ Narrative Is a Dangerous Lie",
+    slug: "a-convenient-fear-murderous-wife-narrative",
+    excerpt: "A critical look at the viral 'murderous wife' narrative, exposing how it distracts from the real crisis of violence against women in India.",
+    content: `
+      <div class="article-content">
+        <p class="intro-paragraph">
+          In the past few months, a handful of gruesome cases involving wives accused of murdering their husbands have gone viral across Indian media and social media. Memes mock marriage as a “suicide mission,” hashtags like #HusbandLivesMatter have trended, and whispers have turned into declarations: “Marriage is no longer safe for men.”
+        </p>
+        <p>
+          Let’s pause.
+        </p>
+        <p>
+          Let’s ask: is this a trend? Or is this yet another social panic—a distraction conveniently engineered at the expense of truth and women’s dignity?
+        </p>
+        <p>
+          The truth is as grim as it is familiar: India remains one of the most dangerous places in the world to be a woman, not a man in marriage. The sensationalized stories of a few murder cases—however brutal—are not representative of marital reality. They are being used to reinforce a backlash against women’s autonomy, to ridicule feminism, and to seed fear into one of the few spaces women can claim with some legal protection: the domestic space.
+        </p>
+        <p>
+          According to the National Crime Records Bureau (NCRB) 2022 report:
+        </p>
+        <ul>
+          <li>Over 4.45 lakh crimes against women were registered across India.</li>
+          <li>Husbands or their relatives committed 31.4% of these crimes under Section 498A IPC (cruelty by husband or relatives).</li>
+          <li>That is more than 1.39 lakh cases of cruelty by husbands in a single year.</li>
+          <li>Every day, an average of 20 women are raped, and one woman is murdered for dowry every 75 minutes.</li>
+          <li>The conviction rate for rape is just 26.6%, and for cruelty by a husband, it is even lower.</li>
+        </ul>
+        <p>
+          Where is the outrage?
+        </p>
+        <p>
+          Where are the trending hashtags for the women burnt alive for dowry, for those beaten to death in in-laws’ homes, or pushed to suicide from marital abuse?
+        </p>
+        <p>
+          These aren’t just statistics. These are systemic, gendered crimes. They represent a society where marriage is often not a sanctuary for women, but a site of control, surveillance, and in too many cases—slow death.
+        </p>
+        <p>
+          Compare this to the less than 30 publicized cases of wives killing husbands in the past year—several of which involved clear and premeditated motives tied to affairs, abuse, or inheritance disputes. These are crimes, no doubt, and must be investigated and prosecuted. But they do not form a trend. They are aberrations, not a pattern. To project them as proof that men are now the greater victims of marriage is not only misleading—it is deeply political.
+        </p>
+        <p>
+          Focusing on a handful of cases where women killed their husbands while ignoring the overwhelming scale of violence routinely inflicted on women by men, is not just misleading—it’s dangerous. It shifts attention away from the real crisis. It makes it harder for survivors to speak out. It gives abusive men more room to justify their actions. And it threatens to undo years of struggle for even the most basic protections women have won.
+        </p>
+        <p>
+          This isn’t some organic concern for justice. It’s a backlash—a carefully constructed narrative, rooted in patriarchal fear, dressed up as a moral emergency.
+        </p>
+        <p>
+          What we are witnessing is a cultural counter-offensive, not a crime wave.
+        </p>
+        <p>
+          It is designed to delegitimize the hard-won legal protections women have—like 498A or domestic violence legislation. It is aimed at painting these protections as “tools of abuse” used by “evil wives” rather than lifelines for survival. It is the same old system trying to strike back at women’s agency by turning fear into spectacle.
+        </p>
+        <p>
+          To center these cases as the crisis of our time is not just a distraction—it is an assault on truth. And the cost will be paid, as always, by the women who are already fighting to survive in a society stacked against them.
+        </p>
+      </div>
+    `,
+    image: "/shantamart.jpeg",
+    author: authors.find(a => a.username === "captain-jack-sparrow")!,
+    category: "Editorial",
+    date: "2025-07-09",
+    readTime: "8 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Feminism", "Marriage", "Media", "Gender", "India"],
+    featured: false,
+    isPublished: true
   }
 ];
 
