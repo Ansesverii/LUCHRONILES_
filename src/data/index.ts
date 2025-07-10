@@ -7024,6 +7024,69 @@ export const articles: Article[] = [
     tags: ["Sanitation", "Dignity", "Society", "Labour"],
     featured: false,
     isPublished: true
+  },
+  {
+    id: "indian-handicrafts-living-tapestry",
+    title: "Indian Handicrafts: A Living Tapestry of Culture and Craft",
+    slug: "indian-handicrafts-living-tapestry",
+    excerpt: "From Pashmina shawls to Channapatna toys, explore how India's handicrafts are a vibrant, living tapestry of culture, history, and artisan spirit.",
+    content: `
+      <div>
+        <p>India is a colourful patchwork of cultures and its handicrafts narrate that story more vividly than any travel guide. Each item is more than decoration; it carries the daily rhythms and histories of the maker. From the red-earth deserts of Rajasthan to the icy valleys of Kashmir, every piece speaks the local dialect, revealing beliefs, customs, and the artisans’ spirit. Together, these treasures form a living tapestry that feels both ancient and fresh.</p>
+        <h2>Pashmina from Kashmir - Warmth Woven with Grace</h2>
+        <p>Few fabrics match the tender softness of Pashmina. The fibre comes from the Changthangi goat that grazes high in Ladakh, and it is spun and woven by patient Kashmiri hands. Shawls are often finished with delicate embroidery that makes each piece a moving artwork. Light as a feather yet remarkably warm, a single authentic wrap can take weeks to complete—a quiet testament to skill passed through many winters.</p>
+        <h2>Jaipur’s Blue Pottery - Where Earth Meets Flame</h2>
+        <p>Rajasthan’s signature blue pottery does more than please the eye—it shares a story. While the craft originally came from Persian artisans, it really settled down and flourished in Jaipur, blending foreign knowledge with local spirit.</p>
+        <h2>Madhubani Art - Folk Tales in Vivid Colors</h2>
+        <p>An ancient form of folk art from the Mithila area of Bihar, Madhubani painting has a strong history based on symbolism and tradition. The forms are created using natural colors, and are painted onto paper, cloth, or walls (flowers and birds are common motifs). In myth, ritual, and nature, every symbol—fish, lotus, peacock—carries meaning, often tied to love, fertility, or prosperity. Every painting is different and its uniqueness is part of its beauty.</p>
+        <h2>Channapatna Toys - Karnataka's Vibrantly Colored Wooden Craft</h2>
+        <p>In Channapatna, a town near Bangalore, is a community of artisans who carry on a craft that goes back centuries, a toy-making tradition. Soft, native ivory-like wood is the base element for, and bright vegetable dye is the color, followed by shaping, polishing, and finishing a thin layer of lacquer. These delightful toys are attractive, enjoyable, eco-friendly, and safe—they are playful, delightful, and steeped in tradition.</p>
+        <h2>Meenakari – Colors on Metal</h2>
+        <p>Meenakari is the practice of painting the surfaces of metals such as gold, silver, and copper in stunning colors and then coating them with fire. Available in various ranges, the art of Meenakari was made famous in Rajasthan by royal patronage. Meenakari includes pieces of jewelry and decorative items in a variety of shapes that shimmer in vibrant colors, including floral and geometric patterns. It requires incredibly precise craftsmanship, and the process involves wonderful fire and finessing.</p>
+        <h2>Rogan Art – Kutch's Best Kept Secret</h2>
+        <p>From being almost extinct to enjoying a quiet and proud renaissance, Rogan art is one of a few remaining vestiges of the Kalpavriksha, the wish fulfilling tree. Practiced by only a few families in Kutch, state of Gujarat, it is the art of using thick paint that is made from castor oil, clinically pure cotton carrier oil, and high concentration vegetable pigments in order to create fine, intricate designs on cotton fabric. The process is rather unusual. The artist will use a stylus or stick to draw a design in the air in order to "catch" it and then press it down onto the fabric to "adopt" the design. After the fact, Rogan gained international attention when India’s Prime Minister gifted Rogan art as part of their gift to the history of the culture and heritage of India to Barack Obama.</p>
+        <h2>Dokra – Tribal Echoes in Metal</h2>
+        <p>Dokra, a metal casting technique that is thousands of years old, uses the lost-wax method of casting bronze and brass into sculptures, lamps, and jewelry. It is pursued by tribal communities in Chhattisgarh, Odisha, and Bengal, and each piece of dokra is raw, earthy, and totally handmade. Whether a figurine of a tribal god, or decorative bells, the charm is found in their imperfections.</p>
+        <h2>Kanjeevaram & Banarasi Weaves – Sarees Fit for Queens</h2>
+        <p>While sarees are technically textiles, hand-woven sarees of the so-called "iconic isharees" of India—especially Kanjeevaram and Banarasi—rightly deserve a spot in this list. Kanjeevaram & Banarasi ranges of sarees are characterized by the sheen of their zari borders, the heaviness of their silk fabric, and the nature of their mythological designer. Often gifted during major life events, Kanjeevaram sarees are heirlooms passed through generations. Kanjeevaram sarees are from Tamil Nadu, and Banarasi weaves are from Uttar Pradesh. Both types of sarees are done by skilled hands and transferred skills, consumers experience traditional weaving from the past.</p>
+        <h2>Stolen Threads & Silent credit : How the World Ripped-off Indian Culture</h2>
+        <p>India is not just a country, it is a cultural powerhouse. For thousands of years, we have crafted beauty, lived age old traditions, and participated in healing and wellness practices so deep, it could humble the entire industry. The problem being, the world loves Indian Aesthetics, only when they’re not called Indian.</p>
+        <p>Yet today, our cultural traditions are being stolen, stripped of their foundations and repackaged - what was once deemed "too ethnic" is now repackaged as "boho chic" or "clean girl aesthetic" - without the attribution. The world loves Indian culture as long as they don't have to say the word India.</p>
+        <h3>Kolhapuri Chappals: Now Being Re-Sold as “Minimal Leather Slides” (Without the Credit, Of Course)</h3>
+        <p>Now, these are not just sandals. Kolhapuris are leather sandal masterpieces, handcrafted in Maharashtra, India, by artisans whose family traditions are handed down for generations. Each stitch and aspect makes each pair unique.</p>
+        <p>However, if you search various global fashion sites you will see predominant replicas they sell as “heritage leather slides” or “boho summer flats” without even speaking of Kolhapur or the artisans who made them epic. They grabbed our chappals, slapped a neutral name on it and doubled the price. That’s theft not appreciation, in beige.</p>
+        <h3>The Dupatta: Are we Seriously Calling it a “Scandinavian Scarf?</h3>
+        <p>Since when do gorgeous, flowing, embroidered scarves, which are quintessential India travel trinkets, become a "Nordic winter trend." The dupatta has represented traditional elegance, respectability, cultural identity, and mood. It’s not just a piece of fabric. It's a legacy.</p>
+        <p>Fast-forward to the global influencer who takes a dupatta, drapes it over their trench coat and dares to call it a "Scandinavian wrap." Excuse me?! That’s not called minimalism, that’s called amnesia. Time to wake up and remember where it all began, just because it now works in your neutral feed does not mean we should forget and erase it from all cultural significance!</p>
+        <h3>Clean Girl” Aesthetic? South Indian Women Have Been Doing That Since Forever.</h3>
+        <p>Let’s unpack the idea of the so-called “clean girl” trend—oiled hair styled in a bun, the ultimate glowing skin, gold jewelry, bare skin, and fresh cotton drapes. The West puts "effortless" on it—we need to CHANGE OUR VOCABULARY—this is just daily life for coconut oil and or turmeric in our face South Indian aunties. South Indian women—specifically Tamil and Malayali queens have been sporting this clean girl aesthetic long before Pinterest was even a thing. You know—after you've put coconut oil in your hair, turmeric on your face, put a little jasmine in your braid, and put on a pair of gold hoops with your silk saree? No, that's not Hailey Bieber, ma'am—that’s your local temple auntie who’s been doing this forever.</p>
+        <p>They've been criticized for being "too traditional," but now that it's rebranded, it's considered "high fashion." That's a loud temple bell of a double standard.</p>
+        <h3>Yoga: From Sacred to Branded</h3>
+        <p>Yoga was never meant to just be a form of touching one's toes. It is a system of philosophy and spirituality that arose from the heart of India more than 5,000 years ago. Yoga comes from Sanskrit terminology, the Upanishads and Bhagavad Gita. It encompasses meditation, breath, balance, and dharma.</p>
+        <p>So why has it now been marketed to the world as a sweaty gym class with $120 leggings and a green juice? The West stripped the soul out of Yoga, re-branded it, and erased its origins to sell it as a "lifestyle brand." Most yoga studios barely pronounce asana correctly, and do not recognize the culture from which they appropriated asana. This isn't evolution, it is erasure.</p>
+        <p>Because we have had enough.</p>
+        <h2>Reclaiming, Not Gatekeeping</h2>
+        <p>Too long have we watched our culture be pillaged like a buffet; take the turmeric, leave the ugly brown people (us). Take the dupatta (shawl) but not take the history. Take the rituals and do not take the reverence or honor? It's tiring. And take the anger.</p>
+        <p>We are not gatekeeping, we are reclaiming. We love Indian culture, we love to wear Indian crafts and practice Indian traditions, but do not erase us from our history. Give us credit. Uplift the artisans. Learn history. Respect our roots.</p>
+        <p>India is not a trend—it is the model.</p>
+        <p>Our fashion is not saying "boho". It is refined from centuries of craft. Our beauty is not "glow-up", it is ayurveda. Our rituals are not something to take a photo of, they are sacred.</p>
+        <p>So, next time you see a "minimalist leather slide", a "Scandi-inspired scarf," or a "clean girl bun" remember there is a story, culture, and people behind that trend. India has been iconic. The world is just catching up.</p>
+      </div>
+    `,
+    image: "/mihikaart.jpeg",
+    author: {
+      name: "Mihika Singh",
+      username: "indicore"
+    },
+    category: "Arts & Culture",
+    date: "2025-07-10",
+    readTime: "10 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Handicrafts", "Culture", "Artisans", "India", "Craft"],
+    featured: false,
+    isPublished: true
   }
 ];
 
