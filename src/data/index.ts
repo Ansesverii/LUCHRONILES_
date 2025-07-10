@@ -6973,6 +6973,57 @@ export const articles: Article[] = [
     tags: ["Gender", "Marriage", "Media", "Patriarchy", "Violence"],
     featured: false,
     isPublished: true
+  },
+  {
+    id: "sanitation-workers-crisis-dignity",
+    title: "The People Who Keep Our Cities Alive: Sanitation Workers, Manual Scavengers, and The Crisis of Dignity",
+    slug: "sanitation-workers-crisis-dignity",
+    excerpt: "A look at the invisible, essential labor of sanitation workers and manual scavengers, and the crisis of dignity they face in India.",
+    content: `
+      <div>
+        <p>Much before the first cup of chai is made, before traffic lights begin to flash, and before city roads come alive, there is an invisible army who has already begun their work. They sweep away what we litter, unclog what we jam, and enter spaces we wouldn’t even dare to look at. They are the sanitation workers and manual scavengers - individuals who are crucial to our lives, and are left unheard, unseen, and uncared for.</p>
+        <p>Their job is not glamorous. It is dangerous, degrading, and frequently lethal. But without them, cities would become bogged down in their own trash.</p>
+        <h2>The Everyday Peril of Their Work</h2>
+        <p>In India, thousands of people still engage in manual scavenging - the inhumane practice of cleaning human excreta from dry latrines, sewers, and septic tanks by hand. Though the practice was officially banned in 1993 and again under a more stringent law in 2013, loopholes and lack of enforcement allow it to continue, especially in smaller towns and urban slums.</p>
+        <p>Death is not a rare outcome in this line of work. Just a year ago, a 27-year-old sewer man in Delhi died after being pushed into a manhole without protection. Within minutes, he lost consciousness because of poisonous gas. His family had some mentions in the newspapers, a quick cremation, and silence. No official stepped forward. No compensation came. No arrests followed. These are not isolated instances - they are systematic failures.</p>
+        <p>Between 2016 and 2023, more than 400 manual scavengers died cleaning sewers and septic tanks in India, reportedly. The number is probably low. Death most commonly occurs due to asphyxiation, poisonous gas exposure, or drowning. Several workers are lowered into manholes on ropes, with no respirators, no gloves, no masks - nothing but their bodies between them and the dangers.</p>
+        <p>Local governments tend to describe these occupations as "voluntary" or "contracted-out" to private companies - shedding all responsibility. But when poverty, caste-based discrimination, and absence of alternative work push someone into this sort of work, is it a choice really?</p>
+        <p>The majority of manual scavengers are from the Dalit community, long regarded as "untouchables" under India's highly patriarchal caste system. The groups have been driven into occupations deemed "unclean" or "impure" for generations. In some instances, the work gets passed down from generation to generation like a malevolent legacy.</p>
+        <h2>Lack of Protection, Lack of Care</h2>
+        <p>One of the most horrific things about this job is the total absence of safety equipment. Although the law requires the employment of PPE (Personal Protective Equipment) kits made up of gloves, masks, boots, and oxygen cylinders, the situation is even more dismal.</p>
+        <p>Sanitation workers primarily enter manholes barefoot, shirtless, and with zero protection against illness or death. Municipal corporations either fail to provide PPE kits or offer old, inadequate ones that workers decline to wear because they are useless or defective. In India, most municipalities do not even have the latest machines for cleaning the sewage systems and thus sewage workers are required to enter the underground sewerage lines through manholes.</p>
+        <p>Rather than using modern equipment or safety inspections, workers have to make do with an ancient and spooky method - they toss a pebble down the sewer. If a cockroach or rat emerges, then it's considered safe to enter, assuming there’s enough oxygen. Otherwise, it might be too late for them the moment they enter.</p>
+        <p>Imagine a job where your survival depends on whether a cockroach crawls out of a sewer. That is the horrific reality of manual scavengers in India.</p>
+        <h2>Why Don't We See Them?</h2>
+        <p>Why don't we ever see these individuals? Maybe it's because we won't. Because seeing them unsettles us. They remind us of a reality we prefer to forget - that our luxury is founded upon the suffering of another. We refuse to admit them in public areas, shun eye contact, and flinch from the odor without knowing that the smell emanates from our own waste.</p>
+        <p>Media reports are rare. Government statistics are unreliable. And public outrage? Non-existent. We glorify "Swachh Bharat" but forget the hands that sustain it.</p>
+        <h2>Change Has to Begin at the Source</h2>
+        <p>We must end glamorizing resilience and begin asking for justice. Manual scavenging should not only be prohibited by law - it should become socially unacceptable and economically irrelevant. This includes:</p>
+        <ul>
+          <li>Holding municipal corporations criminally liable for illegal use of manual scavengers.</li>
+          <li>Issuing proper, functional PPE kits to all sanitation workers.</li>
+          <li>Implementing mechanized cleaning systems rather than manual labor.</li>
+          <li>Providing respectful alternative work and vocational training to workers leaving this profession.</li>
+          <li>Securing equitable wages, health care coverage, and compensation in the event of injury or death.</li>
+        </ul>
+        <p>Above all, we must have a shift in attitude. Sanitation workers are not performing "dirty work"- they are performing critical work. And it is we who are responsible for making it dirty by denying them dignity.</p>
+        <h2>A City is Only as Clean as Its Conscience</h2>
+        <p>The next time you walk on a newly cleaned street or flush a toilet without even thinking twice, remember- someone made it happen. An actual person with a name, a family, and a history.</p>
+        <p>They are not workers. They are human beings. They are what make our cities run, and it's time we treated them that way.</p>
+        <p>Cities are usually admired for their skylines, for their tech parks, and for their cultural festivals. Perhaps the true measure of a city's greatness lies in how it treats those who keep it standing, silently and thanklessly.</p>
+      </div>
+    `,
+    image: "/city.jpeg",
+    author: authors.find(a => a.username === "aliya-imam")!, // Change username if needed
+    category: "Society",
+    date: "2025-07-10",
+    readTime: "8 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Sanitation", "Dignity", "Society", "Labour"],
+    featured: false,
+    isPublished: true
   }
 ];
 
