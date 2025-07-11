@@ -7162,7 +7162,7 @@ export const articles: Article[] = [
     `,
     image: "/jpe.jpeg",
     author: authors.find(a => a.username === "captain-jack-sparrow")!,
-    category: "Society",
+    category: "University",
     date: "2025-07-11",
     readTime: "8 min read",
     views: 0,
