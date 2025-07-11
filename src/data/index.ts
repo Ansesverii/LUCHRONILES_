@@ -7087,6 +7087,90 @@ export const articles: Article[] = [
     tags: ["Handicrafts", "Culture", "Artisans", "India", "Craft"],
     featured: false,
     isPublished: true
+  },
+    {
+    id: "are-men-too-emotional-leadership",
+    title: "Are Men Too Emotional to Be in Positions of Leadership?",
+    slug: "are-men-too-emotional-leadership",
+    excerpt: "A provocative look at the double standards of emotion in leadership, questioning whether emotional volatility in men has shaped history and power.",
+    content: `
+      <div>
+        <p>It is a question that, on the surface, reads like satire. But then you remember the tantrums. The unfiltered tweets at 3 a.m. The sulking after parliamentary debates. The blood-boiling monologues in war rooms. You recall the finger-pointing press conferences, the volcanic bursts of ego on global stages, the treaties torn in pique, the wars started in fury. You remember, too, the shaking jowls, the reddening faces, the refusal to admit error, because shame is too great an emotion to bear. And you start to wonder, less in jest, more in earnest, whether it is emotional instability, not rational detachment, that has long defined masculine power.</p>
+        <p>For decades, the popular myth has held that women, too soft, too sensitive, too swayed by feeling, were unfit for the ruthless objectivity of leadership. But what if the historical record suggests the opposite? What if it’s not empathy but unregulated anger that has done more damage in boardrooms and war cabinets alike? What if patriarchy has been one long, loud overreaction? What if the much-caricatured “emotional woman” is a straw figure, built, ironically, by emotional men?</p>
+        <p>The double standard is old as time. When women express emotion in public, they are pathologized, seen as unstable, hysterical, unfit. But when men display emotion, especially anger or aggression, it is reframed as righteous passion or moral conviction. The selective tolerance of emotion isn’t just sexist; it’s structurally dangerous.</p>
+        <h2>The Fallout of Fragility</h2>
+        <p>When emotional volatility goes unchecked in male leadership, it doesn't just reveal character, it reshapes history and destabilizes institutions. From Nixon’s Watergate paranoia to Boris Johnson’s bluster-fueled Brexit gamble, we’ve repeatedly seen men in power privilege ego over consequence.</p>
+        <p>The recent spat between Donald Trump and Elon Musk offered yet another spectacle of high-stakes immaturity. What began as a disagreement over Trump’s so-called “Big, Beautiful Bill” quickly devolved into mutual threats. Musk denounced the policy as “a disgusting abomination,” while Trump responded by vowing to cut Tesla’s federal contracts and ominously invoking DOGE, the bureaucratic task force Musk once led, as a political weapon. Markets reeled, Tesla lost billions in value, and somewhere amid the playground fight, governance vanished. Musk, notably, escalated the conflict by dredging up long-suspected but previously unspoken allegations about Trump’s history of sexual abuse, including claims of child rape. That explosive revelation, however disturbing, came not from a principled sense of civic duty but seemingly as a retaliatory blow, disclosure only as vengeance. (But that is another discussion.)</p>
+        <p>The damage, in such moments, extends far beyond the personal. Decisions are made not through policy deliberation but through grudge matches. Wars are started, treaties torn, and economies jolted because fragile men in high places feel slighted. The inability to tolerate criticism, or to separate personal identity from public responsibility, has repeatedly led to catastrophe.</p>
+        <p>Whether it was George W. Bush’s war of pride in Iraq, or India’s crackdown on dissent under leaders who conflate opposition with insults, or who transform Parliament into their personal amphitheater - slow tears, measured pauses, while debate stalls and the unspoken question hangs in the air - who’s left to speak? (But again, that is another discussion.)</p>
+        <p>The pattern is depressingly consistent. Rage governs where reflection should. Retaliation replaces reason. And the collateral damage is borne by everyone else.</p>
+        <p>Men often speak of being denied the space to express emotion. And yet, we see anger aired freely, through shouting, sulking, power plays, and public outbursts. As if anger weren’t an emotion. As if the only feelings permitted are those that dominate rather than reveal. It’s not the absence of expression; it’s the absence of reflection.</p>
+        <h2>The Calm of Competence</h2>
+        <p>A counterpoint exists, and it is instructive. Consider the nations that have, over the last decade, been led by women: New Zealand under Jacinda Ardern. Finland under Sanna Marin. Germany under Angela Merkel. Denmark under Mette Frederiksen. Taiwan under Tsai Ing-wen.</p>
+        <p>These are not utopias, but patterns are emerging that cut across geography: lower rates of corruption, higher levels of citizen trust, fewer COVID deaths per capita, better health outcomes, more robust social safety nets, and notably, a greater sense of national contentment.</p>
+        <p>In 2021, a global Gallup poll measuring happiness and institutional trust found a strong correlation between countries with inclusive governance and higher well-being metrics. More often than not, these countries were led by women. The explanation is not biological. It is not that women are inherently better. It is that the path to power for women is so much narrower, so rigorously scrutinized, so allergic to missteps, that those who rise tend to be better prepared, more measured, and more collaborative by necessity.</p>
+        <p>They have to be. Men can fail upward. Women must fly straight.</p>
+        <h2>Rethinking the Question</h2>
+        <p>This isn’t a call for reverse essentialism. Men are not innately unfit to govern, just as women were never too emotional. But the question forces a reassessment, not of biology, but of how we define composure, competence, and credibility. Why do we valorize bombast and punish vulnerability? Why do we conflate shouting with strength, and poise with passivity?</p>
+        <p>The problem was never emotion itself. Emotion fuels conviction, sharpens instinct, makes a leader human. The trouble begins when those emotions, especially in men, are unexamined, unmanaged, and inflated to the size of a press conference.</p>
+        <p>Emotional intelligence, once dismissed as a corporate buzzword, now seems like the last guardrail between democratic function and primal scream. It means knowing the difference between urgency and panic, criticism and betrayal, diplomacy and a sulk.</p>
+        <p>The emotionally intelligent leader doesn’t flinch at accountability, threaten a journalist, invade a country, or nuke a budget because someone bruised their ego on cable news. They might, however, take a walk, read a book, or call their therapist, which, let’s face it, would be the most radical act some cabinets have ever seen.</p>
+        <p>It is easy to write off the question as satire. But satire, at its best, illuminates what truth has grown too familiar to see. The real provocation isn’t whether men are too emotional. It’s why we’ve refused, for so long, to admit they might be, while we're still asking women to smile more.</p>
+      </div>
+    `,
+    image: "/shhh.jpeg",
+    author: authors.find(a => a.username === "shumaila-khan")!,
+    category: "Op-ed",
+    date: "2025-07-11",
+    readTime: "9 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Gender", "Leadership", "Emotion", "Patriarchy", "Society"],
+    featured: false,
+    isPublished: true
+  },
+  {
+    id: "dalit-professor-university-silence",
+    title: "A Dalit Professor, a University, and the Machinery of Silence",
+    slug: "dalit-professor-university-silence",
+    excerpt: "How the prosecution of Prof. Ravikant Chandan at Lucknow University reveals the institutional machinery of silencing dissent and the dangers faced by critical faculty.",
+    content: `
+      <div>
+        <p>On June 16, 2025, the University of Lucknow granted formal sanction to the police to prosecute Prof. Ravikant Chandan — a Dalit professor in the Hindi Department — for a Facebook post in which he wrote: “Women like Sonam are produced by the RSS thought process.” For this single sentence — posted in response to a gruesome murder case in Meghalaya — he now faces the full force of state prosecution.</p>
+        <p>But in any democracy, no one should be hounded, attacked, defamed, or criminalised for saying things — not least when those things are opinions, critiques, or political claims. That a professor can be slapped on campus and then prosecuted in court — not once, but twice — says far more about the condition of our public institutions than it does about his words.</p>
+        <p>This is not the first time. In fact, this is not even the first FIR. It is the second.</p>
+        <p>To understand what is happening today, one must return to May 2022.</p>
+        <p>That month, Prof. Ravikant participated in an academic discussion hosted by Satya Hindi on the Gyanvapi–Kashi Vishwanath issue. He cited an anecdote from Pattabhi Sitaramayya’s Feathers and Stones, in which Aurangzeb allegedly demolished the temple after a case of sexual violence. Ravikant not only clarified that it was a story and not a verified fact — he questioned its reliability. But a one-minute edited clip of his statement, stripped of all context, was circulated by right-wing accounts.</p>
+        <p>What followed was not debate, but a coordinated mob attack. On May 10, 2022, activists from the ABVP and affiliated groups gathered on campus, chanting “Desh ke gaddaron ko, goli maaro saalon ko,” branding him anti-Hindu, anti-national, and anti-Brahmin. He was surrounded and abused — not just intellectually but physically. They hurled caste slurs. They threatened to kill him. The professor had to seek shelter inside the proctor’s office, where he remained for hours under police watch.</p>
+        <p>Instead of taking action against the mob, the Hasanganj Police filed an FIR against Ravikant under IPC Sections 153A, 504, 505(2), and Section 66 of the IT Act. The university issued a show-cause notice, but took no action against the perpetrators of the threat.</p>
+        <p>Eight days later, on May 18, things got worse. Ravikant was physically slapped on campus by a student, Karthik Pandey, in front of eyewitnesses. The assailant used casteist slurs during the assault. An FIR was finally lodged under the SC/ST Atrocities Act. The student was suspended, and months later — only after the Allahabad High Court asked for an update — he was expelled from the university. But the other members of the May 10 mob still roam the campus freely. No action has ever been taken against them.</p>
+        <p>This isn't an exception. It is part of a pattern.</p>
+        <p>Earlier this year, Dr. Madri Kakoti, a faculty member in the Linguistics Department, was similarly targeted. She was booked under sedition and provisions of the Bharatiya Nyaya Sanhita for a social media post that criticised communal narratives following the Pahalgam terror attack. Her words were distorted, outrage was manufactured, and the university did not stand by her. She had to approach the Allahabad High Court for anticipatory bail — and got it. But the cost was the same: isolation, defamation, and institutional silence.</p>
+        <p>What do these cases have in common?</p>
+        <p>They target faculty members who are critical, who are progressive, who challenge majoritarian narratives. They are punished not for what they said, but for who they are and what they represent. Dalit. Woman. Left-leaning. Independent. Unapologetic.</p>
+        <p>And what of the university?</p>
+        <p>The University of Lucknow has now twice failed to protect its own faculty. Once, by remaining silent when mobs issued death threats on campus. Twice, by giving police sanction to prosecute a professor for a social media post. These are not isolated incidents. These are institutional choices. Choices made to discipline dissent and show obedience to the ruling ideology.</p>
+        <p>But the stakes are larger.</p>
+        <p>Because when a professor is slapped in daylight, and the administration takes eight weeks to respond — that is not just negligence. That is consent.</p>
+        <p>Because when a Dalit scholar is made to fear for his life for quoting a line from a book — that is not just censorship. That is Brahminical revenge.</p>
+        <p>Because when universities become places where teaching history invites violence, where Facebook posts become police matters, and where no one is safe from surveillance — then the classroom is no longer a space of learning. It is a courtroom without process.</p>
+        <p>Today, Prof. Ravikant stands at the receiving end of this machinery. But he is not alone. He is one of many across this country who are being told: stay silent, or face ruin.</p>
+        <p>Let us be clear: if we fail to stand by him now, we will be standing at our own grave tomorrow — as students, as teachers, as writers, as citizens.</p>
+        <p>The real threat is not a sentence in a classroom. The real threat is the silence of those who know better, and still choose not to speak.</p>
+      </div>
+    `,
+    image: "/jpe.jpeg",
+    author: authors.find(a => a.username === "captain-jack-sparrow")!,
+    category: "Society",
+    date: "2025-07-11",
+    readTime: "8 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Dalit", "Caste", "University", "Dissent", "Society", "Academic Freedom"],
+    featured: false,
+    isPublished: true
   }
 ];
 
