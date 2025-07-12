@@ -7171,6 +7171,104 @@ export const articles: Article[] = [
     tags: ["Dalit", "Caste", "University", "Dissent", "Society", "Academic Freedom"],
     featured: false,
     isPublished: true
+  },
+  {
+    id: "ignored-misdiagnosed-dismissed-women-healthcare",
+    title: "Ignored, Misdiagnosed, Dismissed: Women in healthcare",
+    slug: "ignored-misdiagnosed-dismissed-women-healthcare",
+    excerpt: "How the medical system fails women through biased research, misdiagnosis, and systemic neglect that puts lives at risk.",
+    content: `
+      <div>
+        <p>"You are stressed", "try to do some exercise" — that's what the doctor told Sufi, who is a 35-year-old woman and has been feeling lightheaded, tired, short of breath. Doctors sent her home, unnoticed - it wasn't until she died of a heart attack.</p>
+        <p>Medicine is a field based on objectivity and science, where biases should not exist. Yet, we have seen our mothers, aunts, sisters go undiagnosed until it's too late. It's not just doctors who are at fault, but the whole system - researchers, pharmaceuticals, medical schools. The fault lies at the core. Having to ask for equality in human rights is dehumanizing.</p>
+        
+        <h2>The Male Norm in Medical Research</h2>
+        <p>Until the early 1990s, women were routinely excluded from clinical trials - the reason was hormone fluctuations, lack of understanding of reproductive health, and entrenched andronormativity. This criticism in including women in research obviously persists in today's times as well, and it all starts from research.</p>
+        <p>According to the National Library of Medicine, there is underrepresentation of female subjects in animal research across disciplines. Yet, when we incorporate females in research it has revealed that they have different responses to pain. The lack of preclinical research has led to poor medical infrastructure for women. Males are seen as more stoic, meaning less reaction to pain - so when a woman complains about more pain than men, they are considered as sensitive, emotional or overreacting. Due to this lack of research on females, treatments for women may not work as well as they should.</p>
+        <p>When we see the statistics on gender bias, we notice a significant gap of research — across 10 biology-related fields found a clear male bias in 8 of them - including neuroscience, pharmacology, and behaviour. Neuroscience is the worst offender— where for every 1 study on female animals, there were 5 studies on males. Only 20% of neuroscience studies used both sexes and 25% didn't even mention the sex of the animals they used.</p>
+        <p>It is recently noticed that male biased studies are increasing, as scientists want hassle free trials. While in mixed-sex studies, researchers rarely analyze the results separately for males and females.</p>
+        
+        <h2>Outcome of Ignorance</h2>
+        <p>When we turn blind eye to such basic care, we basically harm people, to find an easier way out in medicine just because the results are easier to obtain and analyze. Endometriosis impacts 1 in 10 women of reproductive age, but, on average we have to wait 7–10 years to get a diagnosis. Menopause - something nearly half the population will experience- remains understudied, and treatments are often outdated or ineffective, symptoms, lack of understanding is still alarming. Autoimmune disorders - more common among women - are another case in point. Though widespread, they receive fewer dollars than men's diseases. That slows down everything: diagnosis, treatment, even public awareness.</p>
+        <p>And then there's the layer underneath - the intersection of gender and race, class, caste. Black women, to give just one example, are 3 to 4 times more likely to perish from pregnancy-related causes in the United States - and no, it's not because they're lacking in education or funds. It's just plain old systemic neglect.</p>
+        
+        <h2>Mental Health: Still Not Taken Seriously</h2>
+        <p>Mental illness isn't even "serious" in most instances, and with women, it's always somehow attributed to hormones, mood swings, or stress. Women are more frequently diagnosed with anxiety or depression, but also more frequently brushed off. A woman experiencing chest pain may be sent home and told it's anxiety, when it's actually a heart condition.</p>
+        <p>ADHD in females is another case in point - too frequently overlooked because girls don't necessarily "act out" the same manner as boys. They overthink, clam up, space out - and are labeled sensitive or moody instead. Even autism often goes undiagnosed in girls because the diagnostic standards were developed based on how boys present symptoms.</p>
+        <p>Also, women's pain is constantly doubted. Chronic pain? Probably in your head. Period pain? Normal. You'll be fine. Studies show that women's pain is more likely to be referred to a psychologist than treated seriously.</p>
+        
+        <h2>So Where Do We Go From Here?</h2>
+        <p>More women in medicine and research are bringing these points up. Some journals are now mandating sex-based analysis. A few schools of medicine are revising the curriculum. It's slow, but it's something.</p>
+        <p>But token gestures won't do. This isn't about correcting a few errors; it's about turning the corner on the foundation. We need more female-led studies, more research funding for "female" illness, more representative drug testing, and above all - real listening. Listen to what patients tell us, how they feel, what their bodies are reporting.</p>
+        
+        <h2>The Bottom Line</h2>
+        <p>Medicine today is not neutral. It was constructed by men, experimented on men, and continues to treat women as an afterthought very often. And every time we forget that, someone like Sufi gets sent home —doesn't return.</p>
+        <p>Health is not one-size-fits-all. Biology, identity, experience, all of these matter. It's time our medicine caught up with that accounted for.</p>
+      </div>
+    `,
+    image: "/asd.jpeg",
+    author: authors.find(a => a.username === "aliya-imam")!,
+    category: "Health",
+    date: "2025-07-12",
+    readTime: "12 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Healthcare", "Women", "Medical Bias", "Research", "Gender", "Health"],
+    featured: false,
+    isPublished: true
+  },
+  {
+    id: "new-cool-everything-trend-nothing-real",
+    title: "The New Cool: When Everything Is a Trend and Nothing Feels Real",
+    slug: "new-cool-everything-trend-nothing-real",
+    excerpt: "From labooboos to lifestyle cores, today's trends move faster than our taste. What does it mean when anything, no matter how strange or impractical, can become fashionable?",
+    content: `
+      <div>
+        <p>From labooboos to lifestyle cores, today's trends move faster than our taste. What does it mean when anything, no matter how strange or impractical, can become fashionable?</p>
+        
+        <h2>The Age of Strange Trends</h2>
+        <h3>Ugly is the new luxury</h3>
+        <p>They look swollen, synthetic, and slightly ridiculous. Yet the labooboos—oversized rubber shoes with an inflated design—are being worn, photographed, and sold at luxury prices. Their popularity has little to do with comfort or beauty. Instead, they've gone viral for being bold, bizarre, and difficult to ignore.</p>
+        <p>In the world of trends today, that's all it takes.</p>
+        
+        <h2>Fast Fashion Isn't Just Clothes, It's Culture</h2>
+        <h3>Trend cycles are speeding up</h3>
+        <p>Not long ago, fashion followed seasons. Now it follows algorithms. Aesthetic "cores" like clean girl, coquette, tomato girl, mob wife, blokette(a hybrid of sporty and feminine streetwear)—even if they begin as niche styles—spread fast online and vanish just as quickly.</p>
+        <p>The problem isn't novelty—it's how quickly it disappears. The pressure to switch between styles, moods, and aesthetics leaves little room for people to figure out what they actually like. And that pressure isn't just about how we look. It's about who we think we are.</p>
+        
+        <h3>From "Fast Fashion" to "FOMO"</h3>
+        <p>The emotional weight of being 'outdated'</p>
+        <p>In a system where everything is trending, not keeping up can feel like falling behind. People aren't just buying into looks. They're buying into visibility, attention, and relevance. Especially for young people, there's a subtle fear: If I don't have the right look, am I even part of the conversation?</p>
+        <p>Over time, this creates a kind of quiet stress. The fear of missing out becomes the reason we scroll, shop, and post, just to keep up.</p>
+        
+        <h2>When Taste Stops Feeling Personal</h2>
+        <p>Do we like it, or are we just manipulated by the internet?</p>
+        <p>Labooboos are not the only example. Crocs made a comeback, jelly shoes resurfaced, and even extremely oversized clothing trends went from joke to luxury in months. When enough people wear something, our brains adjust. We start liking things we didn't, not because they changed, but because repetition works.</p>
+        <p>This makes it hard to tell where personal taste ends and trend-following begins. Is it still fashionable if it's driven by pressure instead of choice?</p>
+        
+        <h2>The Real Cost of Constant Change</h2>
+        <p>When your style keeps changing, so do you</p>
+        <p>The more we try to keep up with trends, the harder it becomes to know who we really are. Fashion used to be about expression. Now, it often feels like we're just editing ourselves again and again to stay visible.</p>
+        <p>When your look changes every few weeks, your sense of self can start to feel shaky. It's no longer just your clothes that are being updated. It's your identity.</p>
+        <p>After a point, you're not sure if you're dressing for yourself or just trying not to fall behind. It stops being fun and starts feeling like a quiet kind of pressure—to always be current, always be seen, always be "in."</p>
+        
+        <h2>Conclusion: The Trend Will Fade, But What It Leaves Behind Won't</h2>
+        <p>Labooboos will fade, like jelly shoes did, like "clean girl" might, like so many things before them. But what stays is the way we've started measuring ourselves. By how we look currently. By how quickly we adapt. By whether we're seen.</p>
+        <p>The real challenge isn't about liking or not liking a trend. It's about asking why we care so much in the first place. And maybe, once in a while, choosing to step back. Not because we're above it, but because we're more than a trend cycle.</p>
+      </div>
+    `,
+    image: "/fashion.jpeg",
+    author: authors.find(a => a.username === "prerna-srivastava")!,
+    category: "Fashion",
+    date: "2025-07-12",
+    readTime: "8 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Fashion", "Trends", "Culture", "Social Media", "Identity"],
+    featured: false,
+    isPublished: true
   }
 ];
 
