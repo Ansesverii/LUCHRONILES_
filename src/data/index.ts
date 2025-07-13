@@ -7269,6 +7269,122 @@ export const articles: Article[] = [
     tags: ["Fashion", "Trends", "Culture", "Social Media", "Identity"],
     featured: false,
     isPublished: true
+  },
+    {
+    id: "elegance-screwed",
+    title: "Elegance, Screwed",
+    slug: "elegance-screwed",
+    excerpt: "Glen Martin Taylor's ceramic art challenges our notions of beauty and repair, using industrial hardware to reassemble broken pieces in a powerful commentary on trauma and resilience.",
+    content: `
+      <div>
+        <p>Let's begin with a broken plate. Not metaphorically (though feel free to go there), but literally: a piece of fine china, fractured, splintered, and now reassembled not with dainty care but with steel bolts, barbed wire, and what looks suspiciously like industrial hardware pilfered from a junk drawer in a basement workshop.</p>
+        <p>This is the world of Glen Martin Taylor (IG: @glenmartintaylor), a ceramic artist whose work hurls a wrench (sometimes literally) into the delicate mythologies we attach to beauty, repair, and sentiment. If kintsugi, that meditative Japanese art of mending pottery with gold, tells us our cracks are precious, Taylor replies, "Sure. Precious like trauma. And just as painful to live with."</p>
+        
+        <h2>The Beauty of the Unpretty</h2>
+        <p>Where kintsugi wraps breakage in the soothing glow of redemption, Taylor's ceramics are practically yelling. They don't whisper stories of resilience. They scream "LOOK WHAT HAPPENED TO ME." Plates are sutured with thread and nails. Teacups are held hostage by thick black wire. A vintage saucer, probably once admired in a Victorian parlor, is now speared through by scissors.</p>
+        <p>Take, for instance, the plate that reads, "But I am so pretty on the inside" (posted June 18), its rim pierced with a perimeter of nails like a crown of thorns. Or the one declaring, "Tidy wounds still leave scars," with nails barely holding its fragile form, like a smile that tries too hard.</p>
+        <p>It's art that has no time for your soft-focus Instagram epiphanies.</p>
+        <p>It's art not for aesthetics but for catharsis.</p>
+        
+        <h2>Fine China, Finer Rage</h2>
+        <p>Taylor's genius lies in his collision of codes. On one hand, the vocabulary of domestic nostalgia: floral china, doilied patterns, ceramic rabbits. On the other, the violent lexicon of trauma: clamps, duct tape, hammers, severed limbs.</p>
+        <p>This isn't just visual dissonance. It's a conceptual gut-punch.</p>
+        <p>One piece, a dainty cup split open and stitched with thick wire, practically dares you to pour tea in it. Another features a perfectly nice plate, scorched and scrawled with the phrase, "Now is it." It's not clear what that means, but it doesn't sound reassuring. And maybe that's the point. Nothing about recovery is.</p>
+        <p>It's domesticity as a battlefield.</p>
+        <p>If Martha Stewart is the propaganda arm of home life, Glen Martin Taylor is the embedded war photographer.</p>
+        
+        <h2>Look What It Took</h2>
+        <p>Let's put this old fable to bed—The one where trauma is a character-building exercise and pain comes with a diploma in resilience. You've heard it. "What doesn't kill you makes you stronger." Right. And falling down the stairs makes you a dancer.</p>
+        <p>In Taylor's work, there is no graceful redemption. Just visible sutures. Not golden seams but grotesque welds. Plates that say "Art can save your life," but look like they've barely survived the surgery. Or worse, like they've done it to themselves.</p>
+        <p>These pieces don't end in triumph. They don't even end in healing. They sit in the middle of the mess, which, to be honest, is where most of us actually live.</p>
+        <p>You don't look at a plate bolted together like a medieval torture device and think, "Wow, so brave." You think, "God, what happened here?" Which is exactly the point.</p>
+        <p>There's no gold-dusted kintsugi romance. Just a teacup wired shut like it's bracing for another explosion.</p>
+        <p>This isn't strength. It's a reflex. A kind of psychic muscle memory for disaster. The work twitches. It clenches. You get the sense that if it could speak, it wouldn't say, "I'm healed."</p>
+        <p>It would say, "I didn't have a choice."</p>
+        <p>Taylor's pieces are not affirmations. They're conditions.</p>
+        <p>Not "I made it through," but "This is what I look like now."</p>
+        <p>Strength, if we must call it that, is just another word for surviving badly, a side effect.</p>
+        
+        <h2>Still Art</h2>
+        <p>Taylor's ceramics are not polite. They are not precious. They do not attempt to hide the fact that damage hurts, that repair can feel like violence, that stitching yourself back together often means reaching for tools you barely know how to hold.</p>
+        <p>In a culture obsessed with being "whole," Taylor suggests that wholeness is a myth and a dangerous one.</p>
+        <p>What his plates offer instead is a kind of ugly grace. Not the fantasy that brokenness makes us beautiful, but the colder, harder idea that brokenness is simply real.</p>
+        <p>And if you need a little beauty with your truth, you'll find it. Not in the shimmer of gold leaf, but in the jagged honesty of a plate screwed together like a hostage situation at a vintage store.</p>
+        
+        <h2>Postscript: Handle with Care. Or Don't.</h2>
+        <p>Art doesn't always have to inspire. Sometimes it just has to tell the truth. Glen Martin Taylor's work may not mend your heart, but it'll show you what it looks like cracked open.</p>
+        <p>And that, too, is a kind of beauty.</p>
+        <p>One that doesn't flinch.</p>
+        <p>Even if the plate does.</p>
+      </div>
+    `,
+    image: "/allaaa.jpeg",
+    author: authors.find(a => a.username === "shumaila-khan")!,
+    category: "Art",
+    date: "2025-07-13",
+    readTime: "10 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Art", "Ceramics", "Trauma", "Beauty", "Repair", "Contemporary Art"],
+    featured: false,
+    isPublished: true
+  },
+    {
+    id: "neocolonialism-machinery-economic-exploitation",
+    title: "Neocolonialism and the Machinery of Economic Exploitation",
+    slug: "neocolonialism-machinery-economic-exploitation",
+    excerpt: "How developed nations continue to exploit developing countries through debt dependency, corporate dominance, and unequal trade relations in the post-colonial era.",
+    content: `
+      <div>
+        <p>Walter Rodney, in his book How Europe Underdeveloped Africa (1972), argued that underdevelopment and poverty are not natural conditions, but the direct result of historical and structural exploitation. The wealth of developed nations is historically linked to the exploitation of poorer ones. In the post-colonial world, political independence was hailed as a turning point for once-colonized nations. In its aftermath emerged its successor—neocolonialism. Coined by Ghana's first president, Kwame Nkrumah, the term refers to the subtle yet powerful economic and political influence exerted by developed nations over developing ones, often under the guise of foreign aid and investment, leading to unequal trade relationships, debt dependency, and the exploitation of natural resources.</p>
+        
+        <h2>How it works</h2>
+        <h3>Debt Dependency</h3>
+        <p>One of the most important tools of neocolonialism is the strategic use of debt. Developing countries, often in need of capital for infrastructure and development, borrow heavily from institutions like the International Monetary Fund (IMF) and the World Bank, largely controlled by developed nations, leading to unsustainable debt. These loans typically come with certain conditions—privatization of public services, reduction in social spending, and open markets for foreign investors. While these reforms are framed as necessary for economic growth, they often lead to deeper dependency and loss of economic control.</p>
+        <p>China's Belt and Road Initiative (BRI) has brought major infrastructure projects to Africa, but critics argue that it has created a new form of dependency through opaque lending and "debt diplomacy."</p>
+        
+        <h3>Corporate Dominance and Resource Extraction</h3>
+        <p>Multinational corporations (MNCs) from developed countries, backed by their governments, influence key sectors such as agriculture, mining, and telecommunications. They extract vast quantities of natural resources—minerals, oil, timber—from developing countries, often with minimal benefit to local populations and significant environmental degradation. These corporations dictate terms, obtain labor at meager wages while workers endure unsafe conditions, and avoid taxes, leading to a drain of wealth and local resources.</p>
+        <p>In countries like Bolivia and Peru, foreign mining companies dominate resource extraction. While they promise job creation, the long-term environmental damage and limited revenue-sharing agreements highlight the exploitative nature of such investments.</p>
+        
+        <h3>Unequal Trade Relations</h3>
+        <p>Global trade, while promoting interconnectedness, often creates an unequal playing field. Developing countries primarily export raw materials and agricultural products, which are subject to volatile global prices, while importing expensive manufactured goods and technology from developed nations. This keeps them at the lower end of the global value chain.</p>
+        <p>Free trade agreements, though presented as mutually beneficial, often favor affluent nations, leaving developing countries unable to compete without economic safeguards.</p>
+        
+        <h3>Intellectual Property Rights and Technological Dependence</h3>
+        <p>The global intellectual property rights regime, largely shaped by developed nations, often disadvantages developing countries. Patents were granted for the use of turmeric in wound healing, a strain of Basmati rice, and a fungicidal product derived from neem seeds—all of which were revoked after strong opposition. Patents turn communal or Indigenous knowledge into private, profit-making property, enforcing economic dependency and perpetuating a cycle where developing nations remain consumers rather than producers of advanced knowledge and technology.</p>
+        
+        <h3>Environmental Outsourcing</h3>
+        <p>The Global North often outsources pollution-heavy and resource-intensive industries—such as textile manufacturing, mining, and electronic waste processing—to the South. This allows developed countries to maintain cleaner environments while offloading the environmental and social costs onto developing nations. Swiss-Italian firms outsource hazardous waste to Somalia, turning it into a toxic dumping ground.</p>
+        
+        <h2>The Path Forward</h2>
+        <p>Addressing neocolonialism requires a multifaceted approach:</p>
+        <ul>
+          <li><strong>Restructuring International Financial Institutions:</strong> Advocating for inclusive governance and less conditional lending.</li>
+          <li><strong>Fair Trade Initiatives:</strong> Carrying out trade policies that benefit developing nations and ensure fair prices for their exports.</li>
+          <li><strong>Strengthening Local Industries:</strong> Supporting policies that foster domestic economic growth and reduce reliance on imports.</li>
+          <li><strong>Safeguarding Resource Control:</strong> Ensuring that natural resources are managed for the benefit of the local population and future generations.</li>
+          <li><strong>Investing in Education and Technology:</strong> Building local capacity for innovation and reducing excessive reliance on technology.</li>
+          <li><strong>Promoting South-South Cooperation and Regional Alliances:</strong> Strengthening economic and political ties among developing nations to build collective bargaining power. Groups like the African Union, CELAC (Community of Latin American and Caribbean States), and BRICS are promoting South-South cooperation and economic independence.</li>
+          <li><strong>Grassroots Movements:</strong> Civil society organizations should be promoted to push back against land grabs, resource extraction, and unfair trade.</li>
+        </ul>
+        
+        <h2>Conclusion</h2>
+        <p>While the world has moved beyond formal empires, the struggle against economic exploitation continues. Neocolonialism has given rise to economic underdevelopment, inequality, political instability, and environmental degradation in the Global South. While powerful nations do not control these countries directly, they continue to control and exploit them. Recognizing and addressing these issues is of utmost importance in fostering a truly equitable and just world order, where every nation can pursue genuine development and self-determination.</p>
+      </div>
+    `,
+    image: "/neo.jpeg",
+    author: authors.find(a => a.username === "trishla-chaudhary")!,
+    category: "Politics",
+    date: "2025-07-13",
+    readTime: "12 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Neocolonialism", "Economics", "Global Politics", "Development", "Exploitation", "International Relations"],
+    featured: false,
+    isPublished: true
   }
 ];
 
