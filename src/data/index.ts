@@ -7385,6 +7385,94 @@ export const articles: Article[] = [
     tags: ["Neocolonialism", "Economics", "Global Politics", "Development", "Exploitation", "International Relations"],
     featured: false,
     isPublished: true
+  },
+  {
+    id: "hookup-culture-relationships-loneliness",
+    title: "Hookup Culture, Relationships & Loneliness: Love in the Age of Apps",
+    slug: "hookup-culture-relationships-loneliness",
+    excerpt: "Exploring the paradox of modern love, hookup culture, and the loneliness that persists in the age of dating apps.",
+    content: `
+      <div>
+        <p>Love, today, feels like a paradox. We live in a time when finding someone should be easier than ever — just a swipe away — but it feels more complicated, painful, and confusing than it’s ever been. I’m 20, and I already feel emotionally exhausted. I’ve been in relationships that never really became anything, relationships that felt more like battles than connections, and moments where I questioned whether love even means the same universal meaning anymore.</p>
+        <p>Dating isn’t supposed to be this difficult. Isn’t love meant to be joyful? Shouldn’t it feel like peace instead of anxiety? Shouldn’t we feel safe, seen, and secure? Yet, for everyone I have ever come across— including myself — it feels like we’re stuck in an endless loop of disappointment and mixed signals.</p>
+        <h2>The Hookup Culture Trap</h2>
+        <p>The world is full of hookup culture. Apps have given us the ability to meet someone and end it like it never happened at the flick of a button. Casualism is now the norm. Lust has been placed at the center stage, and emotional connection is regarded as “too much” or “too fast”.</p>
+        <p>We seek the best dopamine highs, not depth. I am not saying that attraction is not important. However, when it translates into the basis of all relationships, then everything falls apart. I have witnessed several relationships that would have turned into real and pure love stories, but ended in the air when lust was fulfilled. The physical need was satisfied, and then the emotional attachment was not worth the hype anymore. It is like when the hype falls, the individual goes with it. The misunderstanding forms the center of the relationship, and later, the cause of its downfall.</p>
+        <h2>Lust vs. Love: A Blurry Line for Young Adults</h2>
+        <p>A lot of young adults confuse lust for love. It’s easy to do when we’re constantly told that passion equals connection. But they’re not the same. Lust is instant, fiery, and temporary. Love is slow, warm, and steady. Yet, because we’ve grown up on movies and media that glorify intense romances, many of us think the chaotic rollercoaster is love.</p>
+        <p>People usually fall for someone’s beauty, get caught up in the moment, and believe it’s real — until reality hits and they realize they never actually liked the person beyond the physical. And then, guilt and disappointment set in.</p>
+        <h2>The Loneliness Behind the Masks</h2>
+        <p>The reality is that many of us experience extreme loneliness despite living in a world where people are extremely connected. Although we secretly yearn for something genuine, we seek approval through likes, flirtatious texts, and hookups. All we want is to be picked, understood, and loved.</p>
+        <p>Most of us, however, are too afraid to acknowledge it. Rejection hurts, and being vulnerable feels dangerous. Therefore, we conceal ourselves through casual interactions and sardonic distance. Our hearts yell for genuine connection, but we convince ourselves that we're "chill" and "not looking for anything serious."</p>
+        <p>I believe that many people in my age group are weary of games, of being ignored, of "talking stages" that never end. Although we live in a culture that renders meaning archaic, we still yearn for something significant.</p>
+        <h2>Maybe Love Finds Us</h2>
+        <p>If there’s one thing I’ve learned, it’s that the harder you chase love, the more it slips away. It hurts more when you try to fake something casual to make it seem more real. Perhaps that's why I've given up chasing. I've begun concentrating on my development, contentment, and tranquility.</p>
+        <p>You shouldn't be drained by love. It's meant to be gentle and safe. Instead of making life feel heavier, it should make it feel lighter. And perhaps, just possibly, we don't find love. Perhaps we will discover it when we have finally stopped searching in the wrong places. When we no longer accept lust masquerading as kinship.</p>
+        <p>When we decide to prioritize truth over fiction and peace over chaos.</p>
+        <p>I'll be here until then, learning, loving myself, and waiting for the kind of love that doesn't hurt to hold.</p>
+      </div>
+    `,
+    image: "/hookup.jpeg",
+    author: authors.find(a => a.username === "hetal-kothari")!,
+    category: "Relationships",
+    date: "2025-07-14",
+    readTime: "8 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Love", "Relationships", "Hookup Culture", "Loneliness", "Dating Apps", "Youth"],
+    featured: false,
+    isPublished: true
+  },
+  {
+    id: "why-most-self-help-books-get-it-wrong",
+    title: "Why Most Self-Help Books Get It Wrong",
+    slug: "why-most-self-help-books-get-it-wrong",
+    excerpt: "A candid look at the self-help industry, the pressure to always improve, and why real growth is messier—and kinder—than most books admit.",
+    content: `
+      <div>
+        <p>I remember picking up my first self-help book because I felt stuck. Not in a dramatic way— just in that quiet, heavy way where nothing feels wrong, but nothing feels right either. I thought maybe the book would help me figure things out. Maybe it would tell me what I wasn’t doing properly, or how to finally become the person I thought I was supposed to be.</p>
+        <p>And honestly? It felt good at first. These books know how to hype you up. They make you feel like you’re just a few changes away from completely turning things around. Wake up early. Build better habits. Think positive. Let go of fear. Take control of your life.</p>
+        <p>I tried. I really did. But eventually, the routine would fall apart, the “new mindset” would fade, and I’d find myself feeling worse than when I started. Because now, not only was I still stuck, but I felt like it was my fault.</p>
+        <h2>The pressure to always be “getting better”</h2>
+        <p>One of the biggest things self-help books often get wrong is the way they make healing and growth feel like a checklist. Like if you just do the right things in the right order, you’ll unlock a whole new life. And when that doesn’t happen, it’s easy to feel like you’re doing something wrong.</p>
+        <p>But healing isn’t linear. And it definitely doesn’t follow a schedule.</p>
+        <p>Some days, you’re proud of how far you’ve come. Other days, you’re barely holding it together. That doesn’t mean you’re failing. It means you’re human.</p>
+        <p>Self-help books don’t always say that out loud. They mean well, but they often sell the idea that personal growth is about constant motion—always doing more, being more, and fixing more. And if you’re tired, unmotivated, or unsure, you feel like you’re falling behind.</p>
+        <h2>Healing doesn’t always look good</h2>
+        <p>We’ve also started treating healing like an aesthetic. As if true growth looks like early mornings, journaling with soft music in the background, color-coded goals, and perfectly organized planners.</p>
+        <p>But honestly? Some days healing is messy. It’s crying in the shower. It’s saying no when you’re used to saying yes. It’s staying in bed because your body and brain just can’t push today. That’s still growth—It just doesn’t come with a pretty filter.</p>
+        <p>And the more we treat healing like a performance, the more we end up disconnecting from what we actually feel. You don’t need to look like you’re improving to be improving.</p>
+        <h2>It’s also a business</h2>
+        <p>This is the part that’s uncomfortable to admit but important to understand: self-help is an industry. There’s always a new book, a new method, a new “secret” to success. It becomes easy to fall into this cycle of thinking: Maybe this next one will finally fix me.</p>
+        <p>But if you always feel like you’re one book away from being okay, maybe the problem isn’t with you—maybe it’s with the way these books frame the idea of growth. After all, it's easier to sell solutions to people who are convinced they're broken.</p>
+        <p>Of course, not all books are like that. Some are gentle. Some are honest. Some don’t try to fix you; they just help you understand yourself better. And those are the ones that actually feel like support, not pressure.</p>
+        <h2>You’re not a project</h2>
+        <p>I wish more self-help books said this clearly: You’re not a project. You don’t have to be constantly improving to be worthy of rest, love, or peace. You are allowed to just be: messy, unsure, figuring things out slowly.</p>
+        <p>You don’t need a five-step morning routine to be valid. You don’t need to become ‘that girl’. You don’t need to monetize your hobbies, track your every habit, or be constantly positive.</p>
+        <p>Growth isn’t about fixing yourself. It’s about learning to be kind to yourself—even when nothing feels sorted.</p>
+        <h2>So what do we actually need?</h2>
+        <p>Maybe instead of another productivity hack or goal-setting system, we need honesty. We need people to say, “Yeah, it’s hard. Some days just suck. You’re not broken.”</p>
+        <p>Maybe we need to be reminded that it’s okay to rest. That not every season of life has to be about building or striving. That you can exist right here, as you are, and that can be enough.</p>
+        <p>Sometimes, what we really need isn’t advice. It’s space. To feel. To pause. To just breathe for a minute without trying to change anything.</p>
+        <h2>No more fixing, just feeling</h2>
+        <p>Self-help isn’t all bad. Some books genuinely offer comfort and clarity. But we have to be careful not to let these books trick us into thinking we’re never doing enough, never good enough, never there yet.</p>
+        <p>You don’t need to become someone else to feel whole.</p>
+        <p>You are not behind. You are not broken. You are not a checklist waiting to be completed.</p>
+        <p>You are already worth showing up for even if you’re still figuring things out.</p>
+      </div>
+    `,
+    image: "/selfhelp.jpeg",
+    author: authors.find(a => a.username === "prerna-srivastava")!,
+    category: "Wellness",
+    date: "2025-07-14",
+    readTime: "9 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Self-Help", "Wellness", "Mental Health", "Personal Growth", "Healing", "Books"],
+    featured: false,
+    isPublished: true
   }
 ];
 
