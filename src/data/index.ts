@@ -7473,6 +7473,50 @@ export const articles: Article[] = [
     tags: ["Self-Help", "Wellness", "Mental Health", "Personal Growth", "Healing", "Books"],
     featured: false,
     isPublished: true
+  },
+  {
+    id: "pyaar-passion-aur-pakoda",
+    title: "Pyaar, Passion aur Pakoda: Our National Obsession with Over-Romanticising Everything",
+    slug: "pyaar-passion-aur-pakoda-our-national-obsession-with-over-romanticising-everything",
+    excerpt: "From Bollywood heartbreaks to rent agreements, why do we turn every aspect of life into a filmy saga? A humorous look at India’s love affair with over-romanticising everything.",
+    content: `
+      <div>
+        <p>By now, you must’ve heard it from your neighbourhood philosopher-aunty sipping chai: “Beta, follow your passion. Dil se socho.” Lovely sentiment, truly. Except beta also has unpaid bills, a BA degree, and a dream of becoming a ‘content creator’ with three followers—two of which are his own burner accounts.</p>
+        <p>Welcome to India, where dreams are larger than budgets and Instagram captions are more curated than government policies. We’re not just a nation of storytellers—we're compulsive romanticizers. Reality? That’s for losers who don’t believe in filmy endings.</p>
+        <h2>Bollywood: The Original Offender</h2>
+        <p>Let’s address the 800-crore elephant in the room: Bollywood. For decades, it has sold us the idea that love is always worth running away from your Shaadi for, even if the baraat is waiting outside and you’ve already eaten the gulaab jamun.</p>
+        <p>Take Dilwale Dulhania Le Jayenge, for example. Simran jumps onto a moving train in Switzerland because of love. Cute. But have you ever tried catching a local train at 6 p.m.? That’s where love really dies. Or Yeh Jawaani Hai Deewani—a full-blown spiritual awakening during a trek in Manali, leading to a life of wanderlust and poetry. Bro, try trekking to the office during monsoon. That's your coming-of-age saga right there.</p>
+        <h2>Every Breakup is Not a Movie Plot</h2>
+        <p>Ah, the heartbreak syndrome. Aaj kal ka heartbreak is less about personal growth and more about Spotify playlists, dramatic Instagram stories, and reels about “healing journeys.” Did someone die? No, Ananya just got ghosted after two Bumble dates and now believes she’s Meena Kumari reincarnated.</p>
+        <p>Every failed situationship turns into a Tamasha moment. Everyone suddenly becomes a misunderstood artist trapped in a capitalist society, when in reality, they’re just ignoring work emails and bingeing Korean dramas. “Main kaun hoon?” they ask, while still borrowing their dad’s money for Zomato Gold.</p>
+        <h2>Romance in Job Interviews and Rent Agreements</h2>
+        <p>It’s not just love. We romanticize everything. Careers? “I’m not working for money, I’m chasing a purpose,” says Rohan, who still relies on his parent’s Jio Wi-Fi to attend Zoom calls. “I want to open a cafe in the hills,” says Priya, who has never made coffee that wasn’t sachet-based and calls Maggi ‘gourmet’. So easy for the privileged generation to dream big, who in fact have never had to wash a single dish in their life.</p>
+        <p>Even rent agreements are approached like epic struggles. “Our love will survive despite the society not allowing unmarried couples to rent together,” says Arjun, who has been living with his girlfriend for 6 days and already believes he’s part of a tragic love ballad.</p>
+        <h2>Travel is Not Therapy, It’s Just Expensive</h2>
+        <p>Don’t even get me started on the journey to find yourself a brigade. Goa is not a spiritual awakening—it’s just your annual escape from your city’s soul-crushing traffic and HR policies. “Mountains heal,” says someone who had a full-blown tantrum when their Airbnb had no Wi-Fi.</p>
+        <p>You don’t need a solo trip to Ladakh to figure out your life. You need a job, a decent mental health app, and maybe a little less scrolling through #VanLife reels shot with drones by people sponsored by five brands and a trust fund.</p>
+        <h2>The Great Indian Monsoon Myth: More Drama Than Droplets</h2>
+        <p>Ah, the rains! Every Bollywood song ever has at least one slo-mo umbrella scene with wet hair and intense eye contact—because obviously, nothing says true love like catching a fever while waiting for the bus in monsoon chaos. But reality check: the monsoon is less Aashiqui 2 and more paani-paani everywhere, soaked socks, and electricity cuts that turn your Zoom meeting into a pixelated horror show. Romantic? Maybe in a film. In real life? It’s just your scooter slipping on muddy roads while you desperately try to save your phone from drowning. The only thing that truly blossoms in the rain is your mother’s lecture on how you’ll catch cold, followed by a lifetime supply of turmeric milk. So next time someone cues the rain track to set the mood, remind them: sometimes it’s just rain—and nothing poetic about soggy pakoras and wet chappals.</p>
+        <h2>Reality is Too Uncool Now</h2>
+        <p>Being “real” is no longer cool unless it's an aesthetic filter. Nobody wants to admit they’re confused, underpaid, and emotionally constipated. It’s always, “I’m on a journey” or “I’m evolving.” No, you’re stuck, like the rest of us, in a traffic jam on the highway of broken expectations.</p>
+        <p>You romanticize being ‘broke but free’ until your UPI payment fails during a Domino’s order. You idolize ‘slow living’ until you realize it means not affording your Netflix subscription this month.</p>
+        <h2>Conclusion: Time for a Reality Check, Desi Style</h2>
+        <p>Maybe, just maybe, we need to calm down. Not everything needs to be poetic. Sometimes, heartbreak is just heartbreak, not a plot twist. Sometimes, a job is a job, not a calling from the universe. And sometimes, tea is just tea—not “a cup of nostalgia, wrapped in monsoon melancholy.”</p>
+        <p>We don’t need Tamasha arcs in our lives. We need Wake Up Sid ones—where we grow up, do laundry, get a job, and make peace with not being the main character all the time.</p>
+        <p>So next time your life feels like a montage, ask yourself: is this a movie scene or just Monday?</p>
+      </div>
+    `,
+    image: "/midsummmerr.jpeg",
+    author: authors.find(a => a.username === "hetal-kothari")!,
+    category: "Culture",
+    date: "2025-07-15",
+    readTime: "7 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Culture", "Bollywood", "Romanticism", "Humour", "Society"],
+    featured: false,
+    isPublished: true
   }
 ];
 
