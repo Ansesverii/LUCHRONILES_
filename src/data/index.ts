@@ -7591,6 +7591,86 @@ export const articles: Article[] = [
     ],
     featured: true,
     isPublished: true
+  },
+  {
+    id: 0, // Replace with the next unique ID
+    title: "Is Slowness Possible in This Digital Era?",
+    slug: "is-slowness-possible-in-this-digital-era",
+    excerpt: "In a world that never stops, can we still find moments of true slowness and presence?",
+    content: `<div>
+      <p>I don’t remember the last time I did nothing without feeling guilty about it.</p>
+      <p>Even when I’m “resting,” I’m checking something. Scrolling. Tapping. Replying. Watching. Skipping. Repeating. There’s always noise, always movement. Even silence has started to feel loud.</p>
+      <p>Sometimes, I wonder — in a world that moves this fast, is slowness even possible anymore?</p>
+      <h3>We’re Always On</h3>
+      <p>The moment we wake up, our phones are in our hands. Messages, notifications, reminders, updates—all waiting before we’ve even had water.</p>
+      <p>We move from app to app, task to task, screen to screen. And somewhere in all that rush, we forget how to pause. How to just sit with something. How to let a moment be slow without filling it with something "useful."</p>
+      <p>The world has trained us to keep up, but with what, exactly?</p>
+      <h3>We’ve Confused Busy With Fulfilled</h3>
+      <p>Being busy has become a badge of honor. If you’re not working, learning, creating, or producing something, you feel behind. There’s this constant pressure to be “on top of things” — to respond fast, to know everything, to never fall out of step with the latest trend, idea, or update.</p>
+      <p>But are we really more fulfilled? Or just more exhausted?</p>
+      <p>Slowness isn’t about laziness. It’s about intention. It’s about being present with one thing at a time instead of scattering ourselves into pieces across a hundred tabs and to-do lists.</p>
+      <h3>The Anxiety of Doing Nothing</h3>
+      <p>The idea of slowing down sounds lovely — until we try to actually do it. Then comes the restlessness. The voice in our heads that asks, “Shouldn’t you be doing something?”</p>
+      <p>We reach for our phones instinctively. Even boredom feels unbearable. We're not used to stillness anymore  not because we don't need it, but because we've forgotten how to sit in it.</p>
+      <p>The truth is, slowness requires unlearning. It requires resisting the urge to fill every gap. And that’s hard when the world is designed to pull your attention in a hundred directions.</p>
+      <h3>But Some Things Still Move Slowly</h3>
+      <p>A tree doesn’t rush to grow. A wound doesn’t heal overnight. Real connection takes time. Deep thoughts come after silence. Even the best art, the kind that moves people, is usually made in long, quiet hours.</p>
+      <p>Some things still belong to the pace of slowness — and maybe we do too.</p>
+      <p>Our bodies, our minds, our relationships — they aren’t machines. They’re not meant to be optimized every second. They need space. Breathing room. Messy pauses.</p>
+      <h3>Can We Reclaim Slowness?</h3>
+      <p>I think so but not all at once.</p>
+      <p>Maybe it starts small. Eating without watching something. Walking without headphones once in a while. Letting a thought finish before jumping to the next.</p>
+      <p>Maybe it means allowing ourselves to rest without earning it. Saying no to things that constantly demand our attention. Taking longer to reply to that message. Reading something slowly, just because it feels good.</p>
+      <p>Slowness doesn’t have to mean dropping out of the world. It just means choosing presence over pressure, whenever we can.</p>
+      <h3>One Last Thought</h3>
+      <p>We live in a time where everything is fast but that doesn’t mean we have to be.</p>
+      <p>Slowness is still possible.<br/>
+      But it won’t come by accident.<br/>
+      We’ll have to choose it — again and again.</p>
+      <p>And maybe, in those small moments where we do, we’ll find a little more peace, a little more clarity, and a version of ourselves that isn’t always rushing to keep up.</p>
+    </div>`,
+    image: "/public/nevermind.jpeg",
+    author: authors.find(a => a.username === "prerna-srivastava")!,
+    category: "Culture",
+    date: "2025-07-16",
+    readTime: "6 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["digital life", "slowness", "wellbeing", "technology", "mindfulness"],
+    featured: false,
+    isPublished: true,
+  },
+  {
+    id: 0, // Replace with the next unique ID
+    title: "A Brief History of Forgetting",
+    slug: "a-brief-history-of-forgetting",
+    excerpt: "How textbook revisions in India are reshaping not just history, but the very idea of education and democracy.",
+    content: `<div>
+      <p>In most functioning democracies, education is meant to sharpen the mind, not dull it. The textbook, for all its institutional monotony and glue-scented pages, remains a tool of possibility: a place where a young citizen might first encounter injustice, rebellion, plurality, and the spine of their nation’s history. What it chooses to include or omit, to highlight or flatten, tells us more than any speech about the country's moral and intellectual priorities. In India, that tool has begun to resemble something else entirely: a scalpel in the hands of a state keen to carve out inconvenient truths.</p>
+      <p>Since 2014, India’s school curricula have undergone more edits than a political manifesto in an election year. The NCERT, the National Council of Educational Research and Training, was once an ostensibly apolitical body, tasked with the dispassionate business of producing textbooks. Today, it seems to function less like an academic council and more like a cultural ministry for the ruling party. In this iteration, the classroom is not a space for critical thinking; it is a staging ground for myth-making.</p>
+      <p>The most glaring casualties of this revisionist project are not obscure footnotes but towering facts. Charles Darwin has been excised from the science syllabus, the theory of evolution deemed too adult or too provocative for young Indian minds. The Mughals, whose architectural, political, and cultural imprints are embedded in nearly every corner of the subcontinent, have been reduced to vague allusions and architectural cameos. The 2002 Gujarat riots, once a chilling case study in state complicity and sectarian violence, have been linguistically laundered. “Mostly Muslims” has been scrubbed clean and replaced with “more than 1,000 persons,” as if precision might offend propriety. The Babri Masjid demolition is now simply a “three-domed structure,” a phrase so sanitized it could appear in a real estate brochure.</p>
+      <p>Even Gandhi, India’s uneasy conscience and its moral compass, has not been spared. His critiques of Hindu majoritarianism, once a vital counterweight in a country forever balancing its secular ideals with religious identities, have been quietly removed. What remains is a flattened hagiography: Gandhi as a benign mascot rather than a disruptive prophet.</p>
+      <p>The government’s 2020 National Education Policy, hailed in some circles as “visionary,” has become the scaffolding for this cultural redesign. Critics, including former textbook authors, have called this “saffronisation.” Its emphasis on “value-based” education sounds innocuous enough—who, after all, is against values? But in this context, value is a proxy for orthodoxy, and orthodoxy a proxy for control. These revisions are defended, often earnestly, as necessary course corrections: a belated balancing act after decades of alleged secular bias. But behind the rhetoric of “correcting history” lies a more revealing ambition: to simplify the nation’s past into something more comfortable, more devotional, and less prone to questioning. This is not merely about history; it is about ideology in academic clothing.</p>
+      <p>To be clear, no nation’s education system is entirely free of ideological influence. But the genius of India’s current revisionist project lies in its subtlety. It rarely bans; it reframes. It does not censor; it curates. The result is a curriculum that feels less like propaganda and more like gentle persuasion. History, rebranded as heritage. Diversity, reimagined as uniformity. Complexity treated like clutter.</p>
+      <p>The irony, of course, is that this intellectual minimalism is often framed as a return to Indian greatness, as if the country’s civilizational legacy, with all its nuance and philosophical depth, requires dumbing down to survive in the modern age. What a strange kind of pride it is that cannot coexist with the full truth of a nation’s past.</p>
+      <p>Yet the solution is not to swing the pendulum back to a different dogma. What India needs is not a new master narrative, but a new reverence for reason. For educators who are allowed to teach, not preach. For curricula that prepare students not to recite the past, but to interrogate it.</p>
+      <p>If India must look to its ancient traditions, let it look not just to kings and conquests, but to the tradition of argument itself: to the Upanishadic dialogues, to the heterodoxy of Sufi mystics, to Ambedkar’s rigorous constitutionalism. Let the classroom be a space of contest, not catechism.</p>
+      <p>Because the real strength of a democracy lies not in the simplicity of its stories, but in the courage to tell them whole.<br/>
+      Because the question is no longer academic: If Gandhi can be edited out, what chance does the average citizen stand?<br/>
+      And who will remain to file the footnotes?</p>
+    </div>`,
+    image: "/public/shumailaarticleeee.jpeg",
+    author: authors.find(a => a.username === "shumaila-khan")!,
+    category: "Society",
+    date: "2025-07-16",
+    readTime: "7 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["education", "history", "India", "textbooks", "politics", "democracy"],
+    featured: false,
+    isPublished: true,
   }
 ];
 
