@@ -7629,7 +7629,7 @@ export const articles: Article[] = [
       We’ll have to choose it — again and again.</p>
       <p>And maybe, in those small moments where we do, we’ll find a little more peace, a little more clarity, and a version of ourselves that isn’t always rushing to keep up.</p>
     </div>`,
-    image: "/public/nevermind.jpeg",
+    image: "/nevermind.jpeg",
     author: authors.find(a => a.username === "prerna-srivastava")!,
     category: "Culture",
     date: "2025-07-16",
@@ -7660,7 +7660,7 @@ export const articles: Article[] = [
       Because the question is no longer academic: If Gandhi can be edited out, what chance does the average citizen stand?<br/>
       And who will remain to file the footnotes?</p>
     </div>`,
-    image: "/public/shumailaarticleeee.jpeg",
+    image: "/shumailaarticleeee.jpeg",
     author: authors.find(a => a.username === "shumaila-khan")!,
     category: "Society",
     date: "2025-07-16",
