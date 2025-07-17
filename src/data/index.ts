@@ -7671,6 +7671,89 @@ export const articles: Article[] = [
     tags: ["education", "history", "India", "textbooks", "politics", "democracy"],
     featured: false,
     isPublished: true,
+  },
+  {
+    id: "paws-of-kindness-when-animals-feel-more-human",
+    title: "Paws of kindness : When Animals Feel More Human",
+    slug: "paws-of-kindness-when-animals-feel-more-human",
+    excerpt: "In a world where cruelty and numbness are on the rise, animals remind us what it means to be truly human—with empathy, loyalty, and kindness.",
+    content: `
+      <div>
+        <p>Humans are quite commonly referred to as the most intelligent beings on planet Earth. We construct cities, fly airplanes, create machines, and compose poetry. We feel that God bestowed consciousness, morality, and a mind with the capabilities of love and logic upon us. But in this modern world, one cannot help but ask- if we are the most evolved species, then why are we losing the very things that make us ‘human’ ?</p>
+        <p>Every day, the news feels like a nightmare. Women are raped - sometimes in moving cars, sometimes in their homes, sometimes by people they trusted. Children are kidnapped, abused, and left to die. People kill for religion, for revenge, for pride. A man stabs another for looking at him the wrong way. A mob lynches someone based on a rumor. And the most disturbing part? We’ve become numb to it.</p>
+        <p>Violence does not shock us anymore - it simply scrolls by in our news feed.</p>
+        <p>Self-importance, malice, and cruelty are at center stage in a world that once boasted of empathy. We yell, cancel, cancel again, block, insult, and forget. We've allowed religion to divide, caste to kill, greed to overwhelm. Somewhere along the way, kindness was equated to weakness, and silence to complicity.</p>
+        <h2>The Ones We Look Down On Show Us the Way</h2>
+        <p>And then, of course, there are animals.</p>
+        <p>They do not have books or temples or laws. They do not have language, courts, or social media. But somehow, they still remember how to care. A dog waits for weeks beside its owner's grave. A mother cow weeps when her calf is removed. An elephant walks miles to grieve over a fallen herd member. Street dogs watch over the homeless. Birds feed one another. Monkeys clean the injured. Cats push the depressed.</p>
+        <p>They don't require lessons to love. It's natural.</p>
+        <p>Animals don't rape. They don't kill for sport. They don't kill for jealousy or anger. They don't set fire to forests for greed. They don't exploit. They survive, yes - but not at the expense of another's destruction. They understand loyalty, guardianship, and emotional complexity in a way that appears foreign to many of us.</p>
+        <p>And yet, we say they're "less evolved."</p>
+        <p>If intelligence is not met with kindness, what is the point? If education, religion, and advancement are not going to make us stop hurting each other, what else have we accomplished?</p>
+        <p>We were meant to be the caretakers of this earth. We were bestowed with a mind not only to innovate but to empathize. But somewhere, we went in the opposite direction. We let our complex of superiority swell so much that we lost sight of: gentleness is the true strength.</p>
+        <p>Animals do not pretend. They don't pretend. Their love is unprocessed, their sorrow is genuine, and their instincts are generally more moral than our intellect. Perhaps that's why, in a world where man kills man without hesitation, animals still cling to decency.</p>
+        <p>This isn't to idealize animals or claim they're perfect. But in the world today, their kindness rings truer. Their empathy is more congruent. And compared to many of us- who profess to be rational, civilized, and progressive - are losing the very humaneness we used to pride ourselves on.</p>
+        <p>Perhaps then it's time we stopped referring to animals as "lesser beings."<br/>
+        Because at the moment, they're showing us what it is to simply be kind.<br/>
+        And perhaps, just perhaps, they are more "human" than we.</p>
+      </div>
+    `,
+    image: "/animalllll.jpeg",
+    author: authors.find(a => a.username === "aliya-imam")!,
+    category: "Culture",
+    date: "2025-07-17",
+    readTime: "7 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Culture", "Empathy", "Animals", "Kindness", "Humanity"],
+    featured: false,
+    isPublished: true
+  },
+  {
+    id: "impact-of-indus-valley-civilization-on-indian-culture-and-history",
+    title: "Impact of Indus Valley Civilization on Indian Culture and History",
+    slug: "impact-of-indus-valley-civilization-on-indian-culture-and-history",
+    excerpt: "From religion and language to trade, architecture, and technology, the Harappans have left a permanent legacy on the Indian subcontinent.",
+    content: `
+      <div>
+        <h2>INTRODUCTION:</h2>
+        <p>
+          Long before empires rose and fell, there existed one of the most advanced and mysterious civilizations in human history — the Indus Valley Civilization, also called the Harappan Civilization. Flourishing between 2600 BCE to 1900 BCE in the northwestern regions of the Indian subcontinent, it laid down the foundation of what we now call Indian identity. Even though it declined thousands of years ago, its impact on our culture, traditions, and systems still echoes in modern India.
+        </p>
+        <h2>RELIGION:</h2>
+        <p>
+          While the Harappans are often considered non-theistic, with no evidence of grand temples or gods, they did have strong spiritual beliefs. The worship of a Mother Goddess was common — a symbol of fertility and creation. Interestingly, this tradition still survives today in Hinduism, where the divine feminine is worshipped in many forms like Durga, Kali, and Lakshmi. This is a clear example of how ancient beliefs have blended into our modern faiths.
+        </p>
+        <h2>LANGUAGE AND SCRIPT:</h2>
+        <p>
+          One of the most fascinating aspects of the Indus Valley is its undeciphered script. While we still don’t fully understand it, many scholars believe it has links to the Dravidian language family, and possibly even influenced the Brahmi script, which is one of the oldest scripts used in India. The legacy of this ancient language system continues to inspire linguistic studies and reminds us of our rich, mysterious past.
+        </p>
+        <h2>ARCHITECTURE, URBAN CITIES, TRADE, AND CRAFT:</h2>
+        <p>
+          The Harappans built planned cities with advanced drainage systems, well-organized streets, and public baths — a sign of a society that valued cleanliness and order. Their expertise in crafts and trade was extraordinary. Before colonization, India contributed 27% to global trade, known globally for its handicrafts, textiles, and fine art. This legacy of craftsmanship and trading excellence can be traced back to the Harappans — making them pioneers in these fields. Even today, Indian handicrafts are famous worldwide, continuing the tradition they once started.
+        </p>
+        <h2>INDIAN METALLURGY:</h2>
+        <p>
+          A groundbreaking discovery in 2020 revealed a 4,000-year-old workshop in Harappa. It contained copper tools, ceramic pieces, and more — showing that the Harappans were masters of metalwork. Their metallurgical techniques were far ahead of their time, and their innovation has had a lasting influence on India’s metal industry, which still thrives with traditional and modern practices.
+        </p>
+        <h2>CONCLUSION:</h2>
+        <p>
+          In conclusion, the Indus Valley Civilization was not just an ancient society — it was the root of Indian culture. From religion and language to trade, architecture, and technology, the Harappans have left a permanent legacy on the Indian subcontinent. Even after thousands of years, we still carry pieces of that civilization in our daily lives. It is not just history — it is a living part of India.
+        </p>
+      </div>
+    `,
+    image: "/indus.jpeg",
+    author: authors.find(a => a.username === "ansesveri-laxmi")!,
+    category: "History",
+    date: "2025-07-17",
+    readTime: "6 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Indus Valley", "History", "Culture", "Civilization", "India"],
+    featured: false,
+    isPublished: true
   }
 ];
 
