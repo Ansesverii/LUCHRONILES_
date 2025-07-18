@@ -7793,48 +7793,107 @@ export const articles: Article[] = [
     isPublished: true
   },
   {
-    id: "being-a-girls-girl-deconstructing-the-real-meaning",
-    title: "Being a girl's girl: deconstructing The real meaning",
-    slug: "being-a-girls-girl-deconstructing-the-real-meaning",
-    excerpt: "The 'girl's girl' trend on social media claims to celebrate women supporting women, but has it lost its meaning and become a shallow, materialistic version of feminism?",
-    content: `<div>
-      <p>If you are someone who has scrolled on social media, reels, TikTok, you must be familiar with the term “girl's girl”. A form of modern feminism wrapped in the package of flashy trends has somehow lost its real meaning.</p>
-      <h2>An initiative that is not new but rather rebranded</h2>
-      <p>While it may seem to some that it is something that is “Gen-Z”, it is not.<br/>
-      Being a girl's girl means women supporting women. The propaganda that is sold to us usually in Hindi goes like “Aurat hi aurat ki dushman hoti hai,” which translates to woman is the enemy of woman which is far from the truth. From time and time again we have seen great examples of how women love to celebrate each other's achievements, and women will clap the loudest for other women. So being a girl's girl is just the “Instagrammable form” of women supporting women.</p>
-      <h2>What it means to be a girl's girl</h2>
-      <p>A girl’s girl is someone who immediately tells you the store they got their clothes/perfume/jewelry from when complimented. She is also the person who hasn’t gossiped a day in her life. In addition, she immediately tells someone they have something in their teeth or they need to fix their makeup the second it appears. If girls don’t adhere to these standards, they can be labeled as “out to get the other girls” and are no longer considered girl's girl. And now the big question is, is it possible to be a girl's girl? The simplest answer is no. No woman in her life is going to be uplifted or feel supported just because some random girl told them that they need to touch up their makeup.</p>
-      <p>A girl’s girl is also someone who is not “boy crazy”. They prioritize their female friends over those they are romantically interested in. While many girls value their female friendships and put great effort into them, it is unrealistic to expect girls not to equally value the time and work put into building romantic relationships. Just because a girl is having a love life doesn’t mean she is only seeking male validation, even if she might cut down on time with friends to do so.</p>
-      <p>And I think that helping a person is based on someone’s morals, not their gender.<br/>
-      To uplift a woman, you need to fight the patriarchy, not fill the comment section of an Instagram post with bows emoji and “slayyy”.</p>
-      <h2>Maybe we got lost in translation</h2>
-      <p>Like any other trend, this trend about being a girl's girl, supposed to be uplifting and positive, has gotten lost in translation and has lost its real meaning.<br/>
-      Now, even if a girl is demeaning, has an overconsumption addiction, makes Pinterest her whole personality, you have to encourage her with the most trending words going “you go girl” or “ you slay”.<br/>
-      But the question is, why?<br/>
-      Does our morality hold less weight than being a so-called girl's girl? Does someone have to support a girl even if they don't align with your morals and she does not care about what's right from wrong, or is selective about which cause to support only based on what aligns with her aesthetics?</p>
-      <h2>A watered-down version of female friendships</h2>
-      <p>Feminist author Dolly Alderton once wrote, “nearly everything I know about love, I’ve learnt from long-term friendships with women.” And as someone who truly values her female friendships, I am a little hesitant to call myself a “girl's girl” because it might seem harmless, but the trend waters down the female friendships to materialistic things, like if you don't write a 100 comments under your friend's post, you are not a girl's girl. The trend also somehow puts the men on center stage, because according to the reels and TikTok toks circulating, they insinuated that to be a girl's girl, you have to make your female friend look good according to men's standards, help them look good in front of their crush,  which in truth ly shallow.</p>
-      <h2>A shallow form of feminism</h2>
-      <p>If you are aware of the third wave of feminism, you must know that it heavily promotes feminism based on overconsumption and has a materialistic approach; it is shallow.<br/>
-      In one way or another, it early resembles “lipstick feminism.” Lipstick feminism, also known as third-wave feminism, is a type of feminism that embraces traditional feminine displays like makeup and clothing, while still acknowledging patriarchal roots and advocating for women's equality. It challenges the idea that femininity and sexuality are incompatible with feminism, and seeks to reclaim traditionally feminine attributes as empowering. Again, putting men at the centre stage. So it may seem harmless from a distance, but at its core, the trend is supporting patriarchy and targeting the audience to have a materialistic approach to feminism rather than doing something that will make a difference.<br/>
-      And as long as people keep supporting trends such as this, they will keep supporting the patriarchy in one form or another.</p>
-      <blockquote>
-        <p>“It is a tragedy beyond the power of language to convey when what has been imposed on women by force becomes a standard of freedom for women, and all the women say it is so.”<br/>
-        <em>Andrea Dworkin, Intercourse</em></p>
-      </blockquote>
-    </div>`,
+    id: "nice-girls-dont-get-corner-offices", // Change if needed for uniqueness
+    title: "Nice Girls Don’t Get The Corner Offices",
+    slug: "nice-girls-dont-get-the-corner-offices",
+    excerpt: "A sharp critique of corporate feminism and the double bind women face in leadership, questioning whether the solution is to mimic masculine models or to redefine power itself.",
+    content: `
+      <div class="article-content">
+        <p>
+          The corporate world loves a woman who knows her place. She’s polite in meetings, punctual in email threads, and carries just the right amount of ambition to be seen as productive, but not enough to be seen as a threat. She smiles through interruptions, thanks people for stealing her ideas, and cloaks her intelligence in sentences that begin with “I might be wrong, but…”
+        </p>
+        <p>
+          This woman, we’re told, is “nice.” And the nice girl, as the title of Lois P. Frankel’s now-iconic manual declares, does not get the corner office.
+        </p>
+        <p>
+          The advice sounds simple enough: stop playing small. Say no. Take up space. Don’t apologize for breathing. In theory, this is empowering. In practice, it’s exhausting. Because the question lurking beneath all this corporate feminism is more complicated than it appears.
+        </p>
+        <p>
+          <strong>If not nice, then what?</strong>
+        </p>
+        <p>
+          Should women perform masculinity? Should they bark orders, crush egos, and perfect the power handshake like it’s a war ritual? Should they “lean in” until their spine snaps? Should they bleach out the traits that have been historically coded feminine - softness, empathy, humility, tact—because those are now synonymous with weakness?
+        </p>
+        <p>
+          And if so, what exactly are we fighting for? A seat at the table, or a better blueprint for the table itself?
+        </p>
+        <p>
+          Let’s be clear: Nice isn’t a personality trait. It’s a strategy. A role. A social lubricant that women are conditioned to adopt early on because it keeps the peace, maintains decorum, and, most importantly, makes others comfortable. It’s a kind of emotional Botox. Smooth. Controlled. Palatable.
+        </p>
+        <p>
+          The problem isn't that women are nice. The problem is that niceness is rewarded until it isn't.
+        </p>
+        <p>
+          Be accommodating, and you're forgettable. Be assertive, and you're a threat. Smile, and you're unserious. Frown, and you're a problem. It’s a game of optics where the rules are invisible and the referees are everywhere.
+        </p>
+        <p>
+          At the heart of this is the double bind: femininity makes you likable, but not powerful. Masculinity makes you powerful, but not likable. Choose either, and you lose. Choose both, and you’re told to pick a lane.
+        </p>
+        <p>
+          But here’s the deeper rot: the corner office itself, this glittering metaphor of success, was designed around a distinctly male script. Success, in its most traditional corporate sense, is about conquest, domination, decisiveness, certainty. It is vertical. Hard-edged. Outcome-oriented. It demands that you not just speak, but interrupt. Not just lead, but own. Not just rise, but elbow your way up.
+        </p>
+        <p>
+          These values, though not inherently male, have been culturally assigned to masculinity for centuries. And so when women strive toward them, they are often punished; not for their competence, but for their transgression.
+        </p>
+        <p>
+          What if the issue isn’t that women aren’t leading right? What if the issue is how we’ve come to define leadership itself?
+        </p>
+        <p>
+          Because there is power in grace. In collaboration. In uncertainty. In quiet conviction that doesn’t need to announce itself. But these forms of power don’t fit into a KPI spreadsheet. They don’t dominate the room; they change its temperature.
+        </p>
+        <p>
+          And yet, even in 2025, softness is still suspect. Empathy is HR-speak until it threatens profit. Vulnerability is praised in keynotes but penalized in performance reviews. So women learn to weaponize their warmth just enough to be tolerated, but not enough to be taken seriously.
+        </p>
+        <p>
+          Which brings us back to Frankel’s book. It is often read as a feminist gospel, but let’s not confuse survival strategy with liberation. The advice - speak up, stop apologizing, don’t smile so much; doesn’t dismantle the system. It helps you dodge its landmines.
+        </p>
+        <p>
+          That’s not nothing. But it’s not a revolution either.
+        </p>
+        <p>
+          The real question isn’t how women can hack the system. It’s why the system still needs hacking at all.
+        </p>
+        <p>
+          Maybe “nice” girls don’t get the corner office because the corner office was never meant for anyone but those who built the blueprint. Maybe the way forward isn’t to mimic masculine models of power, but to redefine what power even looks like.
+        </p>
+        <p>
+          What if leadership wasn’t about dominance, but presence? What if success wasn’t about climbing over others, but building with them? What if the real rebellion wasn’t in being “not nice,” but in being fully human - soft, sharp, messy, whole?
+        </p>
+        <p>
+          Because let’s face it. The “girlboss” is tired. The corner office is a tired metaphor. And most women aren’t interested in repackaging patriarchal values with better branding. They’re interested in burning the performance script.
+        </p>
+        <p>
+          So no, the point isn’t to stop being nice. It’s to stop performing niceness as a prerequisite for survival. It’s to stop shrinking to fit spaces that were never designed with your voice in mind. It’s to stop asking for permission to exist loudly.
+        </p>
+        <p>
+          Kindness is not weakness. Empathy is not a liability. Grace is not a flaw. But the expectation to always embody those things, without fail, is.
+        </p>
+        <p>
+          So maybe nice girls don’t get the corner office. Maybe they build new offices. Open-plan. Sunlit. With no room for pretending. And definitely no room for glass ceilings.
+        </p>
+      </div>
+    `,
     image: "/alooo.jpeg",
     author: authors.find(a => a.username === "shumaila-khan")!,
-    category: "Society",
+    category: "op-ed",
     date: "2025-07-18",
-    readTime: "7 min read",
+    readTime: "10 min read",
     views: 0,
     likes: 0,
     comments: [],
-    tags: ["Feminism", "Girl's Girl", "Social Media", "Friendship", "Trends", "Patriarchy", "Women", "Culture"],
+    tags: [
+      "Corporate Feminism",
+      "Leadership",
+      "Gender",
+      "Workplace",
+      "Women",
+      "Power",
+      "Society"
+    ],
     featured: false,
     isPublished: true
   }
+  
 ];
 
 // Admin users
