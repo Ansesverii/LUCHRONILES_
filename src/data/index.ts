@@ -7754,6 +7754,86 @@ export const articles: Article[] = [
     tags: ["Indus Valley", "History", "Culture", "Civilization", "India"],
     featured: false,
     isPublished: true
+  },
+  {
+    id: "thakurganj-worker-washed-away-lucknow-civic-collapse",
+    title: "Another Worker Washed Away: Thakurganj Death Is a Quiet Indictment of Lucknow's Civic Collapse",
+    slug: "thakurganj-worker-washed-away-lucknow-civic-collapse",
+    excerpt: "The tragic death of Suresh Lodhi in a waterlogged Lucknow street exposes the deadly cost of civic neglect, bureaucratic ritual, and a system that only wakes up after a body is found.",
+    content: `<div>
+      <p>On the rain-soaked morning of July 12, 40-year-old Suresh Lodhi stepped out from his home in Thakurganj, Lucknow, on his usual route to work. Somewhere near Manju Tandon Dhaal, under waterlogged streets and an unmarked, open drain, he disappeared. His family searched. The police were called. The SDRF came and went. But it wasn’t until 28 hours later that a local cattle owner, not the state, found his lifeless body—nearly a kilometre away, at the edge of the Cattle Colony.</p>
+      <p>By the time his remains were recovered, the system had already started doing what it does best: damage control. A junior engineer was suspended, a contractor blacklisted, FIRs filed like ritual offerings. But the question that remains — and must remain — is: why was a working man’s body the price of waking the municipal machinery up?</p>
+      <h2>“We Had Warned Them”</h2>
+      <p>Suresh’s wife, Renu, had reportedly raised alarms about the open drain days before the incident. The local BJP corporator, CB Singh, was informed in advance. Yet, when the rain came, no barricades were in place. No signage. No one posted at the danger spot. Just a gaping death trap disguised as a road.</p>
+      <p>Locals say they watched helplessly as Suresh was swept away. Some jumped in. Others screamed. The rain drowned out both. The drain had been opened during cleaning work by a contractor hired by the Lucknow Municipal Corporation and was never closed. No warnings, no repairs, no urgency.</p>
+      <h2>FIRs and Face-Saving</h2>
+      <p>Two FIRs have been filed in the aftermath. One, by the executive engineer of the LMC, against the contractor and the firm Anika Enterprises for negligence. The other, more telling, was filed by Suresh’s wife — against the corporator himself, holding him accountable for ignoring warnings that might have saved a life.</p>
+      <p>The government responded swiftly — at least on paper. Chief Minister Yogi Adityanath announced ₹9 lakh compensation for the bereaved family (₹5 lakh from the CM’s Relief Fund, ₹4 lakh from the Disaster Relief Fund), and ordered a probe into the incident. The Junior Engineer was suspended, the Assistant Engineer served notice, and the contractor blacklisted.</p>
+      <p>But no punishment can undo what negligence has already written in blood.</p>
+      <h2>Anger in the Corporation</h2>
+      <p>The corporator’s FIR became the next political flashpoint. On Monday, several municipal councillors staged a protest outside the office of the Municipal Commissioner, chanting slogans and demanding the FIR against their colleague be withdrawn. Some accused the administration of targeting elected representatives while ignoring systemic failure.</p>
+      <p>This is a familiar playbook: a human death becomes a political spectacle, while the structures that allowed it fade back into routine impunity.</p>
+      <h2>The Broader Pattern</h2>
+      <p>This isn’t the first time that Lucknow’s drainage systems have turned fatal. Each monsoon leaves its casualties: drowned children, swept-away elderly, waterborne illness in slums, and workers like Suresh Lodhi. Every time, the administration promises reform. Every time, the reforms begin with a funeral.</p>
+      <p>In this city, governance seems to arrive only after a body does.</p>
+      <p>Suresh Lodhi wasn’t just a victim of rainfall. He was a victim of design — of an urban system that forgets the poor exist until they die. Open drains in working-class areas are not accidents. They are features of a state that no longer plans for dignity, only for crisis management.</p>
+      <p>If a 40-year-old father of three can disappear into a city’s drainage during a routine walk to work, and if that disappearance draws out a response only because his body was eventually found, then the city itself is guilty.</p>
+      <p>Lucknow must ask: how many more deaths before infrastructure is no longer a death sentence for the poor?</p>
+    </div>`,
+    image: "/jakii.jpeg",
+    author: authors.find(a => a.username === "captain-jack-sparrow")!,
+    category: "City",
+    date: "2025-07-18",
+    readTime: "7 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Lucknow", "Civic Issues", "Urban Governance", "Drainage", "Negligence", "Workers", "Death", "Accountability"],
+    featured: false,
+    isPublished: true
+  },
+  {
+    id: "being-a-girls-girl-deconstructing-the-real-meaning",
+    title: "Being a girl's girl: deconstructing The real meaning",
+    slug: "being-a-girls-girl-deconstructing-the-real-meaning",
+    excerpt: "The 'girl's girl' trend on social media claims to celebrate women supporting women, but has it lost its meaning and become a shallow, materialistic version of feminism?",
+    content: `<div>
+      <p>If you are someone who has scrolled on social media, reels, TikTok, you must be familiar with the term “girl's girl”. A form of modern feminism wrapped in the package of flashy trends has somehow lost its real meaning.</p>
+      <h2>An initiative that is not new but rather rebranded</h2>
+      <p>While it may seem to some that it is something that is “Gen-Z”, it is not.<br/>
+      Being a girl's girl means women supporting women. The propaganda that is sold to us usually in Hindi goes like “Aurat hi aurat ki dushman hoti hai,” which translates to woman is the enemy of woman which is far from the truth. From time and time again we have seen great examples of how women love to celebrate each other's achievements, and women will clap the loudest for other women. So being a girl's girl is just the “Instagrammable form” of women supporting women.</p>
+      <h2>What it means to be a girl's girl</h2>
+      <p>A girl’s girl is someone who immediately tells you the store they got their clothes/perfume/jewelry from when complimented. She is also the person who hasn’t gossiped a day in her life. In addition, she immediately tells someone they have something in their teeth or they need to fix their makeup the second it appears. If girls don’t adhere to these standards, they can be labeled as “out to get the other girls” and are no longer considered girl's girl. And now the big question is, is it possible to be a girl's girl? The simplest answer is no. No woman in her life is going to be uplifted or feel supported just because some random girl told them that they need to touch up their makeup.</p>
+      <p>A girl’s girl is also someone who is not “boy crazy”. They prioritize their female friends over those they are romantically interested in. While many girls value their female friendships and put great effort into them, it is unrealistic to expect girls not to equally value the time and work put into building romantic relationships. Just because a girl is having a love life doesn’t mean she is only seeking male validation, even if she might cut down on time with friends to do so.</p>
+      <p>And I think that helping a person is based on someone’s morals, not their gender.<br/>
+      To uplift a woman, you need to fight the patriarchy, not fill the comment section of an Instagram post with bows emoji and “slayyy”.</p>
+      <h2>Maybe we got lost in translation</h2>
+      <p>Like any other trend, this trend about being a girl's girl, supposed to be uplifting and positive, has gotten lost in translation and has lost its real meaning.<br/>
+      Now, even if a girl is demeaning, has an overconsumption addiction, makes Pinterest her whole personality, you have to encourage her with the most trending words going “you go girl” or “ you slay”.<br/>
+      But the question is, why?<br/>
+      Does our morality hold less weight than being a so-called girl's girl? Does someone have to support a girl even if they don't align with your morals and she does not care about what's right from wrong, or is selective about which cause to support only based on what aligns with her aesthetics?</p>
+      <h2>A watered-down version of female friendships</h2>
+      <p>Feminist author Dolly Alderton once wrote, “nearly everything I know about love, I’ve learnt from long-term friendships with women.” And as someone who truly values her female friendships, I am a little hesitant to call myself a “girl's girl” because it might seem harmless, but the trend waters down the female friendships to materialistic things, like if you don't write a 100 comments under your friend's post, you are not a girl's girl. The trend also somehow puts the men on center stage, because according to the reels and TikTok toks circulating, they insinuated that to be a girl's girl, you have to make your female friend look good according to men's standards, help them look good in front of their crush,  which in truth ly shallow.</p>
+      <h2>A shallow form of feminism</h2>
+      <p>If you are aware of the third wave of feminism, you must know that it heavily promotes feminism based on overconsumption and has a materialistic approach; it is shallow.<br/>
+      In one way or another, it early resembles “lipstick feminism.” Lipstick feminism, also known as third-wave feminism, is a type of feminism that embraces traditional feminine displays like makeup and clothing, while still acknowledging patriarchal roots and advocating for women's equality. It challenges the idea that femininity and sexuality are incompatible with feminism, and seeks to reclaim traditionally feminine attributes as empowering. Again, putting men at the centre stage. So it may seem harmless from a distance, but at its core, the trend is supporting patriarchy and targeting the audience to have a materialistic approach to feminism rather than doing something that will make a difference.<br/>
+      And as long as people keep supporting trends such as this, they will keep supporting the patriarchy in one form or another.</p>
+      <blockquote>
+        <p>“It is a tragedy beyond the power of language to convey when what has been imposed on women by force becomes a standard of freedom for women, and all the women say it is so.”<br/>
+        <em>Andrea Dworkin, Intercourse</em></p>
+      </blockquote>
+    </div>`,
+    image: "/alooo.jpeg",
+    author: authors.find(a => a.username === "shumaila-khan")!,
+    category: "Society",
+    date: "2025-07-18",
+    readTime: "7 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: ["Feminism", "Girl's Girl", "Social Media", "Friendship", "Trends", "Patriarchy", "Women", "Culture"],
+    featured: false,
+    isPublished: true
   }
 ];
 
