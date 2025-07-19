@@ -7892,6 +7892,162 @@ export const articles: Article[] = [
     ],
     featured: false,
     isPublished: true
+  },
+  {
+    id: "being-a-girls-girl-deconstructing",
+    title: "Being a girl's girl: deconstructing",
+    slug: "being-a-girls-girl-deconstructing",
+    excerpt: "A critical examination of the modern 'girl's girl' trend and how it has lost its real meaning in the age of social media feminism.",
+    content: `
+      <div class="article-content">
+        <p>
+          If you are someone who has scrolled on social media, reels, TikTok, you must be familiar with the term "girl's girl". A form of modern feminism wrapped in the package of flashy trends has somehow lost its real meaning.
+        </p>
+        <p>
+          <strong>An initiative that is not new but rather rebranded</strong>
+        </p>
+        <p>
+          While it may seem to some that it is something that is "Gen-Z", it is not.
+        </p>
+        <p>
+          Being a girl's girl means women supporting women. The propaganda that is sold to us usually in Hindi goes like "Aurat hi aurat ki dushman hoti hai," which translates to woman is the enemy of woman which is far from the truth. From time and time again we have seen great examples of how women love to celebrate each other's achievements, and women will clap the loudest for other women. So being a girl's girl is just the "Instagrammable form" of women supporting women.
+        </p>
+        <p>
+          <strong>What it means to be a girl's girl</strong>
+        </p>
+        <p>
+          A girl's girl is someone who immediately tells you the store they got their clothes/perfume/jewelry from when complimented. She is also the person who hasn't gossiped a day in her life. In addition, she immediately tells someone they have something in their teeth or they need to fix their makeup the second it appears. If girls don't adhere to these standards, they can be labeled as "out to get the other girls" and are no longer considered girl's girl. And now the big question is, is it possible to be a girl's girl? The simplest answer is no. No woman in her life is going to be uplifted or feel supported just because some random girl told them that they need to touch up their makeup.
+        </p>
+        <p>
+          A girl's girl is also someone who is not "boy crazy". They prioritize their female friends over those they are romantically interested in. While many girls value their female friendships and put great effort into them, it is unrealistic to expect girls not to equally value the time and work put into building romantic relationships. Just because a girl is having a love life doesn't mean she is only seeking male validation, even if she might cut down on time with friends to do so.
+        </p>
+        <p>
+          And I think that helping a person is based on someone's morals, not their gender
+        </p>
+        <p>
+          To uplift a woman, you need to fight the patriarchy, not fill the comment section of an Instagram post with bows emoji and "slayyy".
+        </p>
+        <p>
+          <strong>Maybe we got lost in translation</strong>
+        </p>
+        <p>
+          Like any other trend, this trend about being a girl's girl, supposed to be uplifting and positive, has gotten lost in translation and has lost its real meaning.
+        </p>
+        <p>
+          Now, even if a girl is demeaning, has an overconsumption addiction, makes Pinterest her whole personality, you have to encourage her with the most trending words going "you go girl" or " you slay".
+        </p>
+        <p>
+          But the question is, why?
+        </p>
+        <p>
+          Does our morality hold less weight than being a so-called girl's girl? Does someone have to support a girl even if they don't align with your morals and she does not care about what's right from wrong, or is selective about which cause to support only based on what aligns with her aesthetics?
+        </p>
+        <p>
+          <strong>A watered-down version of female friendships</strong>
+        </p>
+        <p>
+          Feminist author Dolly Alderton once wrote, "nearly everything I know about love, I've learnt from long-term friendships with women." And as someone who truly values her female friendships, I am a little hesitant to call myself a "girl's girl" because it might seem harmless, but the trend waters down the female friendships to materialistic things, like if you don't write a 100 comments under your friend's post, you are not a girl's girl. The trend also somehow puts the men on center stage, because according to the reels and TikTok toks circulating, they insinuated that to be a girl's girl, you have to make your female friend look good according to men's standards, help them look good in front of their crush, which in truth is shallow.
+        </p>
+        <p>
+          <strong>A shallow form of feminism</strong>
+        </p>
+        <p>
+          If you are aware of the third wave of feminism, you must know that it heavily promotes feminism based on overconsumption and has a materialistic approach; it is shallow.
+        </p>
+        <p>
+          In one way or another, it early resembles "lipstick feminism." Lipstick feminism, also known as third-wave feminism, is a type of feminism that embraces traditional feminine displays like makeup and clothing, while still acknowledging patriarchal roots and advocating for women's equality. It challenges the idea that femininity and sexuality are incompatible with feminism, and seeks to reclaim traditionally feminine attributes as empowering. Again, putting men at the centre stage. So it may seem harmless from a distance, but at its core, the trend is supporting patriarchy and targeting the audience to have a materialistic approach to feminism rather than doing something that will make a difference.
+        </p>
+        <p>
+          And as long as people keep supporting trends such as this, they will keep supporting the patriarchy in one form or another.
+        </p>
+        <p>
+          <em>"It is a tragedy beyond the power of language to convey when what has been imposed on women by force becomes a standard of freedom for women, and all the women say it is so."</em>
+        </p>
+        <p>
+          <strong>- Andrea Dworkin, Intercourse</strong>
+        </p>
+      </div>
+    `,
+    image: "/tanu.jpeg",
+    author: authors.find(a => a.username === "tanu-mohan")!,
+    category: "Features",
+    date: "2025-07-19",
+    readTime: "8 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: [
+      "Feminism",
+      "Social Media",
+      "Women",
+      "Trends",
+      "Modern Feminism",
+      "Girl's Girl",
+      "Patriarchy",
+      "Female Friendships"
+    ],
+    featured: false,
+    isPublished: true
+  },
+  {
+    id: "mauryan-empire",
+    title: "MAURYAN EMPIRE",
+    slug: "mauryan-empire",
+    excerpt: "An extraordinary chapter in Indian history begins with a man who defied all social norms — Chandragupta Maurya, the founder of the first Pan-Indian Empire.",
+    content: `
+      <div class="article-content">
+        <p>
+          An extraordinary chapter in Indian history begins with a man who defied all social norms — a man born a Shudra, dismissed by Brahmanical texts as no more than a servant. And yet, he rose to become the founder of the first Pan-Indian Empire — the mighty Mauryan Empire. This legendary figure was none other than Chandragupta Maurya, a warrior-king whose name echoes through the corridors of time.
+        </p>
+        <p>
+          The Mauryan Empire, with its heart in Magadha, stretched across the Indian subcontinent and even touched parts of modern-day Iran. But this was not a journey he took alone. At his side was a mind as brilliant as his own courage — the great Acharya Chanakya, also known as Vishnugupta or Kautilya. Without Chanakya's foresight, intellect, and undying resolve, the Mauryan dream might never have become a reality.
+        </p>
+        <p>
+          Before this golden era, India was under the rule of the Nanda dynasty, led by the arrogant and self-indulgent Dhana Nanda. It was during this time that Chanakya, seeking support against the advancing Alexander the Great, was insulted by the Nanda court. Humiliated but unbroken, he took an oath — to bring down the Nanda Empire.
+        </p>
+        <p>
+          As destiny would have it, on his travels Chanakya met a young Chandragupta. What others saw as a common boy, Chanakya saw as a future king. With that one meeting, history began to change course. Meanwhile, Alexander died in Babylon, removing one of the major threats to Indian sovereignty.
+        </p>
+        <p>
+          Together, Chanakya and Chandragupta began their mission. They started by conquering the outer territories of the Nanda Empire, slowly tightening their grip until they finally laid siege to Pataliputra, the magnificent capital. Dhana Nanda was defeated. While some say he was exiled, others believe he met a harsher end. Regardless, the Nanda rule came to an end.
+        </p>
+        <p>
+          With the foundation laid, Chandragupta expanded westward. In 305 BCE, he launched campaigns to gain control of the Indus Valley and northwestern India, confronting Seleucus I Nicator — one of Alexander's generals. After fierce resistance, Seleucus was defeated and pushed back into Afghanistan's mountainous terrain.
+        </p>
+        <p>
+          The empire continued to grow under Chandragupta's son, Bindusara, who expanded it further south into present-day Karnataka. But it was under Ashoka the Great, Bindusara's son, that the Mauryan Empire reached its cultural and territorial peak. His conquest of Kalinga marked a turning point — a brutal war followed by a transformation into a Buddhist emperor devoted to peace and dharma.
+        </p>
+        <p>
+          In my eyes, Chanakya was the soul behind this empire's rise. A visionary who wasn't just a teacher, but a master of politics, economics, and war strategy — truly a Renaissance man in every sense. His guidance gave Chandragupta the strength and strategy to unite India.
+        </p>
+        <p>
+          Other pillars of the Mauryan success included a centralized administration, efficient provincial division, well-planned trade routes (both land and river), and a powerful standing army. Most importantly, it was led by rulers of exceptional caliber.
+        </p>
+        <p>
+          The Mauryan Empire was not just the first to unify India — it was the beginning of a new chapter in governance, strategy, and Indian identity. A legacy that still inspires.
+        </p>
+      </div>
+    `,
+    image: "/mauryan.jpeg",
+    author: authors.find(a => a.username === "ansesveri-laxmi")!,
+    category: "History",
+    date: "2025-07-19",
+    readTime: "7 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: [
+      "Mauryan Empire",
+      "Indian History",
+      "Chandragupta Maurya",
+      "Chanakya",
+      "Ashoka",
+      "Ancient India",
+      "Empire",
+      "Magadha"
+    ],
+    featured: false,
+    isPublished: true
   }
   
 ];
