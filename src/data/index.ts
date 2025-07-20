@@ -8048,6 +8048,138 @@ export const articles: Article[] = [
     ],
     featured: false,
     isPublished: true
+  },
+  {
+    id: "burnout-before-22-mental-health-crisis-indian-college-students",
+    title: "Burnout Before 22: The Hidden Mental Health Crisis Among Indian College Students",
+    slug: "burnout-before-22-mental-health-crisis-indian-college-students",
+    excerpt: "A deeply personal exploration of the mental health crisis affecting Indian college students, examining the systemic pressures that lead to burnout before graduation.",
+    content: `
+      <div class="article-content">
+        <p>
+          I am a 20-year-old, second-year student, and I am swimming in circles in a ruthless ocean of crashing deadlines, expectations, and self-doubt. My days blur into nights of panic-driven overwork, vacant-eyed lectures, skipped meals, and the gnawing fear that I'm slipping into failure. And I know that I am not the only one. In India, one silent storm is raging. The college students are drowning in pressure before even getting their degrees.
+        </p>
+
+        <h2 class="section-heading">A burnt-out landscape</h2>
+        
+        <p>
+          The current statistics are grim. According to a Wiley survey, 58% of the college students in India are reporting cases of burnout, with 59% of them struggling with anxiety and 43% reporting cases of depression. There is no surprise that mental health issues of young adults are so prevalent these days. According to students, ruthless academic pressure and unhealthy competition are big factors.
+        </p>
+
+        <p>
+          In a world-based survey by Wi-Fi Talents, conducted in June of 2025, there were almost 60 percent of students reported emotional fatigue, and about 45 percent claimed that there is a negative impact on performance.
+        </p>
+
+        <p>
+          Sixty percent of students in Kerala have symptoms of depression, which acts as a reminder that it is not just burnout but is also causing more psychological wear and tear. There is distress that flows upstream: young people (15-24 years) account for 35% of all suicidal deaths in India, and in 2021 alone, 13000 suicidal deaths were reported among students. Every hour, on average, 21 students commit suicide in India.
+        </p>
+
+        <p>
+          The burnout rate in medical students reaches up to 75%.
+        </p>
+
+        <p>
+          Throughout my educational journey, I have witnessed a disheartening transformation in many of my peers. Some, unable to withstand the mounting pressures and lack of support, dropped out along the way, their potential left unrealized. Others, who once brimmed with creativity, curiosity, and innovative ideas, gradually lost their spark, becoming passive consumers of digital content rather than active contributors to meaningful progress. It has been painful to observe these bright minds, once full of promise, become disengaged and disconnected—more like mechanical extensions of their devices than the vibrant, thinking individuals they once were. This experience has not only opened my eyes to the systemic challenges within our educational and technological environments but also deepened my resolve to remain intentional, creative, and fully human in an increasingly automated world.
+        </p>
+
+        <h2 class="section-heading">What is the reason behind it?</h2>
+        
+        <p>
+          Several closely connected reasons are in place:
+        </p>
+
+        <p>
+          <strong>Cut-throat rivalry & inflexible systems:</strong> The Indian system is constructed based on entrance examinations and scores: IITs, NEET, CUET, UPSC, CLAT, the wheel does not stop either. There is no room for relaxing or being creative when it comes to rote learning.
+        </p>
+
+        <p>
+          <strong>The pressure of society and parents:</strong> Family glory, and at the same time, self-worth, depends on academic success, and failure is never an option. One counsellor in Bhopal added: "Students in this country believe so much in grades that they think that their self-worth depends on their grades."
+        </p>
+
+        <p>
+          <strong>Absence of mental Health services:</strong> Not every college provides satisfactory counselling. Support by peers is becoming a protective factor, but there is weak institutional support. It is positive to see programs such as Kerala Jeevani, which have reached 60,000 students since 2019, alas it was just a rare case.
+        </p>
+
+        <p>
+          <strong>Pandemic after‑effects:</strong> The isolation caused by COVID‑19 increased anxiety and depression. 75 percent of the participants reported moderate-to-severe depression, and half of them reported moderate anxiety during the waves. This pressure has not been eliminated; an adaptation of it has become the norm.
+        </p>
+
+        <h2 class="section-heading">The lived reality: the story of me</h2>
+        
+        <p>
+          I am doing lectures, exams, assignments, internships, and watching my mind unravel. I get up exhausted, nervous. I skip dates with friends due to my inability to socialize. I wonder what I am worth when the result is more painful than the task itself. Sleep? Forget it. I get into a downward spiral every time I hear a notification.
+        </p>
+
+        <p>
+          "Such internal suffering is hard to detect and is left unexplained", says the psychiatrist Jairanjan Ram, because we have been cultured to cover up mental illness and label its academic normalcy. That is painful, since it is our norm at present. I read messages from my friends who tell me: I used to enjoy art, but now I feel like even doodling is a burden.
+        </p>
+
+        <p>
+          In this single quote, it's described accurately, burnout is not just being tired, but it is fatigue to the soul.
+        </p>
+
+        <h2 class="section-heading">So, what are the ways to make it better for us?</h2>
+        
+        <p>
+          <strong>Make mental health normal in school.</strong> The discussions on emotions need to take place in classrooms. The Jeevani model of Kerala demonstrates the effectiveness of on-campus counselling and how this can reach thousands of people.
+        </p>
+
+        <p>
+          <strong>Educate teachers to identify pre-burnout.</strong> Up to 25 percent of symptoms can be decreased thanks to simple training.
+        </p>
+
+        <p>
+          <strong>Foster peer support & resilience.</strong> WifiTalents discovered that peer-led mentorship has the potential to reduce burnout by ~40%. An hour of chatting with friends in a so-called rant call was the key to my survival in the last year of my life.
+        </p>
+
+        <p>
+          The rest of the mind—its creativity, emotional intelligence, and critical thinking—should not be neglected or sacrificed at the altar of exam milestones. These aspects should be actively nurtured and encouraged alongside academic achievement, as they are essential to developing well-rounded, capable individuals.
+        </p>
+
+        <h2 class="section-heading">An inside storm call</h2>
+        
+        <p>
+          On behalf of a burned‑out 20-year-old, here scribbled out of the trenches:
+        </p>
+
+        <p>
+          "I want to know that I am more than just my CGPA. That my breakdowns are not that I have failed. Restarting isn't wrong."
+        </p>
+
+        <p>
+          It is not a personal failure to burn out below the age of 22; it is a social failure. We are losing a whole generation, not because they are not talented or hardworking, but because we have designed a system that exploits them as sources of production, not of happiness.
+        </p>
+
+        <p>
+          Unless education is reconsidered and thought about with sensitivity, compassion, and adaptability, these numbers do not remain statistics alone. They are crushed lives, dreams on hold, and creativity dampened.
+        </p>
+
+        <p>
+          It is not a charity to build mental-health-aware campuses and flexible learning models, but justice. No one should feel that their mind is buckling under expectations.
+        </p>
+      </div>
+    `,
+    image: "/burnout.jpeg",
+    author: authors.find(a => a.username === "hetal-kothari")!,
+    category: "features",
+    date: "2025-07-20",
+    readTime: "12 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: [
+      "Mental Health",
+      "Student Life",
+      "Burnout",
+      "Education",
+      "College",
+      "India",
+      "Depression",
+      "Anxiety",
+      "Academic Pressure"
+    ],
+    featured: true,
+    isPublished: true
   }
   
 ];
