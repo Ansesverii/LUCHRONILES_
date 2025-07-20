@@ -8180,6 +8180,107 @@ export const articles: Article[] = [
     ],
     featured: true,
     isPublished: true
+  },
+  ,
+  {
+    id: "laal-lipstick-by-boroline",
+    title: "Laal Lipstick by Boroline",
+    slug: "laal-lipstick-by-boroline",
+    excerpt: "A critical look at the viral fictional ad for 'Laal Lipstick' by Boroline, and what it says about empowerment, public health, and the dangers of romanticizing poverty.",
+    content: `
+      <div class="article-content">
+        <p>
+          A lipstick with iron infused in it, marketed as an initiative for women in backward areas to fulfill their iron deficiencies in places because there are no dispensaries or health care facilities.
+        </p>
+        <p>
+          Although Boroline has not launched a “Laal Lipstick” that provides for iron deficiency in women. This is a fictional advertisement circulating online for a “Laal Lipstick” by Boroline. But it’s not a real product.
+        </p>
+        <h2 class="section-heading">Some points to discuss if it were a product:</h2>
+        <ul>
+          <li>Okay, but why not address the root of the problem?</li>
+          <li>Why not fight for what these women are truly going through?</li>
+          <li>Why not try to change the conditions they’re in?</li>
+        </ul>
+        <p>
+          By providing that lipstick, you’re not solving the core issue. You’re packaging survival as empowerment. You’re fabricating a version of their freedom.
+        </p>
+        <p>
+          It implies they belong in those underserved areas and should be content with the bare minimum, like a lipstick that doubles as a supplement.
+        </p>
+        <p>
+          It's like saying, "Oh, you’ve got a problem with your cage?” “Let me just put you in a golden one.”<br/>
+          Really? Does that solve the problem?
+        </p>
+        <ul>
+          <li>Why not open hospitals or dispensaries to treat iron deficiencies at the source?</li>
+          <li>Why not fight for their right to proper healthcare instead?</li>
+          <li>Is this really empowering, or is it just cheaper and easier than building a clinic?</li>
+          <li>Why not challenge the conditions that force women to rely on a lipstick to get basic nutrition?</li>
+          <li>Why not aim to change the mindset, not just of the male-dominated community, but also of the women, many of whom have internalized oppression?</li>
+          <li>And why are we romanticizing women being “grateful” for the bare minimum?</li>
+        </ul>
+        <p>
+          Lipstick with iron might help for now.<br/>
+          But if this is where we stop, we’ve failed them.<br/>
+          Empowerment shouldn’t be a marketing tool.<br/>
+          It should be a movement.
+        </p>
+        <p>
+          Systemic change is what women really need, not token gestures.<br/>
+          Iron deficiencies are a public health issue, not a marketing opportunity. Romanticizing poverty or struggle is dangerous because it lowers the bar for what’s considered “empowerment”.
+        </p>
+        <p>
+          Empowerment should be transformational, not transactional.<br/>
+          As in: “Here’s a lipstick. Now you’re independent.”
+        </p>
+        <p>
+          I do understand: if Laal Lipstick is a “band-aid solution” for now, it might be a necessary one in the absence of structural support.<br/>
+          If there are no hospitals nearby, if clinics are miles away, if women aren’t allowed to travel without permission, then embedding iron in something culturally acceptable and already used (lipstick) is a clever short-term intervention.<br/>
+          <strong>BUT. BUT.</strong>
+        </p>
+        <p>
+          Should we stop at lipstick?<br/>
+          <strong>Absolutely not.</strong>
+        </p>
+        <h2 class="section-heading">Further steps to take would be:</h2>
+        <ul>
+          <li>Policy reform to improve rural healthcare</li>
+          <li>Community-led education for both men and women on gender equality</li>
+          <li>Infrastructure: schools, clinics, transport, and economic opportunity</li>
+          <li>Representation: letting women from these areas speak for themselves</li>
+        </ul>
+        <p>
+          See, the right question isn’t: “Is this a good idea or a bad one?”<br/>
+          It’s: “Is this the first step, or is this where they stop?”
+        </p>
+        <p>
+          If the company stops at lipstick and uses it for self-promotion. Yes, call it out.<br/>
+          But if it’s part of a larger commitment to health equity, education, and dignity, it could be a stepping stone.<br/>
+          So let’s demand both: short-term ingenuity and long-term justice.<br/>
+          That’s what feminism and humanitarianism both require.
+        </p>
+      </div>
+    `,
+    image: "/laallipstick.jpeg",
+    author: { name: "Shivanshi" },
+    category: "features",
+    date: "2025-07-20",
+    readTime: "7 min read",
+    views: 0,
+    likes: 0,
+    comments: [],
+    tags: [
+      "Feminism",
+      "Empowerment",
+      "Public Health",
+      "Iron Deficiency",
+      "Women",
+      "Rural India",
+      "Marketing",
+      "Poverty"
+    ],
+    featured: false,
+    isPublished: true
   }
   
 ];
