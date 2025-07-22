@@ -8412,6 +8412,361 @@ export const articles: Article[] = [
   ],
   featured: true,
   isPublished: true
+},
+{
+  id: "the-right-feminists",
+  title: "The \"Right\" Feminists",
+  slug: "the-right-feminists",
+  excerpt: "Can feminism, a movement built on liberation, accommodate women who freely choose authoritarianism? An exploration of right-wing women and the contradictions within modern feminism.",
+  content: `
+    <div class="article-content">
+      <p>
+        In the spring of 1983, Andrea Dworkin released a book that unsettled even her staunchest admirers. Right-Wing Women wasn't a call to arms but an x-ray, a forensic, unflinching study of a kind of political allegiance that confounds both liberals and radicals: the woman who kisses the hand that chains her, who curtsies before the system that cages her, and calls it home.
+      </p>
+
+      <p>
+        Which brings us to a new kind of rhetorical headache: what do we do with women who want to redefine feminism as something that doesn't challenge power, but gently complements it? Or worse, protects it?
+      </p>
+
+      <p>
+        This is the riddle we continue to skirt around: can a woman campaign against the very apparatus that gave her voice, and still be called a feminist? Or, to borrow the Indian idiom, does wearing bangles disqualify one from breaking them?
+      </p>
+
+      <p>
+        At first glance, it seems like a contradiction. How can women, especially in a country where patriarchy runs so deep, so forcefully advocate for ideologies that seek to restrict their rights?
+      </p>
+
+      <p>
+        But as Dworkin made clear in her study, these women are not confused. They are calculating. "Right-wing women do not want to be free," she wrote. "They want to be safe."
+      </p>
+
+      <p>
+        It's not hypocrisy. It's a curated contradiction. And contradictions, in the modern age, are among the most marketable ideologies of all.
+      </p>
+
+      <p>
+        To choose your chains is not to shatter them. The global feminist movement, already cracked and commercialized, now has to reckon with its most uncomfortable chapter yet: the women who don't want in.
+      </p>
+
+      <p>
+        As Dworkin might whisper to us now from the margins of our liberal fatigue: just because a woman is holding the sword doesn't mean it isn't still war.
+      </p>
+
+      <p>
+        And here lies the conundrum that ought to rattle us: if a woman rises by pulling the ladder up behind her, if she cloaks majoritarianism in the language of dignity, is she still part of the movement?
+      </p>
+
+      <h2 class="section-heading">Fascism in a Feminist Shawl</h2>
+
+      <p>
+        <em>Can feminism, a movement built on liberation, accommodate women who freely choose authoritarianism?</em>
+      </p>
+
+      <p>
+        Feminism, if one cares to look at the historical record, was not born from nostalgia or nationalist sermons. It began and evolved as a distinctly leftist project, nurtured in the salons of Enlightenment Europe, sharpened by anti-colonial revolutions, and radicalized in labor unions and civil rights marches. It spoke the language of justice, equity, and liberation — not for a single tribe, but across class, race, and geography.
+      </p>
+
+      <p>
+        And yet, unlike its right-wing antagonists, feminism never demanded homogeneity as the price of belonging. It has made space, sometimes painfully, for contradiction, dissent, and complexity. Precisely the things modern conservatism cannot bear.
+      </p>
+
+      <p>
+        The Left, as ever, stammers. It does not know whether to mock her, mourn her, or invite her to a panel discussion. Meanwhile, the Right holds her up as proof that their ideology empowers women better, because it doesn't force them to shave their heads or read Judith Butler.
+      </p>
+
+      <h2 class="section-heading">The Fortress of Femininity</h2>
+
+      <p>
+        In India, feminism has always been a difficult conversation. It must whisper in multiple languages, speak across caste lines, balance gods and constitution, and account for both sari pleats and scars. But the Right offers women something the Left often cannot: simplicity. A neat, nostalgic return to "real womanhood," rooted in dharma, duty, and domestication.
+      </p>
+
+      <p>
+        Savarna women at the helm of right-wing discourse often frame themselves as protectors of Indian womanhood, without ever naming which women they speak for. The ideal Indian woman is always upper-caste, heteronormative, domesticated, and fertile.
+      </p>
+
+      <p>
+        Smriti Irani, a former soap opera queen turned Union Minister, has capitalized on this framework. Her brand of nationalist womanhood fuses tradition with visibility, a woman who speaks Hindi on English stages, quotes scriptures, and fiercely guards cultural purity. Her feminism is about dignity, not defiance.
+      </p>
+
+      <p>
+        But it is a selective dignity. It flows upward, never outward.
+      </p>
+
+      <p>
+        For others, like the women foot soldiers of the Durga Vahini (the women's wing of the VHP), this role is even more militarized. They train in lathi drills, chant slogans against "love jihad," and are taught that their wombs are political territory. Their enemy is not patriarchy. It is the Muslim man, the Western influence, the woman who refuses to marry or cook or reproduce.
+      </p>
+
+      <p>
+        In the name of protecting women, they become instruments of the state.
+      </p>
+
+      <p>
+        The Right has long dismissed feminism as a Western contagion; alien to Indian values, corrosive to family structures, and fundamentally incompatible with the duties of a "good" woman. Meanwhile, Dalit feminists like Ruth Manorama and Gogu Shyamala have long pointed out that, for most women, tradition has never been safe. It has been a landscape of caste-marked labor, sanctioned violence, and inherited silence. Feminism, for them, is not a Western imposition. It is self-defense. It is a way to stay alive in a country where tradition often kills.
+      </p>
+
+      <h2 class="section-heading">From Paris to Prayagraj</h2>
+
+      <p>
+        India is not an anomaly. Across the globe, the far Right is increasingly female-faced. In France, Marine Le Pen gives xenophobia a motherly veneer. In Italy, Giorgia Meloni wraps fascism in family values. In the U.S., Marjorie Taylor Greene and Lauren Boebert weaponize femininity, lipstick, pearls, and all.
+      </p>
+
+      <p>
+        What unites them is not shared ideology but shared strategy. They do not wish to dismantle patriarchy. They wish to inherit it.
+      </p>
+
+      <p>
+        As Dworkin warned, power in the hands of the disempowered can be used to validate the system that crushed them.
+      </p>
+
+      <p>
+        And so we arrive at the sleight of hand. If feminism is diluted to simply mean "a woman in charge," then even a woman who erodes civil liberties, strips reproductive rights, or fuels communal hatred can wear the label.
+      </p>
+
+      <h2 class="section-heading">Can a Far-Right Woman Be a Feminist?</h2>
+
+      <p>
+        If feminism means individual empowerment, then perhaps yes. She climbs. She commands. She is seen.
+      </p>
+
+      <p>
+        But if feminism means collective liberation, the dismantling of hierarchies based on gender, caste, religion, sexuality, then no. Because her rise is built on the backs of others. Her empowerment depends on exclusion. Her politics demands obedience, not freedom.
+      </p>
+
+      <p>
+        Representation is not revolution. Visibility is not vindication. And not every woman in power is a victory.
+      </p>
+
+      <p>
+        The real question is not whether right-wing women can be feminists.
+      </p>
+
+      <p>
+        It is whether feminism can survive if it forgets whom it was meant to fight for.
+      </p>
+
+      <p>
+        Today's right-wing feminism is individualistic, Instagrammable, culturally curated. It tells the story of the woman who succeeded within the system, and now insists that her success is proof that the system worked.
+      </p>
+
+      <p>
+        She says, <em>It's my choice.</em> And she's right.
+      </p>
+
+      <p>
+        That's the hardest part. It is her choice.
+      </p>
+
+      <p>
+        Feminism does not, and should not, demand uniformity. But the question is: what happens when your "choice" just so happens to align perfectly with centuries of enforced obedience?
+      </p>
+
+      <p>
+        Is it feminism if it only serves women who conform?
+      </p>
+
+      <p>
+        Is it feminism if it empowers women by disempowering others — Muslim women, queer people, Dalits, dissenters?
+      </p>
+
+      <p>
+        Is it feminism if it's only palatable when it's palatable to patriarchy?
+      </p>
+
+      <p>
+        These are uncomfortable questions. But any feminism that avoids discomfort isn't feminism. It's branding.
+      </p>
+
+      <p>
+        So what do we say to the woman who insists she is a feminist because she knows her place and demands respect for it?
+      </p>
+
+      <p>
+        We nod. We listen. And then we ask:
+      </p>
+
+      <p>
+        What about women who don't feel safe in that tradition?
+      </p>
+
+      <p>
+        What about women who don't want to be anyone's goddess, daughter, or deity?
+      </p>
+
+      <p>
+        What about women who choose freedom over protection?
+      </p>
+
+      <p>
+        And what about the women who do not fit into the majoritarian mold; who are queer, Muslim, Dalit, childless, defiant, inconvenient?
+      </p>
+
+      <p>
+        That's where feminism begins. In the refusal. In the voice that doesn't echo yours.
+      </p>
+
+      <p>
+        And that's exactly where saffron feminism, smiling and sanitized, refuses to go.
+      </p>
+    </div>
+  `,
+  image: "/iamjustsotired.jpeg",
+  author: authors.find(a => a.username === "shumaila-khan")!,
+  category: "features",
+  date: "2025-07-22",
+  readTime: "10 min read",
+  views: 0,
+  likes: 0,
+  comments: [],
+  tags: [
+    "Feminism",
+    "Right-wing Politics",
+    "Women",
+    "India",
+    "Politics",
+    "Gender",
+    "Authoritarianism",
+    "Social Commentary"
+  ],
+  featured: true,
+  isPublished: true
+},
+{
+  id: "behind-the-filters-when-influencers-prey-system-looks-away",
+  title: "Behind The Filters: When Influencers Prey & the System Looks Away",
+  slug: "behind-the-filters-when-influencers-prey-system-looks-away",
+  excerpt: "Social media is reeling after Instagram Influencer Prateek Kaushik was allegedly caught texting a 15-year-old girl using sexually suggestive language. This is not a scandal. This is a systematic failure.",
+  content: `
+    <div class="article-content">
+      <p>
+        Social media is reeling after Instagram Influencer Prateek Kaushik, a.k.a. Patrick Posts Here, was allegedly caught texting a 15-year-old girl using sexually suggestive language and asking for explicit photos via Instagram's disappearing feature. Screenshots of his DMs were leaked by meme page 'Lafda Memer', triggering a massive backlash.
+      </p>
+
+      <p>
+        Disturbingly, this isn't fiction. This is a mirror held up to our digital world, where fame, filters and followers too often mask the predatory intent. As shocking as the messages were, what's more disturbing is how normalized this behavior has become. One of Prateek's friends was caught saying, "Everyone does this nowadays", as if predatory messaging of minors is a part of being online.
+      </p>
+
+      <p>
+        <strong>This is not a Scandal. This is a systematic failure.</strong>
+      </p>
+
+      <h2 class="section-heading">The Illusion Of "Insta-Fame": Why We Must Stop Idolizing</h2>
+
+      <p>
+        Social media today is flooded with "relatable" influencers who seem kind, funny, and safe. It has glamorized a generation of Influencers. With aesthetically pleasing feeds, funny reels, and motivational captions, many creators appear "Safe", "funny", and even "woke". But the truth is <strong>Followers don't equal Values</strong>.
+      </p>
+
+      <p>
+        From their aesthetic reels to their self-care captions, these digital creators sell trust. And sadly, many of us buy it. As young girls, we are often told to "be careful online", but no one warns us about how charisma and power can be used to manipulate. Behind every blue check or trending meme, there can be a very different person lurking in the DMs.
+      </p>
+
+      <p>
+        Prateek, followed by thousands for his humorous content and "good guy" image, allegedly used that persona to manipulate a minor. And he's not the first; he's a part of a disturbing pattern.
+      </p>
+
+      <h2 class="section-heading">Social Media Safety: A Gaping Hole in The System</h2>
+
+      <p>
+        According to the Internet and Mobile Association of India (IAMAI) 2024 report, India has over 100 million internet users under the age of 18. Despite this, there are shockingly few protections for Minors on platforms like Instagram, which allows strangers to message teens unless settings are manually changed, a feature most young users are unaware of.
+      </p>
+
+      <p>
+        Even more troubling is the "vanish mode" (disappearing messages) feature that Prateek reportedly used, allowing predators to groom teens without a trace.
+      </p>
+
+      <p>
+        What's deeply disturbing is not just the message content, but the entitlement behind them. This isn't flirting. This is grooming. And the law is clear, <strong>Sexual messages to a minor are abuse, not "flattery"</strong>. We must end the normalization of this behavior.
+      </p>
+
+      <p>
+        Too often society focuses on what girls wore, posted, or said. But the problem is not her body. The problem is his mindset. A clear example of this is yet another social media influencer, Anah Shaikh a.k.a. Hadha Ana, who is a modest Fashion Influencer, owner of a Modest-wear brand. She recently faced Online Harassment, Mental assault, Stalking and Threats by a stranger online. This stranger even reached her doorsteps claiming he loves her and that she should marry him. Now contrary to what society usually says about a girl, Anah shows "No Skin", "No hair".
+      </p>
+
+      <p>
+        The Interpol Report of 2023, 1 in 3 teens in Asia reported receiving unwanted sexual content online. This is terrifying. Why are 13 or 15-year-old girls unprotected in a space where 30-year-old men can message them freely? Why haven't our policies evolved? Why aren't these platforms obligated to protect children first, profit second?
+      </p>
+
+      <p>
+        <strong>Stop asking why she didn't report him. Start asking why he felt so safe doing it.</strong>
+      </p>
+
+      <h2 class="section-heading">What Needs to Change- Immediately</h2>
+
+      <p>
+        If Influencers can gain Millions of Followers, surely platforms can implement safety systems just as fast. Instagram's "disappearing chat" feature, meant for privacy, is now being used for predation. Why aren't these tools monitored better?
+      </p>
+
+      <p>
+        Here's what we need now:
+      </p>
+
+      <ul>
+        <li>Mandatory age-verification on both ends using secure tech.</li>
+        <li>Direct messages by non-followers blocking for minors by default.</li>
+        <li>Keyword-sensitive moderation for minors (flagging phrases like "send pic" or "don't tell anyone").</li>
+        <li>Quick, Real-time report tools that don't shame or blame the victim.</li>
+        <li>AI surveillance for vanish-mode content flagged by underage users.</li>
+      </ul>
+
+      <p>
+        And most importantly, digital safety laws enforced by Indian authorities, not left to tech companies alone.
+      </p>
+
+      <p>
+        <strong>If AI can detect copyright music in stories, it should also detect grooming in messages.</strong>
+      </p>
+
+      <h2 class="section-heading">From Filters to Failures: The Hidden Predator Problem</h2>
+
+      <p>
+        This incident reminds us not to romanticize internet fame. It should shatter the myth that clout equals character. Just because someone posts motivational quotes or funny memes doesn't mean they are safe to follow or idolize.
+      </p>
+
+      <p>
+        Fame when unchecked, can become a shield for toxic entitlement. Prateek wasn't some underground creep; he was a beloved creator, known for comedy, aesthetics, and empathy online. But good lighting doesn't mean a good character. And "Feminist ally" captions don't mean actual safety for girls. The Influencers who say "protect women" shouldn't be the ones girls need protection from.
+      </p>
+
+      <p>
+        We have all seen how society forgives men for their "mistakes", but silences girls who speak out, not unknown to anyone is yet another Influencer Controversy of Apoorva Mukhijia a.k.a. The Rebel Kid. When women raise voices, we're told that we are overreacting, attention-seeking, or lying.
+      </p>
+
+      <p>
+        But where is this society when a minor is asked to send nudes by a grown man? Silence. Excuses. Shrugs.
+      </p>
+
+      <p>
+        We need rules that protect minors, not reputations. We need platforms that care about safety, not just reach. We need Influencers who use their power to uplift, not exploit.
+      </p>
+
+      <p>
+        Because behind every profile picture is a real person. And some of them aren't who they pretend to be.
+      </p>
+    </div>
+  `,
+  image: "/nhonhi.jpeg",
+  author: {
+    id: "afeefa-khan",
+    name: "Afeefa Khan (Femcore)",
+    username: "afeefa-khan",
+    image: "/placeholder.svg"
+  },
+  category: "features",
+  date: "2025-07-22",
+  readTime: "8 min read",
+  views: 0,
+  likes: 0,
+  comments: [],
+  tags: [
+    "Social Media",
+    "Digital Safety",
+    "Influencers",
+    "Online Predators",
+    "Child Safety",
+    "Instagram",
+    "Tech Policy",
+    "Women's Safety"
+  ],
+  featured: true,
+  isPublished: true
 }
   
 ];
