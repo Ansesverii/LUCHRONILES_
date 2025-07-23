@@ -8767,7 +8767,319 @@ export const articles: Article[] = [
   ],
   featured: true,
   isPublished: true
+},
+{
+  id: "what-if-im-the-villain-in-someone-elses-story",
+  title: "What If I'm the Villain in Someone Else's Story - and I'll Never Know?",
+  slug: "what-if-im-the-villain-in-someone-elses-story",
+  excerpt: "I like to think I'm a good person, maybe? But sometimes, late at night or in the quiet moments after a falling-out, a question creeps in and doesn't let go. What if I'm the villain in someone else's story – and I'll never know it?",
+  content: `
+    <div class="article-content">
+      <p>
+        I like to think I'm a good person, maybe?
+      </p>
+      
+      <p>
+        I am concerned about individuals. I attempt to be compassionate, I overanalyze what I say, rewinding conversations in my mind only to ensure that I didn't unintentionally offend someone. I apologize when I believe I went too far. I attempt to do the right thing – or at least, refrain from doing the wrong thing.
+      </p>
+      
+      <p>
+        But sometimes, late at night or in the quiet moments after a falling-out, a question creeps in and doesn't let go.
+      </p>
+      
+      <p>
+        What if I'm the villain in someone else's story – and I'll never know it?
+      </p>
+      
+      <p>
+        Not the obvious kind of villain. Not the loud, dramatic, cruel one.
+      </p>
+      
+      <p>
+        I mean the quiet kind. The accidental one. The one who spoke out of turn at the worst possible moment. The one who didn't come when they needed them most. The one who left too early, or lingered too late.
+      </p>
+      
+      <p>
+        What if, accidentally, I was the reason that people stopped trusting others?
+      </p>
+      
+      <p>
+        What if I was that friend who let them down at the very time they needed help?
+      </p>
+      
+      <p>
+        What if someone had cried because of what I said and I just continued talking, oblivious?
+      </p>
+      
+      <p>
+        The worst part is realizing that I'll likely never know. People don't always inform you when you hurt them – particularly if the hurt is silent, or if they've already made up their minds to let you go.
+      </p>
+      
+      <p>
+        We all feel like we are the main characters in our movie, and obviously we are but what if we are villains of someone else's. We justify our imperfections by good intentions, personal circumstances, or the fact that we "did our best." But we don't get to determine how others feel about us. We don't get to determine how we exist in another person's memory.
+      </p>
+      
+      <p>
+        That's the hard reality - your actions can be part of someone's pain, even if you were acting according to what was right to you in that moment. And they may bear that pain without ever bringing it up to you, without closure, without a last talk to make things right. You'll go on and live your life, and in their story, you'll be the person who disappointed them.
+      </p>
+      
+      <p>
+        I used to believe that if you had a good intention, then your effect could not be so terrible. Life does not operate that way, though. Sometimes well-meaning people hurt others terribly. Nice people can still cause harm. It does not make you a monster, but it means you do not get to presume innocence because you did not intend to hurt.
+      </p>
+      
+      <p>
+        That awareness is difficult to live with. Because we all want to be liked, or at least to be remembered fondly. We want to think that we brought something positive to the lives we lived in. But we don't get to author our parts in other humans' lives. We simply appear in them – and they make us remember them.
+      </p>
+      
+      <p>
+        So what do we do about that?
+      </p>
+      
+      <p>
+        How do you survive knowing that, in another person's telling of it, you were the one who made it all worse?
+      </p>
+      
+      <p>
+        For real, I don't know if there's an ideal response. But possibly it begins with this: rather than fixating on being a "good person," we begin to concentrate on being a responsible one. One who listens. Who thinks. Who takes responsibility for their effect, even when it doesn't fit their intention.
+      </p>
+      
+      <p>
+        It requires being able to say, "I did not mean to harm you, but I recognize that I did."
+      </p>
+      
+      <p>
+        It requires realizing that sometimes you won't get to explain yourself.
+      </p>
+      
+      <p>
+        It requires being better next time - not because you hope to be forgiven, but because you care enough not to do the same damage again.
+      </p>
+      
+      <p>
+        The truth is, we're all going to get it wrong sometimes. We're going to fail people. We're going to misread situations, act selfishly, or let our own pain speak louder than our compassion. That doesn't make us villains - it just makes us human.
+      </p>
+      
+      <p>
+        And maybe that's the point.
+      </p>
+      
+      <p>
+        Not to never be anyone's regret, because that is not possible - but to own it when we are. To remain self-aware, even when it hurts. To care enough to continue to learn.
+      </p>
+      
+      <p>
+        Because when all is said and done, none of us get to author the last draft of how we're remembered.
+      </p>
+      
+      <p>
+        We simply do what we can with the story that we're in - and hope we leave behind more kindness than harm ✨.
+      </p>
+    </div>
+  `,
+  image: "/odhwj.jpeg",
+  author: {
+    id: "9",
+    name: "Aliya Imam",
+    username: "aliya-imam",
+    image: "/Aliya.jpeg"
+  },
+  category: "personal",
+  date: "2025-07-23",
+  readTime: "5 min read",
+  views: 0,
+  likes: 0,
+  comments: [],
+  tags: [
+    "Self-Reflection",
+    "Psychology",
+    "Relationships",
+    "Personal Growth",
+    "Empathy",
+    "Human Nature",
+    "Mental Health",
+    "Philosophy",
+    "Life Lessons"
+  ],
+  featured: true,
+  isPublished: true
+},
+{
+  id: "gen-z-the-saviours-or-are-they",
+  title: "Gen-Z: The Saviours... or Are They?",
+  slug: "gen-z-the-saviours-or-are-they",
+  excerpt: "If you were born between 1997 and 2012, congratulations – you belong to Generation Z. While our generation may seem flashy, some kind of trend-hopping hooligans, it's also true that we, as a generation, are doomed.",
+  content: `
+    <div class="article-content">
+      <p>
+        If you were born between 1997 and 2012, congratulations – you belong to Generation Z, or Gen-Z for short. Same as me. "Welcome to the clerb, fam".
+      </p>
+      
+      <p>
+        While our generation may seem flashy, some kind of trend-hopping hooligans, it's also true that we, as a generation, are doomed.
+      </p>
+      
+      <p>
+        Girl, we are doomed.
+      </p>
+      
+      <p>
+        A hard pill to swallow, but the truth remains: our generation is facing a crisis. I can't speak for billions around the globe, but as a fellow Indian Gen-Z, I think I can share where I believe we are headed in our own country.
+      </p>
+      
+      <p>
+        With capitalism at its peak, wars looming over our heads, rising inflation, recession, and an education system that still follows the Victorian-era curriculum while somehow the job market expects us to be proficient in every skill, have lightning-fast typing speed, be pros at using MS Office, and even know how to print double-sided on a manual printer?? Come on, give me a break. Life has become so difficult that one has to take loans just to graduate.
+      </p>
+      
+      <p>
+        And yet, despite all this, we are accused of <em>faking it</em>. We talk "too much," we're "too sensitive." "Humare time pe toh hume chappal se maara jaata tha, ab inko zara si daant do toh hungama khada kar dete hain." Not cool, Rajesh (no offense to anyone named Rajesh), but glorifying abuse is not something to be proud of.
+      </p>
+      
+      <h2 class="section-heading">The Eye-Opener Incident</h2>
+      
+      <p>
+        On my friend's birthday, she treated us at McDonald's – a company known globally for funding the genocide in Palestine. And I knew it. I was aware. I don't post stories about it on Instagram, but I do care. Since I rarely eat at such places, I used to think I was doing something noble that I was somehow better. But at that moment, I didn't refuse.
+      </p>
+      
+      <p>
+        I thought if I said no, I wouldn't fit in. They'd say, "You're too much."
+      </p>
+      
+      <p>
+        So I ate the dry burger, and guilt gnawed at me the entire time.
+      </p>
+      
+      <p>
+        I've never really talked about it, but it left me thinking that a lot of us in Gen-Z are like this. We talk about causes, but only when it's comfortable for us.
+      </p>
+      
+      <p>
+        We act like saviours on social media, breaking generational trauma, posting aesthetic quotes – but in the comments under cruel memes, we write: "Aapke papa aapko belt se nahi maarte?"
+      </p>
+      
+      <p>
+        That's not activism. That's hypocrisy.
+      </p>
+      
+      <p>
+        And I'm not saying everyone's like this, there are people doing good.
+      </p>
+      
+      <p>
+        But then again, the previous generations also had a mix of people.
+      </p>
+      
+      <p>
+        So let's be honest – we're not Batman.
+      </p>
+      
+      <h2 class="section-heading">Regressed Mentality at an All-Time High</h2>
+      
+      <p>
+        The tech-savvy world we now live in? Built by Millennials. Most modern inventions? Again, from their time.
+      </p>
+      
+      <p>
+        Gen-Z? We're just users.
+      </p>
+      
+      <p>
+        And the billionaire capitalists know exactly how to exploit a generation hooked on escapism.
+      </p>
+      
+      <p>
+        Our phones are glued to our hands. Doomscrolling is normal.
+      </p>
+      
+      <p>
+        "Oh, you saw that meme? That reel? Hilarious!"
+      </p>
+      
+      <p>
+        But it's not funny when you have to pick up your pen and write something in an exam.
+      </p>
+      
+      <p>
+        We are the foolish generation.
+      </p>
+      
+      <p>
+        We post about fighting capitalism, sustainable development, and saving the Earth, but it's all limited to our Instagram stories.
+      </p>
+      
+      <h2 class="section-heading">Men Still Hold Regressive Views And Women Are Becoming More Materialistic</h2>
+      
+      <p>
+        Scroll through a man's FYP – and you'll see girls dancing, alpha-male memes, Andrew Tate fanboying, sex jokes, aggression over cricket. It's nothing new.
+      </p>
+      
+      <p>
+        Men have always objectified women.
+      </p>
+      
+      <p>
+        Meanwhile, women and even young girls are burdened with new insecurities through social media.
+      </p>
+      
+      <p>
+        Once we begin to accept one flaw, a new one is invented. Would you believe "shaving your nape" is a thing now? Diabolical, right? Little girls are sold the dream of becoming "that girl."
+      </p>
+      
+      <p>
+        Instead of dreaming big, they're busy chasing glass skin and aesthetic morning routines – objectifying themselves in the process. Then came the micro-trends: bows, Stanley cups, cherry heels, makeup hauls, morning sheds, closet resets, cheap, unethical clothes, and now, Labubu dolls. Once these trends fade, they end up in landfills. As a generation, we are obsessed with overconsumption.
+      </p>
+      
+      <p>
+        We all want to look like we just stepped off Pinterest. But we lack critical thinking.
+      </p>
+      
+      <p>
+        We run to ChatGPT for the smallest of questions. And to be honest, the outdated education system is partly to blame. Nobody wants to learn, everyone just wants a grade.
+      </p>
+      
+      <h2 class="section-heading">So, Are We Saviours? Or Do We Need Saving?</h2>
+      
+      <p>
+        All of these points lead to one harsh truth –
+      </p>
+      
+      <p>
+        We are not the saviours.
+      </p>
+      
+      <p>
+        We may be the ones who need saving.
+      </p>
+    </div>
+  `,
+  image: "/tanuuu.jpeg",
+  author: {
+    id: "tanu-mohan",
+    name: "Tanu Mohan", 
+    username: "tanu-mohan",
+    image: "/placeholder.svg"
+  },
+  category: "features",
+  date: "2025-07-23",
+  readTime: "6 min read",
+  views: 0,
+  likes: 0,
+  comments: [],
+  tags: [
+    "Generation Z",
+    "Gen-Z",
+    "Youth",
+    "Social Media",
+    "Activism",
+    "India",
+    "Social Commentary",
+    "Digital Culture",
+    "Millennials"
+  ],
+  featured: true,
+  isPublished: true
 }
+
+
   
 ];
 
@@ -8778,6 +9090,8 @@ export const adminUsers: AdminUser[] = [
     password: "admin123",
     role: "admin",
   },
+ 
+  
 ];
 
 // Helper function to filter articles by category
