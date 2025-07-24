@@ -9077,8 +9077,286 @@ export const articles: Article[] = [
   ],
   featured: true,
   isPublished: true
-}
+},
+{
+  id: "indias-silent-war-the-bulldozers-beneath-democracy",
+  title: "India's Silent War: The Bulldozers Beneath Democracy",
+  slug: "indias-silent-war-the-bulldozers-beneath-democracy",
+  excerpt: "In the quiet margins of India's cities, a war is being waged — not with guns or slogans, but with bulldozers, eviction notices, and the silent machinery of the state. Over the past decade, lakhs of urban poor have been displaced in the name of development.",
+  content: `
+    <div class="article-content">
+      <p>
+        In the quiet margins of India's cities, a war is being waged — not with guns or slogans, but with bulldozers, eviction notices, and the silent machinery of the state. This war has no formal declaration. It produces no martyrs, only rubble. It does not announce itself on the evening news — yet it tears through homes, families, and histories with the precision of an airstrike.
+      </p>
 
+      <p>
+        Over the past decade, lakhs of urban poor across India have been displaced in the name of development, beautification, flood management, and national pride. In Delhi, the Yamuna floodplains were cleared overnight, homes razed while children still slept inside. In Mumbai, the slum clusters near airport zones vanished to make way for "smart infrastructure." In Bhopal, Hyderabad, Bhubaneswar, Indore — city after city has deployed the bulldozer not as a construction tool, but as a weapon of erasure. According to reports, over 75 lakh people have been displaced in urban India in the last two decades — not for war or disaster, but for the economy, for spectacle, for ease of capital.
+      </p>
+
+      <p>
+        But why do these demolitions happen? And why now?
+      </p>
+
+      <p>
+        The official answers vary: environmental protection, illegal encroachment, unauthorised construction, floodplain violations. The real answers lie elsewhere. These demolitions clear land — not just of people, but of resistance. They prepare terrain for real estate giants, for private-public partnerships, for sanitized, surveilled cityscapes made palatable to investors and tourists. In other words, they serve the new urban utopia: vertical, gated, exclusive. A city without the poor — or at least without the visible signs of their survival.
+      </p>
+
+      <p>
+        Behind every flattened home is a human story. A mother who built her house brick by brick over twenty years. A teenage girl who walked three kilometers to a government school now replaced by a high-rise. A disabled father who watched from his wheelchair as his shelter was brought down. These are not the faceless masses. They are citizens, voters, workers — living on the margins of legality only because legality itself was never written for them.
+      </p>
+
+      <p>
+        And if displacement is the first wound, rehabilitation is the second betrayal.
+      </p>
+
+      <p>
+        In Lucknow's Basant Kunj Yojana — the relocation site for residents displaced from Akbarnagar — families were handed 27-square-meter flats with broken plumbing, crumbling walls, no nearby hospitals or schools, and a ₹4,000 monthly installment. For the urban poor, who once built their homes from savings and scrap, this is not housing. It is debt. It is humiliation. It is the illusion of care masking the permanence of abandonment.
+      </p>
+
+      <p>
+        What ties all these stories together is the arbitrariness of the process. Notices are issued without due warning. Surveys are vague. Court orders are misrepresented or ignored. Municipal bodies blame irrigation departments; state officers shrug responsibility to the courts. And when confronted, the bureaucracy becomes either defensive or vanishes altogether — as if accountability were optional, and the poor an inconvenience.
+      </p>
+
+      <p>
+        This isn't just administrative failure. It is structural violence. A form of governance that speaks the language of legality but practices dispossession. A democracy that claims to lift the poor but first wipes their addresses off the map.
+      </p>
+
+      <p>
+        It is a war because its consequences are not metaphorical. Families are broken. Livelihoods are lost. Children drop out of school. Women face increased violence in new, isolated resettlement zones. Mental health deteriorates. And in some cases, the displacement is followed by death — slow, quiet, unrecorded.
+      </p>
+
+      <p>
+        But like every war, there is resistance.
+      </p>
+
+      <p>
+        In Lucknow, the Basant Kunj Sangharsh Samiti — born from the Communist Party of India (Marxist–Leninist) Liberation — is demanding implementation of court-mandated rehabilitation. In Delhi, grassroots movements are organizing legal literacy camps and community defense networks. In Mumbai, survivors of demolition are fighting cases that question the very legality of eviction drives. These are not charity cases — they are constitutional claims.
+      </p>
+
+      <p>
+        India's silent war cannot be answered with silence.
+      </p>
+
+      <p>
+        What is at stake is not just housing, but the idea of the city, the future of citizenship, and the very meaning of democracy. If a nation treats its poorest with such violence, then whose nation is it?
+      </p>
+
+      <p>
+        This war won't make headlines. It won't trend. But in the cracks of every city wall, beneath the dust of every bulldozed home, the question remains:
+      </p>
+
+      <p>
+        Who gets to belong? Who gets to stay? Who decides?
+      </p>
+    </div>
+  `,
+  image: "/indiasari.jpeg",
+  author: {
+    id: "captain-jack-sparrow",
+    name: "Captain Jack Sparrow",
+    username: "captain-jack-sparrow",
+    image: "/placeholder.svg"
+  },
+  category: "features",
+  date: "2025-07-24",
+  readTime: "8 min read",
+  views: 0,
+  likes: 0,
+  comments: [],
+  tags: [
+    "India",
+    "Urban Development",
+    "Displacement",
+    "Democracy",
+    "Human Rights",
+    "Social Justice",
+    "Politics",
+    "Urban Planning",
+    "Poverty"
+  ],
+  featured: true,
+  isPublished: true
+},
+{
+  id: "reservation-in-india-still-a-social-need-or-just-a-scam-for-the-general-category",
+  title: "Reservation in India: Still a Social Need or Just a Scam for the General Category?",
+  slug: "reservation-in-india-still-a-social-need-or-just-a-scam-for-the-general-category",
+  excerpt: "Ask any group of college students over chai, and you'll hear it whispered: 'Arre bhai, reservation waalon ka toh life set hai.' For the General category youth, reservation feels like betrayal. But is it a scam? Or is the system just more complicated than campus gossip makes it seem?",
+  content: `
+    <div class="article-content">
+      <h2 class="section-heading">The Campus Talk Nobody Wants to Have Openly</h2>
+      
+      <p>
+        Ask any group of college students over chai, and you'll hear it whispered:
+      </p>
+      
+      <ul>
+        <li><em>"Arre bhai, reservation waalon ka toh life set hai."</em></li>
+        <li><em>"Merit ka toh ab system hi khatam ho gaya."</em></li>
+        <li><em>"We study, they get the seats. Simple."</em></li>
+      </ul>
+      
+      <p>
+        For the <strong>General category youth</strong>, especially in competitive exams, <strong>reservation feels like betrayal</strong>.
+      </p>
+      
+      <p>
+        But is it a scam? Or is the system just more complicated than campus gossip makes it seem?
+      </p>
+      
+      <h2 class="section-heading">The Reality Check: Reservation is Not a Free Pass</h2>
+      
+      <p>
+        Let's get one thing straight: <strong>Reservation gives representation, not shortcuts.</strong>
+      </p>
+      
+      <p>
+        Here's the actual data:
+      </p>
+      
+      <ul>
+        <li>In <strong>IITs</strong>, reserved category students still have to clear <strong>JEE Advanced</strong>, one of the world's toughest exams. The cutoffs may differ, but the struggle doesn't disappear.</li>
+        <li>In <strong>the UPSC 2023 results</strong>, more than 35% of the top 100 ranks <strong>were held by candidates from reserved categories</strong>, and many of these candidates also scored above the General cutoffs.</li>
+        <li>According to <strong>NSSO & AISES surveys</strong>, <strong>70% of Dalits and Adivasis in India are still first-generation learners</strong>. Reservation isn't a bonus for them—it's their only ladder.</li>
+      </ul>
+      
+      <h2 class="section-heading">Why Reservation Still Exists (And Why It's Not a Scam)</h2>
+      
+      <p>
+        India has two parallel systems running:
+      </p>
+      
+      <div style="display: flex; justify-content: space-between; margin: 20px 0;">
+        <div style="width: 45%;">
+          <h3><strong>Upper Castes (General)</strong></h3>
+          <ol>
+            <li>Generational schooling</li>
+            <li>Coaching culture</li>
+            <li>Fluent in English</li>
+            <li>Social networks</li>
+          </ol>
+        </div>
+        <div style="width: 45%;">
+          <h3><strong>SC/ST/OBC Communities</strong></h3>
+          <ol>
+            <li>First-generation learners</li>
+            <li>Lack of access</li>
+            <li>Language barriers</li>
+            <li>Social isolation</li>
+          </ol>
+        </div>
+      </div>
+      
+      <p>
+        When you say, <em>"We worked hard, they got a seat because of a reservation,"</em> You're <strong>ignoring the invisible race they've been running before even entering the exam hall</strong>.
+      </p>
+      
+      <h2 class="section-heading">But Isn't It Time-Limited?</h2>
+      
+      <p>
+        This is the classic question:
+      </p>
+      
+      <p>
+        <em>"Bhai, reservation toh independence ke baad ke liye tha. 75 years ho gaye—ab kyun?"</em>
+      </p>
+      
+      <p>
+        Here's the truth:
+      </p>
+      
+      <ul>
+        <li><strong>Caste discrimination didn't vanish in 1947.</strong></li>
+        <li>According to <strong>Indian Human Development Survey (IHDS 2022)</strong>, over <strong>47% of upper-caste respondents said they'd object to a Dalit marrying into their family</strong>.</li>
+        <li><strong>Untouchability is still practiced</strong> in over <strong>20% of Indian villages</strong> (IndiaSpend report, 2023).</li>
+        <li>In private sector jobs, <strong>upper castes occupy 85% of high-paying positions</strong>, while SC/ST communities remain underrepresented.</li>
+      </ul>
+      
+      <p>
+        So no, the job isn't done yet.
+      </p>
+      
+      <h2 class="section-heading">The EWS Dilemma: A New Layer</h2>
+      
+      <p>
+        In 2019, India introduced <strong>10% reservation for Economically Weaker Sections (EWS)</strong> from the General category.
+      </p>
+      
+      <p>
+        This was supposed to <strong>balance the scale</strong>. But the reality? Many feel it has only <strong>further confused the system</strong>.
+      </p>
+      
+      <ul>
+        <li>EWS cutoffs are sometimes higher than those for SC/ST but lower than those for General—creating a <strong>new social friction</strong>.</li>
+        <li>Poor General category students still feel <strong>left out</strong>, but the solution isn't scrapping SC/ST quotas—it's <strong>fixing the economy and access to education for all</strong>.</li>
+      </ul>
+      
+      <h2 class="section-heading">What Needs to Change (For Everyone)</h2>
+      
+      <p>
+        This isn't about one side winning and the other losing.
+      </p>
+      
+      <p>
+        <strong>Here's what we need:</strong>
+      </p>
+      
+      <ul>
+        <li><strong>Better primary education</strong>—so fewer people need reservations later.</li>
+        <li><strong>Caste bias sensitization</strong>, especially in urban spaces where people think it's "over."</li>
+        <li><strong>Data-driven reservation reviews</strong> every 10 years—not for abolition, but for correction and inclusion.</li>
+        <li><strong>Private sector diversity mandates</strong>, because reservations is still mostly in government spaces.</li>
+        <li><strong>Empathy on both sides</strong>—because the frustration is real, but so is the systemic gap.</li>
+      </ul>
+      
+      <h2 class="section-heading">A Final Reflection</h2>
+      
+      <p>
+        Reservation isn't a scam. It's a <strong>social crutch for a system that's still limping from centuries of discrimination</strong>.
+      </p>
+      
+      <p>
+        Yes, the <strong>General category youth feels stuck in a broken system</strong>—but the enemy isn't reservation. It's <strong>characterized by poor governance, a lack of job opportunities, and inadequate education for all communities</strong>.
+      </p>
+      
+      <p>
+        So next time someone says, <em>"Bhai, reservation waale toh life set hai,"</em> ask them to look deeper.
+      </p>
+      
+      <p>
+        In India, <strong>the real scam is still inequality</strong>. Reservation is just a complicated attempt to fix it.
+      </p>
+    </div>
+  `,
+  image: "/muditart.jpeg",
+  author: {
+    id: "mudit-mao",
+    name: "Mudit Mao",
+    username: "mudit-mao",
+    image: "/placeholder.svg"
+  },
+  category: "features",
+  date: "2025-07-24",
+  readTime: "7 min read",
+  views: 0,
+  likes: 0,
+  comments: [],
+  tags: [
+    "Reservation",
+    "India",
+    "Caste System",
+    "Education",
+    "Social Justice",
+    "UPSC",
+    "IIT",
+    "General Category",
+    "SC/ST",
+    "OBC",
+    "EWS"
+  ],
+  featured: true,
+  isPublished: true
+}
 
   
 ];
