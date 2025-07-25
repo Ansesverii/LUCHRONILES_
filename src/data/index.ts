@@ -9356,6 +9356,211 @@ export const articles: Article[] = [
   ],
   featured: true,
   isPublished: true
+},
+{
+  id: "is-god-for-women-the-hypocrisy-of-religion",
+  title: "Is God for women? : The hypocrisy of religion",
+  slug: "is-god-for-women-the-hypocrisy-of-religion",
+  excerpt: "Being a woman who was born into a country that preaches 'Where women are honoured, divinity blossoms there', but struggles with verses that seem to contradict this ideal.",
+  content: `
+    <div class="article-content">
+      <p>
+        Countless religions are being practiced in this world. And I cannot speak about every single one of them.
+      </p>
+      
+      <p>
+        But being a woman who was born into a country that preaches 
+        <em>"Yatr naryastu pujyante ramante tatr devta"</em><br/>
+        Translation: "Where women are honoured, divinity blossoms there".
+      </p>
+      
+      <p>
+        But then we also have:
+      </p>
+      
+      <p>
+        <em>"ἀλλὰ αὐθεντεῖν γυναικὸς οὐκ ἐπιτρέπω, οὐδὲ αὐθεντεῖν ἀνδρός, ἀλλὰ ἡσυχίαν εἶναι."</em> 1 Timothy 2:12 original verse in Greek<br/>
+        Translation: "But I do not permit a woman to teach or to exercise authority over a man, but to be in silence."<br/>
+        A verse in the Bible that is often skipped in the New testaments.
+      </p>
+      
+      <p>
+        <em>"मां हि पार्थ व्यपाश्रित्य येऽपि स्युः पाप-योनयः ।<br/>
+        स्त्रियो वैश्यास् तथा शूद्रास् तेऽपि यान्ति परां गतिम् ॥३२ ॥"</em>
+      </p>
+      
+      <p>
+        Translation by Eknath Eswaran reads as "All those who take refuge in me, whatever their birth, race, sex, or caste, will attain the supreme goal." But it didn't really sit right with me because the original verse had words <em>"स्त्रियो, वैश्यास्, शुद्रास्,"</em> and any person who even has general knowledge of Hindi can tell that these major words were skipped in this version. So the more accurate translation given by Srila Prabhupada is:
+      </p>
+      
+      <p>
+        "O son of Parthä, those who take shelter in Me, though they are of lower birth — women, vaisyas [merchants] and sudras [workers]—can attain the supreme destination."
+      </p>
+      
+      <p>
+        Although just from these verses, one cannot say that the entire religion is misogynistic, patriarchal, or in general regressed. There are thousands of examples of women being the central figure, where they are portrayed as the "Shakti".
+      </p>
+      
+      <p>
+        But such verses make you wonder if the religion is serving only men, because I have never seen a woman being protected by religion. But still, people blindly follow this same religion.
+      </p>
+      
+      <p>
+        Why does a religion which has countless female deities who can strike down a demon in one blow, can create an entire planet are portrayed serving the male ones? And this very fact insinuates that no matter what your position is as a woman, no matter how much you have achieved, a man will always be superior not because he has more abilities but just because he is a man.
+      </p>
+
+      <h2 class="section-heading">An outlook on where women stand</h2>
+      
+      <p>
+        Men have been writing these holy scriptures and are responsible for the deep-rooted patriarchy in the religion.
+      </p>
+      
+      <p>
+        And before you come for me, I know even you will have a difficult time mentioning one female writer of any scripture, be it of any religion. Men have always found women to be a nuisance; for them, we are objects.
+      </p>
+      
+      <p>
+        And religion has always been used as a tool to suppress women in general.
+      </p>
+      
+      <p>
+        I cannot believe in such a religion where I have to be a mother, a sister or a daughter to be recognised, I refuse to be a believer if I have no right to sit in a ritual if a man is not present, I refuse to follow the words of the God which does not allow me entry into its sacred place, I will never accept religion that deems my menstrual blood dirty.
+      </p>
+
+      <h2 class="section-heading">Separate the art from the artist, but what about religion?</h2>
+      
+      <p>
+        How many times has a man been denied entry into the temple? How many times does a man have to be a husband, a brother, a son to be recognised? How many times has a man been untouchable just because he was going through something natural? A process that is a part of his body? How many times had the heavens ordered a man to dress modestly? How many times has a man been given the responsibility of culture? I don't know about you, but I know the answers to these questions, and I can guarantee you that there have been zero instances of such a thing happening.
+      </p>
+      
+      <p>
+        While I cannot say that the entire religion and each and every holy scripture or text or writing is entirely misogynistic, I can surely say that the way it is practiced is patriarchal, and one cannot choose and pick while following a religion. If you are a devotee of any of the Gods, then you must treat his teachings like a line drawn in stone, and this very fact led Draupadi to marry 5 men; she had no say in it because it was already decided for her through religion.
+      </p>
+      
+      <p>
+        Mother Mary had to get pregnant while being a virgin; she had no say in it because it was decided by religion.
+      </p>
+      
+      <p>
+        We are a country that preaches a very famous line from the age-old Hindu scripture: Manusmriti.
+      </p>
+      
+      <p>
+        But the question is, why do we have to treat women as exceptions and not the rule? Why do we have to treat them as someone divine? Why can they not be the norm? Why does the responsibility of protecting our culture, religion, and chastity always fall on women?
+      </p>
+      
+      <p>
+        For me, religion has never been my ally because it has always had a long list of rules and regulations for me.
+      </p>
+      
+      <p>
+        Even Sita, a goddess, had to prove her chastity to her husband by walking through the fire, but even that was not enough even though she gave up on society and religion and returned to the earth. Then what do you, as a normal woman, expect from this very religion, a religion where you have to cover your hair, a religion where you are not allowed to sit in the very place of god without a man, no religion will ever be in favour of women ever as long as it is serving patriarchy.
+      </p>
+    </div>
+  `,
+  image: "/goodwomen.jpeg",
+  author: {
+    id: "tanu-mohan",
+    name: "Tanu Mohan", 
+    username: "tanu-mohan",
+    image: "/placeholder.svg"
+  },
+  category: "features",
+  date: "2025-07-25",
+  readTime: "8 min read",
+  views: 0,
+  likes: 0,
+  comments: [],
+  tags: [
+    "Religion",
+    "Feminism",
+    "Women's Rights",
+    "Patriarchy",
+    "Hinduism",
+    "Christianity",
+    "Gender Equality",
+    "Social Commentary",
+    "Spirituality",
+    "India"
+  ],
+  featured: true,
+  isPublished: true
+},
+{
+  id: "israel-space-triumph-leading-force-middle-east",
+  title: "Israel Space Triumph: A Leading Force in the Middle East",
+  slug: "israel-space-triumph-leading-force-middle-east",
+  excerpt: "The beauty of the Cold War wasn't the threat of nuclear annihilation; it was the riveting spectacle of countries flexing their scientific muscles with rockets and satellites. Today, Middle Eastern space programs preserve this legacy.",
+  content: `
+    <div class="article-content">
+      <p>
+        The beauty of the Cold War wasn't the threat of nuclear annihilation; no, it was the riveting spectacle of countries flexing their scientific muscles with rockets and satellites. Back then, who needed diplomacy when success was measured by who could fling a metal capsule the farthest—with humans inside?
+      </p>
+      
+      <p>
+        Middle East countries' space programs are preserving this legacy of the space race by embodying the spirit of competition, technological advancement, and global influence. Much like the USA-Soviet space race era, these programs demonstrate a commitment to pushing the boundaries of scientific achievements, fostering innovation, and showcasing national capabilities on the world stage.
+      </p>
+      
+      <p>
+        The space endeavours in the Middle East carry forward the legacy of the space race, emphasizing the enduring importance of space exploration in shaping geopolitical narratives and technological progress with an unprecedented appetite for reconnaissance satellites to survey, monitor and map the constant military developments made by adversaries.
+      </p>
+
+      <h2 class="section-heading">The Levant's Space Heritage</h2>
+      
+      <p>
+        The Levant region, encompassing Israel and Lebanon, boasts a rich history of space exploration, with both countries maintaining active space programs. The Lebanese Rocket Society under Manoug Manougian gave the country its first launch vehicle, the Cedar rocket, making Lebanon the first Arab country to do so. However, the Lebanese space program was brought to a halt due to economic turmoil and demographic transition which ultimately dragged the country into a civil war.
+      </p>
+
+      <h2 class="section-heading">Israel's Strategic Space Program</h2>
+      
+      <p>
+        Meanwhile, Israel's space program was an offshoot of the ballistic missile program and was more concentrated on reconnaissance and space-based intelligence rather than exploring the mysteries of the universe. With the launch of the Ofeq 1 satellite into lower Earth orbit by the indigenously developed launch vehicle Shavit 2, this helped the country address its security concerns, making Israel one of the few countries in the world and the first in the Middle East to achieve this capability.
+      </p>
+
+      <h2 class="section-heading">Iran's Entry into the Space Race</h2>
+      
+      <p>
+        Iran followed as the second country in the Middle East to achieve launch capability by putting the low Earth satellite Omid into orbit through its own launch vehicle named Safir-1. However, Iran's space program is marked by various military ambitions for regional dominance, which has raised concerns among Western countries because of the warhead-delivering capabilities of launch vehicles that may find potential use in the future against its hostile states, including Israel.
+      </p>
+
+      <h2 class="section-heading">Israel's Leading Edge</h2>
+      
+      <p>
+        For the time being, Israel and Iran are only the two states in the Middle East to possess launch capability. But high budget allocation, international collaborations in space, and first-mover advantage are the factors giving Israel an edge over Iran, making it a leading force in Middle Eastern space exploration.
+      </p>
+      
+      <p>
+        Israel's space program represents more than just technological achievement—it embodies the country's commitment to maintaining strategic superiority through innovation and scientific advancement. As the region continues to evolve, Israel's space capabilities will likely remain a crucial component of its national security strategy and its position as a technological leader in the Middle East.
+      </p>
+    </div>
+  `,
+  image: "/abhi.jpeg.jpeg",
+  author: {
+    id: "abhijeet-kumar-chaubey",
+    name: "Abhijeet Kumar Chaubey",
+    username: "abhijeet-kumar-chaubey",
+    image: "/placeholder.svg"
+  },
+  category: "features",
+  date: "2025-07-25",
+  readTime: "6 min read",
+  views: 0,
+  likes: 0,
+  comments: [],
+  tags: [
+    "Israel",
+    "Space Program",
+    "Middle East",
+    "Iran",
+    "Space Race",
+    "Satellites",
+    "Geopolitics",
+    "Technology",
+    "Defense",
+    "Space Exploration"
+  ],
+  featured: true,
+  isPublished: true
 }
 
   
