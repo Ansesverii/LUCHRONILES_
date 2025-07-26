@@ -9561,6 +9561,251 @@ export const articles: Article[] = [
   ],
   featured: true,
   isPublished: true
+},
+{
+  id: "the-philosophy-of-main-character-energy",
+  title: "The Philosophy of Main Character Energy",
+  slug: "the-philosophy-of-main-character-energy",
+  excerpt: "Call it delusion, call it digital-age dharma, but everyone's living like the book deal is already in motion. Main character energy has emerged as both a meme and a mantra: the idea that one should live as though the camera is following, the soundtrack is swelling, and the universe is conspiring to give your arc depth.",
+  content: `
+    <div class="article-content">
+      <p>
+        Call it delusion, call it digital-age dharma, but everyone's living like the book deal is already in motion. "Main character energy" has emerged as both a meme and a mantra: the idea that one should live as though the camera is following, the soundtrack is swelling, and the universe is conspiring to give your arc depth. What began as a cheeky internet phrase quickly crystallized into a cultural attitude. Romanticize your walk to class. Treat the heartbreak as a plot twist. Take the trip. Buy the coat. You are not a background extra in someone else's story. You are the protagonist. It asks: What if you didn't wait for permission to matter?
+      </p>
+
+      <p>
+        And maybe, just maybe, it's the most democratic form of storytelling we've ever had.
+      </p>
+
+      <p>
+        But beneath its glittery veneer lies something more revealing: our collective yearning to assign structure and significance to lives that often feel fragmented, uncertain, and algorithmically flattened. In a world where attention is currency, "main character energy" promises agency, or at least the illusion of it. It turns solitude into mystique, self-doubt into subplot, and discomfort into foreshadowing. It doesn't fix the mess; it scripts it.
+      </p>
+
+      <p>
+        The philosophy, when stripped of its hashtags, touches something deeply existential: the human desire for narrative. We don't just want to live; we want to mean. What is the self if not a story? And what happens when no one else is writing it for you? Philosopher Alasdair MacIntyre argued that the unity of a human life can only be understood as a narrative quest, a throughline that connects our choices, failures, and ideals. In that sense, main character energy becomes a tool of coherence, a way to survive modernity's chaos with some stylistic consistency.
+      </p>
+
+      <p>
+        It's also a subtle form of rebellion, especially for those who've long been told to fade into the margins. For queer teens, for girls in classrooms where they were cast as best friends but never leads, for the neurodivergent, for the overlooked, reclaiming main character energy isn't just indulgent; it's corrective. It says: I don't need to wait for the world to validate my significance. I'll write myself in.
+      </p>
+
+      <p>
+        But the idea is not without its pitfalls. In its more aestheticized form, it risks becoming narcissism in soft focus, a constant performance of importance rather than the lived experience of it. When every moment must be cinematic, the line between embodiment and self-surveillance blurs. Are we present, or are we curating presence? Is main character energy an ethos or just another filter?
+      </p>
+
+      <p>
+        We do this because meaning doesn't arrive on its own anymore. It must be constructed, like a thesis, or a reel, or an outfit. Jean-Paul Sartre in Being and Nothingness famously wrote that existence precedes essence, that we are not born with meaning; we make it. In that way, the main character mindset becomes less of a vanity project and more of an existential task. You perform the self to become the self.
+      </p>
+
+      <p>
+        But with performance comes distortion.
+      </p>
+
+      <p>
+        What happens when every moment must be a moment? When you're curating grief, dressing it up for the camera, soundtracking your sadness with Radiohead like it's a music video? Are you feeling your feelings, or are you directing them?
+      </p>
+
+      <p>
+        Philosopher Martin Heidegger warned against falling into the "they-self," the version of ourselves that behaves as others expect, losing authenticity in the process. When main character energy becomes a brand rather than a belief, we risk mistaking visibility for being seen.
+      </p>
+
+      <p>
+        What rescues it, perhaps, is intention. The healthiest version of main character energy isn't loud. Sometimes the real main character energy is staying offline. It doesn't need to monopolize attention or wear a beret in a bookstore. It's quiet. It's the decision to live deliberately. To notice. To endure with style. To let boredom linger until it tells you something. To live as if your choices matter, even when no one claps, especially when no one claps.
+      </p>
+
+      <p>
+        The philosopher Martha Nussbaum once wrote that emotions are not just feelings but "judgments about what we value." Main character energy, at its core, is about valuing your own existence enough to give it shape. To see yourself not as a sequence of random moments, but as someone worthy of narrative cohesion. It asks: what would your story be, if you treated yourself as worth following?
+      </p>
+
+      <p>
+        Main character energy asks us to prioritize the self. But it also begs the question: What kind of main character are you?
+      </p>
+
+      <p>
+        Are you generous with your screen time? Do you let others monologue? Or do you dominate every scene, mistaking volume for gravitas?
+      </p>
+
+      <p>
+        David Foster Wallace once reminded us that the most important kind of freedom is attention, the ability to see, to care, to look past our own reflection. Maybe the real main character knows how to shift the lens when it's someone else's turn to speak.
+      </p>
+
+      <p>
+        You're going to get it wrong. You'll love people who don't stay. You'll say the wrong thing at the worst time. You'll overthink texts, fall too fast, hold on too long. And sometimes, you'll hurt the people who showed up when no one else did.
+      </p>
+
+      <p>
+        But none of this makes you less of a main character.
+      </p>
+
+      <p>
+        It makes you human. And that's the only character worth writing for.
+      </p>
+
+      <p>
+        You're not a three hour movie with perfect lighting and tidy closure. You're a lifetime in motion —edits, pauses, rewrites, and all. Sometimes crying in the bathroom like a tragic heroine. Sometimes walking home in the rain like you're in a French film. Sometimes saying no, not because it's dramatic, but because your growth demands it.
+      </p>
+
+      <p>
+        So don't shrink just because your story isn't always pretty. Don't disqualify yourself because you feel too much, too often, too loudly. You are not weak for being soft. You are not less powerful because you're still in progress.
+      </p>
+
+      <p>
+        Being the main character isn't about looking put together. It's about staying in the story, even when it's uncomfortable, even when no one's watching.
+      </p>
+
+      <p>
+        Romanticize the outfit if you must, but more importantly, interrogate the plot. Walk out of half-written scenes. Let go of people who want background roles but front-row privileges. And revise - bravely, messily, in red ink if needed.
+      </p>
+
+      <p>
+        Because the best stories aren't desperate to be watched.
+      </p>
+
+      <p>
+        They're simply too compelling to ignore.
+      </p>
+
+      <p>
+        And yours, with its heartbreak and hesitation, detours and defiance, is one of them.
+      </p>
+    </div>
+  `,
+  image: "/maiin.jpeg",
+  author: authors.find(a => a.username === "shumaila-khan")!,
+  category: "features",
+  date: "2025-07-26",
+  readTime: "8 min read",
+  views: 0,
+  likes: 0,
+  comments: [],
+  tags: [
+    "Philosophy",
+    "Main Character Energy",
+    "Self-Identity",
+    "Digital Culture",
+    "Existentialism",
+    "Social Media",
+    "Personal Growth",
+    "Modern Life",
+    "Authenticity",
+    "Storytelling"
+  ],
+  featured: true,
+  isPublished: true
+},
+{
+  id: "the-cost-of-silence-political-apathy-in-indias-democracy",
+  title: "The Cost of Silence: Political Apathy in India's Democracy",
+  slug: "the-cost-of-silence-political-apathy-in-indias-democracy",
+  excerpt: "We do not say that a man who takes no interest in politics is a man who minds his own business; we say that he has no business here at all. This quote from Pericles shows how the Athenians viewed democracy, which is totally different from how we view it now.",
+  content: `
+    <div class="article-content">
+      <p>
+        <em>"We do not say that a man who takes no interest in politics is a man who minds his own business; we say that he has no business here at all."</em> - Pericles
+      </p>
+
+      <p>
+        This quote from Pericles shows how the Athenians viewed democracy, which is totally different from how we view it now. For Pericles, if you didn't want to be involved with Athenian democracy you didn't deserve to be a citizen or participate in society. While Athenian citizens were required by law to vote in today's time we tend to have a more passive approach to democracy. Even with our representational systems, we often treat political disengagement as a virtue and praise those who avoid it.
+      </p>
+
+      <h2 class="section-heading">Humans: Political by Nature</h2>
+
+      <p>
+        <em>"Hence it is evident that the state is a creation of nature, and that man is by nature a political animal, the outcast, may be compared to a bird which flies alone."</em> -Aristotle
+      </p>
+
+      <p>
+        Aristotle argued that humans are inherently political beings. To exist without political engagement is not independence, it's disconnection from society. Yet, in today's India, political apathy is not only common, it is celebrated in certain social circles. But this disengagement is not a luxury available to most Indians.
+      </p>
+
+      <h2 class="section-heading">Political Apathy: Not a Choice for the Majority</h2>
+
+      <p>
+        Wikipedia defines political apathy as a lack of interest in political affairs, which includes indifference to elections, public debates, and governance. Voter apathy is a direct result of this disinterest, especially in countries where voting is the right of the citizens, not their duty.
+      </p>
+
+      <p>
+        The wealthy and privileged can afford to ignore politics. They have the means to buffer themselves against bad governance. But for the common Indian, politics is not just ideology it's survival. From education to their daily wages, politics play a huge role in their lives.
+      </p>
+
+      <h2 class="section-heading">"India is a Democracy, But Its People Are Not"</h2>
+
+      <p>
+        This chilling observation echoes in a 1953 BBC interview with Dr. B.R. Ambedkar:
+      </p>
+
+      <p>
+        <strong>BBC:</strong> Dr. Ambedkar, do you think democracy is going to work in India?<br/>
+        <strong>Dr. Ambedkar:</strong> No. I would say in a formal sense, if you want.<br/>
+        <strong>BBC:</strong> What do you mean?<br/>
+        <strong>Dr. Ambedkar:</strong> [Inaudible]… Some periodic elections, Prime Minister and so on.<br/>
+        <strong>BBC:</strong> Are elections very important?<br/>
+        <strong>Dr. Ambedkar:</strong> No, elections are important only if they produce really good men.<br/>
+        <strong>BBC:</strong> But elections give a chance to change the government.<br/>
+        <strong>Dr. Ambedkar:</strong> Yes, but who even thinks voting means changing the government? Nobody does. People lack political consciousness. Our system doesn't let voters choose the candidate. Congress says vote for Bullock—nobody asks who represents the Bullock. Voters don't care. They just press the button with the party symbol, not knowing if it's a donkey or an educated person behind it.
+      </p>
+
+      <p>
+        <em>(Transcription credit-Pardeep atri)</em>
+      </p>
+
+      <p>
+        Dr. Ambedkar's words, though spoken over 70 years ago, remain painfully relevant. Most voters, urban or rural, still vote for symbols not people.
+      </p>
+
+      <p>
+        With only 40% of the Indian population having completed secondary education, politics remains an inaccessible topic for many. But even among the educated, political awareness is often shallow. You may believe that it's only villagers who vote blindly, but ask yourself do you know your local leader? Probably not. Urban voters, too, are swayed by catchy slogans like "Kamal ka button dabayein, Bhajpa ko vijayi banayein." That's not voting; that's branding.
+      </p>
+
+      <h2 class="section-heading">A Silent Majority Is a Dangerous Majority</h2>
+
+      <p>
+        With a democracy in decline, your silence becomes poison. If you are of voting age, and if you are educated, then being politically aware is not a choice, it is a responsibility.
+      </p>
+
+      <p>
+        This doesn't mean shouting in heated debates or posting fiery stories online. It means being informed, being thoughtful, and being intentional with your vote. Even if no party appeals to you, there's often one that must be voted against. Choosing silence helps only those already in power and often, those misusing it.
+      </p>
+
+      <p>
+        The country's wealth is concentrated in the hands of the elite 1%. For them, political outcomes matter very little; their privileges are immune to policy. But for the daily wage earner, the local vendor, the young student in a village school, leadership is everything. A good local leader can transform their conditions, build roads, improve healthcare, and ensure access to clean water. Their vote is their power. But without education, it is a power they struggle to wield.
+      </p>
+
+      <p>
+        Use your vote to bring the change that you want to see. No, your vote is not charity. It is your voice, your demand for change, whether in the education system or your local area's broken drainage. You may not think your one vote matters, but if thousands think the same, democracy loses its pulse.
+      </p>
+
+      <p>
+        The aesthetic of apathy is fashionable, but it is also fatal. We cannot afford to treat democracy like a theatre we watch from a distance. We must act because democracy doesn't function unless its citizens do.
+      </p>
+
+      <p>
+        Your one vote can bring the change. Don't silence it.
+      </p>
+    </div>
+  `,
+  image: "/idkwhat.jpeg",
+  author: authors.find(a => a.username === "tanu-mohan")!,
+  category: "Op-ed",
+  date: "2025-07-26",
+  readTime: "7 min read",
+  views: 0,
+  likes: 0,
+  comments: [],
+  tags: [
+    "Democracy",
+    "Political Apathy",
+    "India",
+    "Voting",
+    "B.R. Ambedkar",
+    "Politics",
+    "Civic Responsibility",
+    "Governance",
+    "Elections",
+    "Political Awareness"
+  ],
+  featured: true,
+  isPublished: true
 }
 
   
